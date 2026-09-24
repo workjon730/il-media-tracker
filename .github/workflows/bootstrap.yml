@@ -14,6 +14,8 @@ jobs:
       - run: python bootstrap.py
       - name: Commit all files
         run: |
+          # GITHUB_TOKEN cannot push workflow files; those are added via web UI
+          rm -f .github/workflows/scan.yml .github/workflows/digest.yml
           git config user.name "media-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add -A
