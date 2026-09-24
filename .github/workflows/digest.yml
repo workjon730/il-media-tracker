@@ -1,0 +1,32 @@
+name: media-digest
+on:
+  schedule:
+    - cron: "0 5 * * *"    # 08:00 שעון ישראל (קיץ). בחורף לשנות ל-6.
+    - cron: "0 17 * * *"   # 20:00 שעון ישראל (קיץ). בחורף לשנות ל-18.
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt anthropic
+      - name: Build digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # אופציונלי
+        run: python -m pipeline.digest
+      - name: Commit digest
+        run: |
+          git config user.name "media-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add digests data docs/data
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "digest: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin main
+          git push
