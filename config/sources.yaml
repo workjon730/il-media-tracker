@@ -1,0 +1,52 @@
+# מקורות המידע. weight = משקל המקור (1-5): ככל שהמקור משפיע יותר, משקלו גבוה יותר.
+# סוגי מקורות:
+#   rss      - פיד RSS ישיר של אתר חדשות
+#   gnews    - חיפוש Google News בעברית לפי מטרה (מכסה את כל האתרים, גם כאלה שחוסמים סריקה ישירה)
+#   telegram - ערוץ טלגרם ציבורי (נסרק דרך עמוד ה-web הציבורי t.me/s)
+# הערה: חלק מהאתרים (מאקו, כאן, ישראל היום, ערוץ 14, כלכליסט) חוסמים סריקה משרתי ענן.
+# הם מכוסים בכל מקרה דרך מקורות gnews. מי שמריץ מהבית יכול לנסות להפעיל אותם ישירות.
+sources:
+  - name: ynet
+    display: ynet
+    type: rss
+    url: http://www.ynet.co.il/Integration/StoryRss2.xml
+    weight: 5
+    enabled: true
+  - name: walla
+    display: וואלה
+    type: rss
+    url: https://rss.walla.co.il/feed/1
+    weight: 4
+    enabled: true
+  - name: globes
+    display: גלובס
+    type: rss
+    url: https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725
+    weight: 3
+    enabled: true
+  - name: themarker
+    display: TheMarker
+    type: rss
+    url: https://www.themarker.com/cmlink/1.145
+    weight: 3
+    enabled: true
+  - name: gnews
+    display: Google News (כל האתרים)
+    type: gnews          # נסרק אוטומטית לכל מטרה ב-targets.yaml
+    weight: 3
+    enabled: true
+  - name: amitsegal
+    display: עמית סגל (טלגרם)
+    type: telegram
+    url: https://t.me/s/amitsegal
+    weight: 5
+    enabled: true
+# דוגמאות לערוצי טלגרם נוספים (לבטל הערה כדי להפעיל):
+#  - name: abualiexpress
+#    display: אבו עלי אקספרס (טלגרם)
+#    type: telegram
+#    url: https://t.me/s/abualiexpress
+#    weight: 3
+#    enabled: true
+# אתרים החוסמים סריקת ענן - כאן לתיעוד; אפשר לנסות enabled: true מהרצה ביתית:
+#  - name: mako / kan / israelhayom / c14 / calcalist

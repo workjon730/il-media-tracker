@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>עין התקשורת - לוח מעקב</title>
+<style>
+  body{font-family:system-ui,-apple-system,"Segoe UI",Arial;max-width:900px;margin:0 auto;padding:20px;background:#f6f7f9;color:#1a1a1a}
+  h1{margin-bottom:4px} .muted{color:#777;font-size:13px}
+  .stats{display:flex;gap:12px;flex-wrap:wrap;margin:16px 0}
+  .stat{background:#fff;border-radius:10px;padding:12px 18px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+  .stat b{font-size:22px;display:block}
+  .item{background:#fff;border-radius:10px;padding:10px 16px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.06)}
+  .item a{color:#0b57d0;text-decoration:none;font-weight:600}
+  .meta{font-size:12px;color:#666;margin-top:4px}
+  .badge{display:inline-block;background:#e8f0fe;border-radius:12px;padding:1px 10px;font-size:12px;margin-inline-start:6px}
+</style>
+</head>
+<body>
+<h1>עין התקשורת</h1>
+<div class="muted">לוח מעקב אחר אזכורים תקשורתיים. מתעדכן אוטומטית בכל סריקה.</div>
+<div class="stats" id="stats"></div>
+<div id="items"></div>
+<script>
+fetch('data/latest.json').then(r=>r.json()).then(d=>{
+  const s=document.getElementById('stats');
+  s.innerHTML=`<div class="stat"><b>${d.last_24h_total}</b>אזכורים ב-24 שעות</div>`
+    +Object.entries(d.per_target).map(([k,v])=>`<div class="stat"><b>${v}</b>${k}</div>`).join('')
+    +`<div class="stat"><b>${new Date(d.generated).toLocaleString('he-IL')}</b>עדכון אחרון</div>`;
+  document.getElementById('items').innerHTML=d.items.map(i=>
+    `<div class="item"><a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
+     <span class="badge">${i.target_display}</span>
+     <div class="meta">${i.sub_source||i.source_display} | ציון ${i.score} | ${new Date(i.ts).toLocaleString('he-IL')}</div></div>`).join('');
+}).catch(e=>{document.getElementById('items').textContent='אין נתונים עדיין - הרץ סריקה ראשונה.'});
+</script>
+</body>
+</html>
