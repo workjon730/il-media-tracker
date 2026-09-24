@@ -2,6 +2,7 @@ import logging, re, requests, feedparser
 from bs4 import BeautifulSoup
 from urllib.parse import quote_plus
 from .common import normalize
+from .extract import fetch_html, extract_items, prominence_weight
 
 log = logging.getLogger("fetch")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; il-media-tracker/1.0)"}
@@ -20,6 +21,35 @@ def fetch_rss(src):
             "link": getattr(e, "link", ""),
             "published": getattr(e, "published", "") or getattr(e, "updated", ""),
         })
+    return items
+
+# ניקוי רעשים טיפוסיים בכותרות שחולצו מדף-בית:
+# מילה כפולה ברצף ("דיווח דיווח") ומטא צמוד בסוף ("... 12:44 שם הכתב").
+DUP_WORD = re.compile(r"\b(\S+)( \1\b)+")
+TRAIL_META = re.compile(r"\s+\d{1,2}:\d{2}(?:\s+\S+){0,3}$")
+
+def _clean_homepage_title(t):
+    t = DUP_WORD.sub(r"\1", t)
+    t = TRAIL_META.sub("", t)
+    return t.strip()
+
+def fetch_homepage(src):
+    """סריקת דף בית עם דירוג בולטות לפי מיקום בעמוד (הגישה של הכלי המקורי).
+    לכל פריט נוספים rank (מיקום בעמוד) ו-prominence (משקל בולטות x10/x5/x3/x1)."""
+    html = fetch_html(src["url"])
+    items = []
+    for it in extract_items(html, src["url"], src.get("selector"), src.get("lang", "he")):
+        title = _clean_homepage_title(normalize(it["headline"]))
+        if not title:
+            continue
+        items.append({
+            "title": title,
+            "link": it["url"],
+            "published": "",
+            "rank": it["rank"],
+            "prominence": prominence_weight(it["rank"]),
+        })
+    log.info("homepage %s: %d headlines", src["name"], len(items))
     return items
 
 def fetch_gnews(src, target):
@@ -68,6 +98,8 @@ def fetch_telegram(src):
 def fetch_source(src, targets):
     if src["type"] == "rss":
         return fetch_rss(src)
+    if src["type"] == "homepage":
+        return fetch_homepage(src)
     if src["type"] == "telegram":
         return fetch_telegram(src)
     if src["type"] == "gnews":
