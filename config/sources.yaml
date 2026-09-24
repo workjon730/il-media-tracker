@@ -1,34 +1,76 @@
 # מקורות המידע. weight = משקל המקור (1-5): ככל שהמקור משפיע יותר, משקלו גבוה יותר.
+# lean = נטייה פוליטית משוערת (left/center/right) בספקטרום הישראלי - שיוך ידני של
+# בעל הריפו (כמו בכלי המקורי), לצורך ניתוח איזון בדשבורד ובסיכומים.
 # סוגי מקורות:
 #   rss      - פיד RSS ישיר של אתר חדשות
-#   gnews    - חיפוש Google News בעברית לפי מטרה (מכסה את כל האתרים, גם כאלה שחוסמים סריקה ישירה)
+#   homepage - סריקת דף הבית עם דירוג בולטות לפי מיקום בעמוד (הגישה של הכלי המקורי)
+#   gnews    - חיפוש Google News בעברית לפי מטרה (מכסה את כל האתרים, גם חוסמי סריקה)
 #   telegram - ערוץ טלגרם ציבורי (נסרק דרך עמוד ה-web הציבורי t.me/s)
-# הערה: חלק מהאתרים (מאקו, כאן, ישראל היום, ערוץ 14, כלכליסט) חוסמים סריקה משרתי ענן.
-# הם מכוסים בכל מקרה דרך מקורות gnews. מי שמריץ מהבית יכול לנסות להפעיל אותם ישירות.
 sources:
   - name: ynet
     display: ynet
     type: rss
-    url: http://www.ynet.co.il/Integration/StoryRss2.xml
+    url: https://www.ynet.co.il/Integration/StoryRss2.xml
     weight: 5
+    lean: left
     enabled: true
   - name: walla
     display: וואלה
     type: rss
     url: https://rss.walla.co.il/feed/1
     weight: 4
+    lean: left
     enabled: true
   - name: globes
     display: גלובס
     type: rss
     url: https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725
     weight: 3
+    lean: center
+    econ: true
     enabled: true
   - name: themarker
     display: TheMarker
     type: rss
-    url: https://www.themarker.com/cmlink/1.145
+    url: https://www.themarker.com/srv/tm-all-articles
     weight: 3
+    lean: left
+    econ: true
+    enabled: true
+  - name: ice
+    display: אייס
+    type: rss
+    url: https://www.ice.co.il/rss
+    weight: 2
+    lean: center
+    enabled: true
+  - name: maariv
+    display: מעריב
+    type: rss
+    url: https://www.maariv.co.il/rss/rssfeed
+    weight: 3
+    lean: center
+    enabled: true
+  - name: i24
+    display: i24NEWS (אנגלית)
+    type: rss
+    url: https://www.i24news.tv/en/rss
+    weight: 2
+    lean: center
+    enabled: true
+  - name: haaretz
+    display: הארץ
+    type: homepage       # אין RSS פעיל - סריקת דף בית עם דירוג בולטות
+    url: https://www.haaretz.co.il
+    weight: 4
+    lean: left
+    enabled: true
+  - name: n12
+    display: N12
+    type: homepage       # mako.co.il מפנה לדומיין n12 החדש
+    url: https://www.mako.co.il/news
+    weight: 5
+    lean: left
     enabled: true
   - name: gnews
     display: Google News (כל האתרים)
@@ -41,12 +83,91 @@ sources:
     url: https://t.me/s/amitsegal
     weight: 5
     enabled: true
-# דוגמאות לערוצי טלגרם נוספים (לבטל הערה כדי להפעיל):
+
+# --- אתרים שחוסמים סריקה משרתי ענן (נבדק 24.9.2026) - מכוסים דרך gnews ---
+# מי שמריץ מהמחשב הביתי יכול לנסות להפעיל אותם ישירות:
+#  - name: israelhayom
+#    display: ישראל היום
+#    type: rss
+#    url: https://www.israelhayom.co.il/rss.xml
+#    weight: 4
+#    lean: center
+#    enabled: true
+#  - name: calcalist
+#    display: כלכליסט
+#    type: rss
+#    url: https://www.calcalist.co.il/GeneralRSS/0,16335,,00.xml
+#    weight: 3
+#    lean: left
+#    econ: true
+#    enabled: true
+#  - name: makorrishon
+#    display: מקור ראשון
+#    type: homepage
+#    url: https://www.makorrishon.co.il
+#    weight: 2
+#    lean: right
+#    enabled: true
+#  - name: kan
+#    display: כאן 11
+#    type: homepage
+#    url: https://www.kan.org.il
+#    weight: 3
+#    lean: left
+#    enabled: true
+#  - name: c14
+#    display: ערוץ 14
+#    type: homepage    # בכלי המקורי דווח שהדומיין החדש c14.co.il עובד מ-GitHub Actions
+#    url: https://www.c14.co.il
+#    weight: 3
+#    lean: right
+#    enabled: true
+#  - name: ch13
+#    display: רשת 13
+#    type: homepage
+#    url: https://13tv.co.il
+#    weight: 3
+#    lean: left
+#    enabled: true
+
+# --- ערוצי טלגרם נוספים (לבטל הערה כדי להפעיל) ---
 #  - name: abualiexpress
 #    display: אבו עלי אקספרס (טלגרם)
 #    type: telegram
 #    url: https://t.me/s/abualiexpress
 #    weight: 3
 #    enabled: true
-# אתרים החוסמים סריקת ענן - כאן לתיעוד; אפשר לנסות enabled: true מהרצה ביתית:
-#  - name: mako / kan / israelhayom / c14 / calcalist
+
+# נטייה משוערת לשמות אתרים כפי ש-Google News מציג אותם (תת-מקור של פריטי gnews).
+# שיוך ידני של בעל הריפו, בדיוק כמו בכלי המקורי - לערוך כרצונך.
+outlet_lean:
+  ynet: left
+  YNET: left
+  וואלה: left
+  הארץ: left
+  "כאן 11": left
+  "רשת 13": left
+  mako: left
+  N12: left
+  Calcalist: left
+  TheMarker: left
+  davar1.co.il: left
+  העין השביעית: left
+  "זמן ישראל": right
+  "מקור ראשון": right
+  makorrishon.co.il: right
+  C14: right
+  סרוגים: right
+  כיפה: right
+  kikar.co.il: right
+  "כיכר השבת": right
+  "בחדרי חרדים": right
+  JDN: right
+  "ישראל היום": center
+  "היום": center
+  מעריב: center
+  maariv.co.il: center
+  גלובס: center
+  i24NEWS: center
+  אייס: center
+  "103FM": center
