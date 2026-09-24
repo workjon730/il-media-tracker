@@ -9,14 +9,21 @@ from .alerts import alert_for
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 log = logging.getLogger("run")
 
-ALERT_THRESHOLD = 6  # ציון = משקל מטרה x משקל מקור
+ALERT_THRESHOLD = 6  # ציון = משקל מטרה x משקל מקור + בונוס בולטות
+
+# בונוס בולטות לפריטים מסריקת דף-בית (homepage), לפי משקל הבולטות x10/x5/x3/x1.
+# זה ההבדל בין "אוזכר באיזה פיד" לבין "הסיפור המוביל של האתר".
+PROMINENCE_BONUS = {10: 6, 5: 4, 3: 2, 1: 1}
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-alerts", action="store_true")
     args = ap.parse_args()
 
-    sources = [s for s in load_yaml("config/sources.yaml")["sources"] if s.get("enabled")]
+    cfg = load_yaml("config/sources.yaml")
+    sources = [s for s in cfg["sources"] if s.get("enabled")]
+    # נטייה לפי שם האתר כפי שמופיע ב-Google News (תת-מקור), לניתוח האיזון בדשבורד
+    outlet_lean = cfg.get("outlet_lean", {})
     targets = load_yaml("config/targets.yaml")["targets"]
 
     state = load_state()
@@ -40,13 +47,20 @@ def main():
             hits = match_targets(it["title"], targets)
             if not hits:
                 continue
+            prominence = it.get("prominence") or 0
+            bonus = PROMINENCE_BONUS.get(prominence, 0)
+            lean = outlet_lean.get(it.get("sub_source", ""), src.get("lean", ""))
             for t in hits:
-                score = t["weight"] * src["weight"]
+                score = t["weight"] * src["weight"] + bonus
                 row = {"id": iid, "ts": now.isoformat(), "source": src["name"],
                        "source_display": src["display"], "sub_source": it.get("sub_source", ""),
                        "target": t["id"], "target_display": t["display"],
                        "groups": t.get("groups", []), "score": score,
+                       "lean": lean,
                        "title": it["title"], "link": it.get("link", "")}
+                if prominence:
+                    row["prominence"] = prominence
+                    row["rank"] = it.get("rank")
                 new_rows.append(row)
                 if not args.no_alerts and score >= ALERT_THRESHOLD:
                     if alert_for(it, t, src, score):
