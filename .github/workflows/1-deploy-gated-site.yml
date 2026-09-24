@@ -1,0 +1,52 @@
+name: deploy-gated-site
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "docs/index.html"
+      - "docs/data/latest.json"
+  workflow_run:
+    workflows: ["media-scan", "media-digest"]
+    types: [completed]
+permissions:
+  contents: read
+concurrency:
+  group: gated-site
+  cancel-in-progress: true
+jobs:
+  build:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Build single-file dashboard (inline data)
+        run: |
+          cat > /tmp/build_gated.js <<'SCRIPT'
+          const fs = require('fs');
+          const html = fs.readFileSync('docs/index.html', 'utf8');
+          const data = fs.readFileSync('docs/data/latest.json', 'utf8');
+          const marker = "fetch('data/latest.json?v='+Date.now()).then(r=>r.json()).then(d=>{";
+          if (!html.includes(marker)) { console.error('MARKER NOT FOUND'); process.exit(1); }
+          let out = html.replace(marker, '(()=>{const d=' + data.trim() + ';');
+          const catchRe = /\}\)\.catch\(e=>\{document\.getElementById\('items'\)\.textContent='[^']*'\}\);?/;
+          if (!catchRe.test(out)) { console.error('CATCH TAIL NOT FOUND'); process.exit(1); }
+          out = out.replace(catchRe, '})();');
+          fs.mkdirSync('site', {recursive: true});
+          fs.writeFileSync('site/index.html', out);
+          console.log('built site/index.html', out.length, 'bytes');
+          SCRIPT
+          node /tmp/build_gated.js
+      - name: Password-encrypt the page
+        env:
+          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+        run: npx --yes staticrypt site/index.html -p "$SITE_PASSWORD" -d gated --short --remember 30 -s 07c9e2a7794db9308a27eafd73cdcc91 --template-title "עין התקשורת - גישה מוגנת" --template-instructions "הזן סיסמה כדי לצפות בלוח המעקב" --template-button "כניסה" --template-placeholder "סיסמה" --template-error "סיסמה שגויה - נסה שוב" --template-remember "זכור אותי במכשיר זה"
+      - name: Deploy to surge
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: npx --yes surge ./gated il-media-watch.surge.sh
