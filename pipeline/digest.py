@@ -1,9 +1,12 @@
-"""סיכום תקופתי בעברית (בוקר/ערב) - נשמר כקובץ markdown בתיקיית digests/.
-אם מוגדר ANTHROPIC_API_KEY, מוסיף ניתוח קצר של קלוד לכל מטרה (אופציונלי)."""
-import argparse, os
+"""סיכום תקופתי בעברית (בוקר/ערב) - נשמר כקובץ markdown בתיקיית digests/,
+ונשלח גם לטלגרם אם מוגדרים סודות הבוט. אם מוגדר ANTHROPIC_API_KEY,
+מוסיף ניתוח קצר של קלוד לכל מטרה (אופציונלי)."""
+import argparse, html, os
 from collections import defaultdict
 from datetime import timedelta
-from .common import now_il, data_path
+from .common import ROOT, now_il, data_path
+
+TELEGRAM_LIMIT = 3500  # מתחת למגבלת 4096 של טלגרם, עם מרווח לקישור
 
 def build_digest(hours=12, use_llm=True):
     from .store import recent_items
@@ -21,7 +24,8 @@ def build_digest(hours=12, use_llm=True):
         lines.append(f"## {target} ({len(rows)} אזכורים)")
         for r in sorted(rows, key=lambda x: -x["score"])[:10]:
             src = r["sub_source"] or r["source_display"]
-            lines.append(f"- [{r['title']}]({r['link']}) - {src} (ציון {r['score']})")
+            lead = " **(סיפור מוביל)**" if (r.get("prominence") or 0) >= 5 else ""
+            lines.append(f"- [{r['title']}]({r['link']}) - {src} (ציון {r['score']}){lead}")
         summary = llm_summary(target, rows) if use_llm else None
         if summary:
             lines.append(f"\n> ניתוח: {summary}")
@@ -32,6 +36,18 @@ def build_digest(hours=12, use_llm=True):
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     return path
+
+def send_digest_telegram(path):
+    """שולח את הסיכום לטלגרם (אם מוגדרים סודות). בלעדיים - מדלג בשקט."""
+    from .alerts import send_telegram
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    body = text[:TELEGRAM_LIMIT]
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if repo:
+        rel = os.path.relpath(path, ROOT).replace(os.sep, "/")
+        body += f"\n\nהסיכום המלא: https://github.com/{repo}/blob/main/{rel}"
+    send_telegram(html.escape(body))
 
 def llm_summary(target, rows):
     key = os.environ.get("ANTHROPIC_API_KEY")
@@ -55,5 +71,9 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--hours", type=int, default=12)
     ap.add_argument("--no-llm", action="store_true")
+    ap.add_argument("--no-telegram", action="store_true")
     a = ap.parse_args()
-    print(build_digest(hours=a.hours, use_llm=not a.no_llm))
+    p = build_digest(hours=a.hours, use_llm=not a.no_llm)
+    if not a.no_telegram:
+        send_digest_telegram(p)
+    print(p)
