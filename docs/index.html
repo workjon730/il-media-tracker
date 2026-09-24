@@ -5,32 +5,91 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>עין התקשורת - לוח מעקב</title>
 <style>
-  body{font-family:system-ui,-apple-system,"Segoe UI",Arial;max-width:900px;margin:0 auto;padding:20px;background:#f6f7f9;color:#1a1a1a}
-  h1{margin-bottom:4px} .muted{color:#777;font-size:13px}
+  :root{--bg:#f6f7f9;--card:#fff;--ink:#1a1a1a;--muted:#777;--accent:#0b57d0}
+  body{font-family:system-ui,-apple-system,"Segoe UI",Arial;max-width:960px;margin:0 auto;padding:20px;background:var(--bg);color:var(--ink)}
+  h1{margin-bottom:4px} h2{font-size:17px;margin:26px 0 10px}
+  .muted{color:var(--muted);font-size:13px}
   .stats{display:flex;gap:12px;flex-wrap:wrap;margin:16px 0}
-  .stat{background:#fff;border-radius:10px;padding:12px 18px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+  .stat{background:var(--card);border-radius:10px;padding:12px 18px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
   .stat b{font-size:22px;display:block}
-  .item{background:#fff;border-radius:10px;padding:10px 16px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.06)}
-  .item a{color:#0b57d0;text-decoration:none;font-weight:600}
+  .lean-row{display:flex;gap:8px;align-items:center;margin:4px 0}
+  .lean-name{width:70px;font-size:13px;color:var(--muted)}
+  .lean-bar{height:14px;border-radius:7px;background:var(--accent);min-width:2px}
+  .lean-count{font-size:13px}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}
+  .chip{background:var(--card);border:1px solid #ddd;border-radius:14px;padding:3px 12px;font-size:13px;cursor:pointer}
+  .chip.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .item{background:var(--card);border-radius:10px;padding:10px 16px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.06)}
+  .item a{color:var(--accent);text-decoration:none;font-weight:600}
   .meta{font-size:12px;color:#666;margin-top:4px}
   .badge{display:inline-block;background:#e8f0fe;border-radius:12px;padding:1px 10px;font-size:12px;margin-inline-start:6px}
+  .lead-badge{background:#fde7e9;color:#b00020}
+  footer{margin-top:34px;font-size:12px;color:var(--muted);border-top:1px solid #e3e3e3;padding-top:10px}
 </style>
 </head>
 <body>
 <h1>עין התקשורת</h1>
-<div class="muted">לוח מעקב אחר אזכורים תקשורתיים. מתעדכן אוטומטית בכל סריקה.</div>
+<div class="muted">לוח מעקב אחר אזכורים תקשורתיים. מתעדכן אוטומטית בכל סריקה (שעתי).</div>
 <div class="stats" id="stats"></div>
+
+<h2>איזון פוליטי של האזכורים (24 שעות)</h2>
+<div id="lean"></div>
+
+<h2>סיפורים מובילים עם אזכור</h2>
+<div class="muted">אזכורים שזוהו בראש דף-הבית של אתר (דירוג בולטות לפי מיקום בעמוד)</div>
+<div id="leads"></div>
+
+<h2>מקורות (24 שעות)</h2>
+<div class="chips" id="sources"></div>
+
+<h2>כל האזכורים</h2>
+<div class="chips" id="filters"></div>
 <div id="items"></div>
+
+<footer>
+  נבנה בעזרת Claude. הסיכומים היומיים בתיקיית
+  <a href="../digests/">digests</a> בריפו.
+</footer>
 <script>
-fetch('data/latest.json').then(r=>r.json()).then(d=>{
-  const s=document.getElementById('stats');
-  s.innerHTML=`<div class="stat"><b>${d.last_24h_total}</b>אזכורים ב-24 שעות</div>`
+fetch('data/latest.json?v='+Date.now()).then(r=>r.json()).then(d=>{
+  const fmt=t=>new Date(t).toLocaleString('he-IL');
+  document.getElementById('stats').innerHTML=
+    `<div class="stat"><b>${d.last_24h_total}</b>אזכורים ב-24 שעות</div>`
     +Object.entries(d.per_target).map(([k,v])=>`<div class="stat"><b>${v}</b>${k}</div>`).join('')
-    +`<div class="stat"><b>${new Date(d.generated).toLocaleString('he-IL')}</b>עדכון אחרון</div>`;
-  document.getElementById('items').innerHTML=d.items.map(i=>
+    +`<div class="stat"><b>${fmt(d.generated)}</b>עדכון אחרון</div>`;
+
+  const lean=d.per_lean||{}, order=['ימין','מרכז','שמאל','אחר'], max=Math.max(1,...order.map(k=>lean[k]||0));
+  const colors={'ימין':'#1565c0','מרכז':'#6a1b9a','שמאל':'#c62828','אחר':'#9e9e9e'};
+  document.getElementById('lean').innerHTML=order.filter(k=>lean[k]).map(k=>
+    `<div class="lean-row"><div class="lean-name">${k}</div>
+     <div class="lean-bar" style="width:${Math.round(lean[k]/max*220)}px;background:${colors[k]}"></div>
+     <div class="lean-count">${lean[k]}</div></div>`).join('')||'<div class="muted">אין נתונים עדיין</div>';
+
+  document.getElementById('leads').innerHTML=(d.leads&&d.leads.length?d.leads.map(i=>
     `<div class="item"><a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
-     <span class="badge">${i.target_display}</span>
-     <div class="meta">${i.sub_source||i.source_display} | ציון ${i.score} | ${new Date(i.ts).toLocaleString('he-IL')}</div></div>`).join('');
+     <span class="badge lead-badge">מוביל${i.rank?' #' + i.rank:''}</span><span class="badge">${i.target_display}</span>
+     <div class="meta">${i.sub_source||i.source_display} | ציון ${i.score} | ${fmt(i.ts)}</div></div>`).join('')
+    :'<div class="muted">אין כרגע אזכורים בסיפורים מובילים</div>');
+
+  document.getElementById('sources').innerHTML=Object.entries(d.per_source||{}).map(([k,v])=>
+    `<span class="chip" style="cursor:default">${k} · ${v}</span>`).join('');
+
+  const targets=['הכל',...Object.keys(d.per_target)];
+  const filters=document.getElementById('filters');
+  const render=(f)=>{
+    const list=d.items.filter(i=>f==='הכל'||i.target_display===f).slice(0,100);
+    document.getElementById('items').innerHTML=list.map(i=>
+      `<div class="item"><a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
+       ${(i.prominence||0)>=5?'<span class="badge lead-badge">מוביל</span>':''}<span class="badge">${i.target_display}</span>
+       <div class="meta">${i.sub_source||i.source_display} | ציון ${i.score} | ${fmt(i.ts)}</div></div>`).join('')
+      ||'<div class="muted">אין אזכורים</div>';
+  };
+  filters.innerHTML=targets.map((t,ix)=>`<span class="chip${ix===0?' active':''}" data-t="${t}">${t}</span>`).join('');
+  filters.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{
+    filters.querySelectorAll('.chip').forEach(x=>x.classList.remove('active'));
+    c.classList.add('active'); render(c.dataset.t);
+  });
+  render('הכל');
 }).catch(e=>{document.getElementById('items').textContent='אין נתונים עדיין - הרץ סריקה ראשונה.'});
 </script>
 </body>
