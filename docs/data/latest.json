@@ -1,63 +1,63 @@
 {
- "generated": "2026-10-03T09:27:54.387084+03:00",
- "last_24h_total": 801,
+ "generated": "2026-10-03T15:27:33.121526+03:00",
+ "last_24h_total": 804,
  "per_target": {
-  "איראן": 504,
-  "בינה מלאכותית": 297
+  "איראן": 500,
+  "בינה מלאכותית": 304
  },
  "per_source": {
-  "Vietnam.vn": 91,
+  "Vietnam.vn": 102,
   "מעריב": 82,
-  "מקור ראשון": 70,
-  "TheMarker": 46,
-  "Investing.com": 46,
+  "מקור ראשון": 65,
+  "Investing.com": 49,
+  "TheMarker": 44,
   "ynet.co.il": 41,
-  "כאן 11": 33,
-  "גלובס": 32,
+  "כאן 11": 32,
   "ערוץ 7": 30,
+  "גלובס": 28,
   "YNET": 28,
-  "היום": 27,
+  "היום": 26,
+  "הארץ": 26,
   "כיכר השבת": 25,
-  "הארץ": 24,
-  "סרוגים": 23,
-  "mako": 20,
-  "i24NEWS": 16,
-  "calcalist": 16,
-  "זמן ישראל": 16,
-  "וואלה": 15,
-  "C14": 14,
-  "ice (אייס)": 11,
-  "כיפה": 10,
-  "ביזפורטל": 10,
+  "סרוגים": 22,
+  "mako": 21,
+  "וואלה": 16,
+  "calcalist": 15,
+  "ביזפורטל": 14,
+  "i24NEWS": 12,
+  "זמן ישראל": 12,
+  "כיפה": 12,
+  "تسنیم": 9,
+  "ice (אייס)": 8,
+  "C14": 7,
   "אמס": 7,
   "haaretz.co.il": 7,
-  "تسنیم": 5,
-  "הידברות": 5,
-  "מגזין מרחיב דעת, מעורר מחשבה": 5,
-  "רשת 13": 5,
+  "רשת 13": 6,
   "israeldefense.co.il": 5,
   "srugim.co.il": 5,
+  "globes.co.il": 5,
   "N12": 4,
+  "מגזין מרחיב דעת, מעורר מחשבה": 4,
+  "הידברות": 4,
   "חב\"ד אינפו": 4,
-  "Google News (כל האתרים)": 3,
+  "ias.co.il": 4,
   "calcalist.co.il": 3,
+  "Google News (כל האתרים)": 3,
   "אנשים ומחשבים": 3,
-  "ias.co.il": 3,
-  "bizportal.co.il": 2,
+  "i24news.tv": 3,
   "arabexpert.co.il": 2,
-  "ynet": 1,
-  "אייס": 1,
+  "pc.co.il": 2,
+  "גיקטיים": 2,
+  "zman.co.il": 2,
   "tasnimnews.ir": 1,
   "chabad.info": 1,
-  "pc.co.il": 1,
-  "בחדרי חרדים": 1,
-  "גיקטיים": 1
+  "בחדרי חרדים": 1
  },
  "per_lean": {
-  "אחר": 308,
-  "שמאל": 176,
-  "ימין": 159,
-  "מרכז": 158
+  "אחר": 335,
+  "שמאל": 177,
+  "מרכז": 148,
+  "ימין": 144
  },
  "leads": [
   {
@@ -529,6 +529,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "1ea36f5bf9ee82e7",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "חשיפה הדיון החשאי של בכירי ממשל טראמפ על המלחמה באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm",
+   "prominence": 1,
+   "rank": 12
   },
   {
    "id": "12437e9f82b37fa8",
@@ -2716,6 +2734,22 @@
   },
   {
    "id": "e0db351a8f2be829",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
+  },
+  {
+   "id": "e0db351a8f2be829",
    "ts": "2026-10-03T09:27:46.740540+03:00",
    "source": "walla",
    "source_display": "וואלה",
@@ -3749,7 +3783,7 @@
   },
   {
    "id": "05fed74231f60bea",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "themarker",
    "source_display": "TheMarker",
    "sub_source": "",
@@ -3764,8 +3798,24 @@
    "link": "https://www.themarker.com/wallstreet/2026-10-01/ty-article-magazine/.premium/000001a0-f25e-de31-a7f0-fadf823c0000"
   },
   {
+   "id": "b2f6ebd082acf9f6",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "maariv",
+   "source_display": "מעריב",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "הכלכלה באיראן קורסת: גם בטורקיה החליטו להגיב מיד להיפוך הקערה",
+   "link": "https://www.maariv.co.il/news/world/article-1373124"
+  },
+  {
    "id": "4931f68bdd78070c",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "היום",
@@ -3780,8 +3830,40 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tUnI3T0dITGNFb1hmRnQzRTFQZjVWQk1rc0xLcGU1Wm1GR3JSLTlJOGRjSUViUlMwb1hDNU1COURZNDFiaGh5Y090cFQ3WkJZSkxiNWxoM1U0MTVEbjU1R292YWR2Y1BuNmc3RlVNUdIBd0FVX3lxTE1nemNpYWVNUDQ2aFplT3pReENHazRqMGlwVTlscndnTlcxZTZpejVTRFg2N1BTSjBITU0tdFdtamlSNlB0OHkybDZQcTNOQ2JwTGVfYk5rODVKcjV6TmJsRzNGaUhFU0FjX3Q5em0xc3hvM2JfM3lr?oc=5"
   },
   {
-   "id": "98ae1813d2511b17",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "31467f07185499c6",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "ynet.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "בריטניה מצביעה על איראן ב\"פיגוע שסוכל\" ליד הבסיס האמריקני; טראמפ: \"תהיה תשובה\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DM3pyNzNFMHNBWlNlVjlDTGt4bTFvT3VIaEtFYkVEcVpVZUN0aUNlb1RrZTFRSkZHNEdBcDdFak10Sk5ZRDZJeWpWeEtKQ3Vtb2ZpTnZIMG5adw?oc=5"
+  },
+  {
+   "id": "b96ca182cd57c3b1",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "מעריב",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "איראן הובילה ניסיון פיגוע נגד יהודים בבריטניה ביום כיפור | הסיפור המלא",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVGs1V3U5Q0VHT1RLUE9CdWNZUFNzOC1VbVh2c3ViZ2dVdXZxdDBOckRqT1JONVhLLTg2UEJmUmJIc05wYmlZWjhOVEp2b0w1M0ZHSGRtcF9fREp3NC1SUA?oc=5"
+  },
+  {
+   "id": "971c63f60f2a03a9",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "הארץ",
@@ -3792,12 +3874,28 @@
    ],
    "score": 9,
    "lean": "left",
-   "title": "נתניהו: עוד מוקדם לקבוע אם איראן הייתה מעורבת בניסיון הפיגוע בטיסה, אני חושב שנדע בקרוב",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUJ2aG5CRC1xWlc4OWJwbl82X0pPZFhzWlMyNzBJOFRCZ251MEpjSEJXRGJpQjh1NHRYNjJGVkoyM05kNTlFZk9EcmRzNktndHlXMko5Y25QMWlzQTB4MWQ4a2ZzdVZWVm01ekhaQ0JVQkVmUEw5UXVmajA3d0VJejd2T3l2REJDdjAtai1KSEl5MDYxdGJoTDdUWGMya0E?oc=5"
+   "title": "אזרח בריטניה ואיראן נעצר בחשד שתכנן פיגוע בבסיס המשמש את ארה\"ב",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1o0R3p1aWw2RFgyU243SEhqbzh5emZ4bmN4Z0Z0eExsMy1DWlBFenNOcUZkVE1qeEFraV9fVzVEZUhHODFubEtYc2Z1Q0J4SUotQ180dnBoUmVqUmdKMS1pSnR4RzN2dFBFbE5ZUUJJRGZNdnAtX2lqd3FNTFp4T0JLUVhQRDdwRFFiblFBUlI2UUpZSGtfRmtQYnpVUWRIMVloRGlnS0hXNEVBVlJKQg?oc=5"
+  },
+  {
+   "id": "d3f8a4c42c5017ca",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "מעריב",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "הכלכלה באיראן קורסת: גם בטורקיה החליטו להגיב מיד להיפוך הקערה",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFTUNpNEozZ1VaQkNJdkFLRDVReFdTTm1iSEppbTY4b2RUUHZpa3Vudk9SZEhrY0RhTnRRTnIyUzhJSTFYQk1kYllDTDZpYnRUaUQyQ0FQR2dpR1lLYWpXZg?oc=5"
   },
   {
    "id": "56fccdf9df191cd8",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "אמס",
@@ -3812,24 +3910,24 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91eVprQml1Z2NzNzJmeExNOFd4OERUblgxd2QyOUJDWEJUUU1xdy1qSHZ6SGVGN3BfSUU1ZUZ0STZWOUVXejNjY2pnOVk2QQ?oc=5"
   },
   {
-   "id": "35687e029a21bde5",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "81e8b8d1de9e538a",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "mako",
+   "sub_source": "globes.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "left",
-   "title": "דף חדש? התנאי של המדינה הערבית לחידוש יחסים עם איראן",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PVXdMVmpOaEdxaTdzOVNjU1hTTTZrWWpNWmpjVmltcWtKaXRNQzhhZmFIVEFMeUFOVE9KeEhCLUZDNG1aZXM1Y1pRYXhacGNwY2R1T0ZmMzJwa1lVV2kyT3hVUUh3Zkk0a201UjUzaTJyVlJ1?oc=5"
+   "lean": "",
+   "title": "גולה מאיראן: \"הכלכלה לא תקרוס מפצצות, אלא מהשוד של השלטון\"",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LYzZQSWJlUXp3OEVOS29nTEhuT3gxU3ozdnNqYTl2Qjh3bnBIUHhOMDZTMDVfREZOemVFMWRSZ0xkSjc2MVdCRFFhR2FXU2FtNURObU5UXzVMcTlzaDBNRW44SjhkQlA2?oc=5"
   },
   {
    "id": "03ca63bfc08a25ea",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "כאן 11",
@@ -3844,24 +3942,56 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zSUwwYUJwdS1WQVhVUW03NmtXOGtTRmJUUmQ1ckpjWmdQaEh6UzRxMEVKMjlNekM2YjRTNkFhLWpuTENXYUhjQ1pFMUh1aFBBSGdmS1J0dWt3azllRFc1OWt1NnlEUQ?oc=5"
   },
   {
-   "id": "81e8b8d1de9e538a",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "c0b1996631c692ff",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "גלובס",
+   "sub_source": "ערוץ 7",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "center",
-   "title": "גולה מאיראן: \"הכלכלה לא תקרוס מפצצות, אלא מהשוד של השלטון\"",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LYzZQSWJlUXp3OEVOS29nTEhuT3gxU3ozdnNqYTl2Qjh3bnBIUHhOMDZTMDVfREZOemVFMWRSZ0xkSjc2MVdCRFFhR2FXU2FtNURObU5UXzVMcTlzaDBNRW44SjhkQlA2?oc=5"
+   "lean": "",
+   "title": "טראמפ: \"איראן מוכנה להתקפל, העימות יסתיים בקרוב\"",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pN0drczhxZ1dDaHdHMENJLVMtcEYyYmxFWGV2Qm51R2xJSHZWdEE0NnUxeXVTQkJZZ3ZaR1V0ZFJqV0dmWnhfaA?oc=5"
+  },
+  {
+   "id": "681f51a75bd6d72f",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "Investing.com",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "לחץ על איראן גובר: טראמפ מרחיב את הנוכחות הצבאית האמריקאית מאת Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qRnVCd3lMckc3WGNoVmx5Z3dKZlRhSUJ1UTlOS2FOZ08yWktrSFZBTXBXY1RRaEthVFRFY2cxMkQzZXFNVlU3YURiZFZGeFNmU0U3QlFOTUVYUnp5UWE4cGRUQVE5THV1?oc=5"
+  },
+  {
+   "id": "35687e029a21bde5",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "mako",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "left",
+   "title": "דף חדש? התנאי של המדינה הערבית לחידוש יחסים עם איראן",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PVXdMVmpOaEdxaTdzOVNjU1hTTTZrWWpNWmpjVmltcWtKaXRNQzhhZmFIVEFMeUFOVE9KeEhCLUZDNG1aZXM1Y1pRYXhacGNwY2R1T0ZmMzJwa1lVV2kyT3hVUUh3Zkk0a201UjUzaTJyVlJ1?oc=5"
   },
   {
    "id": "a62bb6542efbbc36",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "וואלה",
@@ -3877,7 +4007,7 @@
   },
   {
    "id": "5f3da9c119d13b58",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "calcalist",
@@ -3893,26 +4023,10 @@
   },
   {
    "id": "375cae31cb3df73f",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "i24NEWS",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "ביצע משימות תמורת תשלום: תושב הצפון נעצר בחשד לריגול עבור איראן",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QU0FRWExxZjBPR1lhX2VjZVBMX2lfVDl6aEdMbHUzb1NDUTFZX2wwZmtYZ3Z5Rmw3Ymx4MGNHZVBNSkUtRWh1S21UZ1JOTVpmNUZ3X0pTQ1p2NDJ1R2RwYXptVFJZZnNrOG1Kc0JRVQ?oc=5"
-  },
-  {
-   "id": "c0b1996631c692ff",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "ערוץ 7",
+   "sub_source": "i24news.tv",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
@@ -3920,60 +4034,44 @@
    ],
    "score": 9,
    "lean": "",
-   "title": "טראמפ: \"איראן מוכנה להתקפל, העימות יסתיים בקרוב\"",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pN0drczhxZ1dDaHdHMENJLVMtcEYyYmxFWGV2Qm51R2xJSHZWdEE0NnUxeXVTQkJZZ3ZaR1V0ZFJqV0dmWnhfaA?oc=5"
-  },
-  {
-   "id": "0e7b720bf95d0e3d",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "TheMarker",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "\"אפס הורמוז\": יורש העצר של אבו דאבי ו 300 מיליארד הדולרים לעקיפת איראן",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnMxdUlNYU1lU2dwYWNDdF92N2kwbDlrM3p5YlpnQTl1Q3hhN2xRY3RuclJveVhRNUxXUDVsWEZZSU93ejVqYWNjOGlBNkpuRTk0a0c3eDhLYmt0eHV5MUdRZWtEM3BUc25YMHlmVmFYdnhnZFB5ZHJwSlB1M1ozVzFxbENwODVEWlo5WkN6VDNaSUc0S0tTZXNESUgyVUxkSEJ6QU9NV2FINEhyMG5McWVEQQ?oc=5"
+   "title": "ביצע משימות תמורת תשלום: תושב הצפון נעצר בחשד לריגול עבור איראן",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QU0FRWExxZjBPR1lhX2VjZVBMX2lfVDl6aEdMbHUzb1NDUTFZX2wwZmtYZ3Z5Rmw3Ymx4MGNHZVBNSkUtRWh1S21UZ1JOTVpmNUZ3X0pTQ1p2NDJ1R2RwYXptVFJZZnNrOG1Kc0JRVQ?oc=5"
   },
   {
    "id": "ed7e0b2d2abb8fa1",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
+   "sub_source": "ynet.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "left",
+   "lean": "",
    "title": "\"טראמפ לכוד\": הפשרה של קטאר וההערכה האמריקנית לחידוש העימות עם איראן",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSjVaVkZiejdwNHRtX3BsMUVUb1JvWDVqaVFwX1pVTWQwV25jVDlnOEowcHV6RTRIdDJ6TFhJb3NpczlyZHRUcXBxS0lESHl0OGoxNXpXRTBrZw?oc=5"
   },
   {
    "id": "6bc6e705103423d5",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "גלובס",
+   "sub_source": "globes.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "center",
+   "lean": "",
    "title": "איראן \"נוקמת\" באירופה על שיתוף הפעולה עם ישראל",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcE95WEIzcWxaZWt2SUtKN0trNWVoXzF5bHpCZEdXbkNsaWJsRlB3WnE4djlSUjVQZ1hoMDdzV0pocXJ5VWJqaVUtQlEyZjRqbHd3ZnN6cmxWWGZDdmpLQmJVNS1rZzkw?oc=5"
   },
   {
-   "id": "79ce606beb1edd10",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "a25b8010ac7c645a",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "تسنیم",
@@ -3984,28 +4082,28 @@
    ],
    "score": 9,
    "lean": "",
-   "title": "תגובת מחסן רזאי לאשליותיו של טראמפ: איראן היא זו שקובעת את המציאות",
-   "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPLTZlQ19lNG80c3JTWm5oN05XdC1HY1dobjh4cFdTeFVJWWdLdXBoVUtabVRfbXgxOHBpVGlaeDlidDFZZUxPY0VscE14Z2h0QVdWaGxKOW50M3NkY3Mxb2JuYXFQdGw2VFBIZzhmbFprckZpSlNaWmkzOS1EXzF3N3VoY011OEN5VVU4eDN1WjNSVnZrT3dScFhFWF9IX0JYbHZfNnRwY3ZxeC14UGVaT2o5UkRBN3UtYi1ZVXRMRFZtbjNUbUM1dWc3QUhDNW90NmdXYnFUQTlOc0U2bER4aUtPUHV0WmhLcmNZb051OUlwbjB2RUlQTjdrNmZGMXVGM2pNQW1wZ2R4N0JmR2R5WlU2cS02SUZhSVY4UVpRbGhVcUluTWxIcEh3MGpLcWYycXRoZ2VmOHZhLUFfZXlMYzdJSDdkYTJQWU9CdnVUbkgzVlVRTzFDdXJuV3hhcGw3MkdRNG1jSDZzc2lJVGM3TUlVNjNTNzNWbkR4a0s2UnVoM2RYNWEza3B3d2RIa2J4RkRweUVmOGRIaWtjY0JEN1hMc3lvSzNDWHJNRTNHa3p3WHpCallqdVZfUl95a3JFRVdTRGZ6MV8zTThNMmIybk82Y1RBcmdiYUJYWjN6VkFIQldKV1lrc0JjNmxkQ3dKdDVyN0VOUHg1LU5XUGNqM1NzNzVqZEdZM2lydkIzenNzYUpwajhVR2R3eS1yYzJwT1HSAacEQVVfeXFMTmwzT3V2bGU4NTZNbGUtVDNoX1c5NGowdjE1UkhhbkhQSFRXQ2lIcTF0MGNxNDJwa1JEUVhxc3FHYklGRWFscnRxMFh0NGxfRnNxUFd3Y3NIelFEdlgtNVl2Mmg5VFd3b1V4Z1ZsT2Z4dWpxZHRINnYzV1NiczJUR0E4TTdRdUMtMVZkcUJYajlRNDlzdUZlQWhLNVFsQUhOb01rUDhELVJGU1RqUlZSakJ3M1ctS2E0V3AwcWJQYkhlUU1NSVZNVUU3UThabFh6U1d6NkNDN0dTV0JVemtrT203dnVmXzlhM0xycVI0ZDBvSHlDM2o4Q2VUMXd3dzRTRGtNZUNxcklUMGpfV3MyZWxldHo0ZTFPM19JVGRzb3F5WmlNOWVxZVZEYlNMYTBhQzB4MTQ4QndZeEZwVExBajhDNWxMaU11eTBnUHJIeGxaT3RxOWRzQ3BYSW1odW1UVDdhblhhWE00cU5Qa3NMeERwRF9US3d0ekFyaDE3M25jMlpPcHg3NTRjOUJxOUZWSFpZTWtFbDlNTlJEejFGYTZfY2RETFZ1WEl3V1FBRktta3o5VkV2WlIwZzhZOVo0WkhHUVJLakE3VURLZzRpemVPUk9kejc0SkRjbG1ySTk5ek5PNlM1Q25OU3Rkc0FUX3d5RHRMSEdSb2c3VEtPUDZNSlZFNmNNYmg2b1RVYWpHUEkzZkpSakRrUkZGZ3Y1V3h0eWJyWEk?oc=5"
+   "title": "צפו | מרנדי: איראן מוכנה למלחמה ממושכת; כל דרך שתבחר ארה״ב תהיה גיהינומית- חדשות פוליטי -Tasnim News Agency",
+   "link": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxPVHJ2NVZrVi1lQ2ZXeEdlSWRkZ1k3ZG1jdWFvOUF2cG9BUjRsQ3BkcVgxMnFPSzhkZXZkTjBxVEdnbmxYczgyLUpkUWF4LVJQNUdPWjRDcUgwa2NPUWw4S2UzZmRDSVFxOF9XN0c1eDNMUUhqbjZGbW55b0tuZy13bndRN2FWLVZLTmpMelhmVTF4Zno1UHlPdXA4X0hYR05veWVnc1FlQmFTZklYbHZrTU9mWFBXbXg0c05IMFJ5NlRjYTBTVFU1aTVUOUxtMHRmWDJyR0N0SEs4WEV2Q2JPM2hKQTBGOGQ2S2t1ZGlOYm1CdXc2TkxPWVdfemRrc25EenNsN3VDQllkWTJoMU1RS0I5ZDNNcDJoQnBrME5wRHBlaTk0OVp2LUl4YWlweUJIdDZvV2ZPcEttcHktYVNiOHEwd1FjRHRia1FVeHI2NmRzSEpzMC1vVmM1WHZBeGl1WEw4dW9keXl5RXVXeGJhMm5HM0JRV1FQS1R6bkNlcWQtRFhhcDE1cnhZZnRLcWkwMUt4aWdYMzZTa3R4QWp1Zkh1a1RrcUJ5M2F0b0FqbG0wS2pJODJ3LUpDV05DSUhMcWpHM203VGxwVUl1cEpsRDBxMUxINlNRYTQ0S01KemZPak96bHQyUVFiTy04ZlpfcTRWU0VjUlZfenQzUFZhSVVYbWhoWkZIeFpUSC02UkhjYWhiQm1EUENJWkt6TnJHMTJSdUFSR3UwS0RUZVJYYU9VZ05HQXNpMHhN?oc=5"
   },
   {
-   "id": "1cb54ca3cc3082c1",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "c531fe7317a68f24",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
+   "sub_source": "רשת 13",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "center",
-   "title": "בישראל ממשיכים להכחיש: הנקמה הייתה באוויר - עכשיו הגיע הרמז העבה של איראן",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IXzJLX0R3N2hRS3lTMFgwUjJPUzlrNjdfaTkzeDBONlJIalZnM1FMaTN2MWJtRjdRMzV5MURzaXc5TE9XZzdDbTZzMFNrRnpDVmduazRCazhuTS16RFkzVQ?oc=5"
+   "lean": "left",
+   "title": "דיווח: סעודיה נערכת למתקפה בתימן; איראן מציעה לקדם הידברות",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BS19KQVh5M20tanRlV2sxaE1pVFQzd0ZZN3BuTTZiNm1tX0ppMUFNU1pEc3NNNGZEUTJMUERfeW01QU8waTdzd0o3QVJGQVVqTzUwcklxNThwb0FQSWxReHpR?oc=5"
   },
   {
    "id": "cacc1c89449265f7",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "הארץ",
@@ -4021,7 +4119,7 @@
   },
   {
    "id": "0d802fcb53ec919a",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "סרוגים",
@@ -4037,26 +4135,42 @@
   },
   {
    "id": "3f205d5bc6483480",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
+   "sub_source": "ynet.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "left",
+   "lean": "",
    "title": "לקראת חידוש התקיפות נגד איראן? ארה\"ב שולחת לאזור נושאת מטוסים ויחידת מארינס",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wUE55emp2UWdHaEtMTElXaVlmSkNXSC1KQkd2M09URzYwc1dXMExuM3lSX2FyM3F2Z04wX3FyR2dDLVMteTNKZks4Q3NXTlRPc2FOdXhkRTNvZw?oc=5"
   },
   {
    "id": "1dd74f9fb0b96fd6",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "גלובס",
+   "sub_source": "globes.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "לא טילים ולא נפט: הנשק האמריקאי שמכאיב לאיראן",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uWmFSWDZmdnNwaDdDcmJzMnVUNWFnVEpSUmpQY2RaMFlyTHBVRXczZFBnOGFZNjZxdEZjcnNfMUJ2czRlZy1FZVdhMi0zd0FtemFlMVFpT0xSMXVGR25DRkxUSWtiQ0RI?oc=5"
+  },
+  {
+   "id": "780bcc776844174a",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "מעריב",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
@@ -4064,12 +4178,92 @@
    ],
    "score": 9,
    "lean": "center",
-   "title": "לא טילים ולא נפט: הנשק האמריקאי שמכאיב לאיראן",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uWmFSWDZmdnNwaDdDcmJzMnVUNWFnVEpSUmpQY2RaMFlyTHBVRXczZFBnOGFZNjZxdEZjcnNfMUJ2czRlZy1FZVdhMi0zd0FtemFlMVFpT0xSMXVGR25DRkxUSWtiQ0RI?oc=5"
+   "title": "\"כמו הסנקציות על איראן ורוסיה\": התוכנית לחנק המשק הישראלי יצאה לדרך",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wQWR4VFh4QVBoU1lRaGRPYV91ZGhRWHVnOW1zMmdrYVh5bzB5ekZ5ek94RjhVZEtOZ1dvVnFYeVFkUjVmenhmOW5IWEFSNGl1RXhSVlJsY1ROM0JlalZ5ZjA3Z3dBZw?oc=5"
+  },
+  {
+   "id": "236ab52fd1bdeb3d",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "تسنیم",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "רזאיי: לאמריקה אין עתיד באזור / איראן עומדת איתנה",
+   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPMzZMclBhZHJEdzB6Y2xpUmx0LWZTNU1SZmdDNjRhNVNwbXJqXzhBRC1sYXN3QVVqXzM3OXV0UzZaY3U4VlluN1NpOUd1cWlpTXlmTVVXT1hxSU1PR3c3SEx4MGItckkwQ05HRkd3SFFMYmlvUURmZE1lOG9kRGE4cW9GSjU1Rzc2UXdjVklXbkJ0Q0ZfaHlTN3RuM1UybWo4SGE4bWNFUEtnOC1lWkVxbGdZblBrVDhOaU5kY3k3MFZVUDFCRnhDT0M3WG5xLXREN3pPa1ZnZHNmSzdtN3pxNnZjMFQ1bmctS3VKeDNQU3lveUhmNmVveFd1bFZxQnppNXJ5WmYySlVFak1hNHNLdTVON19aczNEYmQzRDI4ZU5Wd25obTRkZ1ZGVlJpNjRUMDdUYlZmWjkzNjBFcEVCa3lnN3dwR0JBaUI1X3pCT1JScVBvZER6TGRZWGFNZFFrazI0NUVhV2FUNGl0RnZ3bUFrRHZyWDlrT0NlUEgwLTVnUEdIM3B3NzBzcnBmZzBCbXo0U2xGZ1RSR0VSWUZOMWJja0LSAaoDQVVfeXFMUGxXS01BWHlwaWgwVHA3MVdERnJCaFhMQ2t2LTU3VzMtYXBGd1Z5NHJtVWdGcG1ZYU5fVXlMSkEzUDBEcklneTgzeHdpOXBCQ080ek9UT1FSbU1JNUFlZUdJVzIwaEhMOTZfMTR5VjBaRVV3UGlQMlQyTzV4ZFI5UGhoMEJnWUtaWXNhaXlxajBydlgzZVNwN0RLNkppUHlXMlRoOXRrMmpDcHNLY2xaRC1LN0c0R1FZVmtoZGc2WnNxLTRDY3ZWV3pIeEFYdzZCdnJENjNONFl4QkhBRXNOaHpHbGtmT3ZkTXR0ZkJTakY5MzVpMDBFNGZudGhpekJUakFrQnUxN0V4MEJ1alRGUmdmalhEVUFFWVlnQ2xlZTYzbWZMeFBBZG43RkczWl9sMUdVWk5FYjNhVWNkVFl2Vkcza1lZWDB4WHpQc05BSzFydVE2T1llVUtqa3RsTnE5bXhGUGk2MkZRM3BJYWc0azhnSldkdEdmUzRUenR5X2FZbjZFeVJYNTlfTVY3R01ybTdOeVdUaEI1Mm1zaWh5ODF0N1p0dGZkaGRR?oc=5"
+  },
+  {
+   "id": "2a308c50d5ab3467",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "ynet.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "איראן \"מוכנה למלחמה\" ומשיבה לטראמפ. הדיפלומט הבכיר מאיים: \"הכול פתוח\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdmt4RXl6dkxVQ3BILUViR1ZJX2g3b2Iwb0llWFQ5cGFjQi0tUlBsVEZwZURNR05fb3lEU3RZcmhaT0lpNUcxNFF4UDBxTFBDMFZlTEZ3WnNmQQ?oc=5"
+  },
+  {
+   "id": "1cb54ca3cc3082c1",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "מעריב",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "בישראל ממשיכים להכחיש: הנקמה הייתה באוויר - עכשיו הגיע הרמז העבה של איראן",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IXzJLX0R3N2hRS3lTMFgwUjJPUzlrNjdfaTkzeDBONlJIalZnM1FMaTN2MWJtRjdRMzV5MURzaXc5TE9XZzdDbTZzMFNrRnpDVmduazRCazhuTS16RFkzVQ?oc=5"
+  },
+  {
+   "id": "79ce606beb1edd10",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "تسنیم",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "תגובת מחסן רזאי לאשליותיו של טראמפ: איראן היא זו שקובעת את המציאות",
+   "link": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPLTZlQ19lNG80c3JTWm5oN05XdC1HY1dobjh4cFdTeFVJWWdLdXBoVUtabVRfbXgxOHBpVGlaeDlidDFZZUxPY0VscE14Z2h0QVdWaGxKOW50M3NkY3Mxb2JuYXFQdGw2VFBIZzhmbFprckZpSlNaWmkzOS1EXzF3N3VoY011OEN5VVU4eDN1WjNSVnZrT3dScFhFWF9IX0JYbHZfNnRwY3ZxeC14UGVaT2o5UkRBN3UtYi1ZVXRMRFZtbjNUbUM1dWc3QUhDNW90NmdXYnFUQTlOc0U2bER4aUtPUHV0WmhLcmNZb051OUlwbjB2RUlQTjdrNmZGMXVGM2pNQW1wZ2R4N0JmR2R5WlU2cS02SUZhSVY4UVpRbGhVcUluTWxIcEh3MGpLcWYycXRoZ2VmOHZhLUFfZXlMYzdJSDdkYTJQWU9CdnVUbkgzVlVRTzFDdXJuV3hhcGw3MkdRNG1jSDZzc2lJVGM3TUlVNjNTNzNWbkR4a0s2UnVoM2RYNWEza3B3d2RIa2J4RkRweUVmOGRIaWtjY0JEN1hMc3lvSzNDWHJNRTNHa3p3WHpCallqdVZfUl95a3JFRVdTRGZ6MV8zTThNMmIybk82Y1RBcmdiYUJYWjN6VkFIQldKV1lrc0JjNmxkQ3dKdDVyN0VOUHg1LU5XUGNqM1NzNzVqZEdZM2lydkIzenNzYUpwajhVR2R3eS1yYzJwT1HSAacEQVVfeXFMTmwzT3V2bGU4NTZNbGUtVDNoX1c5NGowdjE1UkhhbkhQSFRXQ2lIcTF0MGNxNDJwa1JEUVhxc3FHYklGRWFscnRxMFh0NGxfRnNxUFd3Y3NIelFEdlgtNVl2Mmg5VFd3b1V4Z1ZsT2Z4dWpxZHRINnYzV1NiczJUR0E4TTdRdUMtMVZkcUJYajlRNDlzdUZlQWhLNVFsQUhOb01rUDhELVJGU1RqUlZSakJ3M1ctS2E0V3AwcWJQYkhlUU1NSVZNVUU3UThabFh6U1d6NkNDN0dTV0JVemtrT203dnVmXzlhM0xycVI0ZDBvSHlDM2o4Q2VUMXd3dzRTRGtNZUNxcklUMGpfV3MyZWxldHo0ZTFPM19JVGRzb3F5WmlNOWVxZVZEYlNMYTBhQzB4MTQ4QndZeEZwVExBajhDNWxMaU11eTBnUHJIeGxaT3RxOWRzQ3BYSW1odW1UVDdhblhhWE00cU5Qa3NMeERwRF9US3d0ekFyaDE3M25jMlpPcHg3NTRjOUJxOUZWSFpZTWtFbDlNTlJEejFGYTZfY2RETFZ1WEl3V1FBRktta3o5VkV2WlIwZzhZOVo0WkhHUVJLakE3VURLZzRpemVPUk9kejc0SkRjbG1ySTk5ek5PNlM1Q25OU3Rkc0FUX3d5RHRMSEdSb2c3VEtPUDZNSlZFNmNNYmg2b1RVYWpHUEkzZkpSakRrUkZGZ3Y1V3h0eWJyWEk?oc=5"
+  },
+  {
+   "id": "b450e03d61cd8336",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "تسنیم",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "צפו | החלום לכבוש את איראן הפך לסיוט של ארה״ב!- חדשות עולם -Tasnim News Agency",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNQ2tXOWU2MnEzVm5yT0RPSHN5VW1mZzZJaWcwNWtoWGdEeWtXbzdJUWRhTmhRODFWcEhOSFA1UUJBUVlWdUtRY2RiYmtVU1QzbHg1SjNnODJSdFdsYnVKTGo2R0JNaGVLTmVuVzhpVTRjOTh3Unk2R0hXZ2NyWDcwblhLMWVzeUFLRURvZTJZcHFoRldBSktMbEs2V1hWSEpLNDItYXVqSnJ5NExLYWNkejFQcnJEZlp2cHVDaDFYX0M2MWdFRkFZbDE5SlA4VVF4eC1DcU5SZXEwV2pvRWE4MUtRWmFmODBFNHhKOGJNcFNPMmFiMG5VVlc5LTdBaGVZbUQ3UUVIUXFkSkNIb2VONTNpdUtRLXBRdEJtbk10R3ZJX19relpXdl9Pa1NzTm1ZWC1BcERoWmk3NF90UHE1a3JoeHd6Y01ucFVmUlNVeEFWd1JSQnQtSThIWWxEUDJZWUpzbksySGxOOTN6R0dObHk4Qjl4MEdUV0RaSEZBZw?oc=5"
   },
   {
    "id": "41bccb7352252d48",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "تسنیم",
@@ -4084,8 +4278,24 @@
    "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxPWlhIdGpVVGxyYTlCU2g2bGFNNTRVbHFvb1F4bVJVaHU4NTZBYUFPWVBOZ3ktVEtXb09KcVNRSFNPZkFSdXFzQmdXV1ozV3RTX3BFUzducXNqVTMzRmFNd0JrcEM3eDdSTDBnc1dUOFJqT2xmazl5LUlGQ2xCTEJfRm5tamRaTzdHdFp6YkVsSGhTejhMcWhBUkZoUVRzNzZLSU51LUJVcWF2X3NvTVRRRFNORUt0aXpDMW8wVFRKc0s4N2JpRld1R1h4cGN1ckFFSjd1U0hIZTZObXFOSEExZFg5MllqUEZuNXZRNVZqZ21YZ0lxMXM5eTQzcXNWQm82eXpaN2ZTOHZqQ2h1eExybzZOT3hGQlFmSUVqbGw2M21BN1YyeTRPZVcxUkQycUJPc1ZuVGN2NFk3cnhqVHk4cHE5Z1lEWWRkZGI4MDBBVDM0ZzVYRWhNb0tWZy1ZaHczQkYtU1NTdFREbk1mbURzdWw2OXN0eGQzWW53ZDQycFBvdEp4ZTFUQk9kVE1ieVpQd0IwMmNwV293TTdONDdUUTdvU0NwMEJ1eGVLeEdDTGFYdWxfcktjbzlwUDJFYlhEVDIwUFJRWGNNOFVQbktRQ1dxNjFFa1ZEcXItXzZTRVJNaVF4a2NqWm5tOGpMSnFkODYxNWlhTGVJd2E5aXN3RjlRcElpT0VWRDE3LU9OMHpUenZTa2w1YWpHOXpKWUJnbWpvUDJxYzRpT2wzUlJfSNIBtgRBVV95cUxNbXVoZ3kyOF9EOXd4YVhkNXlMZF8yZFdqN1NBdW1LVlRPLXVXclg4Sm8wYkExZHdoNkdWaDVqUFJtNU5iVmFPZjVvZnkxVEUwNUR2aDI1YVY3WUJIUHJsM3RlamVXNlBCUW1XNzFYNWdzNzRRTDJRR1dZdFc3WDBHQjlIR2pWeXotRlpTMmZRbUItODZSWUNvRng0TVBDZEMtXzFVV2xnaUpYOWxEd2NFMjBYcTVFdFFKODBsQkRtc3NnZEpNT3htZXh1QjhhMk5DSXJNLUtOc1o0NnlmaWphQ1Q2QXJDTkdoczY0SHliTzRQYjhqV2Vla01oVnlmdDJxSWdRbjBMcUM0czA5eG1OejVtS0xmZE44SHZQUWI0RDZhalZIakE4NksxY0l6M2JxdFRwZTNIU2Z5SWVmNWhUN0o4NkhxNEhzbzlma2hDSXVMejJZSl9TNXQ1MXR3bi00VGhvSENqUnZLSmtLemhLb01VdEtYQTluMWo5dGkyRGE0OUVXa3A4R3VXb01IVXY0enh0N1FDSkNvbnpKUGpSanBiTnp5alhpaFVTTnNYN05qOHI5MTg1N3F1QkdicWN1aFplc2xXVFo1UHVJR2RnZkFwczgtVEh4RU41RTBORXlpd0l1Y2xvdXBBUUVZeTU2UkpWSTdzSU8yd1c5RVN3Y3JlYVVuNmpuSWFqcm1vaVlxeFE4b1BtajJPUEZKZmt2UENXRDZ3eXB4TUs2SEgxbDJPMVBTZw?oc=5"
   },
   {
+   "id": "aeadca83b110da82",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "ynet.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "טראמפ דחה את הצעת איראן ל\"הפסקת אש לשבוע\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03NlliX01SdEVJYlV1d0VrVWY4d3lQblhfdVZBdjRZM0NUV2QzZ3RNUzFDdnBncE1kOWdnUHlIZ2pkc0xnYkd3ckFKN1VwUEpFQldrY0tVTXNiZw?oc=5"
+  },
+  {
    "id": "3577597e8c98781b",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "סרוגים",
@@ -4100,136 +4310,8 @@
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOTTRsQVcwaWcydXBDSThKTDZhQ25TcF9lNjYzQ0Ffb19sbDJnVXcxTENSNTJrak1jTlRqWEUtWkxFLVFXMmIyZm8tZF9KcU4xQkM4Ny04NVh4M0FrMkpPVDRIWmxtOFN0dWlxQVlVelcwUzFhYkcwR2NwTWZrUmc5SFAtc1JiT2x4bjBBRktuQTM4OG5xcFJFdF93RGxyV2lsOG9HR0JuUklPVUFuRTBaQ1BNM2JCdWFuakJya21QS0FxY09pSllVaVlEU0p0SEg0WEh2ZGJ2MUFvb3JxS3AzVUZEYTcwZ2pmTGd4ampSUm4xd1QzcVpPWDJKZ2NHZHFVdlltNGYzTE5iQ0hkN202SlluMXVqX3dFUVAxRjFMOEozY1ZoSzh0YW5tNnhtQTByRmdPeHVScnl3NUMtYnYyNk1YQjFSOS0yZld1eg?oc=5"
   },
   {
-   "id": "93ad4d5c1cd3f8cb",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "בלתי נתפס עבור משמרות המהפכה: ההתפתחות מול איראן מובילה למקום אחד",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ya0s4bG5Zdk90SDJZN2FkaFlrMl8zbUpoYlVKRy1aVGlESzBMSU1zaUlMUnJWa3NQMzlZUzNTVVNTc1pIQjJHSHpmM1c2eTlvTmVBU0NESzk5V3o1WG4yV294SkQ?oc=5"
-  },
-  {
-   "id": "dfe1d7a49b7def60",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "כאן 11",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "אחרי שטראמפ דחה את ההצעה לפתיחת מצר הורמוז: שיחות חדשות בין איראן לארה\"ב",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLaEwtTnB2anA0QlhBRmx1cmNBRG4zVktCLVhDaXRORmVld0loRDVuNnJPV19zSXZFTDdNWkNRZXRwTG1VVE85clJLb0puTzZtdk94VFFUWVZoclpULTc4ZERJa1VGLWM?oc=5"
-  },
-  {
-   "id": "2a308c50d5ab3467",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "איראן \"מוכנה למלחמה\" ומשיבה לטראמפ. הדיפלומט הבכיר מאיים: \"הכול פתוח\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdmt4RXl6dkxVQ3BILUViR1ZJX2g3b2Iwb0llWFQ5cGFjQi0tUlBsVEZwZURNR05fb3lEU3RZcmhaT0lpNUcxNFF4UDBxTFBDMFZlTEZ3WnNmQQ?oc=5"
-  },
-  {
-   "id": "a318a83b5c3cacd5",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "ראש המל\"ל לשעבר מזהיר: איראן שחררה את האריות מהכלוב",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lWDVJS1BOVFZnU3BrdjBJVTJDRHdZOEJXdXdra2JZUXp2bm1PcGthWG5RTW54RWc3Qzd0TnhZUDRXZy1GS2lTdEp2dXp4UTVKVzlZUmZjdGVHZ0psUkZYdzZyQ3c?oc=5"
-  },
-  {
-   "id": "aeadca83b110da82",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "טראמפ דחה את הצעת איראן ל\"הפסקת אש לשבוע\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03NlliX01SdEVJYlV1d0VrVWY4d3lQblhfdVZBdjRZM0NUV2QzZ3RNUzFDdnBncE1kOWdnUHlIZ2pkc0xnYkd3ckFKN1VwUEpFQldrY0tVTXNiZw?oc=5"
-  },
-  {
-   "id": "31467f07185499c6",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "בריטניה מצביעה על איראן ב\"פיגוע שסוכל\" ליד הבסיס האמריקני; טראמפ: \"תהיה תשובה\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DM3pyNzNFMHNBWlNlVjlDTGt4bTFvT3VIaEtFYkVEcVpVZUN0aUNlb1RrZTFRSkZHNEdBcDdFak10Sk5ZRDZJeWpWeEtKQ3Vtb2ZpTnZIMG5adw?oc=5"
-  },
-  {
-   "id": "1450cd4b4a0faf83",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "כאן 11",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "דוח מיקרוסופט חושף: ישראל במקום השני בעולם במספר מתקפות הסייבר; המקור העיקרי למתקפות: איראן",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNzZxV2VJUEtaOTRKSy1veV9qNHZVQUtJNTNia1dvd2Rqb0NqelNUVW1LVjd6MGFVamhjeXAzT3BFbEZ5RXpfVjlSMG9IUnVFVG1GVXljN3lNZnhRNURsRlhuVGZ1VlU?oc=5"
-  },
-  {
-   "id": "c5bafd57d01016c7",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "הארץ",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "דיווח: המתווכים לוחצים על איראן להתפשר בעניין הגרעין כדי לחדש את המו\"מ",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0NTVVk4c1lVaFJfNXl2QTh2ZnVES1ZHUWNzWlFRWmNHLVVwU1JpUlp4ODhHbnZ1TWZZQWVmdDVSUkQtaFo2MDZTdUJmMHBHZlkwNkZlbHRKbDVOTGk2bF91Yko3U2RwbThvRmh0dmRfU3VadktNLW9KTi0tLWFBZHpPeFpOYmFqbEZXMFhXTmV2bDMtRjEyclpsTjNZVTQ4SHhVMFI4NDJUVm9YemRFSW9SQ3R5VU0?oc=5"
-  },
-  {
    "id": "b45ce8da2e770ae1",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "הארץ",
@@ -4244,8 +4326,72 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1hBaWtMVWFvcy1oQjVLcC00cWxlaDlpWE1pRXowaUhCRkVaSU5FR0c2eV84MGZiLTNuYjV5OTBNQWFzVjUtZHBhVG9XRXp6WEZwejFoOEpIVUV5QnRtY1BBdEZFV2JwNS1TZ0JKRS0zTUVzd0twU19ZWWdJS0Fqdk4xeHdjZDZGWVp6SF80akhWSWJFaV9qWjh6UDdnbEhSVC1pY2laM0FqZw?oc=5"
   },
   {
+   "id": "1450cd4b4a0faf83",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "כאן 11",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "left",
+   "title": "דוח מיקרוסופט חושף: ישראל במקום השני בעולם במספר מתקפות הסייבר; המקור העיקרי למתקפות: איראן",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNzZxV2VJUEtaOTRKSy1veV9qNHZVQUtJNTNia1dvd2Rqb0NqelNUVW1LVjd6MGFVamhjeXAzT3BFbEZ5RXpfVjlSMG9IUnVFVG1GVXljN3lNZnhRNURsRlhuVGZ1VlU?oc=5"
+  },
+  {
+   "id": "a318a83b5c3cacd5",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "מעריב",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "ראש המל\"ל לשעבר מזהיר: איראן שחררה את האריות מהכלוב",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lWDVJS1BOVFZnU3BrdjBJVTJDRHdZOEJXdXdra2JZUXp2bm1PcGthWG5RTW54RWc3Qzd0TnhZUDRXZy1GS2lTdEp2dXp4UTVKVzlZUmZjdGVHZ0psUkZYdzZyQ3c?oc=5"
+  },
+  {
+   "id": "c5bafd57d01016c7",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "הארץ",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "left",
+   "title": "דיווח: המתווכים לוחצים על איראן להתפשר בעניין הגרעין כדי לחדש את המו\"מ",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0NTVVk4c1lVaFJfNXl2QTh2ZnVES1ZHUWNzWlFRWmNHLVVwU1JpUlp4ODhHbnZ1TWZZQWVmdDVSUkQtaFo2MDZTdUJmMHBHZlkwNkZlbHRKbDVOTGk2bF91Yko3U2RwbThvRmh0dmRfU3VadktNLW9KTi0tLWFBZHpPeFpOYmFqbEZXMFhXTmV2bDMtRjEyclpsTjNZVTQ4SHhVMFI4NDJUVm9YemRFSW9SQ3R5VU0?oc=5"
+  },
+  {
+   "id": "dfe1d7a49b7def60",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "כאן 11",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "left",
+   "title": "אחרי שטראמפ דחה את ההצעה לפתיחת מצר הורמוז: שיחות חדשות בין איראן לארה\"ב",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLaEwtTnB2anA0QlhBRmx1cmNBRG4zVktCLVhDaXRORmVld0loRDVuNnJPV19zSXZFTDdNWkNRZXRwTG1VVE85clJLb0puTzZtdk94VFFUWVZoclpULTc4ZERJa1VGLWM?oc=5"
+  },
+  {
    "id": "0921e373f35fd42f",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "הארץ",
@@ -4260,8 +4406,40 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT1hiY2d1WXhsY0tiajhMb3pvYlRlRGtYYzVwbzQ0QU1QRXhtVEVZYVlsSG5vSThyZ2JEZU14UF8yMDJvb3paMXBiZmdadmtpWHpEcUJTUkt5bWpBUXlpT2xrQWNYbUU5TWo0MWp4bFc2T3kwWld3Nk85VEtGYW1NTDhjOTNlUDROeng0N0dVRlQ1bXlmWWluQzBWWF9PQkNkVS11RlNyZ0E0dk1CMHhfTUlNRThHaEE?oc=5"
   },
   {
+   "id": "98ae1813d2511b17",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "הארץ",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "left",
+   "title": "נתניהו: עוד מוקדם לקבוע אם איראן הייתה מעורבת בניסיון הפיגוע בטיסה, אני חושב שנדע בקרוב",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUJ2aG5CRC1xWlc4OWJwbl82X0pPZFhzWlMyNzBJOFRCZ251MEpjSEJXRGJpQjh1NHRYNjJGVkoyM05kNTlFZk9EcmRzNktndHlXMko5Y25QMWlzQTB4MWQ4a2ZzdVZWVm01ekhaQ0JVQkVmUEw5UXVmajA3d0VJejd2T3l2REJDdjAtai1KSEl5MDYxdGJoTDdUWGMya0E?oc=5"
+  },
+  {
+   "id": "66c4302a89a00473",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "Vietnam.vn",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "משמרות המהפכה: איראן עושה התקדמות טכנולוגית משמעותית, ומכינה \"הפתעה\" ליריביה.",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzVvUnVmdVlFV2pZNnFYUV9kemR5aU5BRFBYWUFuOUVZbTcwSW43eFp3VDRyVHJPdFpaOUotRFBHUlhKTHM0bV9PelNMcnB2RHZxZS1yTm1aQ1BaWGhmRF9oRWVpTFgwb3AxWnVFSjZlUzY5cWNrREtxR0F2anhMWVhNb290b2cwTi1nNkF2cW8yaTEwaUt4WVFEWQ?oc=5"
+  },
+  {
    "id": "f32e6f1a7bc744a1",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "mako",
@@ -4277,23 +4455,23 @@
   },
   {
    "id": "05d1d403c2a1b936",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
+   "sub_source": "ynet.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "left",
+   "lean": "",
    "title": "טראמפ דחה את הצעת איראן להפסקת אש: הנפט מתייקר, הדולר מתחזק מול השקל",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1LUM1WG5rVHFBVlNvNUpybUx5cnhyQTNHUEJEcmRYNFRCZjA5ejVoTmJKTkxhV2RHWEhHbDRob3BaMHRIcWVKc3pmZkx0Y3pHaWMzOHA2UFBtdVJaN3Vj?oc=5"
   },
   {
    "id": "f38cb82215a9c670",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "Investing.com",
@@ -4309,7 +4487,7 @@
   },
   {
    "id": "993b721902d96775",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "היום",
@@ -4324,24 +4502,8 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNE12bTlyeGtESjRLQ2tlR285akozRk9PNnFMTWNBakVRZTd5dmlHTDZjaE5rWTNSenNjWU1fSFhSZDZNb0FMVXdQZXJ2YzJDZm5tN1NpVDNDcE5icU1NeVREcXM2dmVZcUFqcWpZdjNQWVhIRGhydnV3OVBtbkXSAYcBQVVfeXFMT0NvLUJJWVI0UU42MHdyT1RvNTFqR0Z6c296Q2FjdDlqTEliUzgzajRoRV9jZEQxbUxoVVpiOWpINHE1eEprcDFaSGFidkZTRHVfaU90ZEMtOUN4Nk11WVp4R2loSU5DejExN2ZWUXROLUFMMXdUWkNPWS1xSFpzRWs4VlMzd0s0?oc=5"
   },
   {
-   "id": "d30ec2ada9744a59",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "המפגש הסודי בין משטר א-שרע לחיזבאללה - בטורקיה: \"גם איראן ידעה\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaS0FpcUhzMENfSzBGZEtwSVNEaDUwWURXNEpzM2htUTJMYTkwVktTOWVBOXJGTTF6WkhLTFZtLUJsaXg1Y2Q3YWhXM3oxTVVFamNMbi1oVS1MZw?oc=5"
-  },
-  {
    "id": "0098a5711d14fe97",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "סרוגים",
@@ -4356,27 +4518,11 @@
    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNjJZczQxVWxfS3BjR3NxbkIyMFp1YXpMbmFHbGNzSmlIUEJhQVd0Nm8zdzRQWHAzMkJmdElIODFDc2JZMXpTb1AtazV1VEdRLTFvLXB4VFFfME5JNWF1MWhKSmZFaDBjUnk0dGpGNTYxUTZWOTVZaWNpdnhINWhZWnBWWVhka3FfUC1wcnU4eHFtYzkwbENUTnRUUlZteGM1WEtRTnA0VHdDWTN1eUpxc1JrOW0xWlkyZ3NhR0h0UE82cTBRWkxuaTkzQlc0dWlWTHZMQlFlSGVRSUFlREVtbnQxdkZacEJMckFhYnBnWXFTNklRbnV6UHZQSkFVRUxSdDJKd2FXQ2w1YmFsTEdIYWtaWjFWUUNhcW5KUEl4cF9BZy1lRnBRZ3VNNVZGS0FFNVhCczQ2QzVGQQ?oc=5"
   },
   {
-   "id": "786c17027ac195b1",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "0e7b720bf95d0e3d",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "זמן ישראל",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "right",
-   "title": "שר ההגנה הבריטי מסרב לקשור את איראן לחשד לניסיון פיגוע בבסיס שמשמש את חיל האוויר האמריקאי",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yU09oRjY2OGFxeDE5OHpOaEU5UW1BeDBmcWI5U2I4SWNZb2xpYzFXMkNoRjAzV1ZkVXhKM2htV0xrVjd0bFRWRnFWRQ?oc=5"
-  },
-  {
-   "id": "8eb841c50aa24006",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "הארץ",
+   "sub_source": "TheMarker",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
@@ -4384,28 +4530,12 @@
    ],
    "score": 9,
    "lean": "left",
-   "title": "בריטניה חוקרת אם איראן עומדת מאחורי המזימה לבצע פיגוע בבסיס חיל אוויר המשמש את ארה\"ב",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlE2ZkotSUVleXFsdGE3U3NxUXYtMkxPSWpsNG9JN0FldndPTE9VdlZycnp3OWhuRHVqcHN2dXNCOU44WnVpRl9tUGlhSWllMEl1OXo0SERBc0x0QjhtMmRJZG5yTkE2clNOMm41enJVQ0ZWajB4Yks2d2Vwb0VKcUU3b1doeGdwRHBJcjJXQjhJamVqckZSUVpjY3hXam5EQ0d2eno3SjBCbHozMm5mRg?oc=5"
-  },
-  {
-   "id": "1ccc38315d9acadd",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "כאן 11",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "החשודה - איראן: ניסיון לפגיעה בבסיס אמריקני בבריטניה באמצעות חומר נפץ",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpRHJta1Y5elZ2NVZSQnpYSUs3VlNEdmlGQlk2R0hGcjdndW5rd2FmZTY1eWs4N3VVdXFzT2NOS3pVX0xEeGU0Tnd5R0pDSWlQXzJuNUhnRERhMmlycjVIU18zOVBnZmxNMHVybkNVNWRmUnVHNEE?oc=5"
+   "title": "\"אפס הורמוז\": יורש העצר של אבו דאבי ו 300 מיליארד הדולרים לעקיפת איראן",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnMxdUlNYU1lU2dwYWNDdF92N2kwbDlrM3p5YlpnQTl1Q3hhN2xRY3RuclJveVhRNUxXUDVsWEZZSU93ejVqYWNjOGlBNkpuRTk0a0c3eDhLYmt0eHV5MUdRZWtEM3BUc25YMHlmVmFYdnhnZFB5ZHJwSlB1M1ozVzFxbENwODVEWlo5WkN6VDNaSUc0S0tTZXNESUgyVUxkSEJ6QU9NV2FINEhyMG5McWVEQQ?oc=5"
   },
   {
    "id": "05770de148876c10",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "מקור ראשון",
@@ -4420,72 +4550,56 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ia3ItN3R1QWZ4VjF3STZWQ0w3YXZodXU5ZUlkdnFaUE8tQVFESTZYSVZzSWFuT0hSZUQ4MGJRQ0pQOUhpRzd4bVFiMDJDTHc4RTliVmFCWWh0cF9ITTlrUU5ZdkNFX1J2ZFVWRQ?oc=5"
   },
   {
-   "id": "d1e0f02596de5362",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "786c17027ac195b1",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
+   "sub_source": "zman.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "center",
-   "title": "\"חומת פלדה\": טראמפ דחה את הפסקת האש של איראן - ולעג להם",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lTWw0bk84RnFuRTdjWEFnSVNaOUZXNVFELXJyTGdlbThCUTV4emtCdk9kQVhlMmpOZFVmRDd2SFdwY0RxclJuSWd5WUVCN21xektmRTJFdE5uX1VhZGVaYQ?oc=5"
+   "lean": "",
+   "title": "שר ההגנה הבריטי מסרב לקשור את איראן לחשד לניסיון פיגוע בבסיס שמשמש את חיל האוויר האמריקאי",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yU09oRjY2OGFxeDE5OHpOaEU5UW1BeDBmcWI5U2I4SWNZb2xpYzFXMkNoRjAzV1ZkVXhKM2htV0xrVjd0bFRWRnFWRQ?oc=5"
   },
   {
    "id": "0a2f9f99317e0296",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "זמן ישראל",
+   "sub_source": "zman.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "right",
+   "lean": "",
    "title": "איראן משקמת את אתר הגרעין בפרצ'ין תחת מעטה חשאיות",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JaXNVSkVPOUpPZU9RMENUZ3BXWDhrRy1sWDI1Y19SR3FzRFJ1NjJGbWpDdUt6Qkl3YkxNRlVHU2p1Ukxh?oc=5"
   },
   {
-   "id": "b902b60f42041869",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "8eb841c50aa24006",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "היום",
+   "sub_source": "הארץ",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "center",
-   "title": "רחפנים ו-100 אלף נשקים: התרחיש להשבתת בסיס חיל האוויר - בהכוונת איראן",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xOHE0dkZJalNtblhSLWQ3Wkd5Z21FcTcwNlg0blp6VnVMYUg1aTdEZWN2V2tCNlQ3cWNRSjRmOGo4dzFzWFRydEFDeDRXN3RmZmFLaWUxVDRjOXNSLWduQUFZcUJraU1MLUFN0gFzQVVfeXFMT2FnUzZ6V09Ga0lpeWZaUHk3UVhZSUExcHdGdTUzczFvT0lXdjJrTV9iOS1zbThzYmE3dDlMNEJ6LTdoOEdubS1Bdkg4bnAtaFFCR3d1U2x6VWRzRkg1aV9RSkZjSWJmUEczSVpndjdjTHgzaw?oc=5"
-  },
-  {
-   "id": "9bff611fb3b84dd8",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מקור ראשון",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "right",
-   "title": "טראמפ מכריז: איראן הסכימה לפיקוח גרעיני \"עד אינסוף\"",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YdVl4WkVUTWdmS1h2U1ZPX1BPUHF4YU1xUnNldU96RVdSMWIya1lGSk40UldoRWhkTDdJbjhsN0FqMXdFWkprXzE2b2FuS3ZnVzVMbVEwbmJhRUtyUTAzU05sRjMyVHJE?oc=5"
+   "lean": "left",
+   "title": "בריטניה חוקרת אם איראן עומדת מאחורי המזימה לבצע פיגוע בבסיס חיל אוויר המשמש את ארה\"ב",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlE2ZkotSUVleXFsdGE3U3NxUXYtMkxPSWpsNG9JN0FldndPTE9VdlZycnp3OWhuRHVqcHN2dXNCOU44WnVpRl9tUGlhSWllMEl1OXo0SERBc0x0QjhtMmRJZG5yTkE2clNOMm41enJVQ0ZWajB4Yks2d2Vwb0VKcUU3b1doeGdwRHBJcjJXQjhJamVqckZSUVpjY3hXam5EQ0d2eno3SjBCbHozMm5mRg?oc=5"
   },
   {
    "id": "77215e295b02c7a5",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "מעריב",
@@ -4500,11 +4614,11 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZWZ6NWRPV0xWLTgwVVFoY0tBblVCM20yT09HSFdLMHlsLTJCQmczVGpoaXliRjZjRG9HRjFYWHV0MXlZRjBXUktIODVTRlFiRnRwQU9tXzJjZ2tSckdRSA?oc=5"
   },
   {
-   "id": "29afc509da58fd97",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "1ccc38315d9acadd",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
+   "sub_source": "כאן 11",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
@@ -4512,28 +4626,76 @@
    ],
    "score": 9,
    "lean": "left",
+   "title": "החשודה - איראן: ניסיון לפגיעה בבסיס אמריקני בבריטניה באמצעות חומר נפץ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpRHJta1Y5elZ2NVZSQnpYSUs3VlNEdmlGQlk2R0hGcjdndW5rd2FmZTY1eWs4N3VVdXFzT2NOS3pVX0xEeGU0Tnd5R0pDSWlQXzJuNUhnRERhMmlycjVIU18zOVBnZmxNMHVybkNVNWRmUnVHNEE?oc=5"
+  },
+  {
+   "id": "d30ec2ada9744a59",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "ynet.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "המפגש הסודי בין משטר א-שרע לחיזבאללה - בטורקיה: \"גם איראן ידעה\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaS0FpcUhzMENfSzBGZEtwSVNEaDUwWURXNEpzM2htUTJMYTkwVktTOWVBOXJGTTF6WkhLTFZtLUJsaXg1Y2Q3YWhXM3oxTVVFamNMbi1oVS1MZw?oc=5"
+  },
+  {
+   "id": "29afc509da58fd97",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "ynet.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
    "title": "נתניהו אמר שלישראל לא היה מודיעין ספציפי: \"נמנע 11/9 נוסף, נדע בקרוב אם איראן קשורה\"",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TzhMLTFwQm5ieGQtUkVybFAya21nSHRraHdfejhfQ280NzZIUHNHMExfRkpkMlNfVm1VSW9lYWt4MC1KYWZuMlRFdWZfQ0R0N0g1eEpYVXlJZw?oc=5"
   },
   {
-   "id": "0835375d1a0282f7",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "3cd5c4ba542aeca1",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
+   "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
    "score": 9,
-   "lean": "left",
-   "title": "מטבע הקריפטו שבעזרתו איראן חומקת מהסנקציות ומחמשת את חיזבאללה | דיווח",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BTFB2VER5WlBFQm5waE4zYWtBUVgwVFJ0SlJMWkozMmtnNDdIS3doalQ5eWtvVkt3aU15ZWpTa051cWhBR25PRVlmbVBqMEJSal9fVGhOaGNhQQ?oc=5"
+   "lean": "",
+   "title": "הבלוג של יוני בן מנחם - איראן מאבדת את קלף הורמוז ומחפשת את הקלף הבא - המזרח התיכון לאן? | הבלוג של יוני בן מנחם",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MR1lQQklNaTR4UzFyaGx0Z09hTTY1M1UtSm5Wb2g4cWFVd0Q3YUtJQ3VkVmdwY19MaGlSVm5rTVBDMzY1Sk1GeVhSR2lnR2prZENVcA?oc=5"
+  },
+  {
+   "id": "b902b60f42041869",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "היום",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "רחפנים ו-100 אלף נשקים: התרחיש להשבתת בסיס חיל האוויר - בהכוונת איראן",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xOHE0dkZJalNtblhSLWQ3Wkd5Z21FcTcwNlg0blp6VnVMYUg1aTdEZWN2V2tCNlQ3cWNRSjRmOGo4dzFzWFRydEFDeDRXN3RmZmFLaWUxVDRjOXNSLWduQUFZcUJraU1MLUFN0gFzQVVfeXFMT2FnUzZ6V09Ga0lpeWZaUHk3UVhZSUExcHdGdTUzczFvT0lXdjJrTV9iOS1zbThzYmE3dDlMNEJ6LTdoOEdubS1Bdkg4bnAtaFFCR3d1U2x6VWRzRkg1aV9RSkZjSWJmUEczSVpndjdjTHgzaw?oc=5"
   },
   {
    "id": "102c4a10c0e8512f",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "מקור ראשון",
@@ -4548,88 +4710,8 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SNEpHb2tIVWNzRW9pblpVcS1vSEVqcUNEMl9oNnUwQS11WkNXUGlvWlpuRE5hNU9hMVp6QTdndkdQU2ZHSGcyVUZsdDhfVWJhc1k5LVVFdkFia3RaaDBXLWExR20yWTdHMHd3YQ?oc=5"
   },
   {
-   "id": "8074344913c08053",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "arabexpert.co.il",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "",
-   "title": "הבלוג של יוני בן מנחם - איראן מאבדת את קלף הורמוז ומחפשת את הקלף הבא",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MR1lQQklNaTR4UzFyaGx0Z09hTTY1M1UtSm5Wb2g4cWFVd0Q3YUtJQ3VkVmdwY19MaGlSVm5rTVBDMzY1Sk1GeVhSR2lnR2prZENVcA?oc=5"
-  },
-  {
-   "id": "53f33d0e8e184a11",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "\"אינדיקציות חזקות\" למעורבות איראן: מעצר נוסף בפרשת בסיס פיירפורד",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LWGpERVEybENVV0tlbVlMYmNJa1A5bXZUQWMyZGx6V2ZVejkxMGQzUnRZbXh2eFNjMWxwT2J5aERRNFNxV0czb3ozWHJkR1VuMkEtdURlRmFIMDZENzhiNA?oc=5"
-  },
-  {
-   "id": "3350ab01c3700150",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "mako",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "פרסום ראשון: הקשר המבצעי המטריד בין שתי פרשות הריגול לטובת איראן",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2WVktVVgxNW4zOWxSM1pGSnhNMGxJRk9NV05VYWNIa0ROZTdWXzJpdzB6V3lVRXRsTW1NeXBuZ3lWbTV5WEY1UHF2WmJwVGZWVFQyLUs0MVRIbnR2cGhTc28xUjllTTMweFpKX2dvNmFOdHZCRFZMZ3dR?oc=5"
-  },
-  {
-   "id": "6201385fc9ec1b33",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "mako",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן ובעימות בין סעודיה לחות'ים",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50VFNNb2RYc0JUQWdOR3Y0ZEs2bnhQMDhIZDdfeE9mV1BoRXotRWJzNW1rWFdlQUIybkl6NmpGbUMzZlkzb0IxVThZQmhlOURQVlFfUElDZmRoNXNiZGltZl8xbDZZS1hBczRPNnlKZWt5MzRmcWhsck5WRXU?oc=5"
-  },
-  {
-   "id": "c695378f8ed15b30",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "שלוש שעות בניו יורק: המגעים שעשויים לשנות את המלחמה עם איראן",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YMTVZWGtMck5MRy1tUzE5NHotNnB3cDNObGdGUFh5UHRWWnE4OWtpTjhsODhXQUhQd3J3VXMzR19HbW1Fb3F6Z3dlLUJ1TjZwWmNYMmU3MFc5X2wwc1pRdw?oc=5"
-  },
-  {
    "id": "03d10b9fa1bb8e1e",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "חב\"ד אינפו",
@@ -4645,7 +4727,7 @@
   },
   {
    "id": "eaeb181613f2f00f",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "מקור ראשון",
@@ -4660,24 +4742,8 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BLU9RaGxxbkhyVmVKNm55RE5sSzNMUlJQSHNwNW9NUWFaV2ItRExEakEwZ1BMVUwwMGFvaXRqVDlKTGJSZEd6VU56TU1HU2FEaTlkSTZ3T1RMRzFuR2JNR044V051bHluZWdISg?oc=5"
   },
   {
-   "id": "d31aa1efb391b363",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "וואלה",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "ארה”ב ומדינות נוספות בהצהרה משותפת נגד איראן",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yaEF1SkduQmN5VXQ2QjV2cERfQmlNZlJ2Q1VzbTJGUjdfY3dfSVVrbnkxRmk0NXpqSUc0eTJSVHdYWUg2bXFEZHJtbFZqeF9GWW8ydUpGREpsci03N2FkNzFB?oc=5"
-  },
-  {
    "id": "e1b35ed91bd85c16",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "ביזפורטל",
@@ -4693,7 +4759,7 @@
   },
   {
    "id": "cd8ba78a1a95d105",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "היום",
@@ -4708,8 +4774,24 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yR1NGNEw5ek5nVzBqZmozS2F1RmxDR0UxV2VBT2xVc0VoNmhhNE1sUHZyWkdaSUV4UmhmdjY2SGRmWi1HcWNPci1XdV9uUW5mWnF3UnlRRWN0S0M3M3dieW50NnpuWEc3aS14YnpB0gF2QVVfeXFMTzhFbkUwbDUzZXB6d296VHFNSTdHRmV4eHhyd3RnYXhEc3RpWHNHR3FEU0dwY1NRU2laenpGVzFkb2RWTnFIVnpZREl0UnFJWjUwSWhkY2U3N0JOaVQ1SWRIcmZWS0FJUEV0SnVwRUdlMlE2UEVDUQ?oc=5"
   },
   {
+   "id": "3350ab01c3700150",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "mako",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "left",
+   "title": "פרסום ראשון: הקשר המבצעי המטריד בין שתי פרשות הריגול לטובת איראן",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2WVktVVgxNW4zOWxSM1pGSnhNMGxJRk9NV05VYWNIa0ROZTdWXzJpdzB6V3lVRXRsTW1NeXBuZ3lWbTV5WEY1UHF2WmJwVGZWVFQyLUs0MVRIbnR2cGhTc28xUjllTTMweFpKX2dvNmFOdHZCRFZMZ3dR?oc=5"
+  },
+  {
    "id": "8236414550bcf90c",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "ערוץ 7",
@@ -4724,24 +4806,8 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tR2twbGxyRVdLSWVfcHdVS1FqbDgxM3ZpZDFqQ3c1OXR4dVlweWRiWWE2SF9GZDdKUXBoRTZrb05iTGczMlU5MQ?oc=5"
   },
   {
-   "id": "f10e9a61040a5812",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מקור ראשון",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "right",
-   "title": "איראן וטורקיה מחוץ לחדר: העולם הערבי עשוי להתקרב לישראל",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rOUQxNjRZRzVEZmNSeFNsQ3VqcVpUekxLbUdKaWd1Q1AyUHpvZDhacDJUTTM3dTR4ams1Tm9DTTBaaXQ1QVZjWFlTS2dGSmpxTkNjYVZ5eklzUlVHN1RHQ1BFRUs2T2hUUW1pdQ?oc=5"
-  },
-  {
-   "id": "87b76d2e328a071d",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "d1e0f02596de5362",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "מעריב",
@@ -4752,76 +4818,12 @@
    ],
    "score": 9,
    "lean": "center",
-   "title": "קשר ברשת, משימות ותשלום: הישראלי שנחשד בגיוס בידי איראן",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1RjVzM1VNVk5yUXBMTjk5eUQxaThkRzBGVG9rYVZxaWgwbGttQzREUXNpVFVnS0JwZzBQOHRXMENCVm40TzBxdUFTek5lZFVnVG1WUkY0a2xCSmNrWW9YWGJ1aVI?oc=5"
-  },
-  {
-   "id": "e6b2bf18aa09ab20",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "i24NEWS",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "פנים למתווכות - ויד על ההדק: איראן ממתינה לתשובה, אך נערכת למערכה | פרשנות",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DNWF2NU9udDB4SzV2R2pMSnV5amdyalYxUWFlSlZ1cm1xSzRxZE41WXJ2NVNKcnFTc25JeVZ2ZW9pSnFNcW94QURpY25Da3NoSjRodmV5bFVSMU4ta24xQXRsNGV5VDQ3R0xzaU9ka3k5Mm8?oc=5"
-  },
-  {
-   "id": "6a10def50d315e78",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "שר ההגנה הבריטי: \"לא נבון להעלות השערות על מעורבות איראן בניסיון הפיגוע\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iUWxZOWYzWGdVWmJPSW1qXzBpb0tBZDl4UmJJWXBGWjA2R3dJeURBTC1FYUhQWTJ5eWV6Q1NLLU9sX1ptb2VHSkJMOTNvN3FkT2xZVk1kWXhadw?oc=5"
-  },
-  {
-   "id": "8db168fd2eaf6d26",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "YNET",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "בריטניה בודקת אם איראן מאחורי הפיגוע שסוכל, טראמפ: \"רצו לגרום נזק גדול למבצר שלנו\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fVXhSN1gzcFRQYl9CNXU2Sm5ZcjlMdUV3Q19lN2ZiV3FBalk1UDU3VHR3aXk2cmZOaHo0NG4wbWxWT3Mxb01oNEloNk1jMTROYm5FSlRObUlEZw?oc=5"
-  },
-  {
-   "id": "90f8daaffbb15346",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "ערוץ 7",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "",
-   "title": "נתניהו: \"מוקדם לדעת אם איראן מעורבת בניסיון הפיגוע\"",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zT2kxc3p6LTM0ZWZCRWt4QVFZd0NyMmoyVnhvMWtfUnAyX1hha2o2UV9wdzAxTnNoVXI3allWMGNmal9uSVRMUg?oc=5"
+   "title": "\"חומת פלדה\": טראמפ דחה את הפסקת האש של איראן - ולעג להם",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lTWw0bk84RnFuRTdjWEFnSVNaOUZXNVFELXJyTGdlbThCUTV4emtCdk9kQVhlMmpOZFVmRDd2SFdwY0RxclJuSWd5WUVCN21xektmRTJFdE5uX1VhZGVaYQ?oc=5"
   },
   {
    "id": "ded5e51d989f49df",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "מעריב",
@@ -4836,8 +4838,24 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtSVBzTFI5cDNLUDZJelFFWHlINnpqeTlqUFc3eFZKa2V3VmhMQ2duUEs3UC1NNm05ckZwVkdKclVEVmhJb1ktUHVnLWdnZWI3YndUWnJEMGFZZjU2WGdXZ296V3g?oc=5"
   },
   {
+   "id": "e6b2bf18aa09ab20",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "i24news.tv",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "פנים למתווכות - ויד על ההדק: איראן ממתינה לתשובה, אך נערכת למערכה | פרשנות",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DNWF2NU9udDB4SzV2R2pMSnV5amdyalYxUWFlSlZ1cm1xSzRxZE41WXJ2NVNKcnFTc25JeVZ2ZW9pSnFNcW94QURpY25Da3NoSjRodmV5bFVSMU4ta24xQXRsNGV5VDQ3R0xzaU9ka3k5Mm8?oc=5"
+  },
+  {
    "id": "fe522b1c81f8e002",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "ערוץ 7",
@@ -4852,8 +4870,24 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0dkZJaGZfOWxLNHY3STBZR3lJQlkzWlJ5SThwX0E2dVRaMGVZR1ZpSDk2eVc3bTZheXBPTGJIdVNhWFZuZkNJXw?oc=5"
   },
   {
+   "id": "6a10def50d315e78",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "ynet.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "שר ההגנה הבריטי: \"לא נבון להעלות השערות על מעורבות איראן בניסיון הפיגוע\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iUWxZOWYzWGdVWmJPSW1qXzBpb0tBZDl4UmJJWXBGWjA2R3dJeURBTC1FYUhQWTJ5eWV6Q1NLLU9sX1ptb2VHSkJMOTNvN3FkT2xZVk1kWXhadw?oc=5"
+  },
+  {
    "id": "d3872738b123e36f",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "סרוגים",
@@ -4869,7 +4903,7 @@
   },
   {
    "id": "e30c818e2f09b921",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "כיכר השבת",
@@ -4885,10 +4919,10 @@
   },
   {
    "id": "edf87e59ca101dff",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
-   "sub_source": "אנשים ומחשבים",
+   "sub_source": "pc.co.il",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
@@ -4900,8 +4934,24 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OEZSUHFySXBqUVFacFRRVlhKY1c0S2V5M1dRTjJibmhaTnUxMTZ1SGZicWJjc2UzbjZOWHJSWmNUeURRMHVheEdpTDdSZw?oc=5"
   },
   {
-   "id": "bb05934878e24d56",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "53f33d0e8e184a11",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "מעריב",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "\"אינדיקציות חזקות\" למעורבות איראן: מעצר נוסף בפרשת בסיס פיירפורד",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LWGpERVEybENVV0tlbVlMYmNJa1A5bXZUQWMyZGx6V2ZVejkxMGQzUnRZbXh2eFNjMWxwT2J5aERRNFNxV0czb3ozWHJkR1VuMkEtdURlRmFIMDZENzhiNA?oc=5"
+  },
+  {
+   "id": "90f8daaffbb15346",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "ערוץ 7",
@@ -4912,12 +4962,44 @@
    ],
    "score": 9,
    "lean": "",
-   "title": "טראמפ: לפי מה שאני שומע, איראן קשורה לאירוע המטוס",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lSHhDcHNJbERyQTZBa3RxTC1tZ2F6UVFLeFZweS1uZWEyWFNXWS1MOE5wQnF0MEc0dXVwWVVLU0FNZHh5UUtJTw?oc=5"
+   "title": "נתניהו: \"מוקדם לדעת אם איראן מעורבת בניסיון הפיגוע\"",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zT2kxc3p6LTM0ZWZCRWt4QVFZd0NyMmoyVnhvMWtfUnAyX1hha2o2UV9wdzAxTnNoVXI3allWMGNmal9uSVRMUg?oc=5"
   },
   {
-   "id": "66030e7f33171801",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
+   "id": "87b76d2e328a071d",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "מעריב",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "center",
+   "title": "קשר ברשת, משימות ותשלום: הישראלי שנחשד בגיוס בידי איראן",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1RjVzM1VNVk5yUXBMTjk5eUQxaThkRzBGVG9rYVZxaWgwbGttQzREUXNpVFVnS0JwZzBQOHRXMENCVm40TzBxdUFTek5lZFVnVG1WUkY0a2xCSmNrWW9YWGJ1aVI?oc=5"
+  },
+  {
+   "id": "8db168fd2eaf6d26",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
+   "source": "gnews",
+   "source_display": "Google News (כל האתרים)",
+   "sub_source": "ynet.co.il",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "",
+   "title": "בריטניה בודקת אם איראן מאחורי הפיגוע שסוכל, טראמפ: \"רצו לגרום נזק גדול למבצר שלנו\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fVXhSN1gzcFRQYl9CNXU2Sm5ZcjlMdUV3Q19lN2ZiV3FBalk1UDU3VHR3aXk2cmZOaHo0NG4wbWxWT3Mxb01oNEloNk1jMTROYm5FSlRObUlEZw?oc=5"
+  },
+  {
+   "id": "f10e9a61040a5812",
+   "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "gnews",
    "source_display": "Google News (כל האתרים)",
    "sub_source": "מקור ראשון",
@@ -4928,88 +5010,8 @@
    ],
    "score": 9,
    "lean": "right",
-   "title": "דיווח: בניסיון למנוע מלחמה - המתווכות לוחצות על איראן להתגמש בגרעין",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGMVc2c1FqbzluMUo1aTROT216b1UxNTBJamtmenVCMHRUSzN6UV9QQlU4bEFKUVozb0xpaEs3aGllTmZheEg3ODB0SWdEUnVHVUJsYnlRTkU3cm83RnU3Ujk2aUNqbnJveDJucw?oc=5"
-  },
-  {
-   "id": "1bf700084f4916fc",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "כיכר השבת",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "right",
-   "title": "וושינגטון נכנעת: הסנקציות על איראן נסדקות בפטור מפתיע",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jWHJ3eFBPQlRWT1IteUhBcHhwZlJpWmp3enpVSlV2Wlk1b2RjejktemlIc1FxbC10MzFVWTRoVFlSSzZOZlIzWGFNX0dldU5UUzltYlEzUzFzZ09hdHdxVXdmN1NVQ0J0MnZFRmVXbEhJVTN5d1VNMUhEVGZnUQ?oc=5"
-  },
-  {
-   "id": "2f11774c6a7c2643",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "כיכר השבת",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "right",
-   "title": "חשיפה בקונגרס: השיטה המתוחכמת של איראן - שעקפה את הסנקציות של טראמפ",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTV2Nzh0N1Y0SUFkV1ZzTlJObXhOZFl2bWJKdXYwZ0lPb2pIOV92NzBfNm5pOUJ0eUtmeWFIRFVjb3JGcjdfXzl4b1NIRW4wVzlPOWFYNUY3RHQ4cGpYMnZvaUxyTXlzZkJOZEFFcVB0OGVtRURRdXVnMjVRY1EtZW53?oc=5"
-  },
-  {
-   "id": "32ce9b8a7696aa34",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "הציר החשאי נתקע והדרך לעימות צבאי עם איראן קרובה מתמיד",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VX001QkM3ZFhtV0NrZmhRTHVYbFlCN29WSjlGQlp5eVlLbzZ5RmplNVVYU0pfSll1R0hTZVdZakZWbUhMNFVJQ1VnOHc3Umd1b0lkQl9uWlVCYjJNLUI3cw?oc=5"
-  },
-  {
-   "id": "ab718bb869f67863",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "כשאמריקה אומרת \"עסקה\", מה איראן שומעת? | אל\"מ אמיר נוי",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5QUcyYnJ4U2JZbU52MEt4STZJQnNVUW9vYXYwTVhma21QbmhvU3N3Mi1VclZQVjlmVW44eGJsWEFCYW9vdk1VYTVoZThSNjExOTNFRFZodFptbTQ3V1J4S19MM0o?oc=5"
-  },
-  {
-   "id": "3fc7f644f4c19ef4",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "סרוגים",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "right",
-   "title": "בריטניה חושפת קשר בין איראן לניסיון הפיגוע האווירי",
-   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWEk2Zk8tNDVHZXE3VXpHWmVjMVQ0cVZyMWVkdWZSb2hoeEFuNVM4QTNOQU9tcWlNSzIycnhIUjAzdVpTMWUxQWxWN3ZTeHVaTGZqWXhXVTNaWTVXWlhBRmlfb3FXclJsQ0d5Z1lYZW1XYktQbjRsaDlKYUF2SloxMkZjb3IwSkRqTW90SGdyeVNXY2ZCaFFrVWFQbnF3WUg3UkpKTUVPRjQ2c18xbUs2RkhjQ3R3UU1NMlAzbEt4RzVxc3J0ZzA5SjBBdGYzWFI3Y3FBNEhHUWtFeWVuNzNtejROTm55VmxGcVBFR3M1dVZXcUVSS3RId2VxRkJ0UElDc0lmd042dVhxWkhZaHYzWmhGN2l3Mjl3SnEtOVVlUEpYM21zeHVoRzQ0YV9wdWJfeHprMmowaGhqc1VkamQtR2NB?oc=5"
+   "title": "איראן וטורקיה מחוץ לחדר: העולם הערבי עשוי להתקרב לישראל",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rOUQxNjRZRzVEZmNSeFNsQ3VqcVpUekxLbUdKaWd1Q1AyUHpvZDhacDJUTTM3dTR4ams1Tm9DTTBaaXQ1QVZjWFlTS2dGSmpxTkNjYVZ5eklzUlVHN1RHQ1BFRUs2T2hUUW1pdQ?oc=5"
   }
  ]
 }
