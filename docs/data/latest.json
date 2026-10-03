@@ -1,63 +1,60 @@
 {
- "generated": "2026-10-03T15:27:33.121526+03:00",
- "last_24h_total": 804,
+ "generated": "2026-10-03T20:12:49.572856+03:00",
+ "last_24h_total": 653,
  "per_target": {
-  "איראן": 500,
-  "בינה מלאכותית": 304
+  "איראן": 403,
+  "בינה מלאכותית": 250
  },
  "per_source": {
-  "Vietnam.vn": 102,
-  "מעריב": 82,
-  "מקור ראשון": 65,
-  "Investing.com": 49,
-  "TheMarker": 44,
-  "ynet.co.il": 41,
-  "כאן 11": 32,
-  "ערוץ 7": 30,
-  "גלובס": 28,
+  "Vietnam.vn": 85,
+  "מעריב": 64,
+  "מקור ראשון": 50,
+  "TheMarker": 40,
+  "Investing.com": 39,
   "YNET": 28,
-  "היום": 26,
-  "הארץ": 26,
-  "כיכר השבת": 25,
-  "סרוגים": 22,
-  "mako": 21,
-  "וואלה": 16,
+  "ynet.co.il": 27,
+  "כאן 11": 25,
+  "גלובס": 24,
+  "ערוץ 7": 24,
+  "הארץ": 20,
+  "כיכר השבת": 20,
+  "היום": 19,
+  "mako": 17,
+  "סרוגים": 16,
   "calcalist": 15,
-  "ביזפורטל": 14,
-  "i24NEWS": 12,
-  "זמן ישראל": 12,
-  "כיפה": 12,
+  "וואלה": 14,
+  "ביזפורטל": 12,
+  "כיפה": 10,
+  "i24NEWS": 9,
   "تسنیم": 9,
-  "ice (אייס)": 8,
-  "C14": 7,
-  "אמס": 7,
+  "זמן ישראל": 9,
   "haaretz.co.il": 7,
-  "רשת 13": 6,
-  "israeldefense.co.il": 5,
+  "ice (אייס)": 6,
+  "אמס": 6,
+  "N12": 5,
+  "רשת 13": 5,
   "srugim.co.il": 5,
   "globes.co.il": 5,
-  "N12": 4,
-  "מגזין מרחיב דעת, מעורר מחשבה": 4,
-  "הידברות": 4,
   "חב\"ד אינפו": 4,
+  "C14": 4,
+  "israeldefense.co.il": 4,
   "ias.co.il": 4,
-  "calcalist.co.il": 3,
+  "מגזין מרחיב דעת, מעורר מחשבה": 3,
+  "הידברות": 3,
   "Google News (כל האתרים)": 3,
   "אנשים ומחשבים": 3,
   "i24news.tv": 3,
-  "arabexpert.co.il": 2,
-  "pc.co.il": 2,
   "גיקטיים": 2,
   "zman.co.il": 2,
-  "tasnimnews.ir": 1,
-  "chabad.info": 1,
-  "בחדרי חרדים": 1
+  "arabexpert.co.il": 1,
+  "pc.co.il": 1,
+  "ynet": 1
  },
  "per_lean": {
-  "אחר": 335,
-  "שמאל": 177,
-  "מרכז": 148,
-  "ימין": 144
+  "אחר": 273,
+  "שמאל": 155,
+  "מרכז": 116,
+  "ימין": 109
  },
  "leads": [
   {
@@ -531,6 +528,24 @@
    "rank": 9
   },
   {
+   "id": "69d079c8095fb8b4",
+   "ts": "2026-10-03T20:12:30.438828+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 26 דקות ישראל מזהירה: היעד שאיראן רוצה לפגוע בו",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w01/shorts-be5bd673f9201a1027.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
    "id": "1ea36f5bf9ee82e7",
    "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "n12",
@@ -709,6 +724,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "3676106de9a2d754",
+   "ts": "2026-10-03T20:12:30.438828+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"ההתמקדות בנו מוגזמת\": הסולטנות שממנה הגיע המחבל, השתיקה - והקשר לאיראן",
+   "link": "https://www.ynet.co.il/news/article/sy6p9ea5gg"
+  },
+  {
+   "id": "0f1e8d65f884029c",
+   "ts": "2026-10-03T20:12:30.438828+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "פגישה חריגה הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm"
   },
   {
    "id": "7d60f31f4507e0d4",
@@ -2734,6 +2781,22 @@
   },
   {
    "id": "e0db351a8f2be829",
+   "ts": "2026-10-03T20:12:30.438828+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
+  },
+  {
+   "id": "e0db351a8f2be829",
    "ts": "2026-10-03T15:27:27.600082+03:00",
    "source": "walla",
    "source_display": "וואלה",
@@ -3780,6 +3843,22 @@
    "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-09-26/ty-article/.premium/000001a0-de15-db4b-a7a5-de77975a0000",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "05fed74231f60bea",
+   "ts": "2026-10-03T20:12:30.438828+03:00",
+   "source": "themarker",
+   "source_display": "TheMarker",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 9,
+   "lean": "left",
+   "title": "\"אפס הורמוז\": עם 300 מיליארד דולר, יורש העצר של אבו דאבי מתכנן לעקוף את איראן",
+   "link": "https://www.themarker.com/wallstreet/2026-10-01/ty-article-magazine/.premium/000001a0-f25e-de31-a7f0-fadf823c0000"
   },
   {
    "id": "05fed74231f60bea",
@@ -4932,86 +5011,6 @@
    "lean": "",
    "title": "ישראל - המותקפת השנייה בעולם והיעד הראשון של איראן בסייבר -",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03OEZSUHFySXBqUVFacFRRVlhKY1c0S2V5M1dRTjJibmhaTnUxMTZ1SGZicWJjc2UzbjZOWHJSWmNUeURRMHVheEdpTDdSZw?oc=5"
-  },
-  {
-   "id": "53f33d0e8e184a11",
-   "ts": "2026-10-03T15:27:27.600082+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "\"אינדיקציות חזקות\" למעורבות איראן: מעצר נוסף בפרשת בסיס פיירפורד",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LWGpERVEybENVV0tlbVlMYmNJa1A5bXZUQWMyZGx6V2ZVejkxMGQzUnRZbXh2eFNjMWxwT2J5aERRNFNxV0czb3ozWHJkR1VuMkEtdURlRmFIMDZENzhiNA?oc=5"
-  },
-  {
-   "id": "90f8daaffbb15346",
-   "ts": "2026-10-03T15:27:27.600082+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "ערוץ 7",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "",
-   "title": "נתניהו: \"מוקדם לדעת אם איראן מעורבת בניסיון הפיגוע\"",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zT2kxc3p6LTM0ZWZCRWt4QVFZd0NyMmoyVnhvMWtfUnAyX1hha2o2UV9wdzAxTnNoVXI3allWMGNmal9uSVRMUg?oc=5"
-  },
-  {
-   "id": "87b76d2e328a071d",
-   "ts": "2026-10-03T15:27:27.600082+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "קשר ברשת, משימות ותשלום: הישראלי שנחשד בגיוס בידי איראן",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1RjVzM1VNVk5yUXBMTjk5eUQxaThkRzBGVG9rYVZxaWgwbGttQzREUXNpVFVnS0JwZzBQOHRXMENCVm40TzBxdUFTek5lZFVnVG1WUkY0a2xCSmNrWW9YWGJ1aVI?oc=5"
-  },
-  {
-   "id": "8db168fd2eaf6d26",
-   "ts": "2026-10-03T15:27:27.600082+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "ynet.co.il",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "",
-   "title": "בריטניה בודקת אם איראן מאחורי הפיגוע שסוכל, טראמפ: \"רצו לגרום נזק גדול למבצר שלנו\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fVXhSN1gzcFRQYl9CNXU2Sm5ZcjlMdUV3Q19lN2ZiV3FBalk1UDU3VHR3aXk2cmZOaHo0NG4wbWxWT3Mxb01oNEloNk1jMTROYm5FSlRObUlEZw?oc=5"
-  },
-  {
-   "id": "f10e9a61040a5812",
-   "ts": "2026-10-03T15:27:27.600082+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מקור ראשון",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "right",
-   "title": "איראן וטורקיה מחוץ לחדר: העולם הערבי עשוי להתקרב לישראל",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rOUQxNjRZRzVEZmNSeFNsQ3VqcVpUekxLbUdKaWd1Q1AyUHpvZDhacDJUTTM3dTR4ams1Tm9DTTBaaXQ1QVZjWFlTS2dGSmpxTkNjYVZ5eklzUlVHN1RHQ1BFRUs2T2hUUW1pdQ?oc=5"
   }
  ]
 }
