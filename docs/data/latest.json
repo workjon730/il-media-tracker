@@ -1,57 +1,56 @@
 {
- "generated": "2026-10-07T19:22:21.437137+03:00",
- "last_24h_total": 732,
+ "generated": "2026-10-08T00:57:00.521431+03:00",
+ "last_24h_total": 591,
  "per_target": {
-  "איראן": 457,
-  "בינה מלאכותית": 275
+  "איראן": 371,
+  "בינה מלאכותית": 220
  },
  "per_source": {
-  "מעריב": 92,
-  "Vietnam.vn": 63,
-  "YNET": 42,
-  "היום": 41,
-  "כיכר השבת": 36,
-  "mako": 33,
-  "גלובס": 32,
-  "Israel Defense": 32,
-  "Investing.com": 31,
-  "TheMarker": 30,
-  "ערוץ 7": 27,
-  "מקור ראשון": 25,
-  "בחדרי חרדים": 23,
-  "כאן 11": 19,
-  "تسنیم": 18,
-  "וואלה": 17,
-  "הארץ": 17,
-  "אמס": 17,
-  "זמן ישראל": 14,
-  "calcalist": 14,
-  "ביזפורטל": 14,
+  "מעריב": 69,
+  "Vietnam.vn": 50,
+  "Investing.com": 33,
+  "YNET": 32,
+  "היום": 30,
+  "גלובס": 27,
+  "Israel Defense": 27,
+  "TheMarker": 25,
+  "mako": 25,
+  "ערוץ 7": 25,
+  "כיכר השבת": 23,
+  "מקור ראשון": 20,
+  "בחדרי חרדים": 19,
+  "כאן 11": 18,
+  "הארץ": 15,
+  "אמס": 14,
+  "ביזפורטל": 13,
   "סרוגים": 12,
-  "N12": 11,
-  "ice (אייס)": 8,
-  "הידברות": 7,
-  "כיפה": 6,
-  "אנשים ומחשבים": 5,
-  "Google News (כל האתרים)": 5,
-  "את\"צ": 5,
+  "וואלה": 11,
+  "זמן ישראל": 11,
+  "calcalist": 11,
+  "تسنیم": 10,
+  "C14": 10,
+  "N12": 9,
+  "כיפה": 7,
   "JDN": 5,
-  "אתר החדשות דבר": 5,
-  "C14": 5,
-  "מגזין מרחיב דעת, מעורר מחשבה": 4,
+  "ice (אייס)": 5,
+  "Google News (כל האתרים)": 4,
+  "את\"צ": 4,
+  "אתר החדשות דבר": 4,
+  "הידברות": 4,
+  "Mako": 4,
   "i24NEWS": 4,
-  "אייס": 3,
-  "نورنیوز": 3,
-  "Mako": 3,
+  "מגזין מרחיב דעת, מעורר מחשבה": 3,
   "ynet": 2,
-  "Chiportal": 1,
-  "רשת 13": 1
+  "אנשים ומחשבים": 2,
+  "רשת 13": 2,
+  "אייס": 1,
+  "نورنیوز": 1
  },
  "per_lean": {
-  "אחר": 262,
-  "שמאל": 172,
-  "מרכז": 172,
-  "ימין": 126
+  "אחר": 214,
+  "שמאל": 139,
+  "מרכז": 131,
+  "ימין": 107
  },
  "leads": [
   {
@@ -143,6 +142,24 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-07/ty-article-live/000001a1-1307-df57-a7e5-3b87ed230000?liveBlogItemId=1238222568",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "c3ceadfddec13f75",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "מול החנק של טראמפ: הסיוע הדרמטי של איראן לחיזבאללה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ec0730b6fc611a1026.htm",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
@@ -523,6 +540,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-87e7c986fb2d0a1026.htm",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "c3ceadfddec13f75",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "מול החנק של טראמפ: הסיוע הדרמטי של איראן לחיזבאללה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ec0730b6fc611a1026.htm",
+   "prominence": 3,
+   "rank": 10
   },
   {
    "id": "8270ffb09965a851",
@@ -919,6 +954,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "3e98bbdfcb6b0ebd",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "למרות החנק הכלכלי: \"איראן העבירה לחיזבאללה 200 מיליון דולר\"",
+   "link": "https://www.ynet.co.il/news/article/r1j11nkvsmg"
+  },
+  {
+   "id": "1f0a20bb64ef5e13",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
   },
   {
    "id": "1f0a20bb64ef5e13",
@@ -3556,6 +3623,22 @@
   },
   {
    "id": "e0db351a8f2be829",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
+  },
+  {
+   "id": "e0db351a8f2be829",
    "ts": "2026-10-07T19:22:14.769674+03:00",
    "source": "walla",
    "source_display": "וואלה",
@@ -4972,8 +5055,8 @@
    "rank": 8
   },
   {
-   "id": "1035ce939ad1af77",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
+   "id": "7c7421102ea401e7",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
    "source": "themarker",
    "source_display": "TheMarker",
    "sub_source": "",
@@ -4984,12 +5067,12 @@
    ],
    "score": 9,
    "lean": "left",
-   "title": "93 סנקציות מ 53 מדינות ועוד תשע סנקציות בדרך ישראל הופכת למדינה מצורעת כמו איראן",
+   "title": "93 סנקציות מ 53 מדינות ועוד תשע סנקציות בדרך ישראל נהפכת למדינה מצורעת כמו איראן",
    "link": "https://www.themarker.com/news/politics/2026-10-07/ty-article/.premium/000001a1-1693-dba5-a5bf-dfd39e2c0000"
   },
   {
    "id": "680be072996842f2",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
    "source": "themarker",
    "source_display": "TheMarker",
    "sub_source": "",
@@ -5004,8 +5087,8 @@
    "link": "https://www.themarker.com/wallstreet/2026-10-05/ty-article/.premium/000001a1-0a8c-db73-ada5-5ecd2c4c0000"
   },
   {
-   "id": "75d0411b00421fd0",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
+   "id": "1ad776983a391bc2",
+   "ts": "2026-10-08T00:56:49.933742+03:00",
    "source": "maariv",
    "source_display": "מעריב",
    "sub_source": "",
@@ -5016,72 +5099,8 @@
    ],
    "score": 9,
    "lean": "center",
-   "title": "כשנסראללה כבר לא כאן: איראן בצעד נואש חדש להציל את החיזבאללה בלבנון",
+   "title": "מהלך חריג: חשש כבד באיראן מאיבוד שליטה של החיזבאללה בלבנון",
    "link": "https://www.maariv.co.il/news/military/article-1374720"
-  },
-  {
-   "id": "c06dc1ee7f08fd41",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "הארץ",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "ואנס: איראן תהיה חייבת לצמצם את יכולות ההעשרה שלה",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTJKM1Y5SnRabFZPTGdQc2htcmp1Y0U3cGtzc1oxbUNLeFFGOXRNQkVJNW1lRTg4Z18tRHZ6ellBZExadWliNHJFeTBrSkRNR2M4ZWhpVXdGMGp1R2s0YV9LVTdMRDhhSkJsZE0xMFhGWThNWWdrQlBhUHNUR01venlKZldGbVdkejJsUjZDZFh2am1OTHpDRkRfSTQ3QXlSNllsZzI4Q0l6V01qNDBHbXp3?oc=5"
-  },
-  {
-   "id": "4bb8dc590c93a9a0",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "mako",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "ואנס חשף את התנאי לסיום המלחמה עם איראן",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90Nmx2cExWTjM3X19CcVhDSzZKWllMR2s1eFU0ZGNRLXZla1NsdXBNT2l3N3F5dWdHOWh1ODBmSHpsOFVyblVzcks2UGJWaHdyZ2dJZGdzWnI3UDZyWUdvSmxNNG1yUXptS3pGU0t5bHppVVVzbkhaaHFxMzI?oc=5"
-  },
-  {
-   "id": "e27b5ef3036e892f",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "ערוץ 7",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "",
-   "title": "ואנס: \"לא נסתפק בהבטחות - איראן חייבת לצמצם את העשרת האורניום\"",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSQU03MU5PM21WYmpxcmNHcVlkaVo4alM5b1R6SndwdXZNX1ltV0RSc2c4NGQwdTVRdHVITGdvTmpJSkJudF9jWQ?oc=5"
-  },
-  {
-   "id": "22101828afa77f41",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "gnews",
-   "source_display": "Google News (כל האתרים)",
-   "sub_source": "מעריב",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "חוקר תורת הסוד מנבא: יש תאריך למלחמה עם איראן וזה יקרה החודש",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZV3JQWUUwQmlkYTZDR09zaG4yekhnSVgzVDVYbXR4Y2xBM1hCNVl4VWhxM0dCdzl5QXJZVWFCX0JaVElhbUlWbWJBRnNkU1RiTlJyYVYtemFQZFMwLVJkTVREelo?oc=5"
   }
  ]
 }
