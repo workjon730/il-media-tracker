@@ -1,76 +1,56 @@
 {
- "generated": "2026-10-08T00:57:00.521431+03:00",
- "last_24h_total": 591,
+ "generated": "2026-10-08T04:50:45.033173+03:00",
+ "last_24h_total": 587,
  "per_target": {
-  "איראן": 371,
-  "בינה מלאכותית": 220
+  "איראן": 372,
+  "בינה מלאכותית": 215
  },
  "per_source": {
-  "מעריב": 69,
-  "Vietnam.vn": 50,
-  "Investing.com": 33,
-  "YNET": 32,
-  "היום": 30,
+  "מעריב": 67,
+  "Vietnam.vn": 51,
+  "Investing.com": 35,
+  "YNET": 30,
+  "היום": 29,
   "גלובס": 27,
-  "Israel Defense": 27,
+  "ערוץ 7": 26,
+  "Israel Defense": 26,
   "TheMarker": 25,
   "mako": 25,
-  "ערוץ 7": 25,
-  "כיכר השבת": 23,
-  "מקור ראשון": 20,
-  "בחדרי חרדים": 19,
+  "מקור ראשון": 21,
   "כאן 11": 18,
-  "הארץ": 15,
+  "בחדרי חרדים": 18,
+  "כיכר השבת": 17,
+  "הארץ": 16,
+  "סרוגים": 14,
   "אמס": 14,
+  "C14": 14,
   "ביזפורטל": 13,
-  "סרוגים": 12,
-  "וואלה": 11,
   "זמן ישראל": 11,
   "calcalist": 11,
-  "تسنیم": 10,
-  "C14": 10,
+  "וואלה": 9,
   "N12": 9,
-  "כיפה": 7,
-  "JDN": 5,
-  "ice (אייס)": 5,
+  "כיפה": 9,
+  "تسنیم": 7,
+  "i24NEWS": 6,
+  "JDN": 6,
+  "Mako": 4,
   "Google News (כל האתרים)": 4,
   "את\"צ": 4,
+  "ice (אייס)": 4,
   "אתר החדשות דבר": 4,
   "הידברות": 4,
-  "Mako": 4,
-  "i24NEWS": 4,
+  "רשת 13": 3,
   "מגזין מרחיב דעת, מעורר מחשבה": 3,
   "ynet": 2,
-  "אנשים ומחשבים": 2,
-  "רשת 13": 2,
-  "אייס": 1,
-  "نورنیوز": 1
+  "אנשים ומחשבים": 1
  },
  "per_lean": {
-  "אחר": 214,
-  "שמאל": 139,
-  "מרכז": 131,
-  "ימין": 107
+  "אחר": 211,
+  "שמאל": 137,
+  "מרכז": 129,
+  "ימין": 110
  },
  "leads": [
-  {
-   "id": "2a3a9969cb1ebd2c",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "ואנס חשף את התנאי לסיום המלחמה עם איראן סגן הנשיא הציב קו אדום: \"הם חייבים לצמצם את יכולות ההעשרה\"",
-   "link": "https://www.mako.co.il/news-world/2026_q3/Article-176725c877311a1027.htm",
-   "prominence": 5,
-   "rank": 2
-  },
   {
    "id": "093459c62869a29c",
    "ts": "2026-10-07T19:22:14.769674+03:00",
@@ -108,8 +88,8 @@
    "rank": 3
   },
   {
-   "id": "0085535ebe4374a7",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
+   "id": "2fea5067e83cff41",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -118,30 +98,30 @@
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 16,
    "lean": "left",
-   "title": "01:57 ואנס: איראן תידרש לצמצם משמעותית את העשרת האורניום כדי לסיים את המלחמה",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-07/ty-article-live/000001a1-1307-df57-a7e5-3b87ed230000?liveBlogItemId=1797375710",
-   "prominence": 3,
-   "rank": 8
+   "title": "דיווח: טראמפ שוקל לחדש את התקיפות באיראן בשבועות הקרובים",
+   "link": "https://www.haaretz.co.il/news/world/america/2026-10-08/ty-article/000001a1-1907-d5f6-a9f5-dd373bb10000",
+   "prominence": 5,
+   "rank": 4
   },
   {
-   "id": "08dd07e2eb571210",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "403dc34633464999",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "01:33 טראמפ: איש אינו יודע מי מנהל כיום את איראן",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-07/ty-article-live/000001a1-1307-df57-a7e5-3b87ed230000?liveBlogItemId=1238222568",
-   "prominence": 3,
-   "rank": 9
+   "title": "צבא ארה\"ב הונחה להשלים הכנות לחידוש מלחמה באיראן טראמפ לא קיבל החלטה סופית. מקור אמריקני: הלחימה עשויה להתחדש לפני הבחירות",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7c6ca19ec5811a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "c3ceadfddec13f75",
@@ -160,6 +140,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-ec0730b6fc611a1026.htm",
    "prominence": 3,
    "rank": 10
+  },
+  {
+   "id": "c331b93fd2005832",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "01:57 דיווח: טראמפ שוקל לתקוף באיראן בשבועות הקרובים",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=2071934639",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
@@ -288,6 +286,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "403dc34633464999",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "צבא ארה\"ב הונחה להשלים הכנות לחידוש מלחמה באיראן טראמפ לא קיבל החלטה סופית. מקור אמריקני: הלחימה עשויה להתחדש לפני הבחירות",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7c6ca19ec5811a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "c1ff4b3f5b3e5663",
@@ -686,6 +702,42 @@
    "rank": 9
   },
   {
+   "id": "2fea5067e83cff41",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "דיווח: טראמפ שוקל לחדש את התקיפות באיראן בשבועות הקרובים",
+   "link": "https://www.haaretz.co.il/news/world/america/2026-10-08/ty-article/000001a1-1907-d5f6-a9f5-dd373bb10000",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "c3ceadfddec13f75",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "מול החנק של טראמפ: הסיוע הדרמטי של איראן לחיזבאללה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ec0730b6fc611a1026.htm",
+   "prominence": 1,
+   "rank": 12
+  },
+  {
    "id": "093459c62869a29c",
    "ts": "2026-10-07T19:22:14.769674+03:00",
    "source": "haaretz",
@@ -954,6 +1006,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "3e98bbdfcb6b0ebd",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "למרות החנק הכלכלי: \"איראן העבירה לחיזבאללה 200 מיליון דולר\"",
+   "link": "https://www.ynet.co.il/news/article/r1j11nkvsmg"
+  },
+  {
+   "id": "1f0a20bb64ef5e13",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
   },
   {
    "id": "3e98bbdfcb6b0ebd",
@@ -3244,6 +3328,24 @@
    "link": "https://www.ynet.co.il/news/article/s13jo3gqze"
   },
   {
+   "id": "c331b93fd2005832",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "01:57 דיווח: טראמפ שוקל לתקוף באיראן בשבועות הקרובים",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=2071934639",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
    "id": "0085535ebe4374a7",
    "ts": "2026-10-07T04:27:23.877357+03:00",
    "source": "haaretz",
@@ -3620,6 +3722,22 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-24/ty-article/.premium/000001a0-cfa2-d72e-a7e0-ffbf389d0000",
    "prominence": 1,
    "rank": 12
+  },
+  {
+   "id": "e0db351a8f2be829",
+   "ts": "2026-10-08T04:50:34.565203+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
   },
   {
    "id": "e0db351a8f2be829",
@@ -4981,126 +5099,6 @@
    "lean": "left",
    "title": "סכנה אמיתית: OpenAI עוצרת את פיתוח כל המודלים",
    "link": "https://www.mako.co.il/news-money/tech12/Article-5a83beb18e1e0a1026.htm"
-  },
-  {
-   "id": "d371825340c8dbdb",
-   "ts": "2026-09-27T09:32:58.109054+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "בשל פריצת סוכני AI לאתרים: OpenAI עוצרת את אימון המודלים המתקדמים",
-   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-09-27/ty-article/.premium/000001a0-e147-d9ab-abfd-f7e7d47d0000",
-   "prominence": 3,
-   "rank": 7
-  },
-  {
-   "id": "40fff695bbc1d660",
-   "ts": "2026-09-27T03:29:13.387421+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "בוטים של OpenAI יצרו תוכנה לעקיפת זיהוי בוטים - והשתמשו במודלים אחרים",
-   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-09-26/ty-article/.premium/000001a0-de15-db4b-a7a5-de77975a0000",
-   "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "40fff695bbc1d660",
-   "ts": "2026-09-27T00:56:41.522549+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "בוטים של OpenAI יצרו תוכנה לעקיפת זיהוי בוטים - והשתמשו במודלים אחרים",
-   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-09-26/ty-article/.premium/000001a0-de15-db4b-a7a5-de77975a0000",
-   "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "40fff695bbc1d660",
-   "ts": "2026-09-26T21:31:24.168637+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "בוטים של OpenAI יצרו תוכנה לעקיפת זיהוי בוטים - והשתמשו במודלים אחרים",
-   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-09-26/ty-article/.premium/000001a0-de15-db4b-a7a5-de77975a0000",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
-   "id": "7c7421102ea401e7",
-   "ts": "2026-10-08T00:56:49.933742+03:00",
-   "source": "themarker",
-   "source_display": "TheMarker",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "93 סנקציות מ 53 מדינות ועוד תשע סנקציות בדרך ישראל נהפכת למדינה מצורעת כמו איראן",
-   "link": "https://www.themarker.com/news/politics/2026-10-07/ty-article/.premium/000001a1-1693-dba5-a5bf-dfd39e2c0000"
-  },
-  {
-   "id": "680be072996842f2",
-   "ts": "2026-10-08T00:56:49.933742+03:00",
-   "source": "themarker",
-   "source_display": "TheMarker",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "left",
-   "title": "המשטר באיראן מודה: המצב הכלכלי מהקשים בתולדות המדינה",
-   "link": "https://www.themarker.com/wallstreet/2026-10-05/ty-article/.premium/000001a1-0a8c-db73-ada5-5ecd2c4c0000"
-  },
-  {
-   "id": "1ad776983a391bc2",
-   "ts": "2026-10-08T00:56:49.933742+03:00",
-   "source": "maariv",
-   "source_display": "מעריב",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 9,
-   "lean": "center",
-   "title": "מהלך חריג: חשש כבד באיראן מאיבוד שליטה של החיזבאללה בלבנון",
-   "link": "https://www.maariv.co.il/news/military/article-1374720"
   }
  ]
 }
