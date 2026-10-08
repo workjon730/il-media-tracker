@@ -1,53 +1,54 @@
 {
- "generated": "2026-10-08T11:51:07.229152+03:00",
- "last_24h_total": 590,
+ "generated": "2026-10-08T19:24:27.999309+03:00",
+ "last_24h_total": 591,
  "per_target": {
-  "איראן": 377,
-  "בינה מלאכותית": 213
+  "איראן": 383,
+  "בינה מלאכותית": 208
  },
  "per_source": {
-  "מעריב": 67,
-  "Vietnam.vn": 57,
-  "Investing.com": 36,
-  "YNET": 31,
-  "mako": 29,
-  "גלובס": 27,
+  "מעריב": 65,
+  "Vietnam.vn": 65,
+  "Investing.com": 35,
+  "YNET": 32,
+  "mako": 30,
+  "גלובס": 26,
   "ערוץ 7": 26,
   "TheMarker": 25,
-  "היום": 25,
-  "מקור ראשון": 23,
-  "Israel Defense": 23,
-  "כאן 11": 18,
-  "בחדרי חרדים": 18,
-  "הארץ": 17,
-  "סרוגים": 16,
-  "C14": 15,
+  "מקור ראשון": 24,
+  "היום": 23,
+  "Israel Defense": 20,
+  "הארץ": 18,
+  "כאן 11": 17,
+  "בחדרי חרדים": 17,
+  "סרוגים": 15,
   "כיכר השבת": 14,
-  "אמס": 11,
-  "כיפה": 11,
-  "זמן ישראל": 11,
-  "N12": 10,
-  "calcalist": 10,
-  "ביזפורטל": 10,
-  "i24NEWS": 7,
-  "JDN": 7,
-  "וואלה": 6,
-  "تسنیم": 5,
+  "C14": 13,
+  "זמן ישראל": 12,
+  "כיפה": 12,
+  "N12": 11,
+  "אמס": 10,
+  "calcalist": 9,
+  "i24NEWS": 9,
+  "JDN": 8,
+  "ביזפורטל": 8,
+  "וואלה": 7,
+  "רשת 13": 5,
   "הידברות": 5,
-  "רשת 13": 4,
-  "מגזין מרחיב דעת, מעורר מחשבה": 4,
+  "تسنیم": 4,
   "את\"צ": 4,
   "Google News (כל האתרים)": 4,
   "אתר החדשות דבר": 4,
   "ice (אייס)": 4,
   "ynet": 3,
-  "Mako": 2,
-  "עניין מרכזי": 1
+  "מגזין מרחיב דעת, מעורר מחשבה": 3,
+  "עניין מרכזי": 2,
+  "Mako": 1,
+  "אנשים ומחשבים": 1
  },
  "per_lean": {
-  "אחר": 206,
-  "שמאל": 143,
-  "מרכז": 126,
+  "אחר": 205,
+  "שמאל": 148,
+  "מרכז": 123,
   "ימין": 115
  },
  "leads": [
@@ -70,26 +71,8 @@
    "rank": 1
   },
   {
-   "id": "093459c62869a29c",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "מקורות: חיזבאללה קיבל מאיראן 200 מיליון דולר לסיוע לעקורים במלחמה",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-07/ty-article/.premium/000001a1-16c6-dbd6-a5a5-9ff795970000",
-   "prominence": 5,
-   "rank": 4
-  },
-  {
-   "id": "c1ff4b3f5b3e5663",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
+   "id": "0f8751c97f3c033a",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -98,12 +81,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "מול החנק של טראמפ: הסיוע הדרמטי של איראן לחיזבאללה הדיווח על \"200 מיליון דולר שהועברו במזומן\" - והטענה: לאן הלך הכסף?",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ec0730b6fc611a1026.htm",
-   "prominence": 5,
-   "rank": 3
+   "title": "על רקע הדיווחים טראמפ מבהיר: \"לא נתקוף את איראן לפני בחירות האמצע\" כלי תקשורת באיראן לעגו לנשיא, המתווכות לחצו מאחורי הקלעים | מה שקרה לפני ההכרזה הדרמטית ספיר ליפקין |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-29cc0dbd96b11a1026.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "2fea5067e83cff41",
@@ -194,9 +177,63 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=2071934639",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "c9f9e9b92c318b6b",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "19:21 טראמפ מבהיר: לא אתקוף את איראן לפני בחירות האמצע בנובמבר",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=1870278963",
+   "prominence": 3,
+   "rank": 8
+  },
+  {
+   "id": "10dd8cdbdd1a68c5",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "ההסלמה עם החות'ים \"איראן מרוויחה בלי לירות, ההתבססות - תעמיק את האיום\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-58b0511549911a1027.htm",
+   "prominence": 3,
+   "rank": 7
   }
  ],
  "items": [
+  {
+   "id": "0f8751c97f3c033a",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "על רקע הדיווחים טראמפ מבהיר: \"לא נתקוף את איראן לפני בחירות האמצע\" כלי תקשורת באיראן לעגו לנשיא, המתווכות לחצו מאחורי הקלעים | מה שקרה לפני ההכרזה הדרמטית ספיר ליפקין |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-29cc0dbd96b11a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "3ef30cff9424ffc1",
    "ts": "2026-10-08T11:51:02.160649+03:00",
@@ -610,6 +647,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-87e7c986fb2d0a1026.htm",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "10dd8cdbdd1a68c5",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "ההסלמה עם החות'ים \"איראן מרוויחה בלי לירות, ההתבססות - תעמיק את האיום\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-58b0511549911a1027.htm",
+   "prominence": 3,
+   "rank": 7
   },
   {
    "id": "c3ceadfddec13f75",
@@ -1078,6 +1133,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "58be5391c5f3dcea",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "עוד מכה אחת? הפיתוי של טראמפ להכריע את איראן אל\"ם במיל' אלדד שביט",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-d2b6eaaa3eb11a1027.htm"
+  },
+  {
+   "id": "5a9300995a638194",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן שיגרה איום חדש - וביצעה תקיפה יוצאת דופן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-29122c1028a11a1026.htm"
   },
   {
    "id": "5654a2833007e59a",
@@ -3432,6 +3519,24 @@
    "link": "https://www.ynet.co.il/news/article/s13jo3gqze"
   },
   {
+   "id": "c9f9e9b92c318b6b",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "19:21 טראמפ מבהיר: לא אתקוף את איראן לפני בחירות האמצע בנובמבר",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=1870278963",
+   "prominence": 3,
+   "rank": 8
+  },
+  {
    "id": "c331b93fd2005832",
    "ts": "2026-10-08T04:50:34.565203+03:00",
    "source": "haaretz",
@@ -3826,6 +3931,22 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-24/ty-article/.premium/000001a0-cfa2-d72e-a7e0-ffbf389d0000",
    "prominence": 1,
    "rank": 12
+  },
+  {
+   "id": "e0db351a8f2be829",
+   "ts": "2026-10-08T19:24:20.410523+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
   },
   {
    "id": "e0db351a8f2be829",
@@ -5031,102 +5152,6 @@
   {
    "id": "8fecc38951eb094f",
    "ts": "2026-09-30T03:20:52.079651+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "סכנה אמיתית: OpenAI עוצרת את פיתוח כל המודלים 27.09.26 דיגיטל",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-5a83beb18e1e0a1026.htm"
-  },
-  {
-   "id": "8fecc38951eb094f",
-   "ts": "2026-09-29T23:41:41.924869+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "סכנה אמיתית: OpenAI עוצרת את פיתוח כל המודלים 27.09.26 דיגיטל",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-5a83beb18e1e0a1026.htm"
-  },
-  {
-   "id": "8fecc38951eb094f",
-   "ts": "2026-09-29T18:42:38.840654+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "סכנה אמיתית: OpenAI עוצרת את פיתוח כל המודלים 27.09.26 דיגיטל",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-5a83beb18e1e0a1026.htm"
-  },
-  {
-   "id": "8fecc38951eb094f",
-   "ts": "2026-09-29T11:21:53.958829+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "סכנה אמיתית: OpenAI עוצרת את פיתוח כל המודלים 27.09.26 דיגיטל",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-5a83beb18e1e0a1026.htm"
-  },
-  {
-   "id": "8fecc38951eb094f",
-   "ts": "2026-09-29T04:50:01.005741+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "סכנה אמיתית: OpenAI עוצרת את פיתוח כל המודלים 27.09.26 דיגיטל",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-5a83beb18e1e0a1026.htm"
-  },
-  {
-   "id": "8fecc38951eb094f",
-   "ts": "2026-09-29T00:52:35.879674+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "סכנה אמיתית: OpenAI עוצרת את פיתוח כל המודלים 27.09.26 דיגיטל",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-5a83beb18e1e0a1026.htm"
-  },
-  {
-   "id": "8fecc38951eb094f",
-   "ts": "2026-09-28T18:20:30.165266+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
