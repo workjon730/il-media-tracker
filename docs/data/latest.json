@@ -1,81 +1,63 @@
 {
- "generated": "2026-10-09T19:07:32.245681+03:00",
- "last_24h_total": 776,
+ "generated": "2026-10-10T00:36:52.933521+03:00",
+ "last_24h_total": 779,
  "per_target": {
   "איראן": 505,
-  "בינה מלאכותית": 271
+  "בינה מלאכותית": 274
  },
  "per_source": {
-  "Vietnam.vn": 92,
-  "מעריב": 74,
-  "Investing.com": 57,
-  "YNET": 49,
-  "mako": 35,
+  "Vietnam.vn": 94,
+  "מעריב": 77,
+  "Investing.com": 56,
+  "YNET": 52,
+  "mako": 32,
   "TheMarker": 31,
   "גלובס": 29,
-  "מקור ראשון": 27,
-  "היום": 25,
-  "הארץ": 23,
+  "מקור ראשון": 26,
+  "הארץ": 24,
   "כאן 11": 23,
-  "ערוץ 7": 23,
+  "היום": 23,
+  "ערוץ 7": 22,
   "כיפה": 22,
-  "כיכר השבת": 21,
-  "C14": 19,
+  "כיכר השבת": 20,
   "זמן ישראל": 19,
-  "בחדרי חרדים": 17,
-  "סרוגים": 16,
-  "Israel Defense": 15,
-  "calcalist": 14,
+  "C14": 17,
+  "calcalist": 16,
+  "סרוגים": 15,
+  "JDN": 14,
+  "בחדרי חרדים": 14,
   "וואלה": 13,
-  "i24NEWS": 13,
-  "JDN": 13,
-  "אתר החדשות דבר": 11,
-  "N12": 9,
+  "אתר החדשות דבר": 13,
+  "Israel Defense": 13,
+  "i24NEWS": 12,
+  "ביזפורטל": 9,
   "אנשים ומחשבים": 8,
-  "ביזפורטל": 8,
-  "אמס": 7,
+  "מגזין מרחיב דעת, מעורר מחשבה": 8,
+  "تسنیم": 8,
+  "ynet": 7,
   "רשת 13": 7,
-  "تسنیم": 6,
-  "ynet": 6,
-  "מגזין מרחיב דעת, מעורר מחשבה": 6,
+  "אמס": 6,
+  "המחדש": 6,
+  "N12": 5,
   "את\"צ": 5,
-  "הידברות": 5,
-  "המחדש": 5,
+  "Gov.il": 5,
+  "אייס": 5,
+  "הידברות": 4,
   "ice (אייס)": 4,
-  "Gov.il": 4,
-  "Google News (כל האתרים)": 3,
+  "Google News (כל האתרים)": 4,
   "חרדים10": 3,
-  "אייס": 3,
+  "Hayadan": 3,
   "עניין מרכזי": 2,
-  "Hayadan": 2,
-  "Gadgety": 1,
-  "פאנדר": 1
+  "פאנדר": 2,
+  "Gadgety": 1
  },
  "per_lean": {
-  "אחר": 282,
-  "שמאל": 196,
-  "ימין": 154,
-  "מרכז": 144
+  "אחר": 292,
+  "שמאל": 194,
+  "ימין": 147,
+  "מרכז": 146
  },
  "leads": [
-  {
-   "id": "0f8751c97f3c033a",
-   "ts": "2026-10-08T19:24:20.410523+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "על רקע הדיווחים טראמפ מבהיר: \"לא נתקוף את איראן לפני בחירות האמצע\" כלי תקשורת באיראן לעגו לנשיא, המתווכות לחצו מאחורי הקלעים | מה שקרה לפני ההכרזה הדרמטית ספיר ליפקין |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-29cc0dbd96b11a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "ebfe084391d46643",
    "ts": "2026-10-09T05:03:01.823948+03:00",
@@ -93,42 +75,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-dbc4f33745d11a1027.htm",
    "prominence": 5,
    "rank": 2
-  },
-  {
-   "id": "c9f9e9b92c318b6b",
-   "ts": "2026-10-08T19:24:20.410523+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "19:21 טראמפ מבהיר: לא אתקוף את איראן לפני בחירות האמצע בנובמבר",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=1870278963",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
-   "id": "10dd8cdbdd1a68c5",
-   "ts": "2026-10-08T19:24:20.410523+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "ההסלמה עם החות'ים \"איראן מרוויחה בלי לירות, ההתבססות - תעמיק את האיום\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-58b0511549911a1027.htm",
-   "prominence": 3,
-   "rank": 7
   },
   {
    "id": "5416554f47e259d0",
@@ -1139,6 +1085,22 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "33c41ce02a230b8a",
+   "ts": "2026-10-10T00:36:45.847898+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "תקיפה חריגה בעומק לבנון: היעד - מחבל סורי שפעל בהכוונת איראן",
+   "link": "https://www.ynet.co.il/news/article/rys6hsisgl"
   },
   {
    "id": "92fe5ed673435e76",
@@ -3869,6 +3831,24 @@
    "rank": 10
   },
   {
+   "id": "470c0f51a5b87b3d",
+   "ts": "2026-10-10T00:36:45.847898+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 13,
+   "lean": "left",
+   "title": "צה\"ל: תקפנו מהאוויר בדרום סוריה מחבל שקידם פעולות טרור בהכוונת איראן",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-09/ty-article/.premium/000001a1-21d8-d10a-a5b1-a1dcc1ac0000",
+   "prominence": 1,
+   "rank": 11
+  },
+  {
    "id": "e2e329611396aa86",
    "ts": "2026-10-09T11:55:26.850693+03:00",
    "source": "haaretz",
@@ -4119,6 +4099,22 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-24/ty-article/.premium/000001a0-cfa2-d72e-a7e0-ffbf389d0000",
    "prominence": 1,
    "rank": 12
+  },
+  {
+   "id": "e0db351a8f2be829",
+   "ts": "2026-10-10T00:36:45.847898+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
   },
   {
    "id": "e0db351a8f2be829",
@@ -5067,56 +5063,6 @@
   {
    "id": "e0db351a8f2be829",
    "ts": "2026-09-26T07:48:49.774244+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "cc9b80cc79bf58bb",
-   "ts": "2026-09-26T07:48:49.774244+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "בוטים של OpenAI חדרו לאתרי ממשל עם מידע רגיש בארה''ב",
-   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-09-26/ty-article/.premium/000001a0-dbe0-d259-a3b4-dbf8d71a0000",
-   "prominence": 5,
-   "rank": 5
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-09-26T02:16:13.650364+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-09-25T22:59:48.362662+03:00",
    "source": "walla",
    "source_display": "וואלה",
    "sub_source": "",
