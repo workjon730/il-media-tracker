@@ -1,57 +1,57 @@
 {
- "generated": "2026-10-09T01:01:01.101520+03:00",
- "last_24h_total": 604,
+ "generated": "2026-10-09T05:03:09.188614+03:00",
+ "last_24h_total": 616,
  "per_target": {
-  "איראן": 393,
-  "בינה מלאכותית": 211
+  "איראן": 402,
+  "בינה מלאכותית": 214
  },
  "per_source": {
-  "Vietnam.vn": 71,
-  "מעריב": 62,
-  "Investing.com": 37,
-  "YNET": 34,
-  "mako": 33,
+  "Vietnam.vn": 76,
+  "מעריב": 61,
+  "Investing.com": 42,
+  "YNET": 37,
+  "mako": 34,
   "גלובס": 26,
   "TheMarker": 25,
-  "ערוץ 7": 24,
-  "מקור ראשון": 23,
-  "היום": 21,
-  "הארץ": 19,
+  "מקור ראשון": 22,
+  "ערוץ 7": 21,
+  "כיכר השבת": 19,
+  "היום": 19,
+  "הארץ": 18,
   "כאן 11": 17,
-  "כיכר השבת": 17,
   "בחדרי חרדים": 17,
-  "Israel Defense": 17,
-  "כיפה": 14,
-  "סרוגים": 14,
-  "C14": 14,
+  "כיפה": 16,
+  "C14": 16,
+  "Israel Defense": 15,
+  "סרוגים": 13,
   "זמן ישראל": 13,
-  "N12": 11,
-  "i24NEWS": 10,
+  "i24NEWS": 11,
+  "וואלה": 10,
+  "N12": 9,
   "calcalist": 9,
-  "וואלה": 8,
-  "אמס": 8,
   "JDN": 8,
-  "ביזפורטל": 7,
+  "ynet": 6,
+  "ביזפורטל": 6,
+  "אתר החדשות דבר": 6,
+  "אמס": 5,
   "רשת 13": 5,
-  "אתר החדשות דבר": 5,
   "הידברות": 5,
-  "ynet": 4,
+  "אנשים ומחשבים": 5,
   "את\"צ": 4,
-  "ice (אייס)": 4,
   "מגזין מרחיב דעת, מעורר מחשבה": 3,
   "تسنیم": 3,
-  "Google News (כל האתרים)": 3,
-  "אנשים ומחשבים": 3,
+  "ice (אייס)": 3,
+  "המחדש": 3,
   "עניין מרכזי": 2,
-  "המחדש": 2,
-  "חרדים10": 1,
-  "Gov.il": 1
+  "Google News (כל האתרים)": 2,
+  "חרדים10": 2,
+  "Gov.il": 2
  },
  "per_lean": {
-  "אחר": 209,
-  "שמאל": 156,
-  "ימין": 120,
-  "מרכז": 119
+  "אחר": 214,
+  "שמאל": 161,
+  "ימין": 124,
+  "מרכז": 117
  },
  "leads": [
   {
@@ -91,42 +91,6 @@
    "rank": 1
   },
   {
-   "id": "2fea5067e83cff41",
-   "ts": "2026-10-08T04:50:34.565203+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "דיווח: טראמפ שוקל לחדש את התקיפות באיראן בשבועות הקרובים",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-10-08/ty-article/000001a1-1907-d5f6-a9f5-dd373bb10000",
-   "prominence": 5,
-   "rank": 4
-  },
-  {
-   "id": "403dc34633464999",
-   "ts": "2026-10-08T04:50:34.565203+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "צבא ארה\"ב הונחה להשלים הכנות לחידוש מלחמה באיראן טראמפ לא קיבל החלטה סופית. מקור אמריקני: הלחימה עשויה להתחדש לפני הבחירות",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7c6ca19ec5811a1027.htm",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
    "id": "5ad4fbd23079a2eb",
    "ts": "2026-10-08T11:51:02.160649+03:00",
    "source": "haaretz",
@@ -145,22 +109,22 @@
    "rank": 3
   },
   {
-   "id": "c331b93fd2005832",
-   "ts": "2026-10-08T04:50:34.565203+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "ebfe084391d46643",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "01:57 דיווח: טראמפ שוקל לתקוף באיראן בשבועות הקרובים",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=2071934639",
-   "prominence": 3,
-   "rank": 9
+   "title": "דיווח למרות הצהרות טראמפ: הפנטגון גיבש תוכנית לתקיפה באיראן בכירים אמריקנים דנו בקמפ דייוויד באפשרות למערכה עצימה בת שלושה ימים",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-dbc4f33745d11a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "c9f9e9b92c318b6b",
@@ -213,6 +177,24 @@
    "lean": "left",
    "title": "על רקע הדיווחים טראמפ מבהיר: \"לא נתקוף את איראן לפני בחירות האמצע\"",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-29cc0dbd96b11a1026.htm",
+   "prominence": 3,
+   "rank": 10
+  },
+  {
+   "id": "e2e329611396aa86",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "צבא ארה\"ב נערך לתקוף באיראן, טראמפ דחה חמש תוכניות תקיפה שהוצעו לו",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-08/ty-article/.premium/000001a1-1c5b-da49-a5e9-1dfbb6d40000",
    "prominence": 3,
    "rank": 10
   }
@@ -379,6 +361,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "ebfe084391d46643",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "דיווח למרות הצהרות טראמפ: הפנטגון גיבש תוכנית לתקיפה באיראן בכירים אמריקנים דנו בקמפ דייוויד באפשרות למערכה עצימה בת שלושה ימים",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-dbc4f33745d11a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "403dc34633464999",
@@ -1153,6 +1153,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "92fe5ed673435e76",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ארה\"ב נערכת למתקפה של 3 ימים באיראן, טראמפ דחה 5 תוכניות: \"אחרי הבחירות\"",
+   "link": "https://www.ynet.co.il/news/article/hjol6ybjzx"
+  },
+  {
+   "id": "56b80fe7fe557a99",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הרמטכ\"ל לאמריקנים: הסלמה מול איראן יכולה להוביל לדחיית הבחירות בישראל",
+   "link": "https://www.ynet.co.il/news/article/bj0ty8himl"
+  },
+  {
+   "id": "b6c2db41ed9f313a",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ: לא נתקוף את איראן לפני בחירות האמצע בנובמבר",
+   "link": "https://www.ynet.co.il/news/article/h1lbxshome"
   },
   {
    "id": "56b80fe7fe557a99",
@@ -3587,6 +3635,24 @@
    "link": "https://www.ynet.co.il/news/article/s13jo3gqze"
   },
   {
+   "id": "e2e329611396aa86",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "צבא ארה\"ב נערך לתקוף באיראן, טראמפ דחה חמש תוכניות תקיפה שהוצעו לו",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-08/ty-article/.premium/000001a1-1c5b-da49-a5e9-1dfbb6d40000",
+   "prominence": 3,
+   "rank": 10
+  },
+  {
    "id": "c9f9e9b92c318b6b",
    "ts": "2026-10-08T19:24:20.410523+03:00",
    "source": "haaretz",
@@ -4017,6 +4083,22 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-24/ty-article/.premium/000001a0-cfa2-d72e-a7e0-ffbf389d0000",
    "prominence": 1,
    "rank": 12
+  },
+  {
+   "id": "e0db351a8f2be829",
+   "ts": "2026-10-09T05:03:01.823948+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
   },
   {
    "id": "e0db351a8f2be829",
@@ -5075,101 +5157,6 @@
    "lean": "left",
    "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
    "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-09-24T14:57:03.323278+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "cb2f17929c9ffb69",
-   "ts": "2026-10-06T19:46:23.776024+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "מה קרה כשמייסד OpenAI נשאל על הצעירה שהתאבדה",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-f2a065fef1011a1027.htm"
-  },
-  {
-   "id": "cb2f17929c9ffb69",
-   "ts": "2026-10-06T13:07:10.115410+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "מה קרה כשמייסד OpenAI נשאל על הצעירה שהתאבדה",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-f2a065fef1011a1027.htm"
-  },
-  {
-   "id": "cbb12a719aba48af",
-   "ts": "2026-10-06T05:54:20.503584+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "מייסד OpenAI: \"צריך לקבל שיקרו דברים רעים בגלל AI\"",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-b977fc8d54b01a1026.htm"
-  },
-  {
-   "id": "cbb12a719aba48af",
-   "ts": "2026-10-06T01:33:44.404303+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "מייסד OpenAI: \"צריך לקבל שיקרו דברים רעים בגלל AI\"",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-b977fc8d54b01a1026.htm"
-  },
-  {
-   "id": "cbb12a719aba48af",
-   "ts": "2026-10-05T18:54:59.341364+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "מייסד OpenAI: \"צריך לקבל שיקרו דברים רעים בגלל AI\"",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-b977fc8d54b01a1026.htm"
   }
  ]
 }
