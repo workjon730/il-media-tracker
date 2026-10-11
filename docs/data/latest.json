@@ -1,59 +1,59 @@
 {
- "generated": "2026-10-11T08:37:04.093941+03:00",
- "last_24h_total": 782,
+ "generated": "2026-10-11T15:40:19.265887+03:00",
+ "last_24h_total": 766,
  "per_target": {
-  "איראן": 499,
-  "בינה מלאכותית": 283
+  "איראן": 488,
+  "בינה מלאכותית": 278
  },
  "per_source": {
-  "מעריב": 112,
-  "Vietnam.vn": 101,
-  "YNET": 59,
-  "TheMarker": 43,
-  "הארץ": 36,
-  "Investing.com": 33,
-  "כאן 11": 29,
+  "Vietnam.vn": 104,
+  "מעריב": 101,
+  "YNET": 62,
+  "TheMarker": 41,
+  "הארץ": 35,
+  "Investing.com": 32,
   "גלובס": 28,
-  "mako": 27,
-  "calcalist": 25,
-  "היום": 24,
-  "וואלה": 22,
+  "כאן 11": 26,
+  "mako": 26,
+  "calcalist": 26,
+  "וואלה": 24,
+  "היום": 23,
   "تسنیم": 22,
-  "מקור ראשון": 21,
-  "זמן ישראל": 21,
-  "סרוגים": 18,
-  "כיפה": 12,
-  "כיכר השבת": 11,
-  "אתר החדשות דבר": 11,
-  "ביזפורטל": 10,
-  "בחדרי חרדים": 9,
-  "ערוץ 7": 9,
+  "סרוגים": 20,
+  "זמן ישראל": 20,
+  "מקור ראשון": 18,
+  "כיכר השבת": 12,
+  "כיפה": 11,
+  "בחדרי חרדים": 11,
+  "אתר החדשות דבר": 10,
   "N12": 9,
-  "Israel Defense": 8,
-  "אמס": 7,
+  "אמס": 9,
+  "Israel Defense": 9,
+  "ביזפורטל": 8,
+  "רשת 13": 7,
+  "ערוץ 7": 7,
   "JDN": 7,
-  "i24NEWS": 7,
   "ynet": 6,
-  "אייס": 6,
-  "רשת 13": 6,
-  "Google News (כל האתרים)": 5,
+  "i24NEWS": 6,
+  "C14": 6,
   "המחדש": 5,
+  "Google News (כל האתרים)": 5,
   "אנשים ומחשבים": 5,
   "Gov.il": 5,
-  "Hayadan": 5,
+  "אייס": 4,
+  "Hayadan": 4,
   "ice (אייס)": 4,
-  "פאנדר": 4,
-  "C14": 4,
-  "מגזין מרחיב דעת, מעורר מחשבה": 3,
-  "את\"צ": 1,
+  "פאנדר": 3,
+  "103FM": 2,
+  "מגזין מרחיב דעת, מעורר מחשבה": 1,
   "Узнай Москву": 1,
-  "103FM": 1
+  "אפוק": 1
  },
  "per_lean": {
-  "אחר": 264,
-  "שמאל": 237,
-  "מרכז": 178,
-  "ימין": 103
+  "אחר": 261,
+  "שמאל": 236,
+  "מרכז": 164,
+  "ימין": 105
  },
  "leads": [
   {
@@ -73,24 +73,6 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "c87b382232190351",
-   "ts": "2026-10-10T11:24:34.332798+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "טראמפ שוקל לחדש את הלחימה באיראן ודוחף את הרפובליקאים לתבוסה",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-10-09/ty-article/.premium/000001a1-1ce3-d90c-a7bd-9de735230000",
-   "prominence": 5,
-   "rank": 2
   },
   {
    "id": "a17e21eb471bd113",
@@ -161,6 +143,24 @@
    "lean": "left",
    "title": "דיווח נערכת לחידוש הלחימה: איראן משקמת את מלאי החימושים",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-92cafa0168421a1026.htm",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
+   "id": "571c6571081d60df",
+   "ts": "2026-10-11T15:40:13.252051+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "מצוקת סעודיה עלולה להקדים מתקפה של ארה\"ב באיראן",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-11/ty-article/.premium/000001a1-275b-d695-abad-f7db93cf0000",
    "prominence": 3,
    "rank": 9
   }
@@ -1245,6 +1245,22 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "0fbbe9bdc5cf9e09",
+   "ts": "2026-10-11T15:40:13.252051+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בדרך לסבב הבא עם איראן",
+   "link": "https://www.ynet.co.il/news/article/yokra14922278"
   },
   {
    "id": "0fbbe9bdc5cf9e09",
@@ -3999,6 +4015,24 @@
    "link": "https://www.ynet.co.il/news/article/s13jo3gqze"
   },
   {
+   "id": "571c6571081d60df",
+   "ts": "2026-10-11T15:40:13.252051+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "מצוקת סעודיה עלולה להקדים מתקפה של ארה\"ב באיראן",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-11/ty-article/.premium/000001a1-275b-d695-abad-f7db93cf0000",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
    "id": "e2e329611396aa86",
    "ts": "2026-10-09T05:03:01.823948+03:00",
    "source": "haaretz",
@@ -4537,6 +4571,22 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-24/ty-article/.premium/000001a0-cfa2-d72e-a7e0-ffbf389d0000",
    "prominence": 1,
    "rank": 12
+  },
+  {
+   "id": "e0db351a8f2be829",
+   "ts": "2026-10-11T15:40:13.252051+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
   },
   {
    "id": "e0db351a8f2be829",
@@ -5087,54 +5137,6 @@
   {
    "id": "e0db351a8f2be829",
    "ts": "2026-10-03T15:27:27.600082+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-03T04:06:15.827771+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-03T00:18:01.096035+03:00",
    "source": "walla",
    "source_display": "וואלה",
    "sub_source": "",
