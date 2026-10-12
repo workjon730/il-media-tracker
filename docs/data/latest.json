@@ -1,57 +1,57 @@
 {
- "generated": "2026-10-12T12:05:00.518513+03:00",
- "last_24h_total": 551,
+ "generated": "2026-10-12T21:57:42.501944+03:00",
+ "last_24h_total": 406,
  "per_target": {
-  "איראן": 371,
-  "בינה מלאכותית": 180
+  "איראן": 279,
+  "בינה מלאכותית": 127
  },
  "per_source": {
-  "Vietnam.vn": 64,
-  "YNET": 53,
-  "מעריב": 52,
-  "TheMarker": 27,
-  "סרוגים": 25,
-  "גלובס": 22,
-  "הארץ": 22,
-  "mako": 22,
-  "calcalist": 21,
-  "Investing.com": 21,
-  "מקור ראשון": 15,
-  "אמס": 15,
-  "C14": 15,
-  "כיכר השבת": 14,
-  "כאן 11": 13,
-  "בחדרי חרדים": 11,
-  "וואלה": 10,
-  "המחדש": 10,
-  "Israel Defense": 9,
-  "ערוץ 7": 9,
-  "זמן ישראל": 9,
-  "تسنیم": 9,
-  "JDN": 8,
-  "אתר החדשות דבר": 8,
-  "ice (אייס)": 8,
-  "Google News (כל האתרים)": 7,
-  "רשת 13": 7,
-  "N12": 7,
-  "כיפה": 5,
+  "מעריב": 42,
+  "YNET": 37,
+  "Vietnam.vn": 37,
+  "TheMarker": 18,
+  "mako": 18,
+  "הארץ": 18,
+  "סרוגים": 18,
+  "גלובס": 16,
+  "Investing.com": 16,
+  "מקור ראשון": 14,
+  "calcalist": 14,
+  "C14": 13,
+  "אמס": 12,
+  "כיכר השבת": 10,
+  "כאן 11": 10,
+  "تسنیم": 10,
+  "וואלה": 8,
+  "המחדש": 8,
+  "בחדרי חרדים": 8,
+  "ice (אייס)": 7,
+  "ערוץ 7": 7,
+  "Google News (כל האתרים)": 6,
+  "Israel Defense": 6,
+  "N12": 5,
+  "אתר החדשות דבר": 5,
+  "רשת 13": 5,
+  "JDN": 5,
   "ביזפורטל": 5,
-  "אפוק": 4,
-  "103FM": 4,
-  "i24NEWS": 4,
-  "Gov.il": 4,
-  "היום": 3,
-  "Hayadan": 3,
-  "עמית סגל (טלגרם)": 3,
-  "ynet": 1,
-  "אנשים ומחשבים": 1,
-  "אייס": 1
+  "זמן ישראל": 4,
+  "אפוק": 3,
+  "כיפה": 3,
+  "Gov.il": 3,
+  "103FM": 2,
+  "i24NEWS": 2,
+  "Hayadan": 2,
+  "עמית סגל (טלגרם)": 2,
+  "אייס": 2,
+  "ynet": 2,
+  "היום": 2,
+  "הידברות": 1
  },
  "per_lean": {
-  "אחר": 201,
-  "שמאל": 162,
-  "ימין": 102,
-  "מרכז": 86
+  "אחר": 144,
+  "שמאל": 121,
+  "ימין": 75,
+  "מרכז": 66
  },
  "leads": [
   {
@@ -91,22 +91,22 @@
    "rank": 4
   },
   {
-   "id": "571c6571081d60df",
-   "ts": "2026-10-11T15:40:13.252051+03:00",
+   "id": "8ae4a4a2b43dce13",
+   "ts": "2026-10-12T21:57:36.809899+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
+   "target": "ai",
+   "target_display": "בינה מלאכותית",
    "groups": [
-    "איראן"
+    "טכנולוגיה"
    ],
-   "score": 14,
+   "score": 12,
    "lean": "left",
-   "title": "מצוקת סעודיה עלולה להקדים מתקפה של ארה\"ב באיראן",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-11/ty-article/.premium/000001a1-275b-d695-abad-f7db93cf0000",
-   "prominence": 3,
-   "rank": 9
+   "title": "החוקרים הטיחו באוריך: ביקשת מ ChatGPT שיעזור לך לשפר את תדמיתה של קטאר",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-12/ty-article/.premium/000001a1-3133-defc-adf3-73f7be200000",
+   "prominence": 5,
+   "rank": 3
   }
  ],
  "items": [
@@ -1261,6 +1261,22 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "83d5c208df7cff77",
+   "ts": "2026-10-12T21:57:36.809899+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בריטניה: איראן \"כמעט בוודאות\" אחראית לפיגוע שסוכל בפיירפורד, נזיפה לשגריר",
+   "link": "https://www.ynet.co.il/news/article/sy67lt5szl"
   },
   {
    "id": "ad6d2a18f9d7f43d",
@@ -4686,6 +4702,40 @@
   },
   {
    "id": "e0db351a8f2be829",
+   "ts": "2026-10-12T21:57:36.809899+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
+  },
+  {
+   "id": "8ae4a4a2b43dce13",
+   "ts": "2026-10-12T21:57:36.809899+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "ai",
+   "target_display": "בינה מלאכותית",
+   "groups": [
+    "טכנולוגיה"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "החוקרים הטיחו באוריך: ביקשת מ ChatGPT שיעזור לך לשפר את תדמיתה של קטאר",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-12/ty-article/.premium/000001a1-3133-defc-adf3-73f7be200000",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "e0db351a8f2be829",
    "ts": "2026-10-12T12:04:45.746373+03:00",
    "source": "walla",
    "source_display": "וואלה",
@@ -5041,54 +5091,6 @@
   {
    "id": "e0db351a8f2be829",
    "ts": "2026-10-07T11:34:08.503860+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-07T00:35:40.161080+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-06T19:46:23.776024+03:00",
    "source": "walla",
    "source_display": "וואלה",
    "sub_source": "",
