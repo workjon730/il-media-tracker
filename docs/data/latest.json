@@ -1,79 +1,61 @@
 {
- "generated": "2026-10-14T10:30:13.090443+03:00",
- "last_24h_total": 688,
+ "generated": "2026-10-14T16:38:19.613836+03:00",
+ "last_24h_total": 691,
  "per_target": {
-  "איראן": 460,
-  "בינה מלאכותית": 228
+  "איראן": 458,
+  "בינה מלאכותית": 233
  },
  "per_source": {
-  "מעריב": 59,
   "YNET": 59,
-  "Vietnam.vn": 55,
+  "מעריב": 51,
+  "Vietnam.vn": 38,
   "Investing.com": 33,
-  "מקור ראשון": 30,
-  "בחדרי חרדים": 27,
-  "mako": 25,
+  "מקור ראשון": 32,
+  "בחדרי חרדים": 30,
+  "mako": 27,
   "אמס": 24,
-  "היום": 22,
-  "הארץ": 21,
-  "כיכר השבת": 21,
-  "C14": 21,
+  "היום": 23,
+  "כיכר השבת": 23,
+  "TheMarker": 22,
+  "C14": 22,
   "גלובס": 19,
-  "כאן 11": 19,
-  "סרוגים": 19,
-  "تسنیم": 17,
-  "TheMarker": 17,
-  "ביזפורטל": 16,
-  "N12": 15,
+  "הארץ": 19,
+  "זמן ישראל": 19,
+  "ביזפורטל": 19,
+  "N12": 18,
+  "סרוגים": 18,
+  "כאן 11": 18,
   "ערוץ 7": 15,
-  "זמן ישראל": 15,
-  "calcalist": 14,
+  "calcalist": 15,
+  "تسنیم": 14,
   "וואלה": 12,
-  "כיפה": 12,
+  "i24NEWS": 12,
   "ice (אייס)": 11,
-  "i24NEWS": 10,
-  "Google News (כל האתרים)": 9,
-  "הידברות": 8,
+  "כיפה": 10,
+  "וואלה טכנולוגיה": 9,
   "המחדש": 8,
-  "וואלה טכנולוגיה": 7,
-  "אתר החדשות דבר": 6,
-  "Israel Defense": 6,
-  "Gov.il": 5,
-  "ynet": 5,
+  "Google News (כל האתרים)": 8,
+  "הידברות": 8,
+  "ynet": 7,
+  "אתר החדשות דבר": 7,
   "אייס": 5,
-  "אפוק": 4,
+  "אנשים ומחשבים": 5,
+  "Israel Defense": 5,
+  "Gov.il": 5,
+  "JDN": 4,
   "רשת 13": 4,
-  "אנשים ומחשבים": 4,
-  "JDN": 3,
-  "אתר הגאולה": 3,
-  "Hayadan": 2,
-  "חרדים10": 1
+  "אפוק": 4,
+  "אתר הגאולה": 4,
+  "Hayadan": 4,
+  "פאנדר": 1
  },
  "per_lean": {
-  "אחר": 248,
-  "שמאל": 177,
-  "ימין": 148,
-  "מרכז": 115
+  "אחר": 237,
+  "שמאל": 186,
+  "ימין": 158,
+  "מרכז": 110
  },
  "leads": [
-  {
-   "id": "fbe35a930ab041a4",
-   "ts": "2026-10-13T12:19:14.780217+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "דיווח איראן מאיימת בפלישה קרקעית: \"העבירו מסר חשאי\" וול סטריט ג'ורנל: בטהראן נערכים לחידוש המלחמה, והעבירו בערוצים לא רשמיים מסרים שהם ייכנסו קרקעית למדינות שכנות אם ארה\"ב תתקוף אותם אסף רוזנצוייג |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-630944c133431a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "f9911df6605d6e54",
    "ts": "2026-10-13T20:32:54.451411+03:00",
@@ -1515,6 +1497,70 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "4df3252f17b1fb8b",
+   "ts": "2026-10-14T16:38:11.535656+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בישראל סבורים: לא תהיה תקיפה באיראן לפני הבחירות",
+   "link": "https://www.ynet.co.il/news/article/sjj11vc3ofx"
+  },
+  {
+   "id": "666b3db54122c53a",
+   "ts": "2026-10-14T16:38:11.535656+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ באיום על איראן: \"ננחית עליה מכה קשה\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4d6fa471fe731a1026.htm"
+  },
+  {
+   "id": "d702747007c26fa7",
+   "ts": "2026-10-14T16:38:11.535656+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "חשיפה: נתניהו הציע לטראמפ לחדש את המלחמה נגד איראן 13.10.26 ברק רביד",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c140cb4aa1631a1027.htm"
+  },
+  {
+   "id": "6f6456758a417a3d",
+   "ts": "2026-10-14T16:38:11.535656+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "באיראן חושפים: כך השתנתה שיטת התקיפות במפרץ",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8b7e08ebb3931a1026.htm"
   },
   {
    "id": "22252f574edfabec",
@@ -5068,6 +5114,22 @@
   },
   {
    "id": "e0db351a8f2be829",
+   "ts": "2026-10-14T16:38:11.535656+03:00",
+   "source": "walla",
+   "source_display": "וואלה",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 12,
+   "lean": "left",
+   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
+   "link": "https://news.walla.co.il/item/3869240"
+  },
+  {
+   "id": "e0db351a8f2be829",
    "ts": "2026-10-14T10:30:06.251303+03:00",
    "source": "walla",
    "source_display": "וואלה",
@@ -5085,86 +5147,6 @@
   {
    "id": "e0db351a8f2be829",
    "ts": "2026-10-14T04:49:10.034466+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-14T01:38:24.367156+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-13T20:32:54.451411+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-13T12:19:14.780217+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-13T04:16:42.201726+03:00",
-   "source": "walla",
-   "source_display": "וואלה",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 12,
-   "lean": "left",
-   "title": "4.5 שנות מאסר למרגל עבור איראן שצילם את ביתו של גלנט",
-   "link": "https://news.walla.co.il/item/3869240"
-  },
-  {
-   "id": "e0db351a8f2be829",
-   "ts": "2026-10-12T21:57:36.809899+03:00",
    "source": "walla",
    "source_display": "וואלה",
    "sub_source": "",
