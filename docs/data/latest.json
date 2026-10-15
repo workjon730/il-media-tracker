@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-15T04:24:42.836995+03:00",
- "last_24h_total": 857,
+ "generated": "2026-10-15T10:20:23.443981+03:00",
+ "last_24h_total": 862,
  "per_target": {
-  "איראן": 533,
-  "בינה מלאכותית": 324
+  "איראן": 531,
+  "בינה מלאכותית": 331
  },
  "per_source": {
-  "YNET": 65,
-  "מעריב": 62,
-  "Vietnam.vn": 55,
-  "מקור ראשון": 46,
-  "Investing.com": 43,
-  "mako": 39,
-  "TheMarker": 32,
-  "בחדרי חרדים": 32,
+  "מעריב": 63,
+  "YNET": 61,
+  "Vietnam.vn": 60,
+  "מקור ראשון": 47,
+  "Investing.com": 45,
+  "mako": 41,
+  "TheMarker": 35,
   "זמן ישראל": 31,
   "כיכר השבת": 31,
-  "סרוגים": 27,
-  "N12": 26,
-  "גלובס": 25,
-  "אמס": 24,
-  "C14": 24,
-  "ביזפורטל": 22,
-  "ערוץ 7": 20,
+  "בחדרי חרדים": 30,
+  "N12": 29,
+  "סרוגים": 29,
+  "גלובס": 27,
+  "ערוץ 7": 22,
+  "אמס": 21,
+  "i24NEWS": 20,
+  "C14": 20,
   "הארץ": 19,
-  "כאן 11": 19,
   "היום": 19,
-  "i24NEWS": 19,
+  "ביזפורטל": 19,
+  "כאן 11": 18,
   "וואלה": 17,
-  "calcalist": 17,
+  "calcalist": 16,
   "ice (אייס)": 13,
-  "וואלה טכנולוגיה": 13,
-  "تسنیم": 12,
-  "כיפה": 9,
+  "וואלה טכנולוגיה": 12,
+  "تسنیم": 10,
+  "רשת 13": 9,
   "Hayadan": 9,
+  "אתר הגאולה": 8,
   "אתר החדשות דבר": 8,
-  "הידברות": 8,
-  "אתר הגאולה": 7,
-  "Google News (כל האתרים)": 7,
-  "רשת 13": 7,
-  "המחדש": 6,
+  "כיפה": 8,
+  "המחדש": 7,
+  "הידברות": 6,
+  "Google News (כל האתרים)": 6,
   "אנשים ומחשבים": 6,
   "Israel Defense": 6,
   "Gov.il": 6,
   "ynet": 5,
-  "אפוק": 5,
   "JDN": 5,
-  "GlobeNewswire": 3,
-  "עמית סגל (טלגרם)": 3,
-  "אייס": 2,
-  "Universidad de Córdoba (UCO)": 2,
-  "פאנדר": 1
+  "אפוק": 5,
+  "GlobeNewswire": 4,
+  "עמית סגל (טלגרם)": 4,
+  "Universidad de Córdoba (UCO)": 3,
+  "פאנדר": 1,
+  "HWzone": 1
  },
  "per_lean": {
-  "אחר": 296,
-  "שמאל": 229,
-  "ימין": 205,
-  "מרכז": 127
+  "אחר": 298,
+  "שמאל": 234,
+  "ימין": 201,
+  "מרכז": 129
  },
  "leads": [
   {
-   "id": "445fc54bf5cefaad",
-   "ts": "2026-10-14T04:49:10.034466+03:00",
+   "id": "5653396515302811",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -70,12 +70,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "טראמפ באיום על איראן: \"ננחית עליה מכה קשה\" בצל המתיחות במפרץ, הנשיא האמריקני אמר בעצרת באלסקה: \"חכו ותראו מה נעשה להם\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4d6fa471fe731a1026.htm",
-   "prominence": 5,
-   "rank": 2
+   "title": "תופעל נגד איראן? הפעם היחידה שהשתמשו בפצצה - והתיעוד \"יכולה להשמיד שטח עצום\": זו \"אם כל הפצצות\" של צבא ארה\"ב N12 |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c1413e6f10e31a1026.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "69386a9d9b96dc5b",
@@ -96,8 +96,8 @@
    "rank": 3
   },
   {
-   "id": "8c36b328cbc5eea5",
-   "ts": "2026-10-14T04:49:10.034466+03:00",
+   "id": "d27aa868b5a49cbb",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -106,15 +106,51 @@
    "groups": [
     "איראן"
    ],
-   "score": 17,
+   "score": 19,
    "lean": "left",
-   "title": "חשיפה נתניהו דן עם טראמפ על תקיפה באיראן - עוד לפני הבחירות בכיר אמריקני לחדשות 12: \"ביבי מאמין שהכוח טמון בהיותו ר\"מ בזמן מלחמה\"",
+   "title": "טראמפ על איראן: \"הולכים להנחית עליה מכה קשה\"",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-c140cb4aa1631a1027.htm",
-   "prominence": 3,
-   "rank": 7
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "d7ac16f17d113fc3",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "\"אין שינוי בהערכת המצב בישראל שמצדיק מבצע באיראן\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-1bd0d08019631a1027.htm",
+   "prominence": 5,
+   "rank": 3
   }
  ],
  "items": [
+  {
+   "id": "5653396515302811",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "תופעל נגד איראן? הפעם היחידה שהשתמשו בפצצה - והתיעוד \"יכולה להשמיד שטח עצום\": זו \"אם כל הפצצות\" של צבא ארה\"ב N12 |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c1413e6f10e31a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "f9911df6605d6e54",
    "ts": "2026-10-13T20:32:54.451411+03:00",
@@ -312,6 +348,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "d27aa868b5a49cbb",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ על איראן: \"הולכים להנחית עליה מכה קשה\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c140cb4aa1631a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "d7ac16f17d113fc3",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "\"אין שינוי בהערכת המצב בישראל שמצדיק מבצע באיראן\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-1bd0d08019631a1027.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "69386a9d9b96dc5b",
@@ -926,6 +998,24 @@
    "rank": 9
   },
   {
+   "id": "3dc4ad7dc0ea0099",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "דיווח: טראמפ שוקל להשתמש ב\"אם כל הפצצות\" נגד איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-cf8e415c8bd31a1027.htm",
+   "prominence": 1,
+   "rank": 13
+  },
+  {
    "id": "ca8b5f1dad185251",
    "ts": "2026-10-14T21:31:41.815867+03:00",
    "source": "n12",
@@ -1482,6 +1572,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "21d76b32967e4974",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ארה\"ב שוקלת להשתמש לראשונה ב\"אם כל הפצצות\" מול איראן",
+   "link": "https://www.ynet.co.il/news/article/hksqbr6igg"
+  },
+  {
+   "id": "b22f6e92251a2d0b",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "עוד לפני הבחירות? הסימנים המתגברים לתקיפה באיראן | עמית סגל >> https://bit.ly/3W5JqV6",
+   "link": "https://t.me/amitsegal/65805"
   },
   {
    "id": "666b3db54122c53a",
@@ -4918,6 +5040,24 @@
    "rank": 10
   },
   {
+   "id": "40947103a3fe5cad",
+   "ts": "2026-10-15T10:20:16.020021+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 13,
+   "lean": "left",
+   "title": "מקורות ל CNN: ארה\"ב שוקלת להשתמש ב\"אם כל הפצצות\" נגד איראן",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-15/ty-article/000001a1-3dc2-de23-a5fb-bfd7ecff0000",
+   "prominence": 1,
+   "rank": 11
+  },
+  {
    "id": "253e90e253a5d7d5",
    "ts": "2026-10-11T08:36:56.591125+03:00",
    "source": "haaretz",
@@ -4988,132 +5128,6 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-09/ty-article/.premium/000001a1-21d8-d10a-a5b1-a1dcc1ac0000",
    "prominence": 1,
    "rank": 11
-  },
-  {
-   "id": "e2e329611396aa86",
-   "ts": "2026-10-09T11:55:26.850693+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "צבא ארה\"ב נערך לתקוף באיראן, טראמפ דחה חמש תוכניות תקיפה שהוצעו לו",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-08/ty-article/.premium/000001a1-1c5b-da49-a5e9-1dfbb6d40000",
-   "prominence": 1,
-   "rank": 12
-  },
-  {
-   "id": "80855af6a92dd890",
-   "ts": "2026-10-09T01:00:54.676604+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "טראמפ: לא אתקוף את איראן לפני בחירות האמצע בנובמבר",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-08/ty-article/.premium/000001a1-1c5b-da49-a5e9-1dfbb6d40000",
-   "prominence": 1,
-   "rank": 12
-  },
-  {
-   "id": "d21a6bcbe9901684",
-   "ts": "2026-10-01T02:42:06.661882+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "ר\"מ בריטניה: יש ראיות חזקות למעורבות איראן בניסיון הפיגוע בבסיס",
-   "link": "https://www.haaretz.co.il/news/world/europe/2026-09-30/ty-article/.premium/000001a0-f31c-dbb2-a9f8-fbdf3d1e0000",
-   "prominence": 1,
-   "rank": 12
-  },
-  {
-   "id": "edc9db7f51fd8ebf",
-   "ts": "2026-09-30T22:09:46.167911+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "ר\"מ בריטניה: אינדיקציות שאיראן מעורבת בניסיון פיגוע בבסיס חיל האוויר",
-   "link": "https://www.haaretz.co.il/news/world/europe/2026-09-30/ty-article/.premium/000001a0-f31c-dbb2-a9f8-fbdf3d1e0000",
-   "prominence": 1,
-   "rank": 12
-  },
-  {
-   "id": "398f1688fc035203",
-   "ts": "2026-09-27T03:29:13.387421+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "טראמפ: דוחה את ההצעה של איראן להפסקת אש",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-09-26/ty-article/.premium/000001a0-de03-dfbb-afa4-ff53bab40000",
-   "prominence": 1,
-   "rank": 16
-  },
-  {
-   "id": "398f1688fc035203",
-   "ts": "2026-09-27T00:56:41.522549+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "טראמפ: דוחה את ההצעה של איראן להפסקת אש",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-09-26/ty-article/.premium/000001a0-de03-dfbb-afa4-ff53bab40000",
-   "prominence": 1,
-   "rank": 15
-  },
-  {
-   "id": "398f1688fc035203",
-   "ts": "2026-09-26T21:31:24.168637+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "טראמפ: דוחה את ההצעה של איראן להפסקת אש",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-09-26/ty-article/.premium/000001a0-de03-dfbb-afa4-ff53bab40000",
-   "prominence": 1,
-   "rank": 13
   }
  ]
 }
