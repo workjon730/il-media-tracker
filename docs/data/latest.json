@@ -1,62 +1,63 @@
 {
- "generated": "2026-10-15T10:20:23.443981+03:00",
+ "generated": "2026-10-15T16:21:11.120671+03:00",
  "last_24h_total": 862,
  "per_target": {
   "איראן": 531,
   "בינה מלאכותית": 331
  },
  "per_source": {
-  "מעריב": 63,
+  "Vietnam.vn": 71,
+  "מעריב": 62,
   "YNET": 61,
-  "Vietnam.vn": 60,
   "מקור ראשון": 47,
+  "mako": 45,
   "Investing.com": 45,
-  "mako": 41,
-  "TheMarker": 35,
+  "TheMarker": 34,
+  "סרוגים": 33,
   "זמן ישראל": 31,
   "כיכר השבת": 31,
   "בחדרי חרדים": 30,
   "N12": 29,
-  "סרוגים": 29,
   "גלובס": 27,
-  "ערוץ 7": 22,
-  "אמס": 21,
-  "i24NEWS": 20,
-  "C14": 20,
+  "אמס": 22,
+  "ערוץ 7": 21,
+  "וואלה": 19,
   "הארץ": 19,
   "היום": 19,
-  "ביזפורטל": 19,
-  "כאן 11": 18,
-  "וואלה": 17,
-  "calcalist": 16,
-  "ice (אייס)": 13,
-  "וואלה טכנולוגיה": 12,
-  "تسنیم": 10,
+  "i24NEWS": 18,
+  "כאן 11": 17,
+  "C14": 17,
+  "ביזפורטל": 16,
+  "calcalist": 14,
+  "ice (אייס)": 12,
+  "וואלה טכנולוגיה": 10,
   "רשת 13": 9,
+  "כיפה": 9,
   "Hayadan": 9,
-  "אתר הגאולה": 8,
-  "אתר החדשות דבר": 8,
-  "כיפה": 8,
-  "המחדש": 7,
-  "הידברות": 6,
-  "Google News (כל האתרים)": 6,
-  "אנשים ומחשבים": 6,
-  "Israel Defense": 6,
-  "Gov.il": 6,
+  "تسنیم": 8,
+  "אתר הגאולה": 7,
+  "אנשים ומחשבים": 7,
+  "אתר החדשות דבר": 6,
+  "המחדש": 6,
+  "אפוק": 6,
   "ynet": 5,
-  "JDN": 5,
-  "אפוק": 5,
-  "GlobeNewswire": 4,
+  "Google News (כל האתרים)": 5,
+  "Israel Defense": 5,
+  "Gov.il": 5,
+  "GlobeNewswire": 5,
+  "JDN": 4,
+  "הידברות": 4,
   "עמית סגל (טלגרם)": 4,
-  "Universidad de Córdoba (UCO)": 3,
+  "Universidad de Córdoba (UCO)": 4,
+  "HWzone": 2,
   "פאנדר": 1,
-  "HWzone": 1
+  "TGspot": 1
  },
  "per_lean": {
-  "אחר": 298,
-  "שמאל": 234,
-  "ימין": 201,
-  "מרכז": 129
+  "אחר": 296,
+  "שמאל": 238,
+  "ימין": 202,
+  "מרכז": 126
  },
  "leads": [
   {
@@ -76,24 +77,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-c1413e6f10e31a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "69386a9d9b96dc5b",
-   "ts": "2026-10-14T10:30:06.251303+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "בכירים באיראן חושפים: טהראן משנה את הטקטיקה בהורמוז כדי לפגוע בטראמפ - כך נראית ההסלמה החדשה לפני הבחירות",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8b7e08ebb3931a1026.htm",
-   "prominence": 5,
-   "rank": 3
   },
   {
    "id": "d27aa868b5a49cbb",
@@ -130,6 +113,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-1bd0d08019631a1027.htm",
    "prominence": 5,
    "rank": 3
+  },
+  {
+   "id": "32d22005ec051f1f",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "דיווח איראן הנחתה את חיזבאללה: תיערכו לעימות אזורי בקרוב \"ניתנו הנחיות פנימיות חשאיות להתייצב במקומות פעילות חדשים\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c22ea952d1f31a1027.htm",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "e9b315b0e11ad06a",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "15:48 צבא איראן: מכלית נפט \"שהפרה את הכללים\" עולה באש בחלק המזרחי של מצר הורמוז",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-15/ty-article-live/000001a1-3c3c-d1eb-abe1-7c3c0bb80000?liveBlogItemId=1410376951",
+   "prominence": 3,
+   "rank": 8
   }
  ],
  "items": [
@@ -348,6 +367,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "32d22005ec051f1f",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "דיווח איראן הנחתה את חיזבאללה: תיערכו לעימות אזורי בקרוב \"ניתנו הנחיות פנימיות חשאיות להתייצב במקומות פעילות חדשים\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c22ea952d1f31a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "d27aa868b5a49cbb",
@@ -998,6 +1035,42 @@
    "rank": 9
   },
   {
+   "id": "72beb676bcb0383b",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "הרצוג התחיל לנאום - הנציגים מאיראן וטורקיה נטשו 11:50 קרן בצלאל, שושי חתוקה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-09ec8178dbe31a1026.htm",
+   "prominence": 1,
+   "rank": 13
+  },
+  {
+   "id": "d00a64a897322067",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 7 דקות ארה״ב נערכת למתקפה באיראן: שלושה ימים של אש",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-4a96a9aa5de31a1027.htm",
+   "prominence": 1,
+   "rank": 17
+  },
+  {
    "id": "3dc4ad7dc0ea0099",
    "ts": "2026-10-15T10:20:16.020021+03:00",
    "source": "n12",
@@ -1572,6 +1645,70 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "12ca460385b77b0f",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נציג איראן יצא בנאום הרצוג, אמיר קטאר נשאר: הפסגה החריגה - ותרגיל העוקץ האווירי לטורקיה",
+   "link": "https://www.ynet.co.il/news/article/hyksbmcige"
+  },
+  {
+   "id": "21d76b32967e4974",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ארה\"ב שוקלת להשתמש לראשונה ב\"אם כל הפצצות\" מול איראן",
+   "link": "https://www.ynet.co.il/news/article/hksqbr6igg"
+  },
+  {
+   "id": "968d5ee722e1d6f3",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ארה\"ב שוקלת להשתמש ב\"אם כל הפצצות\" נגד איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-cf8e415c8bd31a1027.htm"
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
   },
   {
    "id": "21d76b32967e4974",
@@ -4806,6 +4943,24 @@
    "link": "https://www.ynet.co.il/news/article/s13jo3gqze"
   },
   {
+   "id": "e9b315b0e11ad06a",
+   "ts": "2026-10-15T16:21:03.468931+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "15:48 צבא איראן: מכלית נפט \"שהפרה את הכללים\" עולה באש בחלק המזרחי של מצר הורמוז",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-15/ty-article-live/000001a1-3c3c-d1eb-abe1-7c3c0bb80000?liveBlogItemId=1410376951",
+   "prominence": 3,
+   "rank": 8
+  },
+  {
    "id": "571c6571081d60df",
    "ts": "2026-10-11T15:40:13.252051+03:00",
    "source": "haaretz",
@@ -4984,150 +5139,6 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-09-28/ty-article-live/000001a0-e4a6-db4b-a7a5-f6f65f9a0000?liveBlogItemId=1220488604",
    "prominence": 3,
    "rank": 9
-  },
-  {
-   "id": "365fa8b0c4d2bbf1",
-   "ts": "2026-09-27T20:41:46.504263+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "17:59 טראמפ לאקסיוס: מצפה לשיחות נוספות עם איראן השבוע; עראקצ'י ל NBC: נכונים לדיפלומטיה אך ערוכים לחידוש הלחימה",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-09-27/ty-article-live/000001a0-df8f-d259-a3b4-df9f81b50000?liveBlogItemId=409195157",
-   "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "89b16c67efaa851a",
-   "ts": "2026-09-25T22:59:48.362662+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "22:18 נשיא איראן: מסכימים על הצורך לחזור למזכר ההבנות ולכבד את ההתחייבויות שנעשו",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-09-25/ty-article-live/000001a0-d53e-d9ab-abfd-f7bf4e960000?liveBlogItemId=492362421",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "646b3a08b9317793",
-   "ts": "2026-09-25T18:47:47.864636+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "15:56 שגריר ארה\"ב לסין: טראמפ הבהיר לנשיא שי שהסיוע שהיא מעניקה לאיראן בלתי מתקבל על הדעת",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-09-25/ty-article-live/000001a0-d53e-d9ab-abfd-f7bf4e960000?liveBlogItemId=636432032",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "40947103a3fe5cad",
-   "ts": "2026-10-15T10:20:16.020021+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "מקורות ל CNN: ארה\"ב שוקלת להשתמש ב\"אם כל הפצצות\" נגד איראן",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-15/ty-article/000001a1-3dc2-de23-a5fb-bfd7ecff0000",
-   "prominence": 1,
-   "rank": 11
-  },
-  {
-   "id": "253e90e253a5d7d5",
-   "ts": "2026-10-11T08:36:56.591125+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "גורמים ביטחוניים: תקיפה באיראן לפני הבחירות עשויה להיתפס כצעד פוליטי",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
-   "prominence": 1,
-   "rank": 12
-  },
-  {
-   "id": "470c0f51a5b87b3d",
-   "ts": "2026-10-10T11:24:34.332798+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "צה\"ל: תקפנו מהאוויר בדרום סוריה מחבל שקידם פעולות טרור בהכוונת איראן",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-09/ty-article/.premium/000001a1-21d8-d10a-a5b1-a1dcc1ac0000",
-   "prominence": 1,
-   "rank": 13
-  },
-  {
-   "id": "470c0f51a5b87b3d",
-   "ts": "2026-10-10T04:42:01.002596+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "צה\"ל: תקפנו מהאוויר בדרום סוריה מחבל שקידם פעולות טרור בהכוונת איראן",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-09/ty-article/.premium/000001a1-21d8-d10a-a5b1-a1dcc1ac0000",
-   "prominence": 1,
-   "rank": 12
-  },
-  {
-   "id": "470c0f51a5b87b3d",
-   "ts": "2026-10-10T00:36:45.847898+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "צה\"ל: תקפנו מהאוויר בדרום סוריה מחבל שקידם פעולות טרור בהכוונת איראן",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-09/ty-article/.premium/000001a1-21d8-d10a-a5b1-a1dcc1ac0000",
-   "prominence": 1,
-   "rank": 11
   }
  ]
 }
