@@ -1,63 +1,63 @@
 {
- "generated": "2026-10-15T16:21:11.120671+03:00",
- "last_24h_total": 862,
+ "generated": "2026-10-15T21:13:40.506249+03:00",
+ "last_24h_total": 861,
  "per_target": {
-  "איראן": 531,
-  "בינה מלאכותית": 331
+  "איראן": 541,
+  "בינה מלאכותית": 320
  },
  "per_source": {
-  "Vietnam.vn": 71,
-  "מעריב": 62,
-  "YNET": 61,
-  "מקור ראשון": 47,
-  "mako": 45,
-  "Investing.com": 45,
-  "TheMarker": 34,
-  "סרוגים": 33,
-  "זמן ישראל": 31,
+  "Vietnam.vn": 80,
+  "מעריב": 68,
+  "YNET": 62,
+  "mako": 46,
+  "מקור ראשון": 44,
+  "Investing.com": 43,
+  "סרוגים": 36,
+  "זמן ישראל": 34,
+  "TheMarker": 31,
   "כיכר השבת": 31,
-  "בחדרי חרדים": 30,
-  "N12": 29,
-  "גלובס": 27,
-  "אמס": 22,
-  "ערוץ 7": 21,
-  "וואלה": 19,
+  "גלובס": 29,
+  "N12": 27,
+  "בחדרי חרדים": 27,
+  "וואלה": 23,
+  "אמס": 21,
+  "ערוץ 7": 20,
+  "היום": 20,
   "הארץ": 19,
-  "היום": 19,
-  "i24NEWS": 18,
-  "כאן 11": 17,
-  "C14": 17,
-  "ביזפורטל": 16,
-  "calcalist": 14,
-  "ice (אייס)": 12,
-  "וואלה טכנולוגיה": 10,
-  "רשת 13": 9,
-  "כיפה": 9,
-  "Hayadan": 9,
-  "تسنیم": 8,
-  "אתר הגאולה": 7,
-  "אנשים ומחשבים": 7,
-  "אתר החדשות דבר": 6,
-  "המחדש": 6,
+  "כאן 11": 16,
+  "C14": 16,
+  "i24NEWS": 15,
+  "calcalist": 12,
+  "כיפה": 11,
+  "ביזפורטל": 11,
+  "ice (אייס)": 11,
+  "רשת 13": 10,
+  "Hayadan": 8,
+  "אנשים ומחשבים": 8,
+  "וואלה טכנולוגיה": 8,
+  "تسنیم": 7,
   "אפוק": 6,
+  "אתר הגאולה": 6,
+  "GlobeNewswire": 6,
+  "המחדש": 5,
+  "עמית סגל (טלגרם)": 5,
+  "Universidad de Córdoba (UCO)": 5,
   "ynet": 5,
-  "Google News (כל האתרים)": 5,
-  "Israel Defense": 5,
-  "Gov.il": 5,
-  "GlobeNewswire": 5,
   "JDN": 4,
-  "הידברות": 4,
-  "עמית סגל (טלגרם)": 4,
-  "Universidad de Córdoba (UCO)": 4,
-  "HWzone": 2,
-  "פאנדר": 1,
-  "TGspot": 1
+  "אתר החדשות דבר": 4,
+  "Google News (כל האתרים)": 4,
+  "Israel Defense": 4,
+  "Gov.il": 4,
+  "הידברות": 3,
+  "HWzone": 3,
+  "TGspot": 2,
+  "The Portugal News": 1
  },
  "per_lean": {
-  "אחר": 296,
-  "שמאל": 238,
-  "ימין": 202,
-  "מרכז": 126
+  "אחר": 287,
+  "שמאל": 239,
+  "ימין": 203,
+  "מרכז": 132
  },
  "leads": [
   {
@@ -149,6 +149,24 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-15/ty-article-live/000001a1-3c3c-d1eb-abe1-7c3c0bb80000?liveBlogItemId=1410376951",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "9d0f5bc88f44d83a",
+   "ts": "2026-10-15T21:13:32.838436+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "בקרב הזה, איראן עלולה לאבד את הנכס החשוב שלה 11:49 ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
@@ -801,6 +819,24 @@
    "rank": 1
   },
   {
+   "id": "9d0f5bc88f44d83a",
+   "ts": "2026-10-15T21:13:32.838436+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "בקרב הזה, איראן עלולה לאבד את הנכס החשוב שלה 11:49 ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
    "id": "8c36b328cbc5eea5",
    "ts": "2026-10-14T04:49:10.034466+03:00",
    "source": "n12",
@@ -1033,6 +1069,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "124bf219a84465b8",
+   "ts": "2026-10-15T21:13:32.838436+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 38 דקות המתיחות עם איראן: נתניהו שוחח עם רוביו, גורמי ביטחון - \"אם טהראן לא תתעשת, פעולה - תרחיש ריאלי\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-8e81fcda19041a1026.htm",
+   "prominence": 1,
+   "rank": 17
   },
   {
    "id": "72beb676bcb0383b",
@@ -1645,6 +1699,70 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "3127c832fd06199b",
+   "ts": "2026-10-15T21:13:32.838436+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן הטביעה עוד ספינה - ו\"מכשירי אייפון צפים בהורמוז\" | תיעוד",
+   "link": "https://www.ynet.co.il/news/article/rjqi19rsgg"
+  },
+  {
+   "id": "12ca460385b77b0f",
+   "ts": "2026-10-15T21:13:32.838436+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נציג איראן יצא בנאום הרצוג, אמיר קטאר נשאר: הפסגה החריגה - ותרגיל העוקץ האווירי לטורקיה",
+   "link": "https://www.ynet.co.il/news/article/hyksbmcige"
+  },
+  {
+   "id": "968d5ee722e1d6f3",
+   "ts": "2026-10-15T21:13:32.838436+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ארה\"ב שוקלת להשתמש ב\"אם כל הפצצות\" נגד איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-cf8e415c8bd31a1027.htm"
+  },
+  {
+   "id": "76626c006166c9bf",
+   "ts": "2026-10-15T21:13:32.838436+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "נתניהו מאיים: אם איראן תתקוף אותנו היא תעשה את טעות חייה. יש לנו גם אפשרות לפעול באופן עצמאי, ואני לא מציע למישהו מאויבנו לנסות אותנו. בשום צורה.",
+   "link": "https://t.me/amitsegal/65841"
   },
   {
    "id": "12ca460385b77b0f",
@@ -5029,114 +5147,6 @@
    "lean": "left",
    "title": "01:57 דיווח: טראמפ שוקל לתקוף באיראן בשבועות הקרובים",
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=2071934639",
-   "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "0085535ebe4374a7",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "01:57 ואנס: איראן תידרש לצמצם משמעותית את העשרת האורניום כדי לסיים את המלחמה",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-07/ty-article-live/000001a1-1307-df57-a7e5-3b87ed230000?liveBlogItemId=1797375710",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
-   "id": "08dd07e2eb571210",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "01:33 טראמפ: איש אינו יודע מי מנהל כיום את איראן",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-07/ty-article-live/000001a1-1307-df57-a7e5-3b87ed230000?liveBlogItemId=1238222568",
-   "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "69bb6261d5e97bbd",
-   "ts": "2026-10-03T09:27:46.740540+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "06:28 דיווח: בכירי ממשל טראמפ התכנסו לכמה שעות כדי לדון בהמשך המלחמה באיראן",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-03/ty-article-live/000001a0-fe80-d6fb-a9ab-feaa8ac80000?liveBlogItemId=1497880184",
-   "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "7eec7cf8c8b5f94c",
-   "ts": "2026-10-01T21:49:39.161151+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "20:58 טראמפ נשאל על מעורבות איראן בפיגוע במטוס פליי דובאי: אני מעריך שכן, עובדים על זה כרגע",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-01/ty-article-live/000001a0-f434-dfbb-afa4-f7749b070000?liveBlogItemId=674748658",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "3a213bc2dea08e64",
-   "ts": "2026-09-29T23:41:41.924869+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "23:23 טראמפ: איראן במצב גרוע מאוד, אני לא יודע אם הם כבר קרובים להיכנע",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-09-29/ty-article-live/000001a0-e9dc-dfbb-afa4-fbdc989f0000?liveBlogItemId=686565374",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
-   "id": "1180d6c008745de7",
-   "ts": "2026-09-28T03:35:37.216541+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "02:17 טראמפ: קרובים לנצח במלחמה עם איראן",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-09-28/ty-article-live/000001a0-e4a6-db4b-a7a5-f6f65f9a0000?liveBlogItemId=1220488604",
    "prominence": 3,
    "rank": 9
   }
