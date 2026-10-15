@@ -1,63 +1,63 @@
 {
- "generated": "2026-10-15T21:13:40.506249+03:00",
- "last_24h_total": 861,
+ "generated": "2026-10-16T01:10:31.819388+03:00",
+ "last_24h_total": 851,
  "per_target": {
-  "איראן": 541,
-  "בינה מלאכותית": 320
+  "איראן": 548,
+  "בינה מלאכותית": 303
  },
  "per_source": {
-  "Vietnam.vn": 80,
-  "מעריב": 68,
-  "YNET": 62,
-  "mako": 46,
-  "מקור ראשון": 44,
-  "Investing.com": 43,
-  "סרוגים": 36,
-  "זמן ישראל": 34,
-  "TheMarker": 31,
-  "כיכר השבת": 31,
-  "גלובס": 29,
+  "Vietnam.vn": 81,
+  "מעריב": 72,
+  "YNET": 61,
+  "mako": 49,
+  "מקור ראשון": 42,
+  "Investing.com": 41,
+  "סרוגים": 37,
+  "זמן ישראל": 35,
+  "גלובס": 31,
+  "כיכר השבת": 30,
+  "TheMarker": 28,
   "N12": 27,
-  "בחדרי חרדים": 27,
-  "וואלה": 23,
-  "אמס": 21,
-  "ערוץ 7": 20,
-  "היום": 20,
+  "וואלה": 25,
+  "בחדרי חרדים": 25,
+  "אמס": 22,
+  "היום": 21,
   "הארץ": 19,
-  "כאן 11": 16,
-  "C14": 16,
-  "i24NEWS": 15,
-  "calcalist": 12,
-  "כיפה": 11,
-  "ביזפורטל": 11,
-  "ice (אייס)": 11,
+  "ערוץ 7": 17,
+  "C14": 17,
+  "כאן 11": 14,
+  "כיפה": 13,
+  "i24NEWS": 11,
   "רשת 13": 10,
-  "Hayadan": 8,
-  "אנשים ומחשבים": 8,
-  "וואלה טכנולוגיה": 8,
-  "تسنیم": 7,
+  "calcalist": 10,
+  "אנשים ומחשבים": 9,
+  "ice (אייס)": 9,
+  "ביזפורטל": 8,
+  "Hayadan": 7,
+  "تسنیم": 6,
   "אפוק": 6,
-  "אתר הגאולה": 6,
+  "Universidad de Córdoba (UCO)": 6,
   "GlobeNewswire": 6,
+  "ynet": 6,
   "המחדש": 5,
+  "JDN": 5,
+  "אתר הגאולה": 5,
+  "וואלה טכנולוגיה": 5,
   "עמית סגל (טלגרם)": 5,
-  "Universidad de Córdoba (UCO)": 5,
-  "ynet": 5,
-  "JDN": 4,
-  "אתר החדשות דבר": 4,
-  "Google News (כל האתרים)": 4,
-  "Israel Defense": 4,
   "Gov.il": 4,
+  "HWzone": 4,
+  "אתר החדשות דבר": 3,
+  "Google News (כל האתרים)": 3,
   "הידברות": 3,
-  "HWzone": 3,
-  "TGspot": 2,
-  "The Portugal News": 1
+  "Israel Defense": 3,
+  "TGspot": 3,
+  "The Portugal News": 2
  },
  "per_lean": {
-  "אחר": 287,
+  "אחר": 273,
   "שמאל": 239,
-  "ימין": 203,
-  "מרכז": 132
+  "ימין": 204,
+  "מרכז": 135
  },
  "leads": [
   {
@@ -75,6 +75,24 @@
    "lean": "left",
    "title": "תופעל נגד איראן? הפעם היחידה שהשתמשו בפצצה - והתיעוד \"יכולה להשמיד שטח עצום\": זו \"אם כל הפצצות\" של צבא ארה\"ב N12 |",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-c1413e6f10e31a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "6f5cabfefe292143",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרסום ראשון במערב זיהו: טהראן מבצעת מהלכים צבאיים חדשים וקיצוניים רה\"מ ורוביו שוחחו, בישראל סבורים: תקיפה באיראן חייבת לכלול גם תשתיות אנרגיה ירון אברהם |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-4759c1ea17041a1026.htm",
    "prominence": 10,
    "rank": 1
   },
@@ -133,6 +151,42 @@
    "rank": 4
   },
   {
+   "id": "14a33fc7411b7636",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "ההנחיה של איראן לחיזבאללה: היערכו לעימות",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c22ea952d1f31a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "387391d072e89b03",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "צילומי הלוויין שחושפים: איראן מנסה להשתקם",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-800da2b642e31a1026.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
    "id": "e9b315b0e11ad06a",
    "ts": "2026-10-15T16:21:03.468931+03:00",
    "source": "haaretz",
@@ -170,6 +224,24 @@
   }
  ],
  "items": [
+  {
+   "id": "6f5cabfefe292143",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרסום ראשון במערב זיהו: טהראן מבצעת מהלכים צבאיים חדשים וקיצוניים רה\"מ ורוביו שוחחו, בישראל סבורים: תקיפה באיראן חייבת לכלול גם תשתיות אנרגיה ירון אברהם |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-4759c1ea17041a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "5653396515302811",
    "ts": "2026-10-15T10:20:16.020021+03:00",
@@ -385,6 +457,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "14a33fc7411b7636",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "ההנחיה של איראן לחיזבאללה: היערכו לעימות",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c22ea952d1f31a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "387391d072e89b03",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "צילומי הלוויין שחושפים: איראן מנסה להשתקם",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-800da2b642e31a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "32d22005ec051f1f",
@@ -1699,6 +1807,70 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "3127c832fd06199b",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן הטביעה עוד ספינה - ו\"מכשירי אייפון צפים בהורמוז\" | תיעוד",
+   "link": "https://www.ynet.co.il/news/article/rjqi19rsgg"
+  },
+  {
+   "id": "968d5ee722e1d6f3",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ארה\"ב שוקלת להשתמש ב\"אם כל הפצצות\" נגד איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-cf8e415c8bd31a1027.htm"
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
+  },
+  {
+   "id": "76626c006166c9bf",
+   "ts": "2026-10-16T01:10:23.316715+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "נתניהו מאיים: אם איראן תתקוף אותנו היא תעשה את טעות חייה. יש לנו גם אפשרות לפעול באופן עצמאי, ואני לא מציע למישהו מאויבנו לנסות אותנו. בשום צורה.",
+   "link": "https://t.me/amitsegal/65841"
   },
   {
    "id": "3127c832fd06199b",
@@ -5027,128 +5199,6 @@
    "lean": "left",
    "title": "נחשף: היקף הסיוע הענק של סין לאיראן ולחות'ים",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-87e7c986fb2d0a1026.htm"
-  },
-  {
-   "id": "931daca765d54673",
-   "ts": "2026-09-24T20:03:48.579655+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "חשאית יותר, קטלנית יותר: הצוללת השישית הגיעה לישראל - עם מסר לאיראן | ישיר",
-   "link": "https://www.ynet.co.il/news/article/b1jtoim9ml"
-  },
-  {
-   "id": "834b43f7d17264ca",
-   "ts": "2026-09-24T20:03:48.579655+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ פרס שטיח אדום לנשיא סין בבית הלבן, על הפרק: ה-AI והתסבוכת באיראן",
-   "link": "https://www.ynet.co.il/news/article/s13jo3gqze"
-  },
-  {
-   "id": "e9b315b0e11ad06a",
-   "ts": "2026-10-15T16:21:03.468931+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "15:48 צבא איראן: מכלית נפט \"שהפרה את הכללים\" עולה באש בחלק המזרחי של מצר הורמוז",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-15/ty-article-live/000001a1-3c3c-d1eb-abe1-7c3c0bb80000?liveBlogItemId=1410376951",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
-   "id": "571c6571081d60df",
-   "ts": "2026-10-11T15:40:13.252051+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "מצוקת סעודיה עלולה להקדים מתקפה של ארה\"ב באיראן",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-11/ty-article/.premium/000001a1-275b-d695-abad-f7db93cf0000",
-   "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "e2e329611396aa86",
-   "ts": "2026-10-09T05:03:01.823948+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "צבא ארה\"ב נערך לתקוף באיראן, טראמפ דחה חמש תוכניות תקיפה שהוצעו לו",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-08/ty-article/.premium/000001a1-1c5b-da49-a5e9-1dfbb6d40000",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "c9f9e9b92c318b6b",
-   "ts": "2026-10-08T19:24:20.410523+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "19:21 טראמפ מבהיר: לא אתקוף את איראן לפני בחירות האמצע בנובמבר",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=1870278963",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
-   "id": "c331b93fd2005832",
-   "ts": "2026-10-08T04:50:34.565203+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "01:57 דיווח: טראמפ שוקל לתקוף באיראן בשבועות הקרובים",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-08/ty-article-live/000001a1-182e-d042-a9e9-182e0e640000?liveBlogItemId=2071934639",
-   "prominence": 3,
-   "rank": 9
   }
  ]
 }
