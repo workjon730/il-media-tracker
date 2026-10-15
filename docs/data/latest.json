@@ -1,62 +1,62 @@
 {
- "generated": "2026-10-15T01:14:48.128226+03:00",
- "last_24h_total": 850,
+ "generated": "2026-10-15T04:24:42.836995+03:00",
+ "last_24h_total": 857,
  "per_target": {
-  "איראן": 541,
-  "בינה מלאכותית": 309
+  "איראן": 533,
+  "בינה מלאכותית": 324
  },
  "per_source": {
-  "YNET": 71,
-  "מעריב": 61,
-  "Vietnam.vn": 49,
-  "מקור ראשון": 43,
-  "Investing.com": 42,
-  "mako": 36,
-  "בחדרי חרדים": 34,
-  "TheMarker": 30,
-  "כיכר השבת": 30,
-  "זמן ישראל": 29,
-  "C14": 25,
-  "גלובס": 24,
-  "N12": 24,
-  "סרוגים": 24,
+  "YNET": 65,
+  "מעריב": 62,
+  "Vietnam.vn": 55,
+  "מקור ראשון": 46,
+  "Investing.com": 43,
+  "mako": 39,
+  "TheMarker": 32,
+  "בחדרי חרדים": 32,
+  "זמן ישראל": 31,
+  "כיכר השבת": 31,
+  "סרוגים": 27,
+  "N12": 26,
+  "גלובס": 25,
   "אמס": 24,
-  "ביזפורטל": 24,
-  "היום": 23,
-  "הארץ": 20,
+  "C14": 24,
+  "ביזפורטל": 22,
   "ערוץ 7": 20,
-  "כאן 11": 20,
-  "i24NEWS": 18,
-  "calcalist": 18,
-  "וואלה": 16,
-  "تسنیم": 13,
+  "הארץ": 19,
+  "כאן 11": 19,
+  "היום": 19,
+  "i24NEWS": 19,
+  "וואלה": 17,
+  "calcalist": 17,
   "ice (אייס)": 13,
   "וואלה טכנולוגיה": 13,
-  "כיפה": 10,
-  "הידברות": 9,
+  "تسنیم": 12,
+  "כיפה": 9,
+  "Hayadan": 9,
   "אתר החדשות דבר": 8,
-  "Google News (כל האתרים)": 8,
-  "Hayadan": 8,
-  "המחדש": 7,
+  "הידברות": 8,
   "אתר הגאולה": 7,
-  "ynet": 6,
+  "Google News (כל האתרים)": 7,
+  "רשת 13": 7,
+  "המחדש": 6,
   "אנשים ומחשבים": 6,
   "Israel Defense": 6,
   "Gov.il": 6,
+  "ynet": 5,
   "אפוק": 5,
   "JDN": 5,
-  "רשת 13": 5,
-  "אייס": 4,
-  "GlobeNewswire": 2,
-  "עמית סגל (טלגרם)": 2,
-  "פאנדר": 1,
-  "Universidad de Córdoba (UCO)": 1
+  "GlobeNewswire": 3,
+  "עמית סגל (טלגרם)": 3,
+  "אייס": 2,
+  "Universidad de Córdoba (UCO)": 2,
+  "פאנדר": 1
  },
  "per_lean": {
-  "אחר": 292,
-  "שמאל": 228,
-  "ימין": 200,
-  "מרכז": 130
+  "אחר": 296,
+  "שמאל": 229,
+  "ימין": 205,
+  "מרכז": 127
  },
  "leads": [
   {
@@ -94,24 +94,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-8b7e08ebb3931a1026.htm",
    "prominence": 5,
    "rank": 3
-  },
-  {
-   "id": "8c36b328cbc5eea5",
-   "ts": "2026-10-14T01:38:24.367156+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "חשיפה נתניהו דן עם טראמפ על תקיפה באיראן - עוד לפני הבחירות בכיר אמריקני לחדשות 12: \"ביבי מאמין שהכוח טמון בהיותו ר\"מ בזמן מלחמה\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c140cb4aa1631a1027.htm",
-   "prominence": 3,
-   "rank": 6
   },
   {
    "id": "8c36b328cbc5eea5",
@@ -1500,6 +1482,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "666b3db54122c53a",
+   "ts": "2026-10-15T04:24:35.533587+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ באיום על איראן: \"ננחית עליה מכה קשה\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4d6fa471fe731a1026.htm"
+  },
+  {
+   "id": "6f6456758a417a3d",
+   "ts": "2026-10-15T04:24:35.533587+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "באיראן חושפים: כך השתנתה שיטת התקיפות במפרץ",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8b7e08ebb3931a1026.htm"
+  },
+  {
+   "id": "b22f6e92251a2d0b",
+   "ts": "2026-10-15T04:24:35.533587+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "עוד לפני הבחירות? הסימנים המתגברים לתקיפה באיראן | עמית סגל >> https://bit.ly/3W5JqV6",
+   "link": "https://t.me/amitsegal/65805"
   },
   {
    "id": "666b3db54122c53a",
@@ -5084,60 +5114,6 @@
    "link": "https://www.haaretz.co.il/news/world/america/2026-09-26/ty-article/.premium/000001a0-de03-dfbb-afa4-ff53bab40000",
    "prominence": 1,
    "rank": 13
-  },
-  {
-   "id": "2d96b50a3577398d",
-   "ts": "2026-09-26T07:48:49.774244+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "CNN: מודיעין מקבוצות סיניות סייע לאיראן לשפר תקיפות על מטרות של ארה\"ב",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-25/ty-article/000001a0-d930-da66-a5f8-f9f192cc0000",
-   "prominence": 1,
-   "rank": 13
-  },
-  {
-   "id": "2d96b50a3577398d",
-   "ts": "2026-09-26T02:16:13.650364+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "CNN: מודיעין מקבוצות סיניות סייע לאיראן לשפר תקיפות על מטרות של ארה\"ב",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-25/ty-article/000001a0-d930-da66-a5f8-f9f192cc0000",
-   "prominence": 1,
-   "rank": 11
-  },
-  {
-   "id": "2d96b50a3577398d",
-   "ts": "2026-09-25T22:59:48.362662+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 13,
-   "lean": "left",
-   "title": "CNN: מודיעין מקבוצות סיניות סייע לאיראן לשפר תקיפות על מטרות של ארה\"ב",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-09-25/ty-article/000001a0-d930-da66-a5f8-f9f192cc0000",
-   "prominence": 1,
-   "rank": 11
   }
  ]
 }
