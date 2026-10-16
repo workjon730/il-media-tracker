@@ -1,62 +1,62 @@
 {
- "generated": "2026-10-16T15:20:12.876661+03:00",
- "last_24h_total": 844,
+ "generated": "2026-10-16T20:21:23.969987+03:00",
+ "last_24h_total": 839,
  "per_target": {
-  "איראן": 565,
-  "בינה מלאכותית": 279
+  "איראן": 559,
+  "בינה מלאכותית": 280
  },
  "per_source": {
-  "Vietnam.vn": 87,
-  "מעריב": 81,
-  "YNET": 69,
-  "mako": 54,
-  "Investing.com": 47,
-  "מקור ראשון": 39,
+  "Vietnam.vn": 92,
+  "מעריב": 85,
+  "YNET": 67,
+  "mako": 52,
+  "Investing.com": 51,
+  "מקור ראשון": 40,
   "גלובס": 38,
-  "סרוגים": 36,
-  "זמן ישראל": 35,
-  "וואלה": 32,
-  "כיכר השבת": 26,
-  "היום": 24,
-  "N12": 23,
-  "בחדרי חרדים": 22,
-  "TheMarker": 21,
-  "אמס": 21,
-  "כיפה": 20,
-  "C14": 19,
-  "הארץ": 15,
-  "ערוץ 7": 12,
+  "סרוגים": 35,
+  "זמן ישראל": 34,
+  "וואלה": 31,
+  "כיכר השבת": 23,
+  "כיפה": 22,
+  "בחדרי חרדים": 21,
+  "TheMarker": 20,
+  "N12": 20,
+  "אמס": 20,
+  "היום": 20,
+  "C14": 16,
+  "ערוץ 7": 13,
   "אנשים ומחשבים": 12,
+  "הארץ": 11,
   "כאן 11": 10,
+  "JDN": 10,
+  "تسنیم": 9,
   "ice (אייס)": 8,
-  "JDN": 8,
-  "تسنیم": 7,
-  "ynet": 6,
-  "רשת 13": 6,
+  "הידברות": 7,
   "TGspot": 6,
   "calcalist": 6,
   "Hayadan": 6,
   "GlobeNewswire": 6,
   "The Portugal News": 5,
-  "הידברות": 5,
-  "אפוק": 4,
-  "Universidad de Córdoba (UCO)": 4,
+  "Gov.il": 5,
+  "ynet": 4,
+  "רשת 13": 4,
   "עמית סגל (טלגרם)": 4,
-  "Gov.il": 4,
-  "HWzone": 3,
-  "המחדש": 3,
-  "חב\"ד אינפו": 3,
+  "המחדש": 4,
+  "חב\"ד אינפו": 4,
+  "אפוק": 3,
+  "Universidad de Córdoba (UCO)": 3,
+  "HWzone": 2,
+  "Google News (כל האתרים)": 2,
+  "עניין מרכזי": 2,
   "i24NEWS": 2,
-  "ביזפורטל": 1,
+  "Crypto Jungle": 2,
   "וואלה טכנולוגיה": 1,
-  "Google News (כל האתרים)": 1,
-  "עניין מרכזי": 1,
-  "Crypto Jungle": 1
+  "ביזפורטל": 1
  },
  "per_lean": {
-  "אחר": 258,
-  "שמאל": 236,
-  "ימין": 205,
+  "אחר": 274,
+  "שמאל": 219,
+  "ימין": 201,
   "מרכז": 145
  },
  "leads": [
@@ -95,24 +95,6 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-4759c1ea17041a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "32d22005ec051f1f",
-   "ts": "2026-10-15T16:21:03.468931+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "דיווח איראן הנחתה את חיזבאללה: תיערכו לעימות אזורי בקרוב \"ניתנו הנחיות פנימיות חשאיות להתייצב במקומות פעילות חדשים\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c22ea952d1f31a1027.htm",
-   "prominence": 5,
-   "rank": 4
   },
   {
    "id": "14a33fc7411b7636",
@@ -203,24 +185,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-b13c14d1d9341a1027.htm",
    "prominence": 5,
    "rank": 4
-  },
-  {
-   "id": "e9b315b0e11ad06a",
-   "ts": "2026-10-15T16:21:03.468931+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "15:48 צבא איראן: מכלית נפט \"שהפרה את הכללים\" עולה באש בחלק המזרחי של מצר הורמוז",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-15/ty-article-live/000001a1-3c3c-d1eb-abe1-7c3c0bb80000?liveBlogItemId=1410376951",
-   "prominence": 3,
-   "rank": 8
   },
   {
    "id": "9d0f5bc88f44d83a",
@@ -1897,6 +1861,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "353e6c158e82070f",
+   "ts": "2026-10-16T20:21:16.297815+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"תקיפה אמריקנית - עניין של זמן\": דריכות גבוהה באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-95209dc24e141a1027.htm"
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-16T20:21:16.297815+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
   },
   {
    "id": "353e6c158e82070f",
@@ -5193,38 +5189,6 @@
    "lean": "left",
    "title": "בבלגיה מאשרים: הפיגועים נגד אתרים יהודיים במדינה - \"בוודאות\" בהוראת איראן",
    "link": "https://www.ynet.co.il/news/article/h1jzmvr9fe"
-  },
-  {
-   "id": "9f717cb66202c99c",
-   "ts": "2026-09-26T12:49:12.578596+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה \"הפסקת אש לשבוע\": \"מצפה לחדש את התקיפות באיראן אחרי הבחירות\"",
-   "link": "https://www.ynet.co.il/news/article/byqyym4qge"
-  },
-  {
-   "id": "9f717cb66202c99c",
-   "ts": "2026-09-26T07:48:49.774244+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה \"הפסקת אש לשבוע\": \"מצפה לחדש את התקיפות באיראן אחרי הבחירות\"",
-   "link": "https://www.ynet.co.il/news/article/byqyym4qge"
   }
  ]
 }
