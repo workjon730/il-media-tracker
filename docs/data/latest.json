@@ -1,46 +1,46 @@
 {
- "generated": "2026-10-17T16:39:46.375944+03:00",
- "last_24h_total": 722,
+ "generated": "2026-10-17T20:03:30.518291+03:00",
+ "last_24h_total": 866,
  "per_target": {
-  "איראן": 472,
-  "בינה מלאכותית": 250
+  "איראן": 562,
+  "בינה מלאכותית": 304
  },
  "per_source": {
-  "Vietnam.vn": 90,
-  "מעריב": 77,
-  "YNET": 55,
-  "Investing.com": 50,
-  "mako": 37,
-  "מקור ראשון": 35,
-  "גלובס": 31,
-  "סרוגים": 30,
-  "וואלה": 28,
-  "אמס": 25,
-  "כיפה": 24,
-  "זמן ישראל": 21,
-  "N12": 20,
-  "בחדרי חרדים": 20,
-  "TheMarker": 19,
-  "ערוץ 7": 19,
-  "כיכר השבת": 13,
-  "היום": 11,
+  "Vietnam.vn": 115,
+  "מעריב": 91,
+  "YNET": 67,
+  "Investing.com": 58,
+  "mako": 47,
+  "מקור ראשון": 42,
+  "גלובס": 38,
+  "סרוגים": 36,
+  "וואלה": 35,
+  "אמס": 29,
+  "כיפה": 27,
+  "זמן ישראל": 26,
+  "N12": 23,
+  "ערוץ 7": 23,
+  "בחדרי חרדים": 23,
+  "TheMarker": 22,
+  "כיכר השבת": 15,
+  "היום": 13,
+  "הידברות": 12,
+  "JDN": 12,
   "כאן 11": 10,
-  "הידברות": 10,
-  "JDN": 10,
-  "تسنیم": 8,
-  "i24NEWS": 8,
-  "ice (אייס)": 8,
-  "ביזפורטל": 7,
-  "המחדש": 7,
-  "אנשים ומחשבים": 7,
-  "Google News (כל האתרים)": 5,
-  "Crypto Jungle": 5,
-  "Hayadan": 5,
-  "Gov.il": 5,
+  "تسنیم": 10,
+  "i24NEWS": 9,
+  "אנשים ומחשבים": 9,
+  "ice (אייס)": 9,
+  "ביזפורטל": 8,
+  "המחדש": 8,
+  "Google News (כל האתרים)": 6,
+  "Crypto Jungle": 6,
+  "Hayadan": 6,
+  "Gov.il": 6,
+  "calcalist": 5,
+  "GlobeNewswire": 5,
   "חב\"ד אינפו": 4,
-  "calcalist": 4,
-  "GlobeNewswire": 4,
-  "הארץ": 3,
+  "הארץ": 4,
   "רשת 13": 3,
   "עניין מרכזי": 1,
   "TGspot": 1,
@@ -48,10 +48,10 @@
   "HWzone": 1
  },
  "per_lean": {
-  "אחר": 267,
-  "שמאל": 175,
-  "ימין": 153,
-  "מרכז": 127
+  "אחר": 323,
+  "שמאל": 211,
+  "ימין": 181,
+  "מרכז": 151
  },
  "leads": [
   {
@@ -145,6 +145,24 @@
    "rank": 5
   },
   {
+   "id": "57e9fb0798e89394",
+   "ts": "2026-10-17T20:03:23.026940+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "לפיד: ב-4 קמפיינים של המפלגה הגדולה נתניהו סיים רה\"מ האכזבה מ\"האירוע של ליברמן\", המסר לאיזנקוט והקביעה שאין הצדקה לתקיפה באיראן 19:54 עמית סגל, בן כספית",
+   "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6a50af2b6d641a1026.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
    "id": "e7fcda5a22de9551",
    "ts": "2026-10-16T23:58:55.722313+03:00",
    "source": "haaretz",
@@ -215,6 +233,24 @@
    "link": "https://www.mako.co.il/news-israel-elections/2026_q4/Article-bd644f0c83b31a1027.htm",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "853b6dd8ad332a16",
+   "ts": "2026-10-17T20:03:23.026940+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "סיכום חדשות השבת סיכום חדשות השבת טראמפ חשף: הסיוע החשאי של ישראל לסעודיה במלחמה חמאס מעביר כסף לאיראן, סקר המנדטים החדש והחקירה נגד הרמטכ\"ל וכ\"ץ",
+   "link": "https://www.mako.co.il/news-israel/2026_q4/Article-63ba52be70a41a1026.htm",
+   "prominence": 3,
+   "rank": 6
   }
  ],
  "items": [
@@ -523,6 +559,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "57e9fb0798e89394",
+   "ts": "2026-10-17T20:03:23.026940+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "לפיד: ב-4 קמפיינים של המפלגה הגדולה נתניהו סיים רה\"מ האכזבה מ\"האירוע של ליברמן\", המסר לאיזנקוט והקביעה שאין הצדקה לתקיפה באיראן 19:54 עמית סגל, בן כספית",
+   "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6a50af2b6d641a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "95e05162cbc81789",
@@ -1081,6 +1135,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "853b6dd8ad332a16",
+   "ts": "2026-10-17T20:03:23.026940+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "סיכום חדשות השבת סיכום חדשות השבת טראמפ חשף: הסיוע החשאי של ישראל לסעודיה במלחמה חמאס מעביר כסף לאיראן, סקר המנדטים החדש והחקירה נגד הרמטכ\"ל וכ\"ץ",
+   "link": "https://www.mako.co.il/news-israel/2026_q4/Article-63ba52be70a41a1026.htm",
+   "prominence": 3,
+   "rank": 6
   },
   {
    "id": "2b94031ff0198181",
@@ -2053,6 +2125,22 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-17T20:03:23.026940+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
   },
   {
    "id": "44c25e9ede38d096",
@@ -5173,54 +5261,6 @@
    "lean": "left",
    "title": "בעיה של כולם: הלקח הכואב מהניסיון לעקוף את בעיית איראן ד\"ר יואל גוז'נסקי",
    "link": "https://www.mako.co.il/news-columns/2026_q3/Article-8f441e5ce02e0a1027.htm"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-27T15:56:33.549580+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "9195027d3590f698",
-   "ts": "2026-09-27T15:56:33.549580+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בעיה של כולם: הלקח הכואב מהניסיון לעקוף את בעיית איראן ד\"ר יואל גוז'נסקי",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-8f441e5ce02e0a1027.htm"
-  },
-  {
-   "id": "cd28d498a70090c3",
-   "ts": "2026-09-27T09:32:58.109054+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה את הצעת איראן - ופרטים חדשים על האזהרות לפני 7/10 | כותרות החג",
-   "link": "https://www.ynet.co.il/news/article/h1el58r9fx"
   }
  ]
 }
