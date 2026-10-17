@@ -1,77 +1,61 @@
 {
- "generated": "2026-10-17T22:18:03.879206+03:00",
- "last_24h_total": 870,
+ "generated": "2026-10-18T01:13:06.384244+03:00",
+ "last_24h_total": 867,
  "per_target": {
-  "איראן": 562,
-  "בינה מלאכותית": 308
+  "איראן": 556,
+  "בינה מלאכותית": 311
  },
  "per_source": {
-  "Vietnam.vn": 120,
+  "Vietnam.vn": 126,
   "מעריב": 89,
-  "YNET": 70,
-  "Investing.com": 55,
-  "mako": 48,
-  "מקור ראשון": 42,
-  "גלובס": 40,
-  "וואלה": 38,
+  "YNET": 72,
+  "mako": 50,
+  "Investing.com": 50,
+  "גלובס": 42,
+  "וואלה": 40,
+  "מקור ראשון": 39,
   "סרוגים": 36,
-  "זמן ישראל": 27,
+  "זמן ישראל": 28,
   "אמס": 27,
-  "כיפה": 25,
-  "N12": 24,
-  "ערוץ 7": 23,
+  "כיפה": 23,
   "TheMarker": 22,
-  "בחדרי חרדים": 22,
-  "כיכר השבת": 15,
-  "הידברות": 13,
+  "N12": 22,
+  "ערוץ 7": 22,
+  "בחדרי חרדים": 21,
+  "הידברות": 14,
+  "כיכר השבת": 14,
   "היום": 13,
   "JDN": 12,
-  "تسنیم": 10,
-  "i24NEWS": 9,
-  "אנשים ומחשבים": 9,
-  "כאן 11": 8,
-  "המחדש": 8,
+  "تسنیم": 11,
+  "אנשים ומחשבים": 10,
   "ביזפורטל": 8,
-  "ice (אייס)": 8,
+  "i24NEWS": 8,
+  "המחדש": 7,
+  "ice (אייס)": 7,
   "Google News (כל האתרים)": 6,
   "Crypto Jungle": 6,
   "Hayadan": 6,
   "Gov.il": 6,
+  "כאן 11": 5,
   "calcalist": 5,
   "GlobeNewswire": 5,
-  "הארץ": 4,
-  "חב\"ד אינפו": 3,
   "רשת 13": 3,
-  "Mako": 2,
+  "Mako": 3,
+  "הארץ": 2,
+  "חב\"ד אינפו": 2,
   "The Portugal News": 1,
   "HWzone": 1,
-  "OrcaRouter": 1
+  "OrcaRouter": 1,
+  "Microsoft": 1,
+  "Universidad de Córdoba (UCO)": 1
  },
  "per_lean": {
-  "אחר": 323,
-  "שמאל": 217,
-  "ימין": 179,
-  "מרכז": 151
+  "אחר": 326,
+  "שמאל": 216,
+  "ימין": 173,
+  "מרכז": 152
  },
  "leads": [
-  {
-   "id": "a1d088f0b73450cb",
-   "ts": "2026-10-16T23:58:55.722313+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "הכסף זורם בכיוון ההפוך: המשבר הכלכלי מטלטל את איראן בכיר אמריקני חושף שארגוני הטרור שאיראן מימנה שנים נאלצים כעת להעביר לה כספים בחזרה. משמרות המהפכה מתקשים לשלם משכורות לחייליהם ברק רביד |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "a1d088f0b73450cb",
    "ts": "2026-10-17T02:30:10.749824+03:00",
@@ -107,24 +91,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "95e05162cbc81789",
-   "ts": "2026-10-16T23:58:55.722313+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "\"מישהו ימות, אקבל ים כסף\": המתנקש של איראן נלכד הבטיח לחברתו להתעשר מדם, פעל בשליחות טהראן ונתפס בלונדון",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c7afc078ad441a1027.htm",
-   "prominence": 5,
-   "rank": 5
   },
   {
    "id": "95e05162cbc81789",
@@ -179,24 +145,6 @@
    "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6a50af2b6d641a1026.htm",
    "prominence": 5,
    "rank": 5
-  },
-  {
-   "id": "e7fcda5a22de9551",
-   "ts": "2026-10-16T23:58:55.722313+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "23:11 צעיר נורווגי גויס בידי ארגון פשע הנתמך על ידי איראן כדי לבצע רצח בבריטניה, ונידון ל 20 שנות מאסר",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-16/ty-article-live/000001a1-415b-da52-a3f1-4f5fd2e40000?liveBlogItemId=1601204053",
-   "prominence": 3,
-   "rank": 9
   },
   {
    "id": "95e05162cbc81789",
@@ -2161,6 +2109,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-18T01:13:00.161992+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
+  },
+  {
+   "id": "40c8f3899e1b7b7e",
+   "ts": "2026-10-18T01:13:00.161992+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המשבר באיראן: ארגוני הטרור מעבירים כסף בחזרה לטהרן 17.10.26 ברק רביד",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm"
   },
   {
    "id": "44c25e9ede38d096",
@@ -5249,38 +5229,6 @@
    "lean": "left",
    "title": "3,000 טון אזהרה לאיראן וטורקיה: בתוך כלי המלחמה החדש של צה\"ל",
    "link": "https://www.ynet.co.il/news/article/b1e2wql9ze"
-  },
-  {
-   "id": "8805950d63195c07",
-   "ts": "2026-09-27T20:41:46.504263+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בריטניה בודקת אם איראן מאחורי הפיגוע שסוכל, טראמפ: \"רצו לגרום נזק גדול למבצר שלנו\"",
-   "link": "https://www.ynet.co.il/news/article/hknexticze"
-  },
-  {
-   "id": "6f790de35532b408",
-   "ts": "2026-09-27T20:41:46.504263+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן \"מוכנה למלחמה\" ומשיבה לטראמפ. הדיפלומט הבכיר מאיים: \"הכול פתוח\"",
-   "link": "https://www.ynet.co.il/news/article/ry5zuiiqml"
   }
  ]
 }
