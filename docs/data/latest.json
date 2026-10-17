@@ -1,57 +1,57 @@
 {
- "generated": "2026-10-17T12:14:04.018445+03:00",
- "last_24h_total": 724,
+ "generated": "2026-10-17T16:39:46.375944+03:00",
+ "last_24h_total": 722,
  "per_target": {
-  "איראן": 467,
-  "בינה מלאכותית": 257
+  "איראן": 472,
+  "בינה מלאכותית": 250
  },
  "per_source": {
-  "Vietnam.vn": 88,
-  "מעריב": 72,
-  "Investing.com": 58,
-  "YNET": 54,
-  "mako": 38,
-  "מקור ראשון": 37,
-  "גלובס": 30,
+  "Vietnam.vn": 90,
+  "מעריב": 77,
+  "YNET": 55,
+  "Investing.com": 50,
+  "mako": 37,
+  "מקור ראשון": 35,
+  "גלובס": 31,
   "סרוגים": 30,
-  "וואלה": 25,
-  "כיפה": 23,
-  "בחדרי חרדים": 22,
-  "אמס": 22,
-  "N12": 21,
-  "זמן ישראל": 20,
+  "וואלה": 28,
+  "אמס": 25,
+  "כיפה": 24,
+  "זמן ישראל": 21,
+  "N12": 20,
+  "בחדרי חרדים": 20,
   "TheMarker": 19,
-  "ערוץ 7": 18,
+  "ערוץ 7": 19,
   "כיכר השבת": 13,
-  "כאן 11": 12,
   "היום": 11,
+  "כאן 11": 10,
   "הידברות": 10,
   "JDN": 10,
-  "ice (אייס)": 9,
   "تسنیم": 8,
   "i24NEWS": 8,
+  "ice (אייס)": 8,
+  "ביזפורטל": 7,
+  "המחדש": 7,
   "אנשים ומחשבים": 7,
-  "המחדש": 6,
   "Google News (כל האתרים)": 5,
-  "חב\"ד אינפו": 5,
   "Crypto Jungle": 5,
-  "calcalist": 5,
   "Hayadan": 5,
-  "GlobeNewswire": 5,
   "Gov.il": 5,
-  "הארץ": 4,
-  "ביזפורטל": 4,
+  "חב\"ד אינפו": 4,
+  "calcalist": 4,
+  "GlobeNewswire": 4,
+  "הארץ": 3,
   "רשת 13": 3,
-  "C14": 2,
-  "עניין מרכזי": 2,
-  "TGspot": 2,
-  "The Portugal News": 1
+  "עניין מרכזי": 1,
+  "TGspot": 1,
+  "The Portugal News": 1,
+  "HWzone": 1
  },
  "per_lean": {
-  "אחר": 270,
-  "שמאל": 176,
-  "ימין": 157,
-  "מרכז": 121
+  "אחר": 267,
+  "שמאל": 175,
+  "ימין": 153,
+  "מרכז": 127
  },
  "leads": [
   {
@@ -107,24 +107,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "7067d762c5dfdbe3",
-   "ts": "2026-10-16T15:20:06.811863+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "תוצרת כחול-לבן תוצרת כחול-לבן נחשפה מערכת היירוט החדשה לטילים היפר סוניים איראן טענה שבידיה טילים כאלה, זו התשובה הישראלית?",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-b13c14d1d9341a1027.htm",
-   "prominence": 5,
-   "rank": 4
   },
   {
    "id": "95e05162cbc81789",
@@ -215,6 +197,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "2b94031ff0198181",
+   "ts": "2026-10-17T16:39:38.801129+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "התנאים שמציב בנט לתקיפה באיראן לפני הבחירות המסר לרמטכ\"ל והפדיחה במפגש עם אזרחים. שיחה עם נוסבאום",
+   "link": "https://www.mako.co.il/news-israel-elections/2026_q4/Article-bd644f0c83b31a1027.htm",
+   "prominence": 3,
+   "rank": 8
   }
  ],
  "items": [
@@ -1081,6 +1081,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "2b94031ff0198181",
+   "ts": "2026-10-17T16:39:38.801129+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "התנאים שמציב בנט לתקיפה באיראן לפני הבחירות המסר לרמטכ\"ל והפדיחה במפגש עם אזרחים. שיחה עם נוסבאום",
+   "link": "https://www.mako.co.il/news-israel-elections/2026_q4/Article-bd644f0c83b31a1027.htm",
+   "prominence": 3,
+   "rank": 8
   },
   {
    "id": "690c503b4837fba7",
@@ -2035,6 +2053,22 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-17T16:39:38.801129+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
   },
   {
    "id": "44c25e9ede38d096",
@@ -5187,38 +5221,6 @@
    "lean": "left",
    "title": "טראמפ דחה את הצעת איראן - ופרטים חדשים על האזהרות לפני 7/10 | כותרות החג",
    "link": "https://www.ynet.co.il/news/article/h1el58r9fx"
-  },
-  {
-   "id": "48a2012ee4000a13",
-   "ts": "2026-09-27T09:32:58.109054+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה את הצעת איראן ל\"הפסקת אש לשבוע\"",
-   "link": "https://www.ynet.co.il/news/article/byqyym4qge"
-  },
-  {
-   "id": "6d7d927f8a7d7d5f",
-   "ts": "2026-09-27T09:32:58.109054+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "24 פגישות מדיניות, כולל עם מעצמות אירופאיות: ההישג של איראן באו\"ם",
-   "link": "https://www.ynet.co.il/news/article/bjnb0whqgx"
   }
  ]
 }
