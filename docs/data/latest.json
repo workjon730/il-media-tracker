@@ -1,59 +1,57 @@
 {
- "generated": "2026-10-17T07:14:44.330518+03:00",
- "last_24h_total": 852,
+ "generated": "2026-10-17T12:14:04.018445+03:00",
+ "last_24h_total": 724,
  "per_target": {
-  "איראן": 556,
-  "בינה מלאכותית": 296
+  "איראן": 467,
+  "בינה מלאכותית": 257
  },
  "per_source": {
-  "Vietnam.vn": 98,
-  "מעריב": 88,
-  "Investing.com": 68,
-  "YNET": 65,
-  "mako": 47,
-  "מקור ראשון": 43,
-  "גלובס": 36,
-  "סרוגים": 36,
-  "וואלה": 28,
-  "כיפה": 27,
-  "זמן ישראל": 26,
-  "בחדרי חרדים": 25,
-  "אמס": 25,
+  "Vietnam.vn": 88,
+  "מעריב": 72,
+  "Investing.com": 58,
+  "YNET": 54,
+  "mako": 38,
+  "מקור ראשון": 37,
+  "גלובס": 30,
+  "סרוגים": 30,
+  "וואלה": 25,
+  "כיפה": 23,
+  "בחדרי חרדים": 22,
+  "אמס": 22,
   "N12": 21,
-  "TheMarker": 20,
-  "ערוץ 7": 20,
-  "כיכר השבת": 17,
-  "היום": 14,
-  "כאן 11": 14,
-  "JDN": 11,
-  "הידברות": 11,
-  "ice (אייס)": 11,
-  "تسنیم": 10,
-  "אנשים ומחשבים": 9,
+  "זמן ישראל": 20,
+  "TheMarker": 19,
+  "ערוץ 7": 18,
+  "כיכר השבת": 13,
+  "כאן 11": 12,
+  "היום": 11,
+  "הידברות": 10,
+  "JDN": 10,
+  "ice (אייס)": 9,
+  "تسنیم": 8,
   "i24NEWS": 8,
-  "המחדש": 7,
-  "הארץ": 6,
-  "חב\"ד אינפו": 6,
-  "Hayadan": 6,
-  "calcalist": 6,
-  "GlobeNewswire": 6,
-  "Gov.il": 6,
-  "C14": 5,
+  "אנשים ומחשבים": 7,
+  "המחדש": 6,
   "Google News (כל האתרים)": 5,
+  "חב\"ד אינפו": 5,
   "Crypto Jungle": 5,
+  "calcalist": 5,
+  "Hayadan": 5,
+  "GlobeNewswire": 5,
+  "Gov.il": 5,
+  "הארץ": 4,
   "ביזפורטל": 4,
-  "TGspot": 3,
   "רשת 13": 3,
-  "The Portugal News": 2,
+  "C14": 2,
   "עניין מרכזי": 2,
-  "וואלה טכנולוגיה": 1,
-  "עמית סגל (טלגרם)": 1
+  "TGspot": 2,
+  "The Portugal News": 1
  },
  "per_lean": {
-  "אחר": 312,
-  "שמאל": 204,
-  "ימין": 190,
-  "מרכז": 146
+  "אחר": 270,
+  "שמאל": 176,
+  "ימין": 157,
+  "מרכז": 121
  },
  "leads": [
   {
@@ -199,6 +197,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-c7afc078ad441a1027.htm",
    "prominence": 3,
    "rank": 6
+  },
+  {
+   "id": "690c503b4837fba7",
+   "ts": "2026-10-17T12:13:44.292099+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "ארגוני הטרור שאיראן מימנה נאלצים כעת לסייע לה כלכלית",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
@@ -1065,6 +1081,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "690c503b4837fba7",
+   "ts": "2026-10-17T12:13:44.292099+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "ארגוני הטרור שאיראן מימנה נאלצים כעת לסייע לה כלכלית",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
+   "prominence": 3,
+   "rank": 9
   },
   {
    "id": "95e05162cbc81789",
@@ -2001,6 +2035,22 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-17T12:13:44.292099+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
   },
   {
    "id": "11b5c1199cf13d43",
@@ -5169,38 +5219,6 @@
    "lean": "left",
    "title": "24 פגישות מדיניות, כולל עם מעצמות אירופאיות: ההישג של איראן באו\"ם",
    "link": "https://www.ynet.co.il/news/article/bjnb0whqgx"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-27T09:32:58.109054+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "cd28d498a70090c3",
-   "ts": "2026-09-27T03:29:13.387421+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה את הצעת איראן - ופרטים חדשים על האזהרות לפני 7/10 | כותרות החג",
-   "link": "https://www.ynet.co.il/news/article/h1el58r9fx"
   }
  ]
 }
