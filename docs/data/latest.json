@@ -1,56 +1,56 @@
 {
- "generated": "2026-10-17T20:03:30.518291+03:00",
- "last_24h_total": 866,
+ "generated": "2026-10-17T22:18:03.879206+03:00",
+ "last_24h_total": 870,
  "per_target": {
   "איראן": 562,
-  "בינה מלאכותית": 304
+  "בינה מלאכותית": 308
  },
  "per_source": {
-  "Vietnam.vn": 115,
-  "מעריב": 91,
-  "YNET": 67,
-  "Investing.com": 58,
-  "mako": 47,
+  "Vietnam.vn": 120,
+  "מעריב": 89,
+  "YNET": 70,
+  "Investing.com": 55,
+  "mako": 48,
   "מקור ראשון": 42,
-  "גלובס": 38,
+  "גלובס": 40,
+  "וואלה": 38,
   "סרוגים": 36,
-  "וואלה": 35,
-  "אמס": 29,
-  "כיפה": 27,
-  "זמן ישראל": 26,
-  "N12": 23,
+  "זמן ישראל": 27,
+  "אמס": 27,
+  "כיפה": 25,
+  "N12": 24,
   "ערוץ 7": 23,
-  "בחדרי חרדים": 23,
   "TheMarker": 22,
+  "בחדרי חרדים": 22,
   "כיכר השבת": 15,
+  "הידברות": 13,
   "היום": 13,
-  "הידברות": 12,
   "JDN": 12,
-  "כאן 11": 10,
   "تسنیم": 10,
   "i24NEWS": 9,
   "אנשים ומחשבים": 9,
-  "ice (אייס)": 9,
-  "ביזפורטל": 8,
+  "כאן 11": 8,
   "המחדש": 8,
+  "ביזפורטל": 8,
+  "ice (אייס)": 8,
   "Google News (כל האתרים)": 6,
   "Crypto Jungle": 6,
   "Hayadan": 6,
   "Gov.il": 6,
   "calcalist": 5,
   "GlobeNewswire": 5,
-  "חב\"ד אינפו": 4,
   "הארץ": 4,
+  "חב\"ד אינפו": 3,
   "רשת 13": 3,
-  "עניין מרכזי": 1,
-  "TGspot": 1,
+  "Mako": 2,
   "The Portugal News": 1,
-  "HWzone": 1
+  "HWzone": 1,
+  "OrcaRouter": 1
  },
  "per_lean": {
   "אחר": 323,
-  "שמאל": 211,
-  "ימין": 181,
+  "שמאל": 217,
+  "ימין": 179,
   "מרכז": 151
  },
  "leads": [
@@ -161,6 +161,24 @@
    "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6a50af2b6d641a1026.htm",
    "prominence": 5,
    "rank": 3
+  },
+  {
+   "id": "57e9fb0798e89394",
+   "ts": "2026-10-17T22:17:56.096865+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "לפיד: ב-4 קמפיינים של המפלגה הגדולה נתניהו סיים רה\"מ האכזבה מ\"האירוע של ליברמן\", המסר לאיזנקוט והקביעה שאין הצדקה לתקיפה באיראן 19:54 עמית סגל, בן כספית",
+   "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6a50af2b6d641a1026.htm",
+   "prominence": 5,
+   "rank": 5
   },
   {
    "id": "e7fcda5a22de9551",
@@ -559,6 +577,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "57e9fb0798e89394",
+   "ts": "2026-10-17T22:17:56.096865+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "לפיד: ב-4 קמפיינים של המפלגה הגדולה נתניהו סיים רה\"מ האכזבה מ\"האירוע של ליברמן\", המסר לאיזנקוט והקביעה שאין הצדקה לתקיפה באיראן 19:54 עמית סגל, בן כספית",
+   "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6a50af2b6d641a1026.htm",
+   "prominence": 5,
+   "rank": 5
   },
   {
    "id": "57e9fb0798e89394",
@@ -2125,6 +2161,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-17T22:17:56.096865+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
+  },
+  {
+   "id": "40c8f3899e1b7b7e",
+   "ts": "2026-10-17T22:17:56.096865+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המשבר באיראן: ארגוני הטרור מעבירים כסף בחזרה לטהרן 17.10.26 ברק רביד",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm"
   },
   {
    "id": "44c25e9ede38d096",
@@ -5213,54 +5281,6 @@
    "lean": "left",
    "title": "איראן \"מוכנה למלחמה\" ומשיבה לטראמפ. הדיפלומט הבכיר מאיים: \"הכול פתוח\"",
    "link": "https://www.ynet.co.il/news/article/ry5zuiiqml"
-  },
-  {
-   "id": "a26079a95ac8837e",
-   "ts": "2026-09-27T20:41:46.504263+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן מאיימת: \"אם ארה\"ב תתערב בהורמוז היא תספוג מכות\"",
-   "link": "https://www.mako.co.il/news-world/2026_q3/Article-669c41a9312e0a1026.htm"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-27T20:41:46.504263+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "9195027d3590f698",
-   "ts": "2026-09-27T20:41:46.504263+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בעיה של כולם: הלקח הכואב מהניסיון לעקוף את בעיית איראן ד\"ר יואל גוז'נסקי",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-8f441e5ce02e0a1027.htm"
   }
  ]
 }
