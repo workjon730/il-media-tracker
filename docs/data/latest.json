@@ -1,82 +1,61 @@
 {
- "generated": "2026-10-17T02:30:15.997893+03:00",
- "last_24h_total": 848,
+ "generated": "2026-10-17T07:14:44.330518+03:00",
+ "last_24h_total": 852,
  "per_target": {
   "איראן": 556,
-  "בינה מלאכותית": 292
+  "בינה מלאכותית": 296
  },
  "per_source": {
-  "Vietnam.vn": 95,
-  "מעריב": 90,
-  "YNET": 64,
-  "Investing.com": 62,
-  "mako": 49,
+  "Vietnam.vn": 98,
+  "מעריב": 88,
+  "Investing.com": 68,
+  "YNET": 65,
+  "mako": 47,
   "מקור ראשון": 43,
+  "גלובס": 36,
   "סרוגים": 36,
-  "גלובס": 35,
   "וואלה": 28,
-  "זמן ישראל": 28,
-  "כיפה": 26,
-  "בחדרי חרדים": 24,
-  "אמס": 23,
-  "TheMarker": 21,
+  "כיפה": 27,
+  "זמן ישראל": 26,
+  "בחדרי חרדים": 25,
+  "אמס": 25,
   "N12": 21,
-  "כיכר השבת": 19,
-  "ערוץ 7": 18,
-  "היום": 16,
-  "כאן 11": 13,
+  "TheMarker": 20,
+  "ערוץ 7": 20,
+  "כיכר השבת": 17,
+  "היום": 14,
+  "כאן 11": 14,
   "JDN": 11,
+  "הידברות": 11,
   "ice (אייס)": 11,
-  "הידברות": 10,
-  "אנשים ומחשבים": 10,
-  "تسنیم": 9,
-  "הארץ": 8,
-  "C14": 8,
+  "تسنیم": 10,
+  "אנשים ומחשבים": 9,
+  "i24NEWS": 8,
   "המחדש": 7,
+  "הארץ": 6,
   "חב\"ד אינפו": 6,
-  "calcalist": 6,
   "Hayadan": 6,
-  "Gov.il": 6,
+  "calcalist": 6,
   "GlobeNewswire": 6,
-  "i24NEWS": 6,
-  "TGspot": 4,
-  "Google News (כל האתרים)": 4,
-  "Crypto Jungle": 4,
-  "The Portugal News": 3,
-  "ביזפורטל": 3,
-  "עמית סגל (טלגרם)": 2,
+  "Gov.il": 6,
+  "C14": 5,
+  "Google News (כל האתרים)": 5,
+  "Crypto Jungle": 5,
+  "ביזפורטל": 4,
+  "TGspot": 3,
+  "רשת 13": 3,
+  "The Portugal News": 2,
   "עניין מרכזי": 2,
-  "ynet": 1,
-  "רשת 13": 1,
-  "אפוק": 1,
-  "Universidad de Córdoba (UCO)": 1,
-  "וואלה טכנולוגיה": 1
+  "וואלה טכנולוגיה": 1,
+  "עמית סגל (טלגרם)": 1
  },
  "per_lean": {
-  "אחר": 300,
-  "שמאל": 206,
-  "ימין": 195,
-  "מרכז": 147
+  "אחר": 312,
+  "שמאל": 204,
+  "ימין": 190,
+  "מרכז": 146
  },
  "leads": [
-  {
-   "id": "6f5cabfefe292143",
-   "ts": "2026-10-16T04:13:16.905430+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "פרסום ראשון במערב זיהו: טהראן מבצעת מהלכים צבאיים חדשים וקיצוניים רה\"מ ורוביו שוחחו, בישראל סבורים: תקיפה באיראן חייבת לכלול גם תשתיות אנרגיה ירון אברהם |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-4759c1ea17041a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "a1d088f0b73450cb",
    "ts": "2026-10-16T23:58:55.722313+03:00",
@@ -114,8 +93,8 @@
    "rank": 1
   },
   {
-   "id": "14a33fc7411b7636",
-   "ts": "2026-10-16T04:13:16.905430+03:00",
+   "id": "a1d088f0b73450cb",
+   "ts": "2026-10-17T07:14:38.049838+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -124,30 +103,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "ההנחיה של איראן לחיזבאללה: היערכו לעימות",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c22ea952d1f31a1027.htm",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
-   "id": "387391d072e89b03",
-   "ts": "2026-10-16T04:13:16.905430+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "צילומי הלוויין שחושפים: איראן מנסה להשתקם",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-800da2b642e31a1026.htm",
-   "prominence": 5,
-   "rank": 3
+   "title": "הכסף זורם בכיוון ההפוך: המשבר הכלכלי מטלטל את איראן בכיר אמריקני חושף שארגוני הטרור שאיראן מימנה שנים נאלצים כעת להעביר לה כספים בחזרה. משמרות המהפכה מתקשים לשלם משכורות לחייליהם ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "7067d762c5dfdbe3",
@@ -220,9 +181,45 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-16/ty-article-live/000001a1-415b-da52-a3f1-4f5fd2e40000?liveBlogItemId=1601204053",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "95e05162cbc81789",
+   "ts": "2026-10-17T07:14:38.049838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "\"מישהו ימות, אקבל ים כסף\": המתנקש של איראן נלכד הבטיח לחברתו להתעשר מדם, פעל בשליחות טהראן ונתפס בלונדון",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c7afc078ad441a1027.htm",
+   "prominence": 3,
+   "rank": 6
   }
  ],
  "items": [
+  {
+   "id": "a1d088f0b73450cb",
+   "ts": "2026-10-17T07:14:38.049838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "הכסף זורם בכיוון ההפוך: המשבר הכלכלי מטלטל את איראן בכיר אמריקני חושף שארגוני הטרור שאיראן מימנה שנים נאלצים כעת להעביר לה כספים בחזרה. משמרות המהפכה מתקשים לשלם משכורות לחייליהם ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "a1d088f0b73450cb",
    "ts": "2026-10-17T02:30:10.749824+03:00",
@@ -1070,6 +1067,24 @@
    "rank": 1
   },
   {
+   "id": "95e05162cbc81789",
+   "ts": "2026-10-17T07:14:38.049838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "\"מישהו ימות, אקבל ים כסף\": המתנקש של איראן נלכד הבטיח לחברתו להתעשר מדם, פעל בשליחות טהראן ונתפס בלונדון",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c7afc078ad441a1027.htm",
+   "prominence": 3,
+   "rank": 6
+  },
+  {
    "id": "9d0f5bc88f44d83a",
    "ts": "2026-10-15T21:13:32.838436+03:00",
    "source": "n12",
@@ -1320,6 +1335,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "d4c0511a55e018ea",
+   "ts": "2026-10-17T07:14:38.049838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 13 דקות הימים המתוחים מול איראן - והחשש מתקיפה מקדימה של משמרות המהפכה",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-10a099422b541a1027.htm",
+   "prominence": 1,
+   "rank": 14
   },
   {
    "id": "20b373daa234535e",
@@ -1968,6 +2001,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "11b5c1199cf13d43",
+   "ts": "2026-10-17T07:14:38.049838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"תקיפה אמריקנית - עניין של זמן\": דריכות גבוהה באיראן 16.10.26 אוהד חמו",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-95209dc24e141a1027.htm"
+  },
+  {
+   "id": "44c25e9ede38d096",
+   "ts": "2026-10-17T07:14:38.049838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
   },
   {
    "id": "353e6c158e82070f",
@@ -5136,86 +5201,6 @@
    "lean": "left",
    "title": "טראמפ דחה את הצעת איראן - ופרטים חדשים על האזהרות לפני 7/10 | כותרות החג",
    "link": "https://www.ynet.co.il/news/article/h1el58r9fx"
-  },
-  {
-   "id": "48a2012ee4000a13",
-   "ts": "2026-09-27T03:29:13.387421+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה את הצעת איראן ל\"הפסקת אש לשבוע\"",
-   "link": "https://www.ynet.co.il/news/article/byqyym4qge"
-  },
-  {
-   "id": "6d7d927f8a7d7d5f",
-   "ts": "2026-09-27T03:29:13.387421+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "24 פגישות מדיניות, כולל עם מעצמות אירופאיות: ההישג של איראן באו\"ם",
-   "link": "https://www.ynet.co.il/news/article/bjnb0whqgx"
-  },
-  {
-   "id": "f13b7a13b43106e3",
-   "ts": "2026-09-27T03:29:13.387421+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בבלגיה מאשרים: הפיגועים נגד אתרים יהודיים במדינה - \"בוודאות\" בהוראת איראן",
-   "link": "https://www.ynet.co.il/news/article/h1jzmvr9fe"
-  },
-  {
-   "id": "cd28d498a70090c3",
-   "ts": "2026-09-27T00:56:41.522549+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה את הצעת איראן - ופרטים חדשים על האזהרות לפני 7/10 | כותרות החג",
-   "link": "https://www.ynet.co.il/news/article/h1el58r9fx"
-  },
-  {
-   "id": "48a2012ee4000a13",
-   "ts": "2026-09-27T00:56:41.522549+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דחה את הצעת איראן ל\"הפסקת אש לשבוע\"",
-   "link": "https://www.ynet.co.il/news/article/byqyym4qge"
   }
  ]
 }
