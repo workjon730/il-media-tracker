@@ -1,63 +1,62 @@
 {
- "generated": "2026-10-18T21:01:39.128013+03:00",
- "last_24h_total": 977,
+ "generated": "2026-10-18T23:34:10.458552+03:00",
+ "last_24h_total": 970,
  "per_target": {
-  "איראן": 637,
-  "בינה מלאכותית": 340
+  "איראן": 647,
+  "בינה מלאכותית": 323
  },
  "per_source": {
-  "Vietnam.vn": 126,
-  "מעריב": 104,
-  "YNET": 83,
+  "Vietnam.vn": 107,
+  "מעריב": 105,
+  "YNET": 81,
   "mako": 65,
-  "Investing.com": 57,
+  "Investing.com": 58,
   "גלובס": 51,
-  "סרוגים": 40,
-  "וואלה": 37,
-  "מקור ראשון": 33,
-  "בחדרי חרדים": 29,
-  "זמן ישראל": 28,
-  "אמס": 28,
+  "סרוגים": 39,
+  "וואלה": 35,
+  "אמס": 31,
+  "בחדרי חרדים": 31,
+  "מקור ראשון": 29,
+  "זמן ישראל": 26,
   "TheMarker": 25,
-  "ערוץ 7": 22,
-  "היום": 21,
-  "כיכר השבת": 19,
+  "היום": 25,
+  "כיכר השבת": 22,
+  "C14": 22,
+  "ערוץ 7": 21,
   "כיפה": 19,
-  "הידברות": 18,
   "JDN": 17,
-  "C14": 15,
+  "הידברות": 16,
   "تسنیم": 14,
-  "N12": 12,
+  "N12": 11,
   "אנשים ומחשבים": 11,
-  "הארץ": 9,
+  "הארץ": 11,
+  "כאן 11": 10,
   "Google News (כל האתרים)": 7,
   "ביזפורטל": 7,
+  "Microsoft": 7,
   "calcalist": 7,
   "Crypto Jungle": 7,
+  "Universidad de Córdoba (UCO)": 7,
   "GlobeNewswire": 7,
-  "כאן 11": 7,
   "Hayadan": 6,
-  "Microsoft": 6,
-  "Universidad de Córdoba (UCO)": 6,
-  "Mako": 4,
-  "i24NEWS": 4,
-  "המחדש": 4,
   "Gov.il": 4,
-  "ice (אייס)": 3,
+  "חב\"ד אינפו": 4,
+  "המחדש": 3,
+  "i24NEWS": 3,
   "gov.il": 3,
-  "חב\"ד אינפו": 3,
+  "ynet": 3,
+  "Israel Defense": 3,
+  "Mako": 2,
+  "ice (אייס)": 2,
   "פאנדר": 2,
-  "ynet": 2,
-  "Israel Defense": 2,
-  "OrcaRouter": 1,
-  "באר שבע נט": 1,
-  "עמית סגל (טלגרם)": 1
+  "באר שבע נט": 2,
+  "עמית סגל (טלגרם)": 2
  },
  "per_lean": {
-  "אחר": 357,
-  "שמאל": 240,
-  "ימין": 200,
-  "מרכז": 180
+  "אחר": 340,
+  "שמאל": 241,
+  "ימין": 205,
+  "מרכז": 184
  },
  "leads": [
   {
@@ -77,24 +76,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "57e9fb0798e89394",
-   "ts": "2026-10-17T22:17:56.096865+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "לפיד: ב-4 קמפיינים של המפלגה הגדולה נתניהו סיים רה\"מ האכזבה מ\"האירוע של ליברמן\", המסר לאיזנקוט והקביעה שאין הצדקה לתקיפה באיראן 19:54 עמית סגל, בן כספית",
-   "link": "https://www.mako.co.il/news-israel-elections/2026/Article-6a50af2b6d641a1026.htm",
-   "prominence": 5,
-   "rank": 5
   }
  ],
  "items": [
@@ -1341,6 +1322,24 @@
    "rank": 9
   },
   {
+   "id": "5dc51321bcde9bce",
+   "ts": "2026-10-18T23:34:03.674796+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 16 דקות המשמעות מאחורי תמיכת טראמפ בנתניהו - לקראת תקיפה אפשרית באיראן",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-bcc1896963051a1026.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
    "id": "d4c0511a55e018ea",
    "ts": "2026-10-17T07:14:38.049838+03:00",
    "source": "n12",
@@ -2005,6 +2004,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "5f8b32a68d380c6f",
+   "ts": "2026-10-18T23:34:03.674796+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שר ההגנה החדש של איראן: \"אני ברשימת החיסול כבר 35 שנה. טראמפ יתקוף? יפנה גופות\"",
+   "link": "https://www.ynet.co.il/news/article/rk9zgef3me"
+  },
+  {
+   "id": "3fb1418fadc043c9",
+   "ts": "2026-10-18T23:34:03.674796+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מיוחד ל-N12 עדויות מאיראן: \"כולם יודעים שהמלחמה בדרך\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm"
+  },
+  {
+   "id": "e8505776a6cd7ee7",
+   "ts": "2026-10-18T23:34:03.674796+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "נתניהו: רק טראמפ ואני נשמיד את הגרעין האירני",
+   "link": "https://t.me/amitsegal/65908"
   },
   {
    "id": "5f8b32a68d380c6f",
@@ -5045,70 +5092,6 @@
    "lean": "left",
    "title": "3,000 טון אזהרה לאיראן וטורקיה: בתוך כלי המלחמה החדש של צה\"ל",
    "link": "https://www.ynet.co.il/news/article/b1e2wql9ze"
-  },
-  {
-   "id": "8805950d63195c07",
-   "ts": "2026-09-28T03:35:37.216541+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בריטניה בודקת אם איראן מאחורי הפיגוע שסוכל, טראמפ: \"רצו לגרום נזק גדול למבצר שלנו\"",
-   "link": "https://www.ynet.co.il/news/article/hknexticze"
-  },
-  {
-   "id": "6f790de35532b408",
-   "ts": "2026-09-28T03:35:37.216541+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן \"מוכנה למלחמה\" ומשיבה לטראמפ. הדיפלומט הבכיר מאיים: \"הכול פתוח\"",
-   "link": "https://www.ynet.co.il/news/article/ry5zuiiqml"
-  },
-  {
-   "id": "a26079a95ac8837e",
-   "ts": "2026-09-28T03:35:37.216541+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן מאיימת: \"אם ארה\"ב תתערב בהורמוז היא תספוג מכות\"",
-   "link": "https://www.mako.co.il/news-world/2026_q3/Article-669c41a9312e0a1026.htm"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-28T03:35:37.216541+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
   }
  ]
 }
