@@ -1,34 +1,34 @@
 {
- "generated": "2026-10-19T02:02:36.435805+03:00",
- "last_24h_total": 961,
+ "generated": "2026-10-19T04:08:07.212631+03:00",
+ "last_24h_total": 952,
  "per_target": {
-  "איראן": 653,
-  "בינה מלאכותית": 308
+  "איראן": 656,
+  "בינה מלאכותית": 296
  },
  "per_source": {
-  "מעריב": 103,
-  "Vietnam.vn": 90,
-  "YNET": 80,
+  "מעריב": 100,
+  "YNET": 79,
+  "Vietnam.vn": 76,
   "mako": 65,
-  "Investing.com": 60,
+  "Investing.com": 62,
   "גלובס": 51,
-  "סרוגים": 38,
-  "וואלה": 33,
-  "בחדרי חרדים": 33,
+  "סרוגים": 37,
+  "בחדרי חרדים": 34,
+  "C14": 32,
+  "וואלה": 31,
   "אמס": 31,
   "היום": 28,
-  "מקור ראשון": 27,
-  "C14": 27,
-  "כיכר השבת": 25,
-  "TheMarker": 24,
-  "זמן ישראל": 24,
+  "כיכר השבת": 28,
+  "מקור ראשון": 25,
+  "TheMarker": 23,
+  "זמן ישראל": 22,
   "ערוץ 7": 21,
-  "כיפה": 18,
   "JDN": 17,
-  "הידברות": 15,
-  "הארץ": 14,
-  "تسنیم": 13,
-  "כאן 11": 13,
+  "כיפה": 17,
+  "כאן 11": 16,
+  "הארץ": 15,
+  "הידברות": 14,
+  "تسنیم": 12,
   "N12": 11,
   "אנשים ומחשבים": 11,
   "Google News (כל האתרים)": 7,
@@ -39,23 +39,22 @@
   "Universidad de Córdoba (UCO)": 7,
   "GlobeNewswire": 7,
   "Hayadan": 6,
-  "חב\"ד אינפו": 5,
+  "חב\"ד אינפו": 6,
+  "ynet": 5,
+  "Israel Defense": 5,
+  "באר שבע נט": 4,
   "Gov.il": 4,
-  "ynet": 4,
-  "Israel Defense": 4,
+  "עמית סגל (טלגרם)": 4,
+  "ישראל היום": 4,
   "gov.il": 3,
-  "באר שבע נט": 3,
-  "עמית סגל (טלגרם)": 3,
-  "המחדש": 2,
-  "i24NEWS": 2,
   "פאנדר": 2,
-  "Mako": 1,
-  "ice (אייס)": 1
+  "המחדש": 1,
+  "i24NEWS": 1
  },
  "per_lean": {
-  "אחר": 324,
-  "שמאל": 244,
-  "ימין": 209,
+  "אחר": 311,
+  "שמאל": 245,
+  "ימין": 212,
   "מרכז": 184
  },
  "leads": [
@@ -1341,6 +1340,24 @@
   },
   {
    "id": "52c64b60cf9ecdf1",
+   "ts": "2026-10-19T04:08:00.260535+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:00 המשמעות מאחורי תמיכת טראמפ בנתניהו - לקראת תקיפה אפשרית באיראן",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-bcc1896963051a1026.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
+   "id": "52c64b60cf9ecdf1",
    "ts": "2026-10-19T02:02:31.081745+03:00",
    "source": "n12",
    "source_display": "N12",
@@ -2040,6 +2057,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "5f8b32a68d380c6f",
+   "ts": "2026-10-19T04:08:00.260535+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שר ההגנה החדש של איראן: \"אני ברשימת החיסול כבר 35 שנה. טראמפ יתקוף? יפנה גופות\"",
+   "link": "https://www.ynet.co.il/news/article/rk9zgef3me"
+  },
+  {
+   "id": "3fb1418fadc043c9",
+   "ts": "2026-10-19T04:08:00.260535+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מיוחד ל-N12 עדויות מאיראן: \"כולם יודעים שהמלחמה בדרך\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm"
+  },
+  {
+   "id": "e8505776a6cd7ee7",
+   "ts": "2026-10-19T04:08:00.260535+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "נתניהו: רק טראמפ ואני נשמיד את הגרעין האירני",
+   "link": "https://t.me/amitsegal/65908"
   },
   {
    "id": "5f8b32a68d380c6f",
@@ -5048,70 +5113,6 @@
    "lean": "left",
    "title": "מטבע הקריפטו שבעזרתו איראן חומקת מהסנקציות ומחמשת את חיזבאללה | דיווח",
    "link": "https://www.ynet.co.il/news/article/bje4rgd9ml"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-28T18:20:30.165266+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "1237aa92e60e84cb",
-   "ts": "2026-09-28T18:20:30.165266+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "במוקד הפגישה: האיום האירני",
-   "link": "https://t.me/amitsegal/65227"
-  },
-  {
-   "id": "36c716094e3780eb",
-   "ts": "2026-09-28T09:43:24.990219+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "3,000 טון אזהרה לאיראן וטורקיה: בתוך כלי המלחמה החדש של צה\"ל",
-   "link": "https://www.ynet.co.il/news/article/b1e2wql9ze"
-  },
-  {
-   "id": "8805950d63195c07",
-   "ts": "2026-09-28T09:43:24.990219+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בריטניה בודקת אם איראן מאחורי הפיגוע שסוכל, טראמפ: \"רצו לגרום נזק גדול למבצר שלנו\"",
-   "link": "https://www.ynet.co.il/news/article/hknexticze"
   }
  ]
 }
