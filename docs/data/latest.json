@@ -1,62 +1,61 @@
 {
- "generated": "2026-10-20T14:25:56.006561+03:00",
- "last_24h_total": 605,
+ "generated": "2026-10-20T19:52:40.370549+03:00",
+ "last_24h_total": 608,
  "per_target": {
-  "איראן": 435,
-  "בינה מלאכותית": 170
+  "איראן": 439,
+  "בינה מלאכותית": 169
  },
  "per_source": {
-  "מעריב": 58,
-  "mako": 48,
-  "YNET": 48,
+  "מעריב": 57,
+  "YNET": 47,
   "Vietnam.vn": 47,
+  "mako": 45,
   "Investing.com": 33,
-  "גלובס": 31,
-  "סרוגים": 31,
-  "היום": 28,
+  "סרוגים": 32,
+  "גלובס": 30,
+  "היום": 30,
+  "בחדרי חרדים": 22,
   "אמס": 21,
-  "ערוץ 7": 20,
-  "בחדרי חרדים": 19,
-  "כאן 11": 18,
-  "כיכר השבת": 17,
-  "זמן ישראל": 16,
+  "ערוץ 7": 19,
+  "כיכר השבת": 19,
+  "כאן 11": 17,
+  "הארץ": 17,
+  "וואלה": 15,
   "הידברות": 15,
-  "וואלה": 14,
-  "הארץ": 14,
-  "TheMarker": 12,
-  "כיפה": 9,
+  "זמן ישראל": 14,
+  "TheMarker": 10,
+  "כיפה": 10,
+  "ice (אייס)": 10,
   "מקור ראשון": 9,
-  "ice (אייס)": 8,
-  "Israel Defense": 7,
-  "C14": 7,
-  "JDN": 6,
-  "i24NEWS": 5,
+  "C14": 8,
+  "i24NEWS": 6,
+  "calcalist": 6,
+  "JDN": 5,
+  "Israel Defense": 5,
   "Google News (כל האתרים)": 5,
   "Hayadan": 5,
-  "calcalist": 5,
   "Microsoft": 5,
   "אנשים ומחשבים": 5,
   "Gov.il": 5,
   "Crypto Jungle": 5,
-  "חב\"ד אינפו": 4,
   "تسنیم": 4,
+  "N12": 4,
+  "ynet": 4,
   "עניין מרכזי": 3,
+  "חב\"ד אינפו": 3,
   "עמית סגל (טלגרם)": 3,
-  "N12": 3,
-  "ישראל היום": 2,
-  "Universidad de Córdoba (UCO)": 2,
   "קול ברמה": 2,
-  "ynet": 2,
-  "חרדים10": 1,
-  "Israel Business News": 1,
-  "ביזפורטל": 1,
-  "אייס": 1
+  "ביזפורטל": 2,
+  "ישראל היום": 1,
+  "אייס": 1,
+  "Universidad de Córdoba (UCO)": 1,
+  "המחדש": 1
  },
  "per_lean": {
-  "אחר": 207,
+  "אחר": 205,
   "שמאל": 159,
   "מרכז": 125,
-  "ימין": 114
+  "ימין": 119
  },
  "leads": [
   {
@@ -94,9 +93,63 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-5cab9dbb72651a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "c69a28821fc306a0",
+   "ts": "2026-10-20T19:52:34.804820+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "דיווח מיליארדים לאיראן על הפרק: ההסכם המתגבש והמכה לישראל בכירים איראנים מודים: המו\"מ - כלי פוליטי לפגוע בטראמפ לפני בחירות האמצע אסף רוזנצוייג, ספיר ליפקין |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c0c1bb8309951a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "db4c70aee38beffb",
+   "ts": "2026-10-20T19:52:34.804820+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "נתניהו: איראן רוצה להשפיע על הבחירות ועשויה לתקוף, היא רוצה שאפסיד",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-20/ty-article/.premium/000001a1-599e-d9b6-a9b1-79be3e720000",
+   "prominence": 5,
+   "rank": 2
   }
  ],
  "items": [
+  {
+   "id": "c69a28821fc306a0",
+   "ts": "2026-10-20T19:52:34.804820+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "דיווח מיליארדים לאיראן על הפרק: ההסכם המתגבש והמכה לישראל בכירים איראנים מודים: המו\"מ - כלי פוליטי לפגוע בטראמפ לפני בחירות האמצע אסף רוזנצוייג, ספיר ליפקין |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c0c1bb8309951a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "4582bea3907c42d8",
    "ts": "2026-10-20T08:56:19.601437+03:00",
@@ -1376,6 +1429,24 @@
    "rank": 9
   },
   {
+   "id": "db4c70aee38beffb",
+   "ts": "2026-10-20T19:52:34.804820+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "נתניהו: איראן רוצה להשפיע על הבחירות ועשויה לתקוף, היא רוצה שאפסיד",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-20/ty-article/.premium/000001a1-599e-d9b6-a9b1-79be3e720000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "2debf361ef563671",
    "ts": "2026-10-20T08:56:19.601437+03:00",
    "source": "n12",
@@ -2112,6 +2183,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "97b367301a56098e",
+   "ts": "2026-10-20T19:52:34.804820+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקטאר דיווחו על הסכמות, איראן: \"אין לנו אמון בארה\"ב\"; הוויתורים שעשויה ישראל לעשות",
+   "link": "https://www.ynet.co.il/news/article/h1ihsjh2mg"
+  },
+  {
+   "id": "1dc64f3a268810f7",
+   "ts": "2026-10-20T19:52:34.804820+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כוננות באיראן, שתקפה 2 מכליות: \"ארה\"ב וישראל יחדשו את המלחמה, במוקדם או במאוחר\"",
+   "link": "https://www.ynet.co.il/news/article/byfornn2gg"
   },
   {
    "id": "4b0eccbf61b97b35",
@@ -5044,70 +5147,6 @@
   {
    "id": "43e10e446e3f4e52",
    "ts": "2026-09-30T09:37:38.539063+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "fb5caaaf4d1ac113",
-   "ts": "2026-09-30T03:20:52.079651+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ראש ממשלת קטאר: \"עודכנתי חצי שעה לפני התקיפות באיראן\"",
-   "link": "https://www.ynet.co.il/news/article/r1d6uky5fg"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-30T03:20:52.079651+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "fb5caaaf4d1ac113",
-   "ts": "2026-09-29T23:41:41.924869+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ראש ממשלת קטאר: \"עודכנתי חצי שעה לפני התקיפות באיראן\"",
-   "link": "https://www.ynet.co.il/news/article/r1d6uky5fg"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-29T23:41:41.924869+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
