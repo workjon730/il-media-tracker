@@ -1,61 +1,64 @@
 {
- "generated": "2026-10-20T19:52:40.370549+03:00",
- "last_24h_total": 608,
+ "generated": "2026-10-20T23:30:03.333703+03:00",
+ "last_24h_total": 730,
  "per_target": {
-  "איראן": 439,
-  "בינה מלאכותית": 169
+  "איראן": 528,
+  "בינה מלאכותית": 202
  },
  "per_source": {
-  "מעריב": 57,
-  "YNET": 47,
-  "Vietnam.vn": 47,
-  "mako": 45,
-  "Investing.com": 33,
-  "סרוגים": 32,
-  "גלובס": 30,
-  "היום": 30,
-  "בחדרי חרדים": 22,
-  "אמס": 21,
-  "ערוץ 7": 19,
-  "כיכר השבת": 19,
-  "כאן 11": 17,
-  "הארץ": 17,
-  "וואלה": 15,
-  "הידברות": 15,
-  "זמן ישראל": 14,
+  "מעריב": 69,
+  "YNET": 55,
+  "Vietnam.vn": 55,
+  "mako": 48,
+  "Investing.com": 40,
+  "היום": 38,
+  "סרוגים": 37,
+  "גלובס": 35,
+  "בחדרי חרדים": 28,
+  "אמס": 24,
+  "כיכר השבת": 24,
+  "הארץ": 23,
+  "ערוץ 7": 21,
+  "כאן 11": 20,
+  "הידברות": 18,
+  "וואלה": 17,
+  "זמן ישראל": 17,
+  "מקור ראשון": 12,
+  "ice (אייס)": 12,
+  "כיפה": 11,
+  "C14": 11,
   "TheMarker": 10,
-  "כיפה": 10,
-  "ice (אייס)": 10,
-  "מקור ראשון": 9,
-  "C14": 8,
-  "i24NEWS": 6,
-  "calcalist": 6,
-  "JDN": 5,
+  "i24NEWS": 9,
+  "calcalist": 8,
+  "JDN": 7,
+  "Hayadan": 6,
+  "Microsoft": 6,
+  "Gov.il": 6,
+  "Crypto Jungle": 6,
+  "ynet": 6,
+  "تسنیم": 5,
   "Israel Defense": 5,
   "Google News (כל האתרים)": 5,
-  "Hayadan": 5,
-  "Microsoft": 5,
   "אנשים ומחשבים": 5,
-  "Gov.il": 5,
-  "Crypto Jungle": 5,
-  "تسنیم": 4,
-  "N12": 4,
-  "ynet": 4,
-  "עניין מרכזי": 3,
+  "N12": 5,
+  "ביזפורטל": 5,
+  "עניין מרכזי": 4,
   "חב\"ד אינפו": 3,
   "עמית סגל (טלגרם)": 3,
   "קול ברמה": 2,
-  "ביזפורטל": 2,
+  "אייס": 2,
+  "המחדש": 2,
   "ישראל היום": 1,
-  "אייס": 1,
   "Universidad de Córdoba (UCO)": 1,
-  "המחדש": 1
+  "פאנדר": 1,
+  "אפוק": 1,
+  "רשת 13": 1
  },
  "per_lean": {
-  "אחר": 205,
-  "שמאל": 159,
-  "מרכז": 125,
-  "ימין": 119
+  "אחר": 244,
+  "שמאל": 185,
+  "מרכז": 154,
+  "ימין": 147
  },
  "leads": [
   {
@@ -1429,6 +1432,24 @@
    "rank": 9
   },
   {
+   "id": "4975003a610c30dc",
+   "ts": "2026-10-20T23:29:56.524733+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "מיליארדים על הפרק, איראן בולמת את הדיווחים על התקדמות 20:04 אסף רוזנצוייג, ספיר ליפקין",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c0c1bb8309951a1026.htm",
+   "prominence": 1,
+   "rank": 11
+  },
+  {
    "id": "db4c70aee38beffb",
    "ts": "2026-10-20T19:52:34.804820+03:00",
    "source": "haaretz",
@@ -2183,6 +2204,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "97b367301a56098e",
+   "ts": "2026-10-20T23:29:56.524733+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בקטאר דיווחו על הסכמות, איראן: \"אין לנו אמון בארה\"ב\"; הוויתורים שעשויה ישראל לעשות",
+   "link": "https://www.ynet.co.il/news/article/h1ihsjh2mg"
+  },
+  {
+   "id": "1dc64f3a268810f7",
+   "ts": "2026-10-20T23:29:56.524733+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כוננות באיראן, שתקפה 2 מכליות: \"ארה\"ב וישראל יחדשו את המלחמה, במוקדם או במאוחר\"",
+   "link": "https://www.ynet.co.il/news/article/byfornn2gg"
   },
   {
    "id": "97b367301a56098e",
@@ -5099,54 +5152,6 @@
   {
    "id": "43e10e446e3f4e52",
    "ts": "2026-09-30T16:36:47.375052+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "8f82848637b18bcf",
-   "ts": "2026-09-30T09:37:38.539063+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"טראמפ לכוד\": הפשרה של קטאר וההערכה האמריקנית לחידוש העימות עם איראן",
-   "link": "https://www.ynet.co.il/news/article/rjkbbgq5zx"
-  },
-  {
-   "id": "fb5caaaf4d1ac113",
-   "ts": "2026-09-30T09:37:38.539063+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ראש ממשלת קטאר: \"עודכנתי חצי שעה לפני התקיפות באיראן\"",
-   "link": "https://www.ynet.co.il/news/article/r1d6uky5fg"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-09-30T09:37:38.539063+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
