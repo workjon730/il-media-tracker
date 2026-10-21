@@ -1,67 +1,66 @@
 {
- "generated": "2026-10-21T23:04:47.238267+03:00",
- "last_24h_total": 751,
+ "generated": "2026-10-22T02:14:16.757986+03:00",
+ "last_24h_total": 759,
  "per_target": {
-  "איראן": 554,
-  "בינה מלאכותית": 197
+  "איראן": 560,
+  "בינה מלאכותית": 199
  },
  "per_source": {
   "מעריב": 76,
-  "Investing.com": 52,
-  "היום": 45,
-  "YNET": 41,
-  "Vietnam.vn": 41,
-  "כיכר השבת": 38,
-  "הארץ": 37,
+  "Investing.com": 54,
+  "YNET": 42,
+  "היום": 41,
+  "כיכר השבת": 40,
+  "הארץ": 38,
+  "Vietnam.vn": 36,
   "סרוגים": 33,
   "זמן ישראל": 32,
-  "גלובס": 28,
-  "כאן 11": 28,
-  "בחדרי חרדים": 24,
-  "mako": 19,
+  "כאן 11": 30,
+  "גלובס": 29,
+  "בחדרי חרדים": 21,
+  "mako": 20,
+  "וואלה": 19,
   "C14": 18,
-  "וואלה": 17,
   "ביזפורטל": 17,
-  "ערוץ 7": 16,
-  "מקור ראשון": 14,
+  "ערוץ 7": 15,
+  "כיפה": 15,
+  "מקור ראשון": 15,
+  "TheMarker": 14,
   "אמס": 13,
-  "כיפה": 13,
+  "N12": 12,
+  "JDN": 12,
   "calcalist": 12,
-  "JDN": 11,
-  "הידברות": 11,
   "ynet": 10,
-  "N12": 10,
-  "TheMarker": 10,
-  "تسنیم": 9,
-  "i24NEWS": 9,
-  "ice (אייס)": 8,
-  "המחדש": 7,
+  "تسنیم": 10,
+  "הידברות": 9,
+  "המחדש": 8,
+  "i24NEWS": 7,
+  "ice (אייס)": 7,
   "פאנדר": 6,
-  "אפוק": 5,
+  "לדעת": 6,
   "רשת 13": 5,
   "Gov.il": 5,
-  "לדעת": 4,
-  "אייס": 3,
-  "Hayadan": 3,
-  "Microsoft": 3,
-  "עניין מרכזי": 2,
+  "אפוק": 4,
+  "103FM": 3,
+  "Google News (כל האתרים)": 3,
+  "INSS": 3,
+  "שוונג": 3,
+  "אייס": 2,
+  "Hayadan": 2,
+  "Microsoft": 2,
   "אנשים ומחשבים": 2,
-  "103FM": 2,
-  "Google News (כל האתרים)": 2,
-  "INSS": 2,
-  "שוונג": 2,
-  "Crypto Jungle": 1,
+  "OrcaRouter": 2,
+  "جريدة القدس": 2,
+  "עניין מרכזי": 1,
   "הידען": 1,
   "עמית סגל (טלגרם)": 1,
-  "חרדים10": 1,
-  "OrcaRouter": 1,
-  "جريدة القدس": 1
+  "חרדים10": 1
  },
  "per_lean": {
-  "אחר": 228,
-  "ימין": 183,
-  "שמאל": 177,
-  "מרכז": 163
+  "אחר": 225,
+  "שמאל": 190,
+  "ימין": 186,
+  "מרכז": 158
  },
  "leads": [
   {
@@ -85,6 +84,24 @@
   {
    "id": "7e131be97bca2fe4",
    "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות בצל ההצהרות הלוחמניות של רה\"מ וכ\"ץ, המסר החריג לרמטכ\"ל: \"עמוד כחומה בצורה\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "7e131be97bca2fe4",
+   "ts": "2026-10-22T02:14:10.140668+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -515,6 +532,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "7e131be97bca2fe4",
+   "ts": "2026-10-22T02:14:10.140668+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות בצל ההצהרות הלוחמניות של רה\"מ וכ\"ץ, המסר החריג לרמטכ\"ל: \"עמוד כחומה בצורה\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "7e131be97bca2fe4",
@@ -1471,6 +1506,24 @@
    "rank": 9
   },
   {
+   "id": "c84474b70af390be",
+   "ts": "2026-10-22T02:14:10.140668+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "22:59 תיעוד מאיראן: עמוד עשן מעל סיריק אחרי הפיצוצים המסתוריים",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-debbd23250061a1027.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
    "id": "5d284c20a69c712e",
    "ts": "2026-10-21T23:04:38.701133+03:00",
    "source": "n12",
@@ -2315,6 +2368,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "b80ba00031c825dd",
+   "ts": "2026-10-22T02:14:10.140668+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "עשרות מטוסי קרב, עד גבול איראן: התרגיל של חיל האוויר והחשש מ\"מיסקלקולציה\"",
+   "link": "https://www.ynet.co.il/news/article/r1pex9u3me"
+  },
+  {
+   "id": "826ba706f1096218",
+   "ts": "2026-10-22T02:14:10.140668+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ה\"פגישה\" החריגה באיראן, ואמירת נתניהו: \"הם מנסים שוב לפתח את פצצות המוות\"",
+   "link": "https://www.ynet.co.il/news/article/ryru6si3gg"
+  },
+  {
+   "id": "78102f3fefe28e00",
+   "ts": "2026-10-22T02:14:10.140668+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מקורות בארה\"ב: מטוסי קרב ישראליים התקרבו לגבול איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-9d90751855f51a1026.htm"
   },
   {
    "id": "b80ba00031c825dd",
@@ -5083,86 +5184,6 @@
    "lean": "left",
    "title": "פגישה חריגה הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm"
-  },
-  {
-   "id": "7d60f31f4507e0d4",
-   "ts": "2026-10-03T00:18:01.096035+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נמשכת הקריסה של איראן: הישג ענק לארה\"ב במצר הורמוז 01.10.26 תומר אלמגור",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6fa3472f3b6f0a1026.htm"
-  },
-  {
-   "id": "7d60f31f4507e0d4",
-   "ts": "2026-10-02T19:14:02.836756+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נמשכת הקריסה של איראן: הישג ענק לארה\"ב במצר הורמוז 01.10.26 תומר אלמגור",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6fa3472f3b6f0a1026.htm"
-  },
-  {
-   "id": "621a60d93c43c2be",
-   "ts": "2026-10-02T12:39:19.796148+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו מודה שהייתה \"פרצה\", טראמפ: לפי מה ששמעתי - לטייס מעומאן קשר לאיראן",
-   "link": "https://www.ynet.co.il/news/article/sywkgaj9gl"
-  },
-  {
-   "id": "641ceab426f62aec",
-   "ts": "2026-10-02T12:39:19.796148+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נמשכת הקריסה של איראן: הישג ענק לארה\"ב במצר הורמוז",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6fa3472f3b6f0a1026.htm"
-  },
-  {
-   "id": "621a60d93c43c2be",
-   "ts": "2026-10-02T05:12:27.625273+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו מודה שהייתה \"פרצה\", טראמפ: לפי מה ששמעתי - לטייס מעומאן קשר לאיראן",
-   "link": "https://www.ynet.co.il/news/article/sywkgaj9gl"
   }
  ]
 }
