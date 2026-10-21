@@ -1,83 +1,63 @@
 {
- "generated": "2026-10-21T07:33:45.467133+03:00",
- "last_24h_total": 731,
+ "generated": "2026-10-21T13:02:37.853174+03:00",
+ "last_24h_total": 733,
  "per_target": {
-  "איראן": 529,
-  "בינה מלאכותית": 202
+  "איראן": 533,
+  "בינה מלאכותית": 200
  },
  "per_source": {
-  "מעריב": 72,
-  "Vietnam.vn": 56,
-  "YNET": 52,
-  "היום": 45,
-  "Investing.com": 44,
-  "mako": 37,
-  "סרוגים": 34,
-  "בחדרי חרדים": 32,
+  "מעריב": 69,
+  "Vietnam.vn": 51,
+  "YNET": 48,
+  "Investing.com": 47,
+  "היום": 46,
+  "סרוגים": 36,
+  "כיכר השבת": 33,
+  "הארץ": 32,
   "גלובס": 30,
-  "הארץ": 29,
-  "כיכר השבת": 27,
+  "בחדרי חרדים": 30,
+  "mako": 29,
   "כאן 11": 23,
-  "אמס": 20,
-  "זמן ישראל": 19,
-  "ערוץ 7": 19,
-  "הידברות": 17,
-  "וואלה": 14,
-  "מקור ראשון": 13,
+  "זמן ישראל": 23,
+  "ערוץ 7": 18,
+  "אמס": 17,
+  "וואלה": 16,
+  "הידברות": 15,
+  "ביזפורטל": 15,
+  "C14": 14,
+  "מקור ראשון": 14,
   "ice (אייס)": 12,
-  "C14": 12,
-  "ביזפורטל": 11,
+  "calcalist": 11,
+  "כיפה": 10,
   "i24NEWS": 10,
-  "calcalist": 10,
   "ynet": 9,
-  "כיפה": 9,
   "JDN": 8,
-  "N12": 6,
-  "Hayadan": 6,
+  "تسنیم": 6,
   "Gov.il": 6,
-  "تسنیم": 5,
+  "N12": 6,
+  "TheMarker": 5,
+  "Hayadan": 5,
   "Microsoft": 5,
-  "אנשים ומחשבים": 5,
-  "TheMarker": 4,
-  "Crypto Jungle": 4,
-  "המחדש": 4,
+  "המחדש": 5,
+  "אנשים ומחשבים": 4,
+  "פאנדר": 4,
+  "אפוק": 4,
+  "Crypto Jungle": 3,
+  "עניין מרכזי": 3,
   "אייס": 3,
-  "Google News (כל האתרים)": 3,
-  "פאנדר": 3,
-  "אפוק": 3,
   "רשת 13": 3,
-  "עניין מרכזי": 2,
-  "קול ברמה": 1,
-  "Israel Defense": 1,
-  "חב\"ד אינפו": 1,
-  "Universidad de Córdoba (UCO)": 1,
+  "Google News (כל האתרים)": 2,
+  "לדעת": 1,
+  "הידען": 1,
   "עמית סגל (טלגרם)": 1
  },
  "per_lean": {
-  "אחר": 240,
-  "שמאל": 177,
-  "מרכז": 160,
-  "ימין": 154
+  "אחר": 236,
+  "שמאל": 171,
+  "ימין": 168,
+  "מרכז": 158
  },
  "leads": [
-  {
-   "id": "4582bea3907c42d8",
-   "ts": "2026-10-20T08:56:19.601437+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "פרסום ראשון שר ההגנה האמריקני הגסת' נפגש בחשאי בישראל עם נתניהו הפנטגון לא הודיע על הביקור, שהתקיים 8 ימים לפני הבחירות ועל רקע דיונים בין ארה\"ב לישראל בנוגע לאפשרות של חידוש המלחמה נגד איראן ברק רביד |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-5cab9dbb72651a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "c69a28821fc306a0",
    "ts": "2026-10-20T19:52:34.804820+03:00",
@@ -93,6 +73,24 @@
    "lean": "left",
    "title": "דיווח מיליארדים לאיראן על הפרק: ההסכם המתגבש והמכה לישראל בכירים איראנים מודים: המו\"מ - כלי פוליטי לפגוע בטראמפ לפני בחירות האמצע אסף רוזנצוייג, ספיר ליפקין |",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-c0c1bb8309951a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "5da0b4b90cd0ba11",
+   "ts": "2026-10-21T13:02:30.362387+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרסום ראשון הטייס התגלה כתומך המשטר באיראן וחיזבאללה, המוסד התערב ההתרעה הביטחונית הדחופה שהועברה ליונייטד איירליינס והובילה לאיסור כניסתו לישראל: \"הילל את מתקפת הטילים של איראן על תל אביב\" דין פישר |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-bdcfdbdc38d51a1026.htm",
    "prominence": 10,
    "rank": 1
   },
@@ -116,6 +114,24 @@
   }
  ],
  "items": [
+  {
+   "id": "5da0b4b90cd0ba11",
+   "ts": "2026-10-21T13:02:30.362387+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרסום ראשון הטייס התגלה כתומך המשטר באיראן וחיזבאללה, המוסד התערב ההתרעה הביטחונית הדחופה שהועברה ליונייטד איירליינס והובילה לאיסור כניסתו לישראל: \"הילל את מתקפת הטילים של איראן על תל אביב\" דין פישר |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-bdcfdbdc38d51a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "c69a28821fc306a0",
    "ts": "2026-10-20T19:52:34.804820+03:00",
@@ -2221,6 +2237,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "eb3776b91b4e4139",
+   "ts": "2026-10-21T13:02:30.362387+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ישראל רצתה לתקוף החודש תחנות כוח באיראן - ונבלמה בידי טראמפ",
+   "link": "https://www.ynet.co.il/news/article/hk65pnhhfg"
+  },
+  {
+   "id": "38351c65ae172e9b",
+   "ts": "2026-10-21T13:02:30.362387+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ההצלחה של ארה\"ב מול איראן - והנתון שבו היא מפסידה",
+   "link": "https://www.mako.co.il/news-specials/2026_q4/Article-a9e9a8325fc51a1027.htm"
+  },
+  {
+   "id": "7ca880c259a865c5",
+   "ts": "2026-10-21T13:02:30.362387+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "פייננשל טיימס: נתניהו תכנן מתקפה עצמתית באיראן ב10 באוקטובר אך נבלם בידי טראמפ",
+   "link": "https://t.me/amitsegal/66000"
   },
   {
    "id": "97b367301a56098e",
@@ -5085,70 +5149,6 @@
    "lean": "left",
    "title": "נתניהו אמר שלישראל לא היה מודיעין ספציפי: \"נמנע 11/9 נוסף, נדע בקרוב אם איראן קשורה\"",
    "link": "https://www.ynet.co.il/news/article/sk4mypcczx"
-  },
-  {
-   "id": "43e10e446e3f4e52",
-   "ts": "2026-10-01T16:03:17.320794+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן נדחקת לנקודת ההכרעה על שרידותה סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q3/Article-4cf13a0081ed0a1026.htm"
-  },
-  {
-   "id": "641ceab426f62aec",
-   "ts": "2026-10-01T16:03:17.320794+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נמשכת הקריסה של איראן: הישג ענק לארה\"ב במצר הורמוז",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6fa3472f3b6f0a1026.htm"
-  },
-  {
-   "id": "c8f2994d22207aac",
-   "ts": "2026-10-01T08:41:33.521376+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו טוען שלישראל לא היה מודיעין ספציפי: \"נמנע 11/9 נוסף, נדע בקרוב אם איראן קשורה\"",
-   "link": "https://www.ynet.co.il/news/article/sk4mypcczx"
-  },
-  {
-   "id": "2349695c31000cfb",
-   "ts": "2026-10-01T08:41:33.521376+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בריטניה מצביעה על איראן ב\"פיגוע שסוכל\" ליד הבסיס האמריקני; טראמפ: \"תהיה תשובה\"",
-   "link": "https://www.ynet.co.il/news/article/sjvni7s5fx"
   }
  ]
 }
