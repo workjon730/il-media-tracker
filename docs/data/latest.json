@@ -1,84 +1,69 @@
 {
- "generated": "2026-10-21T18:08:16.096471+03:00",
- "last_24h_total": 740,
+ "generated": "2026-10-21T23:04:47.238267+03:00",
+ "last_24h_total": 751,
  "per_target": {
-  "איראן": 544,
-  "בינה מלאכותית": 196
+  "איראן": 554,
+  "בינה מלאכותית": 197
  },
  "per_source": {
-  "מעריב": 74,
-  "Investing.com": 49,
-  "היום": 47,
-  "Vietnam.vn": 46,
-  "YNET": 42,
-  "הארץ": 36,
-  "כיכר השבת": 36,
-  "סרוגים": 36,
-  "גלובס": 29,
-  "זמן ישראל": 28,
-  "בחדרי חרדים": 27,
-  "כאן 11": 25,
-  "mako": 22,
-  "ערוץ 7": 17,
-  "C14": 17,
-  "ביזפורטל": 16,
-  "אמס": 15,
-  "וואלה": 15,
-  "calcalist": 13,
-  "הידברות": 13,
-  "מקור ראשון": 13,
-  "כיפה": 12,
+  "מעריב": 76,
+  "Investing.com": 52,
+  "היום": 45,
+  "YNET": 41,
+  "Vietnam.vn": 41,
+  "כיכר השבת": 38,
+  "הארץ": 37,
+  "סרוגים": 33,
+  "זמן ישראל": 32,
+  "גלובס": 28,
+  "כאן 11": 28,
+  "בחדרי חרדים": 24,
+  "mako": 19,
+  "C14": 18,
+  "וואלה": 17,
+  "ביזפורטל": 17,
+  "ערוץ 7": 16,
+  "מקור ראשון": 14,
+  "אמס": 13,
+  "כיפה": 13,
+  "calcalist": 12,
+  "JDN": 11,
+  "הידברות": 11,
   "ynet": 10,
-  "i24NEWS": 10,
-  "ice (אייס)": 10,
-  "JDN": 9,
-  "N12": 7,
-  "تسنیم": 7,
-  "המחדש": 6,
-  "TheMarker": 6,
-  "Gov.il": 5,
-  "פאנדר": 5,
+  "N12": 10,
+  "TheMarker": 10,
+  "تسنیم": 9,
+  "i24NEWS": 9,
+  "ice (אייס)": 8,
+  "המחדש": 7,
+  "פאנדר": 6,
   "אפוק": 5,
-  "Hayadan": 4,
-  "Microsoft": 4,
-  "רשת 13": 4,
-  "עניין מרכזי": 3,
-  "אנשים ומחשבים": 3,
+  "רשת 13": 5,
+  "Gov.il": 5,
+  "לדעת": 4,
   "אייס": 3,
+  "Hayadan": 3,
+  "Microsoft": 3,
+  "עניין מרכזי": 2,
+  "אנשים ומחשבים": 2,
+  "103FM": 2,
   "Google News (כל האתרים)": 2,
-  "Crypto Jungle": 2,
-  "לדעת": 2,
+  "INSS": 2,
+  "שוונג": 2,
+  "Crypto Jungle": 1,
   "הידען": 1,
   "עמית סגל (טלגרם)": 1,
-  "103FM": 1,
-  "INSS": 1,
-  "שוונג": 1
+  "חרדים10": 1,
+  "OrcaRouter": 1,
+  "جريدة القدس": 1
  },
  "per_lean": {
-  "אחר": 231,
-  "ימין": 178,
-  "שמאל": 167,
-  "מרכז": 164
+  "אחר": 228,
+  "ימין": 183,
+  "שמאל": 177,
+  "מרכז": 163
  },
  "leads": [
-  {
-   "id": "c69a28821fc306a0",
-   "ts": "2026-10-20T19:52:34.804820+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "דיווח מיליארדים לאיראן על הפרק: ההסכם המתגבש והמכה לישראל בכירים איראנים מודים: המו\"מ - כלי פוליטי לפגוע בטראמפ לפני בחירות האמצע אסף רוזנצוייג, ספיר ליפקין |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c0c1bb8309951a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "5da0b4b90cd0ba11",
    "ts": "2026-10-21T13:02:30.362387+03:00",
@@ -98,22 +83,22 @@
    "rank": 1
   },
   {
-   "id": "db4c70aee38beffb",
-   "ts": "2026-10-20T19:52:34.804820+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "7e131be97bca2fe4",
+   "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 16,
+   "score": 19,
    "lean": "left",
-   "title": "נתניהו: איראן רוצה להשפיע על הבחירות ועשויה לתקוף, היא רוצה שאפסיד",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-20/ty-article/.premium/000001a1-599e-d9b6-a9b1-79be3e720000",
+   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות בצל ההצהרות הלוחמניות של רה\"מ וכ\"ץ, המסר החריג לרמטכ\"ל: \"עמוד כחומה בצורה\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
    "prominence": 5,
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "59600102465a93af",
@@ -530,6 +515,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "7e131be97bca2fe4",
+   "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות בצל ההצהרות הלוחמניות של רה\"מ וכ\"ץ, המסר החריג לרמטכ\"ל: \"עמוד כחומה בצורה\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "57e9fb0798e89394",
@@ -1468,6 +1471,42 @@
    "rank": 9
   },
   {
+   "id": "5d284c20a69c712e",
+   "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "עכשיו תיעוד מאיראן: עמוד עשן מעל סיריק אחרי הפיצוצים המסתוריים",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-d2ddd23250061a1027.htm",
+   "prominence": 1,
+   "rank": 12
+  },
+  {
+   "id": "a6138b6716cb0697",
+   "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 5 דקות תיעוד מאיראן: עמוד עשן מעל סיריק אחרי הפיצוצים המסתוריים",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-debbd23250061a1027.htm",
+   "prominence": 1,
+   "rank": 13
+  },
+  {
    "id": "4975003a610c30dc",
    "ts": "2026-10-21T07:33:39.147397+03:00",
    "source": "n12",
@@ -2276,6 +2315,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "b80ba00031c825dd",
+   "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "עשרות מטוסי קרב, עד גבול איראן: התרגיל של חיל האוויר והחשש מ\"מיסקלקולציה\"",
+   "link": "https://www.ynet.co.il/news/article/r1pex9u3me"
+  },
+  {
+   "id": "826ba706f1096218",
+   "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ה\"פגישה\" החריגה באיראן, ואמירת נתניהו: \"הם מנסים שוב לפתח את פצצות המוות\"",
+   "link": "https://www.ynet.co.il/news/article/ryru6si3gg"
+  },
+  {
+   "id": "78102f3fefe28e00",
+   "ts": "2026-10-21T23:04:38.701133+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מקורות בארה\"ב: מטוסי קרב ישראליים התקרבו לגבול איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-9d90751855f51a1026.htm"
   },
   {
    "id": "2af3c3ec5683e1d1",
@@ -5076,102 +5163,6 @@
    "lean": "left",
    "title": "נתניהו מודה שהייתה \"פרצה\", טראמפ: לפי מה ששמעתי - לטייס מעומאן קשר לאיראן",
    "link": "https://www.ynet.co.il/news/article/sywkgaj9gl"
-  },
-  {
-   "id": "326c558612a3becb",
-   "ts": "2026-10-02T05:12:27.625273+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לקראת חידוש התקיפות נגד איראן? ארה\"ב שולחת לאזור נושאת מטוסים ויחידת מארינס",
-   "link": "https://www.ynet.co.il/news/article/bygseg25mx"
-  },
-  {
-   "id": "641ceab426f62aec",
-   "ts": "2026-10-02T05:12:27.625273+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נמשכת הקריסה של איראן: הישג ענק לארה\"ב במצר הורמוז",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6fa3472f3b6f0a1026.htm"
-  },
-  {
-   "id": "621a60d93c43c2be",
-   "ts": "2026-10-02T02:06:58.966365+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו מודה שהייתה \"פרצה\", טראמפ: לפי מה ששמעתי - לטייס מעומאן קשר לאיראן",
-   "link": "https://www.ynet.co.il/news/article/sywkgaj9gl"
-  },
-  {
-   "id": "326c558612a3becb",
-   "ts": "2026-10-02T02:06:58.966365+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לקראת חידוש התקיפות נגד איראן? ארה\"ב שולחת לאזור נושאת מטוסים ויחידת מארינס",
-   "link": "https://www.ynet.co.il/news/article/bygseg25mx"
-  },
-  {
-   "id": "621a60d93c43c2be",
-   "ts": "2026-10-01T21:49:39.161151+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו מודה שהייתה \"פרצה\", טראמפ: לפי מה ששמעתי - לטייס מעומאן קשר לאיראן",
-   "link": "https://www.ynet.co.il/news/article/sywkgaj9gl"
-  },
-  {
-   "id": "326c558612a3becb",
-   "ts": "2026-10-01T21:49:39.161151+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לקראת חידוש התקיפות נגד איראן? ארה\"ב שולחת לאזור נושאת מטוסים ויחידת מארינס",
-   "link": "https://www.ynet.co.il/news/article/bygseg25mx"
   }
  ]
 }
