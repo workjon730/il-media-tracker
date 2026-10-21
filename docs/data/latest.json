@@ -1,61 +1,64 @@
 {
- "generated": "2026-10-21T13:02:37.853174+03:00",
- "last_24h_total": 733,
+ "generated": "2026-10-21T18:08:16.096471+03:00",
+ "last_24h_total": 740,
  "per_target": {
-  "איראן": 533,
-  "בינה מלאכותית": 200
+  "איראן": 544,
+  "בינה מלאכותית": 196
  },
  "per_source": {
-  "מעריב": 69,
-  "Vietnam.vn": 51,
-  "YNET": 48,
-  "Investing.com": 47,
-  "היום": 46,
+  "מעריב": 74,
+  "Investing.com": 49,
+  "היום": 47,
+  "Vietnam.vn": 46,
+  "YNET": 42,
+  "הארץ": 36,
+  "כיכר השבת": 36,
   "סרוגים": 36,
-  "כיכר השבת": 33,
-  "הארץ": 32,
-  "גלובס": 30,
-  "בחדרי חרדים": 30,
-  "mako": 29,
-  "כאן 11": 23,
-  "זמן ישראל": 23,
-  "ערוץ 7": 18,
-  "אמס": 17,
-  "וואלה": 16,
-  "הידברות": 15,
-  "ביזפורטל": 15,
-  "C14": 14,
-  "מקור ראשון": 14,
-  "ice (אייס)": 12,
-  "calcalist": 11,
-  "כיפה": 10,
+  "גלובס": 29,
+  "זמן ישראל": 28,
+  "בחדרי חרדים": 27,
+  "כאן 11": 25,
+  "mako": 22,
+  "ערוץ 7": 17,
+  "C14": 17,
+  "ביזפורטל": 16,
+  "אמס": 15,
+  "וואלה": 15,
+  "calcalist": 13,
+  "הידברות": 13,
+  "מקור ראשון": 13,
+  "כיפה": 12,
+  "ynet": 10,
   "i24NEWS": 10,
-  "ynet": 9,
-  "JDN": 8,
-  "تسنیم": 6,
-  "Gov.il": 6,
-  "N12": 6,
-  "TheMarker": 5,
-  "Hayadan": 5,
-  "Microsoft": 5,
-  "המחדש": 5,
-  "אנשים ומחשבים": 4,
-  "פאנדר": 4,
-  "אפוק": 4,
-  "Crypto Jungle": 3,
+  "ice (אייס)": 10,
+  "JDN": 9,
+  "N12": 7,
+  "تسنیم": 7,
+  "המחדש": 6,
+  "TheMarker": 6,
+  "Gov.il": 5,
+  "פאנדר": 5,
+  "אפוק": 5,
+  "Hayadan": 4,
+  "Microsoft": 4,
+  "רשת 13": 4,
   "עניין מרכזי": 3,
+  "אנשים ומחשבים": 3,
   "אייס": 3,
-  "רשת 13": 3,
   "Google News (כל האתרים)": 2,
-  "לדעת": 1,
+  "Crypto Jungle": 2,
+  "לדעת": 2,
   "הידען": 1,
-  "עמית סגל (טלגרם)": 1
+  "עמית סגל (טלגרם)": 1,
+  "103FM": 1,
+  "INSS": 1,
+  "שוונג": 1
  },
  "per_lean": {
-  "אחר": 236,
-  "שמאל": 171,
-  "ימין": 168,
-  "מרכז": 158
+  "אחר": 231,
+  "ימין": 178,
+  "שמאל": 167,
+  "מרכז": 164
  },
  "leads": [
   {
@@ -111,6 +114,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-20/ty-article/.premium/000001a1-599e-d9b6-a9b1-79be3e720000",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "59600102465a93af",
+   "ts": "2026-10-21T18:08:08.495265+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "פרסום ראשון הטייס התגלה כתומך המשטר באיראן וחיזבאללה, המוסד התערב",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-bdcfdbdc38d51a1026.htm",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
@@ -1103,6 +1124,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "59600102465a93af",
+   "ts": "2026-10-21T18:08:08.495265+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "פרסום ראשון הטייס התגלה כתומך המשטר באיראן וחיזבאללה, המוסד התערב",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-bdcfdbdc38d51a1026.htm",
+   "prominence": 3,
+   "rank": 9
   },
   {
    "id": "853b6dd8ad332a16",
@@ -2237,6 +2276,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "2af3c3ec5683e1d1",
+   "ts": "2026-10-21T18:08:08.495265+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נתניהו: \"איראן מנסה שוב לפתח את פצצות המוות\"",
+   "link": "https://www.ynet.co.il/news/article/ryru6si3gg"
+  },
+  {
+   "id": "eb3776b91b4e4139",
+   "ts": "2026-10-21T18:08:08.495265+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ישראל רצתה לתקוף החודש תחנות כוח באיראן - ונבלמה בידי טראמפ",
+   "link": "https://www.ynet.co.il/news/article/hk65pnhhfg"
   },
   {
    "id": "eb3776b91b4e4139",
@@ -5101,54 +5172,6 @@
    "lean": "left",
    "title": "לקראת חידוש התקיפות נגד איראן? ארה\"ב שולחת לאזור נושאת מטוסים ויחידת מארינס",
    "link": "https://www.ynet.co.il/news/article/bygseg25mx"
-  },
-  {
-   "id": "c0a07cc5148bb42c",
-   "ts": "2026-10-01T21:49:39.161151+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המפגש הסודי בין משטר א-שרע לחיזבאללה - בטורקיה: \"גם איראן ידעה\"",
-   "link": "https://www.ynet.co.il/news/article/rjbaoiicze"
-  },
-  {
-   "id": "c0a07cc5148bb42c",
-   "ts": "2026-10-01T16:03:17.320794+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המפגש הסודי בין משטר א-שרע לחיזבאללה - בטורקיה: \"גם איראן ידעה\"",
-   "link": "https://www.ynet.co.il/news/article/rjbaoiicze"
-  },
-  {
-   "id": "523532a1977a1ed5",
-   "ts": "2026-10-01T16:03:17.320794+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו אמר שלישראל לא היה מודיעין ספציפי: \"נמנע 11/9 נוסף, נדע בקרוב אם איראן קשורה\"",
-   "link": "https://www.ynet.co.il/news/article/sk4mypcczx"
   }
  ]
 }
