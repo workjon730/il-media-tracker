@@ -1,66 +1,66 @@
 {
- "generated": "2026-10-22T02:14:16.757986+03:00",
- "last_24h_total": 759,
+ "generated": "2026-10-22T07:32:18.879025+03:00",
+ "last_24h_total": 770,
  "per_target": {
-  "איראן": 560,
-  "בינה מלאכותית": 199
+  "איראן": 566,
+  "בינה מלאכותית": 204
  },
  "per_source": {
-  "מעריב": 76,
-  "Investing.com": 54,
-  "YNET": 42,
-  "היום": 41,
-  "כיכר השבת": 40,
-  "הארץ": 38,
+  "מעריב": 77,
+  "Investing.com": 52,
+  "YNET": 44,
+  "הארץ": 41,
+  "כיכר השבת": 41,
+  "היום": 37,
   "Vietnam.vn": 36,
   "סרוגים": 33,
-  "זמן ישראל": 32,
+  "גלובס": 32,
+  "זמן ישראל": 31,
   "כאן 11": 30,
-  "גלובס": 29,
-  "בחדרי חרדים": 21,
-  "mako": 20,
-  "וואלה": 19,
-  "C14": 18,
-  "ביזפורטל": 17,
-  "ערוץ 7": 15,
+  "וואלה": 23,
+  "C14": 20,
+  "בחדרי חרדים": 20,
+  "mako": 19,
+  "TheMarker": 18,
+  "ביזפורטל": 16,
   "כיפה": 15,
-  "מקור ראשון": 15,
-  "TheMarker": 14,
-  "אמס": 13,
-  "N12": 12,
-  "JDN": 12,
-  "calcalist": 12,
+  "ערוץ 7": 14,
+  "calcalist": 14,
+  "מקור ראשון": 14,
+  "N12": 13,
+  "JDN": 13,
+  "אמס": 11,
+  "تسنیم": 11,
   "ynet": 10,
-  "تسنیم": 10,
-  "הידברות": 9,
-  "המחדש": 8,
-  "i24NEWS": 7,
-  "ice (אייס)": 7,
+  "המחדש": 9,
+  "הידברות": 7,
+  "לדעת": 7,
   "פאנדר": 6,
-  "לדעת": 6,
+  "i24NEWS": 6,
+  "ice (אייס)": 6,
   "רשת 13": 5,
   "Gov.il": 5,
-  "אפוק": 4,
-  "103FM": 3,
-  "Google News (כל האתרים)": 3,
-  "INSS": 3,
-  "שוונג": 3,
-  "אייס": 2,
-  "Hayadan": 2,
-  "Microsoft": 2,
-  "אנשים ומחשבים": 2,
-  "OrcaRouter": 2,
-  "جريدة القدس": 2,
+  "103FM": 4,
+  "Google News (כל האתרים)": 4,
+  "INSS": 4,
+  "שוונג": 4,
+  "אפוק": 3,
+  "OrcaRouter": 3,
+  "جريدة القدس": 3,
+  "חרדים10": 2,
+  "Hayadan": 1,
+  "אנשים ומחשבים": 1,
+  "אייס": 1,
   "עניין מרכזי": 1,
   "הידען": 1,
-  "עמית סגל (טלגרם)": 1,
-  "חרדים10": 1
+  "Microsoft": 1,
+  "עמית סגל (טלגרם)": 1
  },
  "per_lean": {
-  "אחר": 225,
-  "שמאל": 190,
-  "ימין": 186,
-  "מרכז": 158
+  "אחר": 223,
+  "שמאל": 203,
+  "ימין": 187,
+  "מרכז": 157
  },
  "leads": [
   {
@@ -78,6 +78,24 @@
    "lean": "left",
    "title": "פרסום ראשון הטייס התגלה כתומך המשטר באיראן וחיזבאללה, המוסד התערב ההתרעה הביטחונית הדחופה שהועברה ליונייטד איירליינס והובילה לאיסור כניסתו לישראל: \"הילל את מתקפת הטילים של איראן על תל אביב\" דין פישר |",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-bdcfdbdc38d51a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "d13b996553c886c5",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "מקורות: ישראל וארה\"ב גיבשו תוכניות לתקוף באיראן אחרי בחירות האמצע",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-22/ty-article/000001a1-60e4-d64b-a1ff-7ffe686a0000",
    "prominence": 10,
    "rank": 1
   },
@@ -118,6 +136,24 @@
    "rank": 3
   },
   {
+   "id": "7acc5c6464172682",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "המחלוקות בין נתניהו לצה\"ל וההפרזה של רה\"מ: על התקיפה באיראן שטראמפ בלם",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-21/ty-article/.highlight/000001a1-5eff-d05a-abe9-7fff85d00000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "59600102465a93af",
    "ts": "2026-10-21T18:08:08.495265+03:00",
    "source": "n12",
@@ -134,6 +170,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-bdcfdbdc38d51a1026.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "837de11c8a3de7db",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
+   "prominence": 3,
+   "rank": 8
   }
  ],
  "items": [
@@ -1146,6 +1200,24 @@
    "rank": 2
   },
   {
+   "id": "d13b996553c886c5",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "מקורות: ישראל וארה\"ב גיבשו תוכניות לתקוף באיראן אחרי בחירות האמצע",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-22/ty-article/000001a1-60e4-d64b-a1ff-7ffe686a0000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
    "id": "253e90e253a5d7d5",
    "ts": "2026-10-10T23:00:25.815083+03:00",
    "source": "haaretz",
@@ -1162,6 +1234,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "837de11c8a3de7db",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
+   "prominence": 3,
+   "rank": 8
   },
   {
    "id": "59600102465a93af",
@@ -1504,6 +1594,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "7acc5c6464172682",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "המחלוקות בין נתניהו לצה\"ל וההפרזה של רה\"מ: על התקיפה באיראן שטראמפ בלם",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-21/ty-article/.highlight/000001a1-5eff-d05a-abe9-7fff85d00000",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "c84474b70af390be",
@@ -2368,6 +2476,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "8d4c1568d507c145",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"קצר ואינטנסיבי\": תוכנית ארה\"ב-ישראל לאיראן, המחלוקת ותוכנית הנקמה של טהרן",
+   "link": "https://www.ynet.co.il/news/article/wfj5nzl9p"
+  },
+  {
+   "id": "b80ba00031c825dd",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "עשרות מטוסי קרב, עד גבול איראן: התרגיל של חיל האוויר והחשש מ\"מיסקלקולציה\"",
+   "link": "https://www.ynet.co.il/news/article/r1pex9u3me"
+  },
+  {
+   "id": "78102f3fefe28e00",
+   "ts": "2026-10-22T07:32:11.567486+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מקורות בארה\"ב: מטוסי קרב ישראליים התקרבו לגבול איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-9d90751855f51a1026.htm"
   },
   {
    "id": "b80ba00031c825dd",
@@ -5088,102 +5244,6 @@
    "lean": "",
    "title": "השופט סולברג קובע כי ב 5 מתוך 6 אירועים רשמיים שהתנהלו במשרד ראש הממשלה בחודשים האחרונים, ושאמורים היו להיות נקיים מתעמולת בחירות, נתניהו השתמש בהם לצורכי תעמולת בחירות אסורה. בעקבות זאת, הוא מחייב את נתניהו בהוצאות אישיות בסך 29 אלף שקל. בין האירועים הרשמיים שנוצלו לתעמולה: מסיבת עיתונאים שעסקה באיראן, הערכת מצב עם הפורום הבכיר של צה״ל, ביקור בדרום לבנון ועוד..",
    "link": "https://t.me/amitsegal/65490"
-  },
-  {
-   "id": "2e591005a74c2755",
-   "ts": "2026-10-04T09:46:35.806786+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן 03.10.26 ברק רביד",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm"
-  },
-  {
-   "id": "bf7099702f37db37",
-   "ts": "2026-10-04T03:31:39.418768+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm"
-  },
-  {
-   "id": "3676106de9a2d754",
-   "ts": "2026-10-04T00:08:21.639389+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"ההתמקדות בנו מוגזמת\": הסולטנות שממנה הגיע המחבל, השתיקה - והקשר לאיראן",
-   "link": "https://www.ynet.co.il/news/article/sy6p9ea5gg"
-  },
-  {
-   "id": "bf7099702f37db37",
-   "ts": "2026-10-04T00:08:21.639389+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm"
-  },
-  {
-   "id": "3676106de9a2d754",
-   "ts": "2026-10-03T20:12:30.438828+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"ההתמקדות בנו מוגזמת\": הסולטנות שממנה הגיע המחבל, השתיקה - והקשר לאיראן",
-   "link": "https://www.ynet.co.il/news/article/sy6p9ea5gg"
-  },
-  {
-   "id": "0f1e8d65f884029c",
-   "ts": "2026-10-03T20:12:30.438828+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "פגישה חריגה הקבינט הביטחוני של טראמפ דן בהמשך המלחמה באיראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm"
   }
  ]
 }
