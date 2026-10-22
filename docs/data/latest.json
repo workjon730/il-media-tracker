@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-22T22:59:47.726420+03:00",
- "last_24h_total": 807,
+ "generated": "2026-10-23T02:16:24.622899+03:00",
+ "last_24h_total": 691,
  "per_target": {
-  "איראן": 578,
-  "בינה מלאכותית": 229
+  "איראן": 486,
+  "בינה מלאכותית": 205
  },
  "per_source": {
-  "מעריב": 73,
-  "Vietnam.vn": 56,
-  "YNET": 52,
-  "הארץ": 44,
-  "גלובס": 39,
-  "כיכר השבת": 36,
-  "כאן 11": 34,
-  "וואלה": 31,
-  "היום": 31,
-  "Investing.com": 27,
-  "TheMarker": 24,
-  "סרוגים": 24,
-  "מקור ראשון": 22,
-  "mako": 21,
-  "C14": 21,
-  "זמן ישראל": 20,
-  "אמס": 20,
+  "Vietnam.vn": 66,
+  "מעריב": 59,
+  "YNET": 44,
+  "הארץ": 37,
+  "גלובס": 36,
+  "כאן 11": 29,
+  "היום": 28,
+  "וואלה": 28,
+  "כיכר השבת": 27,
+  "סרוגים": 21,
+  "TheMarker": 20,
+  "mako": 20,
+  "אמס": 19,
+  "מקור ראשון": 19,
   "JDN": 19,
-  "בחדרי חרדים": 18,
-  "calcalist": 15,
-  "N12": 13,
+  "C14": 17,
+  "בחדרי חרדים": 14,
+  "זמן ישראל": 14,
+  "calcalist": 14,
   "ערוץ 7": 13,
-  "ynet": 12,
-  "ביזפורטל": 12,
-  "המחדש": 11,
-  "הידברות": 11,
-  "כיפה": 10,
-  "تسنیم": 8,
+  "הידברות": 13,
+  "ynet": 10,
+  "N12": 10,
+  "המחדש": 9,
+  "Investing.com": 9,
   "רשת 13": 8,
-  "i24NEWS": 6,
-  "פאנדר": 6,
-  "שוונג": 6,
-  "INSS": 6,
-  "Gov.il": 6,
-  "אפוק": 6,
-  "103FM": 5,
-  "לדעת": 5,
-  "אתר החדשות דבר": 5,
-  "Google News (כל האתרים)": 4,
-  "אנשים ומחשבים": 4,
-  "חרדים10": 3,
-  "OrcaRouter": 3,
-  "جريدة القدس": 3,
+  "אפוק": 8,
+  "ביזפורטל": 7,
+  "אתר החדשות דבר": 7,
+  "אנשים ומחשבים": 6,
+  "כיפה": 5,
+  "פאנדר": 5,
+  "INSS": 5,
+  "שוונג": 5,
+  "Gov.il": 5,
+  "تسنیم": 4,
+  "i24NEWS": 4,
+  "103FM": 3,
+  "אייס": 3,
   "Mako": 3,
-  "ice (אייס)": 2,
-  "אייס": 2,
-  "Gadgety": 2,
-  "Israel Defense": 2,
-  "The Verifier": 2,
-  "עמית סגל (טלגרם)": 1
+  "Gadgety": 3,
+  "Israel Defense": 3,
+  "The Verifier": 3,
+  "Google News (כל האתרים)": 2,
+  "חרדים10": 2,
+  "לדעת": 1,
+  "جريدة القدس": 1,
+  "OrcaRouter": 1,
+  "עמית סגל (טלגרם)": 1,
+  "HWzone": 1
  },
  "per_lean": {
-  "אחר": 242,
-  "שמאל": 239,
-  "ימין": 170,
-  "מרכז": 156
+  "אחר": 216,
+  "שמאל": 206,
+  "ימין": 136,
+  "מרכז": 133
  },
  "leads": [
   {
@@ -101,42 +101,6 @@
    "rank": 1
   },
   {
-   "id": "7e131be97bca2fe4",
-   "ts": "2026-10-21T23:04:38.701133+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות בצל ההצהרות הלוחמניות של רה\"מ וכ\"ץ, המסר החריג לרמטכ\"ל: \"עמוד כחומה בצורה\"",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
-   "prominence": 5,
-   "rank": 3
-  },
-  {
-   "id": "7e131be97bca2fe4",
-   "ts": "2026-10-22T02:14:10.140668+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "גורמי ביטחון מתנגדים לחידוש המלחמה באיראן לפני הבחירות בצל ההצהרות הלוחמניות של רה\"מ וכ\"ץ, המסר החריג לרמטכ\"ל: \"עמוד כחומה בצורה\"",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-168f751855f51a1026.htm",
-   "prominence": 5,
-   "rank": 3
-  },
-  {
    "id": "7acc5c6464172682",
    "ts": "2026-10-22T07:32:11.567486+03:00",
    "source": "haaretz",
@@ -157,6 +121,24 @@
   {
    "id": "8bf5791724a42b22",
    "ts": "2026-10-22T22:59:39.414347+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות למרות הדריכות, במערכת הביטחון לא מזהים עילה לתקיפה וחוששים מהסלמה בשל טעות 21:11 ניר דבורי, אוהד חמו",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "8bf5791724a42b22",
+   "ts": "2026-10-23T02:16:17.842455+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -587,6 +569,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "8bf5791724a42b22",
+   "ts": "2026-10-23T02:16:17.842455+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות למרות הדריכות, במערכת הביטחון לא מזהים עילה לתקיפה וחוששים מהסלמה בשל טעות 21:11 ניר דבורי, אוהד חמו",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "8bf5791724a42b22",
@@ -1633,6 +1633,42 @@
    "rank": 9
   },
   {
+   "id": "72507665d4b527a8",
+   "ts": "2026-10-23T02:16:17.842455+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:05 באיראן משוכנעים: \"ישראל הולכת לתקוף ראשונה\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-2cacee1efa461a1026.htm",
+   "prominence": 1,
+   "rank": 12
+  },
+  {
+   "id": "3f6d91df6dd85925",
+   "ts": "2026-10-23T02:16:17.842455+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "23:38 טראמפ על איראן: \"הכינו בהם חזק, ואולי נמשיך בזה עוד קצת\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-d031c6abe3561a1027.htm",
+   "prominence": 1,
+   "rank": 13
+  },
+  {
    "id": "7acc5c6464172682",
    "ts": "2026-10-22T07:32:11.567486+03:00",
    "source": "haaretz",
@@ -2513,6 +2549,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "28d89e6e41fb2232",
+   "ts": "2026-10-23T02:16:17.842455+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בכירים בצה\"ל: אין סיבה לתקוף באיראן לפני הבחירות - אלא אם נראה היערכות לירי",
+   "link": "https://www.ynet.co.il/news/elections2026/article/byene3d3fl"
+  },
+  {
+   "id": "d425749eada68920",
+   "ts": "2026-10-23T02:16:17.842455+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נתניהו בכלל רשאי להורות על מלחמה באיראן? | ynet מסביר",
+   "link": "https://www.ynet.co.il/news/elections2026/article/sjudjuv3me"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-23T02:16:17.842455+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
   },
   {
    "id": "28d89e6e41fb2232",
@@ -5153,102 +5237,6 @@
    "lean": "left",
    "title": "הבכיר החשוב באיראן מודה: \"מהתקופות הקשות בתולדותינו\"",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-b42270c6dab01a1027.htm"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-06T05:54:20.503584+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "5313300e69e9b9dd",
-   "ts": "2026-10-06T05:54:20.503584+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ההתרעה מאיראן שגרמה לבהלה בארה\"ב - והאזהרה של ישראל 04.10.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ea20a6d8d8801a1027.htm"
-  },
-  {
-   "id": "0972520a56b8fc43",
-   "ts": "2026-10-06T01:33:44.404303+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הבכיר במשרד התחבורה שקיבל תשלום מפליי דובאי, והתעקשות טראמפ: \"לדעתי איראן אחראית\"",
-   "link": "https://www.ynet.co.il/news/article/rjvbshbigg"
-  },
-  {
-   "id": "15f510e69029d4d0",
-   "ts": "2026-10-06T01:33:44.404303+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הבכיר החשוב באיראן מודה: \"מהתקופות הקשות בתולדותינו\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-b42270c6dab01a1027.htm"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-06T01:33:44.404303+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "5313300e69e9b9dd",
-   "ts": "2026-10-06T01:33:44.404303+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ההתרעה מאיראן שגרמה לבהלה בארה\"ב - והאזהרה של ישראל 04.10.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ea20a6d8d8801a1027.htm"
   }
  ]
 }
