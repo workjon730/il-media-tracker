@@ -1,85 +1,64 @@
 {
- "generated": "2026-10-23T12:58:06.911377+03:00",
- "last_24h_total": 846,
+ "generated": "2026-10-23T17:57:46.134797+03:00",
+ "last_24h_total": 853,
  "per_target": {
-  "איראן": 585,
-  "בינה מלאכותית": 261
+  "איראן": 583,
+  "בינה מלאכותית": 270
  },
  "per_source": {
-  "Vietnam.vn": 93,
-  "מעריב": 66,
-  "YNET": 52,
-  "גלובס": 47,
-  "הארץ": 45,
+  "Vietnam.vn": 94,
+  "מעריב": 68,
+  "YNET": 51,
+  "הארץ": 47,
+  "גלובס": 46,
   "היום": 38,
-  "וואלה": 35,
-  "כאן 11": 34,
-  "כיכר השבת": 32,
-  "mako": 28,
-  "מקור ראשון": 27,
-  "סרוגים": 27,
-  "TheMarker": 25,
-  "JDN": 24,
-  "אמס": 21,
-  "ערוץ 7": 20,
-  "הידברות": 20,
-  "C14": 19,
-  "זמן ישראל": 17,
-  "calcalist": 14,
-  "N12": 13,
-  "המחדש": 12,
-  "רשת 13": 11,
-  "בחדרי חרדים": 11,
-  "אפוק": 10,
-  "אנשים ומחשבים": 10,
+  "וואלה": 33,
+  "כאן 11": 33,
+  "כיכר השבת": 33,
+  "סרוגים": 30,
+  "mako": 29,
+  "מקור ראשון": 28,
+  "JDN": 27,
+  "TheMarker": 26,
+  "ערוץ 7": 21,
+  "הידברות": 21,
+  "זמן ישראל": 19,
+  "אמס": 18,
+  "C14": 17,
+  "N12": 15,
+  "המחדש": 13,
+  "רשת 13": 12,
+  "calcalist": 12,
+  "אנשים ומחשבים": 12,
   "אתר החדשות דבר": 9,
-  "ynet": 8,
-  "ביזפורטל": 7,
+  "אפוק": 9,
+  "בחדרי חרדים": 9,
+  "Investing.com": 8,
   "כיפה": 6,
   "פאנדר": 6,
+  "Gadgety": 6,
+  "Israel Defense": 6,
   "INSS": 6,
   "שוונג": 6,
+  "The Verifier": 6,
+  "ביזפורטל": 6,
   "Gov.il": 6,
-  "Gadgety": 5,
-  "Israel Defense": 5,
-  "The Verifier": 5,
-  "Investing.com": 4,
-  "אייס": 3,
-  "Mako": 3,
-  "103FM": 3,
+  "ynet": 5,
+  "HWzone": 4,
   "تسنیم": 3,
-  "i24NEWS": 3,
-  "HWzone": 3,
-  "חרדים10": 1,
-  "Google News (כל האתרים)": 1,
-  "עמית סגל (טלגרם)": 1,
-  "וואלה ספורט": 1
+  "i24NEWS": 2,
+  "אייס": 2,
+  "103FM": 2,
+  "וואלה ספורט": 2,
+  "Mako": 1
  },
  "per_lean": {
-  "אחר": 272,
+  "אחר": 275,
   "שמאל": 251,
-  "ימין": 163,
-  "מרכז": 160
+  "ימין": 169,
+  "מרכז": 158
  },
  "leads": [
-  {
-   "id": "cf19f2be031ca129",
-   "ts": "2026-10-22T13:03:26.877914+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 18,
-   "lean": "left",
-   "title": "אוואטרים שהופעלו נגד איראן מקדמים מתקפות של נתניהו על איזנקוט וגולן",
-   "link": "https://www.haaretz.co.il/news/security/2026-10-22/ty-article-magazine/.premium/eca/000001a1-10c5-d6c9-afb1-f6f51eeb0000",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "8bf5791724a42b22",
    "ts": "2026-10-22T22:59:39.414347+03:00",
@@ -151,6 +130,24 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-23/ty-article/.premium/000001a1-6529-d34e-a1b9-ff6fc86c0000",
    "prominence": 5,
    "rank": 4
+  },
+  {
+   "id": "2ab2e94a8f977ad3",
+   "ts": "2026-10-23T17:57:37.129957+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לתוצאות הבחירות עשויה להיות השפעה מכרעת על חידוש המערכה עם איראן",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-23/ty-article/.highlight/000001a1-64f6-d46d-a1fd-e4f7ee750000",
+   "prominence": 5,
+   "rank": 3
   }
  ],
  "items": [
@@ -1631,6 +1628,24 @@
    "rank": 9
   },
   {
+   "id": "2ab2e94a8f977ad3",
+   "ts": "2026-10-23T17:57:37.129957+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לתוצאות הבחירות עשויה להיות השפעה מכרעת על חידוש המערכה עם איראן",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-23/ty-article/.highlight/000001a1-64f6-d46d-a1fd-e4f7ee750000",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
    "id": "db3d3b0bffcf4f0c",
    "ts": "2026-10-23T12:57:56.143864+03:00",
    "source": "haaretz",
@@ -2565,6 +2580,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "060382eaf69e3ff2",
+   "ts": "2026-10-23T17:57:37.129957+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות 02:40 ניר דבורי, אוהד חמו",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-23T17:57:37.129957+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-23T17:57:37.129957+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
   },
   {
    "id": "060382eaf69e3ff2",
@@ -5145,70 +5208,6 @@
   {
    "id": "1f0a20bb64ef5e13",
    "ts": "2026-10-07T11:34:08.503860+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "864788123d0f0ed2",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תמונות הלוויין חשפו: הפעילות המחודשת באתר הגרעין שישראל תקפה באיראן",
-   "link": "https://www.ynet.co.il/news/article/rjwuf6gjgl"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "864788123d0f0ed2",
-   "ts": "2026-10-07T00:35:40.161080+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תמונות הלוויין חשפו: הפעילות המחודשת באתר הגרעין שישראל תקפה באיראן",
-   "link": "https://www.ynet.co.il/news/article/rjwuf6gjgl"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-07T00:35:40.161080+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
