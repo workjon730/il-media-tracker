@@ -1,62 +1,61 @@
 {
- "generated": "2026-10-23T17:57:46.134797+03:00",
- "last_24h_total": 853,
+ "generated": "2026-10-23T22:06:42.519350+03:00",
+ "last_24h_total": 875,
  "per_target": {
-  "איראן": 583,
-  "בינה מלאכותית": 270
+  "איראן": 596,
+  "בינה מלאכותית": 279
  },
  "per_source": {
   "Vietnam.vn": 94,
-  "מעריב": 68,
-  "YNET": 51,
-  "הארץ": 47,
-  "גלובס": 46,
+  "מעריב": 73,
+  "YNET": 54,
+  "גלובס": 49,
+  "הארץ": 49,
   "היום": 38,
-  "וואלה": 33,
+  "כיכר השבת": 35,
   "כאן 11": 33,
-  "כיכר השבת": 33,
-  "סרוגים": 30,
-  "mako": 29,
-  "מקור ראשון": 28,
-  "JDN": 27,
-  "TheMarker": 26,
+  "סרוגים": 32,
+  "וואלה": 31,
+  "TheMarker": 29,
+  "mako": 28,
+  "JDN": 28,
+  "מקור ראשון": 27,
   "ערוץ 7": 21,
+  "זמן ישראל": 21,
   "הידברות": 21,
-  "זמן ישראל": 19,
-  "אמס": 18,
-  "C14": 17,
-  "N12": 15,
-  "המחדש": 13,
+  "N12": 19,
+  "אמס": 15,
+  "המחדש": 15,
+  "C14": 15,
   "רשת 13": 12,
-  "calcalist": 12,
   "אנשים ומחשבים": 12,
-  "אתר החדשות דבר": 9,
-  "אפוק": 9,
-  "בחדרי חרדים": 9,
-  "Investing.com": 8,
+  "calcalist": 12,
+  "Investing.com": 12,
+  "אתר החדשות דבר": 8,
+  "אפוק": 8,
+  "ביזפורטל": 8,
+  "בחדרי חרדים": 7,
   "כיפה": 6,
   "פאנדר": 6,
-  "Gadgety": 6,
   "Israel Defense": 6,
   "INSS": 6,
   "שוונג": 6,
-  "The Verifier": 6,
-  "ביזפורטל": 6,
   "Gov.il": 6,
   "ynet": 5,
-  "HWzone": 4,
+  "The Verifier": 5,
+  "Gadgety": 5,
+  "HWzone": 5,
+  "103FM": 4,
+  "וואלה ספורט": 3,
   "تسنیم": 3,
-  "i24NEWS": 2,
   "אייס": 2,
-  "103FM": 2,
-  "וואלה ספורט": 2,
-  "Mako": 1
+  "i24NEWS": 1
  },
  "per_lean": {
-  "אחר": 275,
-  "שמאל": 251,
-  "ימין": 169,
-  "מרכז": 158
+  "אחר": 277,
+  "שמאל": 260,
+  "ימין": 171,
+  "מרכז": 167
  },
  "leads": [
   {
@@ -146,6 +145,42 @@
    "lean": "left",
    "title": "לתוצאות הבחירות עשויה להיות השפעה מכרעת על חידוש המערכה עם איראן",
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-23/ty-article/.highlight/000001a1-64f6-d46d-a1fd-e4f7ee750000",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "2ad7afd9ab78c928",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "פתרון הקריפטו של נתניהו לסנקציות: צעד מסוכן כמו של איראן וצפון קוריאה",
+   "link": "https://www.haaretz.co.il/tmr/news/politics/2026-10-23/ty-article/000001a1-69a2-d29a-a1a5-eba3bb1f0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "df22fa136b9e1235",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "תצלומי הלוויין חושפים: איראן מרחיבה את הבסיס הסודי למרות שכבר הותקף 3 פעמים: מה מסתתר בתוך ההר, והאם המקום נערך לחזרה לפעילות?",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2d929296d2861a1026.htm",
    "prominence": 5,
    "rank": 3
   }
@@ -546,6 +581,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "df22fa136b9e1235",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "תצלומי הלוויין חושפים: איראן מרחיבה את הבסיס הסודי למרות שכבר הותקף 3 פעמים: מה מסתתר בתוך ההר, והאם המקום נערך לחזרה לפעילות?",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2d929296d2861a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "dfbcef567558e89a",
@@ -1628,6 +1681,42 @@
    "rank": 9
   },
   {
+   "id": "2ad7afd9ab78c928",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "פתרון הקריפטו של נתניהו לסנקציות: צעד מסוכן כמו של איראן וצפון קוריאה",
+   "link": "https://www.haaretz.co.il/tmr/news/politics/2026-10-23/ty-article/000001a1-69a2-d29a-a1a5-eba3bb1f0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "9187ee07a3ccc298",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "20:25 לא רק איראן: מדינת האויב שהעלתה כוננות",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-31a9098e5ad51a1026.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
    "id": "2ab2e94a8f977ad3",
    "ts": "2026-10-23T17:57:37.129957+03:00",
    "source": "haaretz",
@@ -2580,6 +2669,70 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "97d234f4a18bf241",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
+   "link": "https://www.ynet.co.il/news/article/hylsjfknfx"
+  },
+  {
+   "id": "060382eaf69e3ff2",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות 02:40 ניר דבורי, אוהד חמו",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-23T22:06:34.626211+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
   },
   {
    "id": "060382eaf69e3ff2",
@@ -5108,118 +5261,6 @@
    "lean": "left",
    "title": "טראמפ \"לא מעוניין בהסכם\". דיווחים: צבא ארה\"ב נערך לחידוש המלחמה באיראן לפני בחירות האמצע",
    "link": "https://www.ynet.co.il/news/article/hybuxovofl"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-08T11:51:02.160649+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "3e98bbdfcb6b0ebd",
-   "ts": "2026-10-08T04:50:34.565203+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "למרות החנק הכלכלי: \"איראן העבירה לחיזבאללה 200 מיליון דולר\"",
-   "link": "https://www.ynet.co.il/news/article/r1j11nkvsmg"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-08T04:50:34.565203+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "3e98bbdfcb6b0ebd",
-   "ts": "2026-10-08T00:56:49.933742+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "למרות החנק הכלכלי: \"איראן העבירה לחיזבאללה 200 מיליון דולר\"",
-   "link": "https://www.ynet.co.il/news/article/r1j11nkvsmg"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-08T00:56:49.933742+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
-  },
-  {
-   "id": "1f0a20bb64ef5e13",
-   "ts": "2026-10-07T11:34:08.503860+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שלושה שעונים מול איראן, ושאלה אחת: מי יצלצל קודם? אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-9fa4c85033201a1026.htm"
   }
  ]
 }
