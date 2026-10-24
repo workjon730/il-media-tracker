@@ -1,63 +1,61 @@
 {
- "generated": "2026-10-24T23:42:15.308472+03:00",
- "last_24h_total": 1068,
+ "generated": "2026-10-25T02:06:58.992171+03:00",
+ "last_24h_total": 1065,
  "per_target": {
-  "איראן": 726,
-  "בינה מלאכותית": 342
+  "איראן": 725,
+  "בינה מלאכותית": 340
  },
  "per_source": {
-  "Vietnam.vn": 108,
-  "מעריב": 107,
-  "YNET": 87,
-  "גלובס": 65,
-  "הארץ": 62,
-  "TheMarker": 49,
+  "Vietnam.vn": 113,
+  "מעריב": 105,
+  "YNET": 91,
+  "גלובס": 67,
+  "הארץ": 60,
+  "TheMarker": 46,
   "כאן 11": 45,
   "N12": 37,
+  "mako": 36,
   "זמן ישראל": 36,
-  "mako": 35,
-  "היום": 34,
-  "סרוגים": 32,
+  "היום": 35,
+  "סרוגים": 31,
   "מקור ראשון": 31,
-  "JDN": 29,
+  "JDN": 30,
   "וואלה": 28,
-  "ביזפורטל": 27,
-  "Investing.com": 24,
-  "כיכר השבת": 21,
-  "ynet": 18,
-  "הידברות": 18,
-  "המחדש": 16,
-  "ערוץ 7": 15,
-  "כלכליסט": 15,
+  "ביזפורטל": 26,
+  "ynet": 20,
+  "Investing.com": 19,
+  "הידברות": 19,
+  "כיכר השבת": 18,
+  "כלכליסט": 18,
   "אנשים ומחשבים": 14,
+  "ערוץ 7": 13,
+  "המחדש": 13,
+  "בחדרי חרדים": 11,
   "רשת 13": 10,
-  "בחדרי חרדים": 9,
   "כיפה": 8,
+  "העין השביעית": 8,
   "אתר החדשות דבר": 7,
   "103FM": 7,
-  "פאנדר": 7,
   "שוונג": 7,
   "INSS": 7,
   "Gov.il": 7,
-  "העין השביעית": 7,
-  "אפוק": 6,
-  "OrcaRouter": 6,
-  "אמס": 5,
+  "פאנדר": 6,
+  "אפוק": 5,
   "تسنیم": 5,
+  "OrcaRouter": 5,
+  "אמס": 4,
   "HWzone": 4,
-  "calcalist": 3,
-  "The Verifier": 3,
-  "Microsoft": 3,
-  "וואלה ספורט": 1,
-  "Israel Defense": 1,
-  "i24NEWS": 1,
-  "C14": 1
+  "Microsoft": 4,
+  "C14": 4,
+  "The Verifier": 2,
+  "i24NEWS": 2,
+  "calcalist": 1
  },
  "per_lean": {
-  "שמאל": 378,
-  "אחר": 309,
-  "מרכז": 214,
-  "ימין": 167
+  "שמאל": 381,
+  "אחר": 299,
+  "מרכז": 216,
+  "ימין": 169
  },
  "leads": [
   {
@@ -116,24 +114,6 @@
   },
   {
    "id": "2ad7afd9ab78c928",
-   "ts": "2026-10-24T01:05:33.934624+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "פתרון הקריפטו של נתניהו לסנקציות: צעד מסוכן כמו של איראן וצפון קוריאה",
-   "link": "https://www.haaretz.co.il/tmr/news/politics/2026-10-23/ty-article/000001a1-69a2-d29a-a1a5-eba3bb1f0000",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
-   "id": "2ad7afd9ab78c928",
    "ts": "2026-10-24T03:37:02.154707+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
@@ -185,24 +165,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-2d929296d2861a1026.htm",
    "prominence": 5,
    "rank": 2
-  },
-  {
-   "id": "1bdef10dd2944ba0",
-   "ts": "2026-10-24T01:05:33.934624+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "תצלומי הלוויין חושפים: איראן מרחיבה את הבסיס הסודי",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2d929296d2861a1026.htm",
-   "prominence": 3,
-   "rank": 9
   },
   {
    "id": "1bdef10dd2944ba0",
@@ -1917,6 +1879,24 @@
    "rank": 9
   },
   {
+   "id": "f7e540d798de5b0d",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "23:50 טראמפ נשאל מתי יתקוף באיראן, והנשיא ענה: \"שאלה מטומטמת, אולי מחר! אתה חושב שאגלה?\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-36f17b6cd9f61a1026.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
    "id": "400035c447e4939e",
    "ts": "2026-10-24T21:04:11.355015+03:00",
    "source": "n12",
@@ -3049,6 +3029,118 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "1737e02bb9c3ae1b",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ברנע חשף: פרסמנו את סרטון המוסד מלב איראן כדי שתעצור אלפים ולא תזהה את הסוכנים",
+   "link": "https://www.ynet.co.il/news/article/sycsj005hfg"
+  },
+  {
+   "id": "526d661fc271d56b",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נתניהו בסרטון בחירות חדש: \"איראן רוצה להשמיד אותנו תוך זמן קצר\". איזנקוט: שקר",
+   "link": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx"
+  },
+  {
+   "id": "3e279e100be18e81",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נשיא איראן רוצה לחזור למו\"מ; \"חיזבאללה הבהיר - לא נתערב אם תפרוץ שוב מלחמה\"",
+   "link": "https://www.ynet.co.il/news/article/r1qzdvqhfe"
+  },
+  {
+   "id": "db33d7e9bde93503",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "חשיפה איראן \"הגבירה משמעותית\" מאמצים לפגיעה בבכירים אמריקנים 24.10.26 ברק רביד",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-eb407a2f53b61a1026.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
+  },
+  {
+   "id": "0b6946d5a4cf8561",
+   "ts": "2026-10-25T02:06:52.349042+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המהלך הנוסף שנועד לחנוק כלכלית את איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d89430b36bd61a1026.htm"
   },
   {
    "id": "1737e02bb9c3ae1b",
@@ -5257,134 +5349,6 @@
    "lean": "left",
    "title": "דיווח: ארה\"ב שוקלת להשתמש ב\"אם כל הפצצות\" נגד איראן",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-cf8e415c8bd31a1027.htm"
-  },
-  {
-   "id": "44c25e9ede38d096",
-   "ts": "2026-10-16T01:10:23.316715+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
-  },
-  {
-   "id": "76626c006166c9bf",
-   "ts": "2026-10-16T01:10:23.316715+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "נתניהו מאיים: אם איראן תתקוף אותנו היא תעשה את טעות חייה. יש לנו גם אפשרות לפעול באופן עצמאי, ואני לא מציע למישהו מאויבנו לנסות אותנו. בשום צורה.",
-   "link": "https://t.me/amitsegal/65841"
-  },
-  {
-   "id": "3127c832fd06199b",
-   "ts": "2026-10-15T21:13:32.838436+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן הטביעה עוד ספינה - ו\"מכשירי אייפון צפים בהורמוז\" | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/rjqi19rsgg"
-  },
-  {
-   "id": "12ca460385b77b0f",
-   "ts": "2026-10-15T21:13:32.838436+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נציג איראן יצא בנאום הרצוג, אמיר קטאר נשאר: הפסגה החריגה - ותרגיל העוקץ האווירי לטורקיה",
-   "link": "https://www.ynet.co.il/news/article/hyksbmcige"
-  },
-  {
-   "id": "968d5ee722e1d6f3",
-   "ts": "2026-10-15T21:13:32.838436+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווח: ארה\"ב שוקלת להשתמש ב\"אם כל הפצצות\" נגד איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-cf8e415c8bd31a1027.htm"
-  },
-  {
-   "id": "76626c006166c9bf",
-   "ts": "2026-10-15T21:13:32.838436+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "נתניהו מאיים: אם איראן תתקוף אותנו היא תעשה את טעות חייה. יש לנו גם אפשרות לפעול באופן עצמאי, ואני לא מציע למישהו מאויבנו לנסות אותנו. בשום צורה.",
-   "link": "https://t.me/amitsegal/65841"
-  },
-  {
-   "id": "12ca460385b77b0f",
-   "ts": "2026-10-15T16:21:03.468931+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נציג איראן יצא בנאום הרצוג, אמיר קטאר נשאר: הפסגה החריגה - ותרגיל העוקץ האווירי לטורקיה",
-   "link": "https://www.ynet.co.il/news/article/hyksbmcige"
-  },
-  {
-   "id": "21d76b32967e4974",
-   "ts": "2026-10-15T16:21:03.468931+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווח: ארה\"ב שוקלת להשתמש לראשונה ב\"אם כל הפצצות\" מול איראן",
-   "link": "https://www.ynet.co.il/news/article/hksqbr6igg"
   }
  ]
 }
