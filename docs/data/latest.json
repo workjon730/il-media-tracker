@@ -1,65 +1,64 @@
 {
- "generated": "2026-10-25T19:04:04.329951+03:00",
- "last_24h_total": 1019,
+ "generated": "2026-10-25T21:58:03.606416+03:00",
+ "last_24h_total": 1005,
  "per_target": {
-  "איראן": 705,
-  "בינה מלאכותית": 314
+  "איראן": 701,
+  "בינה מלאכותית": 304
  },
  "per_source": {
-  "מעריב": 111,
-  "Vietnam.vn": 108,
-  "YNET": 96,
+  "מעריב": 112,
+  "Vietnam.vn": 103,
+  "YNET": 94,
   "גלובס": 68,
-  "הארץ": 51,
-  "כאן 11": 39,
-  "TheMarker": 37,
-  "זמן ישראל": 35,
-  "N12": 33,
-  "וואלה": 31,
-  "היום": 31,
-  "מקור ראשון": 30,
-  "mako": 28,
-  "סרוגים": 26,
-  "JDN": 25,
+  "הארץ": 50,
+  "זמן ישראל": 37,
+  "כאן 11": 37,
+  "TheMarker": 36,
+  "N12": 32,
+  "מקור ראשון": 31,
+  "וואלה": 30,
+  "היום": 28,
+  "סרוגים": 27,
+  "mako": 26,
+  "C14": 25,
   "ביזפורטל": 22,
   "הידברות": 20,
-  "C14": 20,
+  "JDN": 20,
   "כלכליסט": 19,
-  "ynet": 17,
   "אנשים ומחשבים": 16,
-  "בחדרי חרדים": 14,
-  "Mako": 12,
-  "העין השביעית": 11,
-  "ערוץ 7": 11,
+  "בחדרי חרדים": 15,
+  "ynet": 14,
+  "Mako": 14,
+  "ערוץ 7": 13,
+  "Israel Defense": 12,
+  "העין השביעית": 10,
   "כיכר השבת": 10,
   "تسنیم": 8,
   "אתר החדשות דבר": 8,
-  "Israel Defense": 8,
   "INSS": 7,
   "שוונג": 7,
   "Gov.il": 7,
-  "Microsoft": 7,
-  "רשת 13": 6,
-  "המחדש": 6,
-  "כיפה": 5,
-  "103FM": 5,
-  "HWzone": 5,
-  "Investing.com": 4,
+  "Microsoft": 6,
+  "רשת 13": 4,
+  "כיפה": 4,
+  "103FM": 4,
+  "המחדש": 4,
+  "HWzone": 4,
+  "אמס": 4,
   "i24NEWS": 3,
-  "פאנדר": 2,
-  "חב״ד און ליין": 2,
-  "אמס": 2,
-  "calcalist": 2,
-  "אפוק": 1,
-  "Google News (כל האתרים)": 1,
-  "Techtime": 1,
+  "חב״ד און ליין": 3,
+  "calcalist": 3,
+  "Investing.com": 2,
+  "Google News (כל האתרים)": 2,
+  "Techtime": 2,
+  "פאנדר": 1,
   "חדשות אפס שמונה": 1
  },
  "per_lean": {
-  "שמאל": 349,
-  "אחר": 287,
-  "מרכז": 218,
-  "ימין": 165
+  "שמאל": 333,
+  "אחר": 288,
+  "מרכז": 215,
+  "ימין": 169
  },
  "leads": [],
  "items": [
@@ -2909,6 +2908,70 @@
   },
   {
    "id": "d63f74da781e897d",
+   "ts": "2026-10-25T21:57:53.806128+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-25T21:57:53.806128+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
+  },
+  {
+   "id": "47cf015e9af29ea6",
+   "ts": "2026-10-25T21:57:53.806128+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המהלך הנוסף שנועד לחנוק כלכלית את איראן 24.10.26 אסף רוזנצוייג",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d89430b36bd61a1026.htm"
+  },
+  {
+   "id": "3e4e87f3a2a67c06",
+   "ts": "2026-10-25T21:57:53.806128+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "חשיפה: איראן מגדילה את המאמצים לפגיעה בבכירים אמריקנים 24.10.26 ברק רביד",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-eb407a2f53b61a1026.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
    "ts": "2026-10-25T19:03:56.989859+03:00",
    "source": "n12",
    "source_display": "N12",
@@ -5114,70 +5177,6 @@
    "lean": "left",
    "title": "מיוחד ל-N12 עדויות מאיראן: \"כולם יודעים שהמלחמה בדרך\"",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm"
-  },
-  {
-   "id": "44c25e9ede38d096",
-   "ts": "2026-10-18T08:47:14.742007+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
-  },
-  {
-   "id": "40c8f3899e1b7b7e",
-   "ts": "2026-10-18T08:47:14.742007+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המשבר באיראן: ארגוני הטרור מעבירים כסף בחזרה לטהרן 17.10.26 ברק רביד",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm"
-  },
-  {
-   "id": "44c25e9ede38d096",
-   "ts": "2026-10-18T03:54:50.208811+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בקרב הזה, עיראק רוצה להזכיר לאיראן דבר חשוב ד\"ר יואל גוז'נסקי, ירון שניידר",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7e7f963ac6e31a1027.htm"
-  },
-  {
-   "id": "40c8f3899e1b7b7e",
-   "ts": "2026-10-18T03:54:50.208811+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המשבר באיראן: ארגוני הטרור מעבירים כסף בחזרה לטהרן 17.10.26 ברק רביד",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-17cdb78414641a1027.htm"
   }
  ]
 }
