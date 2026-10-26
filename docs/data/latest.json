@@ -1,64 +1,67 @@
 {
- "generated": "2026-10-26T09:02:48.503327+03:00",
- "last_24h_total": 986,
+ "generated": "2026-10-26T15:49:33.120059+03:00",
+ "last_24h_total": 833,
  "per_target": {
-  "איראן": 709,
-  "בינה מלאכותית": 277
+  "איראן": 612,
+  "בינה מלאכותית": 221
  },
  "per_source": {
-  "מעריב": 121,
-  "YNET": 87,
-  "Vietnam.vn": 79,
-  "גלובס": 68,
-  "הארץ": 55,
+  "מעריב": 103,
+  "YNET": 76,
+  "גלובס": 56,
+  "Vietnam.vn": 49,
+  "הארץ": 46,
   "זמן ישראל": 43,
-  "מקור ראשון": 38,
-  "TheMarker": 37,
-  "כאן 11": 37,
-  "N12": 29,
-  "סרוגים": 27,
-  "C14": 27,
-  "ביזפורטל": 26,
-  "וואלה": 24,
+  "TheMarker": 33,
+  "כאן 11": 32,
+  "מקור ראשון": 31,
+  "סרוגים": 26,
+  "N12": 24,
   "mako": 24,
-  "כלכליסט": 24,
-  "Israel Defense": 20,
-  "היום": 19,
-  "הידברות": 18,
-  "ערוץ 7": 18,
-  "Mako": 16,
-  "אנשים ומחשבים": 16,
-  "בחדרי חרדים": 14,
-  "כיכר השבת": 12,
-  "אמס": 10,
-  "העין השביעית": 9,
-  "אתר החדשות דבר": 8,
-  "تسنیم": 7,
-  "JDN": 7,
+  "ביזפורטל": 24,
+  "כלכליסט": 23,
+  "C14": 20,
+  "Israel Defense": 18,
+  "ערוץ 7": 17,
+  "וואלה": 16,
+  "הידברות": 13,
+  "בחדרי חרדים": 12,
+  "אמס": 12,
+  "היום": 12,
+  "אנשים ומחשבים": 12,
+  "כיכר השבת": 11,
+  "Mako": 8,
+  "העין השביעית": 7,
+  "אתר החדשות דבר": 7,
   "INSS": 7,
-  "שוונג": 7,
-  "חב״ד און ליין": 6,
+  "Investing.com": 7,
+  "Google News (כל האתרים)": 6,
+  "Techtime": 6,
   "עמית סגל (טלגרם)": 6,
-  "ynet": 5,
-  "Gov.il": 5,
-  "Google News (כל האתרים)": 5,
-  "Techtime": 5,
-  "calcalist": 4,
-  "כיפה": 3,
-  "Microsoft": 3,
+  "חב״ד און ליין": 5,
+  "JDN": 5,
+  "שוונג": 5,
+  "تسنیم": 4,
+  "Gov.il": 4,
+  "כיפה": 4,
+  "ynet": 4,
+  "calcalist": 3,
   "המחדש": 3,
-  "רשת 13": 2,
-  "103FM": 1,
-  "HWzone": 1,
   "חדשות אפס שמונה": 1,
+  "Microsoft": 1,
   "אייס": 1,
-  "Investing.com": 1
+  "רשת 13": 1,
+  "אפוק": 1,
+  "103FM": 1,
+  "חרדים10": 1,
+  "באר שבע נט": 1,
+  "Hayadan": 1
  },
  "per_lean": {
-  "שמאל": 309,
-  "אחר": 296,
-  "מרכז": 210,
-  "ימין": 171
+  "שמאל": 263,
+  "אחר": 245,
+  "מרכז": 173,
+  "ימין": 152
  },
  "leads": [
   {
@@ -3268,6 +3271,102 @@
    "rank": 15
   },
   {
+   "id": "d169263b6c3fbd47",
+   "ts": "2026-10-26T15:49:25.906941+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "עימות לא רק על איראן: המבצע שנתניהו מתעקש להמשיך בו - בניגוד לעמדת צה\"ל",
+   "link": "https://www.ynet.co.il/news/article/s19kws3nge"
+  },
+  {
+   "id": "75416a3de85315fc",
+   "ts": "2026-10-26T15:49:25.906941+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"טראמפ לא נתן לנתניהו אור ירוק\": ההכנות לתקיפה באיראן - \"תוך 96 שעות מפקודה\"",
+   "link": "https://www.ynet.co.il/news/article/sy6jdo3nfx"
+  },
+  {
+   "id": "026e1e97189eb7d9",
+   "ts": "2026-10-26T15:49:25.906941+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "אחרי הבחירות: דרושה אסטרטגיה חדשה מול איראן",
+   "link": "https://www.ynet.co.il/news/article/hy85ocj3ml"
+  },
+  {
+   "id": "c28a56ba74a88200",
+   "ts": "2026-10-26T15:49:25.906941+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "חשיפה עימות חסר תקדים בין הרמטכ\"ל לנתניהו סביב איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-26T15:49:25.906941+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-26T15:49:25.906941+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
+  },
+  {
    "id": "026e1e97189eb7d9",
    "ts": "2026-10-26T09:02:41.231600+03:00",
    "source": "ynet",
@@ -5298,102 +5397,6 @@
    "lean": "",
    "title": "פייננשל טיימס: נתניהו תכנן מתקפה עצמתית באיראן ב10 באוקטובר אך נבלם בידי טראמפ",
    "link": "https://t.me/amitsegal/66000"
-  },
-  {
-   "id": "97b367301a56098e",
-   "ts": "2026-10-21T07:33:39.147397+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בקטאר דיווחו על הסכמות, איראן: \"אין לנו אמון בארה\"ב\"; הוויתורים שעשויה ישראל לעשות",
-   "link": "https://www.ynet.co.il/news/article/h1ihsjh2mg"
-  },
-  {
-   "id": "97b367301a56098e",
-   "ts": "2026-10-21T02:48:07.066645+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בקטאר דיווחו על הסכמות, איראן: \"אין לנו אמון בארה\"ב\"; הוויתורים שעשויה ישראל לעשות",
-   "link": "https://www.ynet.co.il/news/article/h1ihsjh2mg"
-  },
-  {
-   "id": "1dc64f3a268810f7",
-   "ts": "2026-10-21T02:48:07.066645+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כוננות באיראן, שתקפה 2 מכליות: \"ארה\"ב וישראל יחדשו את המלחמה, במוקדם או במאוחר\"",
-   "link": "https://www.ynet.co.il/news/article/byfornn2gg"
-  },
-  {
-   "id": "97b367301a56098e",
-   "ts": "2026-10-20T23:29:56.524733+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בקטאר דיווחו על הסכמות, איראן: \"אין לנו אמון בארה\"ב\"; הוויתורים שעשויה ישראל לעשות",
-   "link": "https://www.ynet.co.il/news/article/h1ihsjh2mg"
-  },
-  {
-   "id": "1dc64f3a268810f7",
-   "ts": "2026-10-20T23:29:56.524733+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כוננות באיראן, שתקפה 2 מכליות: \"ארה\"ב וישראל יחדשו את המלחמה, במוקדם או במאוחר\"",
-   "link": "https://www.ynet.co.il/news/article/byfornn2gg"
-  },
-  {
-   "id": "97b367301a56098e",
-   "ts": "2026-10-20T19:52:34.804820+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בקטאר דיווחו על הסכמות, איראן: \"אין לנו אמון בארה\"ב\"; הוויתורים שעשויה ישראל לעשות",
-   "link": "https://www.ynet.co.il/news/article/h1ihsjh2mg"
   }
  ]
 }
