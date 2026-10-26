@@ -1,63 +1,63 @@
 {
- "generated": "2026-10-26T00:41:15.739974+03:00",
- "last_24h_total": 993,
+ "generated": "2026-10-26T03:11:28.395881+03:00",
+ "last_24h_total": 984,
  "per_target": {
-  "איראן": 701,
-  "בינה מלאכותית": 292
+  "איראן": 704,
+  "בינה מלאכותית": 280
  },
  "per_source": {
-  "מעריב": 114,
-  "Vietnam.vn": 96,
-  "YNET": 91,
+  "מעריב": 115,
+  "YNET": 89,
+  "Vietnam.vn": 87,
   "גלובס": 68,
-  "הארץ": 51,
-  "זמן ישראל": 38,
+  "הארץ": 53,
+  "זמן ישראל": 40,
   "כאן 11": 37,
   "TheMarker": 34,
-  "מקור ראשון": 33,
-  "N12": 31,
-  "וואלה": 29,
+  "מקור ראשון": 34,
+  "N12": 30,
   "C14": 28,
   "סרוגים": 27,
-  "היום": 25,
-  "mako": 24,
-  "ביזפורטל": 22,
-  "הידברות": 20,
-  "כלכליסט": 20,
-  "JDN": 16,
+  "וואלה": 26,
+  "ביזפורטל": 24,
+  "mako": 23,
+  "היום": 22,
+  "כלכליסט": 22,
+  "הידברות": 19,
+  "Israel Defense": 18,
+  "ערוץ 7": 16,
   "אנשים ומחשבים": 16,
+  "Mako": 16,
   "בחדרי חרדים": 15,
-  "ערוץ 7": 15,
-  "Mako": 15,
-  "Israel Defense": 15,
-  "כיכר השבת": 11,
-  "ynet": 10,
+  "JDN": 12,
+  "כיכר השבת": 12,
   "העין השביעית": 9,
+  "אמס": 9,
   "تسنیم": 8,
   "אתר החדשות דבר": 8,
+  "ynet": 7,
   "INSS": 7,
   "שוונג": 7,
-  "אמס": 7,
-  "Gov.il": 6,
-  "Microsoft": 5,
-  "חב״ד און ליין": 4,
+  "Gov.il": 5,
+  "חב״ד און ליין": 5,
+  "המחדש": 4,
+  "Microsoft": 4,
   "calcalist": 4,
-  "רשת 13": 3,
+  "Google News (כל האתרים)": 4,
+  "Techtime": 4,
+  "עמית סגל (טלגרם)": 4,
   "כיפה": 3,
-  "103FM": 3,
-  "HWzone": 3,
-  "המחדש": 3,
-  "Google News (כל האתרים)": 3,
-  "Techtime": 3,
-  "i24NEWS": 2,
-  "עמית סגל (טלגרם)": 2,
+  "רשת 13": 2,
+  "103FM": 2,
+  "HWzone": 2,
+  "i24NEWS": 1,
   "Investing.com": 1,
   "חדשות אפס שמונה": 1
  },
  "per_lean": {
-  "שמאל": 319,
-  "אחר": 291,
-  "מרכז": 212,
+  "שמאל": 310,
+  "אחר": 295,
+  "מרכז": 208,
   "ימין": 171
  },
  "leads": [
@@ -98,6 +98,60 @@
    "rank": 1
   },
   {
+   "id": "c174c951321deabc",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "גובר המתח בין הרמטכ\"ל לנתניהו - המנסה לעורר עימות עם איראן",
+   "link": "https://www.haaretz.co.il/news/elections/2026-10-25/ty-article/.highlight/000001a1-74ac-d2e1-a3ef-f5afcfb60000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "dabe76ae024f5ae6",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "עימות חסר תקדים בין נתניהו לרמטכ\"ל בנושא איראן הרקע לעימות החריג: ניסיון של נתניהו להוביל לעימות בזק עם איראן בימים אלו עוד לפני הבחירות ירון אברהם |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "60720af731edd543",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ חזר על תמיכתו בנתניהו: נלחמנו באיראן, עלינו להשלים את המשימה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-26/ty-article/000001a1-7553-d464-a5a7-f5df8be50000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "3ebb24b39277174d",
    "ts": "2026-10-26T00:41:10.196794+03:00",
    "source": "haaretz",
@@ -114,9 +168,45 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-25/ty-article-live/000001a1-6fbf-d9e6-a5b1-6fffafe70000?liveBlogItemId=2066111271",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "1f5b8be8416824df",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "01:35 טראמפ חזר על תמיכתו בנתניהו: נלחמנו באיראן, עלינו להשלים את המשימה שהתחלנו",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-26/ty-article-live/000001a1-752b-d087-a9b7-753f785c0000?liveBlogItemId=796057466",
+   "prominence": 3,
+   "rank": 8
   }
  ],
  "items": [
+  {
+   "id": "dabe76ae024f5ae6",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "עימות חסר תקדים בין נתניהו לרמטכ\"ל בנושא איראן הרקע לעימות החריג: ניסיון של נתניהו להוביל לעימות בזק עם איראן בימים אלו עוד לפני הבחירות ירון אברהם |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "dabe76ae024f5ae6",
    "ts": "2026-10-26T00:41:10.196794+03:00",
@@ -1288,6 +1378,24 @@
    "rank": 2
   },
   {
+   "id": "c174c951321deabc",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "גובר המתח בין הרמטכ\"ל לנתניהו - המנסה לעורר עימות עם איראן",
+   "link": "https://www.haaretz.co.il/news/elections/2026-10-25/ty-article/.highlight/000001a1-74ac-d2e1-a3ef-f5afcfb60000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
    "id": "f96acb57c9229287",
    "ts": "2026-10-26T00:41:10.196794+03:00",
    "source": "haaretz",
@@ -1790,6 +1898,42 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "60720af731edd543",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ חזר על תמיכתו בנתניהו: נלחמנו באיראן, עלינו להשלים את המשימה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-26/ty-article/000001a1-7553-d464-a5a7-f5df8be50000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "baba53005ce69564",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:00 העימות החריג של נתניהו והרמטכ\"ל - בגלל איראן",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-3ce6d3b509471a1026.htm",
+   "prominence": 1,
+   "rank": 12
   },
   {
    "id": "ef15f0949f44a33e",
@@ -2996,6 +3140,70 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
+  },
+  {
+   "id": "676f49bbbc4192c2",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "חשיפה של ירון אברהם עימות חסר תקדים בין הרמטכל לבין ראש הממשלה ביממה האחרונה הנושא ברקע: הסוגיה האיראנית חשש של זמיר שנתניהו והדרג המדיני מובילים לתרחיש של מיסקלקולציה מול איראן רגע לפני הבחירות שעלול להוביל להסלמה דרמטית ומיידית הידיעה מתפרסמת באישור הצנזורה",
+   "link": "https://t.me/amitsegal/66160"
+  },
+  {
+   "id": "5ea730b053644f9d",
+   "ts": "2026-10-26T03:11:12.047148+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "נתניהו בפטריוטים: מכחיש עימות עם הרמטכ״ל וטוען שיש ״ניסיון למנוע מאיראן לשבש את הבחירות בישראל״",
+   "link": "https://t.me/amitsegal/66162"
   },
   {
    "id": "d63f74da781e897d",
@@ -5108,134 +5316,6 @@
    "lean": "",
    "title": "נתניהו: רק טראמפ ואני נשמיד את הגרעין האירני",
    "link": "https://t.me/amitsegal/65908"
-  },
-  {
-   "id": "5f8b32a68d380c6f",
-   "ts": "2026-10-19T04:08:00.260535+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שר ההגנה החדש של איראן: \"אני ברשימת החיסול כבר 35 שנה. טראמפ יתקוף? יפנה גופות\"",
-   "link": "https://www.ynet.co.il/news/article/rk9zgef3me"
-  },
-  {
-   "id": "3fb1418fadc043c9",
-   "ts": "2026-10-19T04:08:00.260535+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מיוחד ל-N12 עדויות מאיראן: \"כולם יודעים שהמלחמה בדרך\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm"
-  },
-  {
-   "id": "e8505776a6cd7ee7",
-   "ts": "2026-10-19T04:08:00.260535+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "נתניהו: רק טראמפ ואני נשמיד את הגרעין האירני",
-   "link": "https://t.me/amitsegal/65908"
-  },
-  {
-   "id": "5f8b32a68d380c6f",
-   "ts": "2026-10-19T02:02:31.081745+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שר ההגנה החדש של איראן: \"אני ברשימת החיסול כבר 35 שנה. טראמפ יתקוף? יפנה גופות\"",
-   "link": "https://www.ynet.co.il/news/article/rk9zgef3me"
-  },
-  {
-   "id": "3fb1418fadc043c9",
-   "ts": "2026-10-19T02:02:31.081745+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מיוחד ל-N12 עדויות מאיראן: \"כולם יודעים שהמלחמה בדרך\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm"
-  },
-  {
-   "id": "e8505776a6cd7ee7",
-   "ts": "2026-10-19T02:02:31.081745+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "נתניהו: רק טראמפ ואני נשמיד את הגרעין האירני",
-   "link": "https://t.me/amitsegal/65908"
-  },
-  {
-   "id": "5f8b32a68d380c6f",
-   "ts": "2026-10-18T23:34:03.674796+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שר ההגנה החדש של איראן: \"אני ברשימת החיסול כבר 35 שנה. טראמפ יתקוף? יפנה גופות\"",
-   "link": "https://www.ynet.co.il/news/article/rk9zgef3me"
-  },
-  {
-   "id": "3fb1418fadc043c9",
-   "ts": "2026-10-18T23:34:03.674796+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מיוחד ל-N12 עדויות מאיראן: \"כולם יודעים שהמלחמה בדרך\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm"
   }
  ]
 }
