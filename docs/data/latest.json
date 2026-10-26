@@ -1,63 +1,63 @@
 {
- "generated": "2026-10-26T03:11:28.395881+03:00",
- "last_24h_total": 984,
+ "generated": "2026-10-26T09:02:48.503327+03:00",
+ "last_24h_total": 986,
  "per_target": {
-  "איראן": 704,
-  "בינה מלאכותית": 280
+  "איראן": 709,
+  "בינה מלאכותית": 277
  },
  "per_source": {
-  "מעריב": 115,
-  "YNET": 89,
-  "Vietnam.vn": 87,
+  "מעריב": 121,
+  "YNET": 87,
+  "Vietnam.vn": 79,
   "גלובס": 68,
-  "הארץ": 53,
-  "זמן ישראל": 40,
+  "הארץ": 55,
+  "זמן ישראל": 43,
+  "מקור ראשון": 38,
+  "TheMarker": 37,
   "כאן 11": 37,
-  "TheMarker": 34,
-  "מקור ראשון": 34,
-  "N12": 30,
-  "C14": 28,
+  "N12": 29,
   "סרוגים": 27,
-  "וואלה": 26,
-  "ביזפורטל": 24,
-  "mako": 23,
-  "היום": 22,
-  "כלכליסט": 22,
-  "הידברות": 19,
-  "Israel Defense": 18,
-  "ערוץ 7": 16,
-  "אנשים ומחשבים": 16,
+  "C14": 27,
+  "ביזפורטל": 26,
+  "וואלה": 24,
+  "mako": 24,
+  "כלכליסט": 24,
+  "Israel Defense": 20,
+  "היום": 19,
+  "הידברות": 18,
+  "ערוץ 7": 18,
   "Mako": 16,
-  "בחדרי חרדים": 15,
-  "JDN": 12,
+  "אנשים ומחשבים": 16,
+  "בחדרי חרדים": 14,
   "כיכר השבת": 12,
+  "אמס": 10,
   "העין השביעית": 9,
-  "אמס": 9,
-  "تسنیم": 8,
   "אתר החדשות דבר": 8,
-  "ynet": 7,
+  "تسنیم": 7,
+  "JDN": 7,
   "INSS": 7,
   "שוונג": 7,
+  "חב״ד און ליין": 6,
+  "עמית סגל (טלגרם)": 6,
+  "ynet": 5,
   "Gov.il": 5,
-  "חב״ד און ליין": 5,
-  "המחדש": 4,
-  "Microsoft": 4,
+  "Google News (כל האתרים)": 5,
+  "Techtime": 5,
   "calcalist": 4,
-  "Google News (כל האתרים)": 4,
-  "Techtime": 4,
-  "עמית סגל (טלגרם)": 4,
   "כיפה": 3,
+  "Microsoft": 3,
+  "המחדש": 3,
   "רשת 13": 2,
-  "103FM": 2,
-  "HWzone": 2,
-  "i24NEWS": 1,
-  "Investing.com": 1,
-  "חדשות אפס שמונה": 1
+  "103FM": 1,
+  "HWzone": 1,
+  "חדשות אפס שמונה": 1,
+  "אייס": 1,
+  "Investing.com": 1
  },
  "per_lean": {
-  "שמאל": 310,
-  "אחר": 295,
-  "מרכז": 208,
+  "שמאל": 309,
+  "אחר": 296,
+  "מרכז": 210,
   "ימין": 171
  },
  "leads": [
@@ -134,6 +134,24 @@
    "rank": 1
   },
   {
+   "id": "c174c951321deabc",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "גובר המתח בין הרמטכ\"ל לנתניהו - המנסה לעורר עימות עם איראן",
+   "link": "https://www.haaretz.co.il/news/elections/2026-10-25/ty-article/.highlight/000001a1-74ac-d2e1-a3ef-f5afcfb60000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
    "id": "60720af731edd543",
    "ts": "2026-10-26T03:11:12.047148+03:00",
    "source": "haaretz",
@@ -150,6 +168,42 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-26/ty-article/000001a1-7553-d464-a5a7-f5df8be50000",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "60720af731edd543",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ חזר על תמיכתו בנתניהו: נלחמנו באיראן, עלינו להשלים את המשימה",
+   "link": "https://www.haaretz.co.il/news/elections/2026-10-26/ty-article/000001a1-7553-d464-a5a7-f5df8be50000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "b858ddc9877f7ae3",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "חשיפה עימות חסר תקדים בין נתניהו לרמטכ\"ל בנושא איראן הרקע לעימות החריג: ניסיון של נתניהו להוביל לעימות בזק עם איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "3ebb24b39277174d",
@@ -186,6 +240,24 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-26/ty-article-live/000001a1-752b-d087-a9b7-753f785c0000?liveBlogItemId=796057466",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "7effaeb81b9fb157",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "ai",
+   "target_display": "בינה מלאכותית",
+   "groups": [
+    "טכנולוגיה"
+   ],
+   "score": 10,
+   "lean": "left",
+   "title": "\"במקום לגייס עובדים, בניתי צוות סוכני בינה מלאכותית - וחסכתי חצי מיליון\"",
+   "link": "https://www.haaretz.co.il/tmr/career/2026-10-26/ty-article/.premium/000001a1-726f-d9e6-a5b1-7e6f7d320002",
+   "prominence": 3,
+   "rank": 6
   }
  ],
  "items": [
@@ -674,6 +746,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "b858ddc9877f7ae3",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "חשיפה עימות חסר תקדים בין נתניהו לרמטכ\"ל בנושא איראן הרקע לעימות החריג: ניסיון של נתניהו להוביל לעימות בזק עם איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "1bdef10dd2944ba0",
@@ -1379,6 +1469,24 @@
   },
   {
    "id": "c174c951321deabc",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "גובר המתח בין הרמטכ\"ל לנתניהו - המנסה לעורר עימות עם איראן",
+   "link": "https://www.haaretz.co.il/news/elections/2026-10-25/ty-article/.highlight/000001a1-74ac-d2e1-a3ef-f5afcfb60000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "c174c951321deabc",
    "ts": "2026-10-26T03:11:12.047148+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
@@ -1898,6 +2006,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "60720af731edd543",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ חזר על תמיכתו בנתניהו: נלחמנו באיראן, עלינו להשלים את המשימה",
+   "link": "https://www.haaretz.co.il/news/elections/2026-10-26/ty-article/000001a1-7553-d464-a5a7-f5df8be50000",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "60720af731edd543",
@@ -3140,6 +3266,86 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "026e1e97189eb7d9",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "אחרי הבחירות: דרושה אסטרטגיה חדשה מול איראן",
+   "link": "https://www.ynet.co.il/news/article/hy85ocj3ml"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
+  },
+  {
+   "id": "676f49bbbc4192c2",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "חשיפה של ירון אברהם עימות חסר תקדים בין הרמטכל לבין ראש הממשלה ביממה האחרונה הנושא ברקע: הסוגיה האיראנית חשש של זמיר שנתניהו והדרג המדיני מובילים לתרחיש של מיסקלקולציה מול איראן רגע לפני הבחירות שעלול להוביל להסלמה דרמטית ומיידית הידיעה מתפרסמת באישור הצנזורה",
+   "link": "https://t.me/amitsegal/66160"
+  },
+  {
+   "id": "5ea730b053644f9d",
+   "ts": "2026-10-26T09:02:41.231600+03:00",
+   "source": "amitsegal",
+   "source_display": "עמית סגל (טלגרם)",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "",
+   "title": "נתניהו בפטריוטים: מכחיש עימות עם הרמטכ״ל וטוען שיש ״ניסיון למנוע מאיראן לשבש את הבחירות בישראל״",
+   "link": "https://t.me/amitsegal/66162"
   },
   {
    "id": "d63f74da781e897d",
@@ -5188,134 +5394,6 @@
    "lean": "left",
    "title": "בקטאר דיווחו על הסכמות, איראן: \"אין לנו אמון בארה\"ב\"; הוויתורים שעשויה ישראל לעשות",
    "link": "https://www.ynet.co.il/news/article/h1ihsjh2mg"
-  },
-  {
-   "id": "1dc64f3a268810f7",
-   "ts": "2026-10-20T19:52:34.804820+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כוננות באיראן, שתקפה 2 מכליות: \"ארה\"ב וישראל יחדשו את המלחמה, במוקדם או במאוחר\"",
-   "link": "https://www.ynet.co.il/news/article/byfornn2gg"
-  },
-  {
-   "id": "4b0eccbf61b97b35",
-   "ts": "2026-10-20T14:25:47.742447+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מפקד צבא פקיסטן הגיע לאיראן, שתקפה שתי מכליות: \"הם באובססיה להעניש את טראמפ\"",
-   "link": "https://www.ynet.co.il/news/article/byfornn2gg"
-  },
-  {
-   "id": "5ef742b8cfdda6ed",
-   "ts": "2026-10-20T08:56:19.601437+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שר ההגנה האמריקני ביקר בחשאי בישראל ונפגש עם נתניהו, על הפרק: חידוש המלחמה באיראן",
-   "link": "https://www.ynet.co.il/news/article/hk5naze3fe"
-  },
-  {
-   "id": "e1ed652c1a646181",
-   "ts": "2026-10-20T08:56:19.601437+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "בקמפיין בולסונארו גייסו את יוסי דגן: \"תצביעו לפלאביו!\" שבוע לבחירות הדרמטיות בברזיל, המועמד המוביל לנשיאות, פלאביו בולסונארו, פרסם סרטון משותף עם ראש מועצת שומרון, כחלק מקמפיין הבחירות שלו. בסרטון, שהפך לוויראלי, קורא יוסי דגן לתושבי ברזיל: \"לולה לקח את ברזיל לצד של איראן - של הרעים. תבחרו בצד של הטובים! תבחרו פלאביו\". בולסונארו גמל לדגן והביע בו תמיכה בביקור בשומרון, במערכת בחירות מעט פחות גדולה בהיקפה ומעט פחות צמודה.",
-   "link": "https://t.me/amitsegal/65946"
-  },
-  {
-   "id": "e1ed652c1a646181",
-   "ts": "2026-10-20T03:15:55.008485+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "בקמפיין בולסונארו גייסו את יוסי דגן: \"תצביעו לפלאביו!\" שבוע לבחירות הדרמטיות בברזיל, המועמד המוביל לנשיאות, פלאביו בולסונארו, פרסם סרטון משותף עם ראש מועצת שומרון, כחלק מקמפיין הבחירות שלו. בסרטון, שהפך לוויראלי, קורא יוסי דגן לתושבי ברזיל: \"לולה לקח את ברזיל לצד של איראן - של הרעים. תבחרו בצד של הטובים! תבחרו פלאביו\". בולסונארו גמל לדגן והביע בו תמיכה בביקור בשומרון, במערכת בחירות מעט פחות גדולה בהיקפה ומעט פחות צמודה.",
-   "link": "https://t.me/amitsegal/65946"
-  },
-  {
-   "id": "e1ed652c1a646181",
-   "ts": "2026-10-19T23:59:53.715002+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "בקמפיין בולסונארו גייסו את יוסי דגן: \"תצביעו לפלאביו!\" שבוע לבחירות הדרמטיות בברזיל, המועמד המוביל לנשיאות, פלאביו בולסונארו, פרסם סרטון משותף עם ראש מועצת שומרון, כחלק מקמפיין הבחירות שלו. בסרטון, שהפך לוויראלי, קורא יוסי דגן לתושבי ברזיל: \"לולה לקח את ברזיל לצד של איראן - של הרעים. תבחרו בצד של הטובים! תבחרו פלאביו\". בולסונארו גמל לדגן והביע בו תמיכה בביקור בשומרון, במערכת בחירות מעט פחות גדולה בהיקפה ומעט פחות צמודה.",
-   "link": "https://t.me/amitsegal/65946"
-  },
-  {
-   "id": "b07fbc72ed9e029c",
-   "ts": "2026-10-19T10:40:51.979981+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מיוחד ל-N12 עדויות מאיראן: \"כולם יודעים שהמלחמה בדרך\" 18.10.26 ספיר ליפקין",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8ffc2cdbcbd41a1026.htm"
-  },
-  {
-   "id": "e8505776a6cd7ee7",
-   "ts": "2026-10-19T10:40:51.979981+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "נתניהו: רק טראמפ ואני נשמיד את הגרעין האירני",
-   "link": "https://t.me/amitsegal/65908"
   }
  ]
 }
