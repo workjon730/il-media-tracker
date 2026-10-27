@@ -1,105 +1,67 @@
 {
- "generated": "2026-10-27T02:47:23.205290+03:00",
- "last_24h_total": 724,
+ "generated": "2026-10-27T07:53:21.374615+03:00",
+ "last_24h_total": 717,
  "per_target": {
-  "איראן": 517,
-  "בינה מלאכותית": 207
+  "איראן": 511,
+  "בינה מלאכותית": 206
  },
  "per_source": {
-  "מעריב": 71,
-  "YNET": 70,
-  "זמן ישראל": 45,
-  "הארץ": 43,
-  "גלובס": 40,
-  "Vietnam.vn": 40,
-  "TheMarker": 38,
-  "כאן 11": 32,
-  "מקור ראשון": 25,
-  "סרוגים": 23,
+  "YNET": 73,
+  "מעריב": 65,
+  "זמן ישראל": 48,
+  "TheMarker": 42,
+  "הארץ": 42,
+  "גלובס": 37,
+  "Vietnam.vn": 34,
+  "כאן 11": 33,
+  "סרוגים": 24,
+  "מקור ראשון": 24,
   "N12": 22,
   "mako": 21,
-  "כלכליסט": 21,
-  "ביזפורטל": 21,
-  "ערוץ 7": 16,
-  "Investing.com": 15,
+  "Investing.com": 21,
+  "ביזפורטל": 20,
+  "כלכליסט": 18,
+  "ערוץ 7": 18,
+  "וואלה": 13,
   "Israel Defense": 13,
-  "וואלה": 12,
   "כיכר השבת": 11,
-  "C14": 11,
-  "בחדרי חרדים": 11,
-  "אנשים ומחשבים": 11,
   "היום": 10,
-  "הידברות": 8,
-  "אמס": 8,
+  "C14": 10,
+  "אנשים ומחשבים": 10,
+  "בחדרי חרדים": 9,
+  "אתר החדשות דבר": 8,
   "INSS": 8,
-  "אתר החדשות דבר": 7,
-  "Google News (כל האתרים)": 7,
   "ynet": 7,
+  "אמס": 7,
+  "הידברות": 7,
+  "Google News (כל האתרים)": 7,
+  "אפוק": 6,
   "העין השביעית": 5,
-  "כיפה": 5,
-  "JDN": 4,
+  "כיפה": 4,
   "המחדש": 4,
-  "Techtime": 4,
-  "שוונג": 4,
-  "עמית סגל (טלגרם)": 4,
-  "אפוק": 4,
-  "Gov.il": 3,
-  "103FM": 3,
-  "באר שבע נט": 3,
-  "Hayadan": 3,
-  "חב״ד און ליין": 2,
+  "Gov.il": 4,
+  "103FM": 4,
+  "JDN": 4,
+  "באר שבע נט": 4,
+  "Hayadan": 4,
+  "Techtime": 3,
+  "שוונג": 3,
+  "עמית סגל (טלגרם)": 2,
   "ice (אייס)": 2,
-  "Mako": 1,
-  "تسنیم": 1,
   "אייס": 1,
   "רשת 13": 1,
+  "חב״ד און ליין": 1,
   "חרדים10": 1,
   "וואלה כסף": 1,
   "Microsoft": 1
  },
  "per_lean": {
-  "שמאל": 251,
-  "אחר": 213,
-  "ימין": 135,
-  "מרכז": 125
+  "שמאל": 259,
+  "אחר": 207,
+  "ימין": 134,
+  "מרכז": 117
  },
  "leads": [
-  {
-   "id": "c174c951321deabc",
-   "ts": "2026-10-26T03:11:12.047148+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 18,
-   "lean": "left",
-   "title": "גובר המתח בין הרמטכ\"ל לנתניהו - המנסה לעורר עימות עם איראן",
-   "link": "https://www.haaretz.co.il/news/elections/2026-10-25/ty-article/.highlight/000001a1-74ac-d2e1-a3ef-f5afcfb60000",
-   "prominence": 10,
-   "rank": 1
-  },
-  {
-   "id": "dabe76ae024f5ae6",
-   "ts": "2026-10-26T03:11:12.047148+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "עימות חסר תקדים בין נתניהו לרמטכ\"ל בנושא איראן הרקע לעימות החריג: ניסיון של נתניהו להוביל לעימות בזק עם איראן בימים אלו עוד לפני הבחירות ירון אברהם |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "c174c951321deabc",
    "ts": "2026-10-26T09:02:41.231600+03:00",
@@ -135,24 +97,6 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-26a9dd7643971a1027.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "60720af731edd543",
-   "ts": "2026-10-26T03:11:12.047148+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "טראמפ חזר על תמיכתו בנתניהו: נלחמנו באיראן, עלינו להשלים את המשימה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-26/ty-article/000001a1-7553-d464-a5a7-f5df8be50000",
-   "prominence": 5,
-   "rank": 2
   },
   {
    "id": "60720af731edd543",
@@ -227,22 +171,22 @@
    "rank": 2
   },
   {
-   "id": "1f5b8be8416824df",
-   "ts": "2026-10-26T03:11:12.047148+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "b3c445770cba83fb",
+   "ts": "2026-10-27T07:53:14.064115+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "01:35 טראמפ חזר על תמיכתו בנתניהו: נלחמנו באיראן, עלינו להשלים את המשימה שהתחלנו",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-26/ty-article-live/000001a1-752b-d087-a9b7-753f785c0000?liveBlogItemId=796057466",
-   "prominence": 3,
-   "rank": 8
+   "title": "ההערכה: אם נתניהו ירכיב את הממשלה הבאה - הרמטכ\"ל יודח ההתרעה של זמיר: ביצוע פעולות יוביל למיסקלקולציה מול איראן | פרטים חדשים 04:30 ירון אברהם, ניצן שפירא",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-26a9dd7643971a1027.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "7effaeb81b9fb157",
@@ -277,6 +221,24 @@
    "lean": "left",
    "title": "מקורות לבנונים: חיזבאללה נערך לחידוש המלחמה עם ישראל במימון איראן",
    "link": "https://www.haaretz.co.il/news/politics/2026-10-26/ty-article/.highlight/000001a1-78c7-db0e-a7e7-ffc701620000",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
+   "id": "e50e49d55c608c5c",
+   "ts": "2026-10-26T22:12:02.073604+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "דיווח במימון מיליונים מאיראן: חיזבאללה נערך לחידוש המלחמה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-cac4f22c5b871a1026.htm",
    "prominence": 3,
    "rank": 9
   }
@@ -785,6 +747,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "b3c445770cba83fb",
+   "ts": "2026-10-27T07:53:14.064115+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "ההערכה: אם נתניהו ירכיב את הממשלה הבאה - הרמטכ\"ל יודח ההתרעה של זמיר: ביצוע פעולות יוביל למיסקלקולציה מול איראן | פרטים חדשים 04:30 ירון אברהם, ניצן שפירא",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-26a9dd7643971a1027.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "be61cfcd5ca4365b",
@@ -3379,6 +3359,38 @@
    "rank": 15
   },
   {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-27T07:53:14.064115+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "d4d3730fe91952bd",
+   "ts": "2026-10-27T07:53:14.064115+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
+  },
+  {
    "id": "4937bb81a7494f5d",
    "ts": "2026-10-27T02:47:16.725802+03:00",
    "source": "ynet",
@@ -5377,54 +5389,6 @@
    "lean": "left",
    "title": "מקורות בארה\"ב: מטוסי קרב ישראליים התקרבו לגבול איראן",
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-9d90751855f51a1026.htm"
-  },
-  {
-   "id": "5213ab48bdd25b86",
-   "ts": "2026-10-22T13:03:26.877914+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "לפיד עונה ל כ״ץ : ההודעה המופקרת וההיסטרית של שר הביטחון היא מתנה לאוייבי ישראל . ״שוב ממשלת הכשלון מחפשת תירוצים ואשמים לכשלונות של נתניהו וחבורת הלא-יוצלחים סביבו. נכשלו במיגור החמאס, נכשלו במיטוט איראן, נכשלו בחיסול חיזבאללה, נכשלו בזירה הבינלאומית. ועכשיו מאשימים את האופוזיציה״.",
-   "link": "https://t.me/amitsegal/66059"
-  },
-  {
-   "id": "8d4c1568d507c145",
-   "ts": "2026-10-22T07:32:11.567486+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"קצר ואינטנסיבי\": תוכנית ארה\"ב-ישראל לאיראן, המחלוקת ותוכנית הנקמה של טהרן",
-   "link": "https://www.ynet.co.il/news/article/wfj5nzl9p"
-  },
-  {
-   "id": "b80ba00031c825dd",
-   "ts": "2026-10-22T07:32:11.567486+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "עשרות מטוסי קרב, עד גבול איראן: התרגיל של חיל האוויר והחשש מ\"מיסקלקולציה\"",
-   "link": "https://www.ynet.co.il/news/article/r1pex9u3me"
   }
  ]
 }
