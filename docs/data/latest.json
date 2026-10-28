@@ -1,68 +1,88 @@
 {
- "generated": "2026-10-28T11:19:50.956783+03:00",
- "last_24h_total": 722,
+ "generated": "2026-10-28T18:56:42.799373+03:00",
+ "last_24h_total": 715,
  "per_target": {
-  "איראן": 499,
-  "בינה מלאכותית": 223
+  "איראן": 494,
+  "בינה מלאכותית": 221
  },
  "per_source": {
-  "YNET": 76,
-  "מעריב": 68,
-  "TheMarker": 47,
-  "זמן ישראל": 45,
-  "גלובס": 42,
+  "YNET": 72,
+  "מעריב": 63,
+  "TheMarker": 46,
+  "גלובס": 43,
+  "זמן ישראל": 43,
+  "כאן 11": 38,
+  "Vietnam.vn": 38,
   "הארץ": 36,
-  "כאן 11": 35,
-  "Vietnam.vn": 35,
   "סרוגים": 32,
-  "Investing.com": 27,
-  "מקור ראשון": 23,
-  "ביזפורטל": 20,
+  "Investing.com": 31,
+  "ביזפורטל": 19,
+  "N12": 17,
+  "מקור ראשון": 17,
   "mako": 17,
-  "N12": 16,
-  "וואלה": 15,
+  "וואלה": 16,
   "C14": 14,
+  "Israel Defense": 14,
   "ערוץ 7": 13,
-  "Israel Defense": 13,
   "אפוק": 12,
-  "כלכליסט": 11,
-  "אתר החדשות דבר": 10,
-  "INSS": 9,
-  "בחדרי חרדים": 7,
+  "אתר החדשות דבר": 11,
+  "כלכליסט": 10,
+  "היום": 9,
+  "INSS": 7,
   "تسنیم": 7,
-  "היום": 7,
-  "כיכר השבת": 6,
-  "אמס": 6,
-  "אנשים ומחשבים": 6,
+  "calcalist": 7,
   "הידברות": 6,
+  "בחדרי חרדים": 6,
+  "אמס": 6,
+  "כיכר השבת": 6,
   "כיפה": 5,
-  "העין השביעית": 5,
   "ice (אייס)": 5,
-  "Google News (כל האתרים)": 5,
-  "Hayadan": 5,
-  "באר שבע נט": 5,
+  "העין השביעית": 5,
   "Gov.il": 5,
-  "Microsoft": 4,
-  "calcalist": 4,
-  "המחדש": 3,
-  "HWzone": 3,
-  "JDN": 2,
-  "שוונג": 2,
+  "Hayadan": 5,
+  "Google News (כל האתרים)": 4,
+  "באר שבע נט": 4,
+  "אנשים ומחשבים": 4,
+  "HWzone": 4,
+  "Microsoft": 3,
   "ynet": 2,
+  "המחדש": 2,
+  "וואלה ספורט": 2,
+  "רשת 13": 2,
+  "JDN": 1,
+  "שוונג": 1,
+  "OrcaRouter": 1,
   "103FM": 1,
-  "פואנטה": 1,
   "Gadgety": 1,
-  "וואלה ספורט": 1,
-  "רשת 13": 1,
-  "OrcaRouter": 1
+  "סוכנות החלל": 1,
+  "פאנדר": 1
  },
  "per_lean": {
-  "שמאל": 250,
-  "אחר": 220,
-  "ימין": 134,
-  "מרכז": 118
+  "שמאל": 251,
+  "אחר": 224,
+  "ימין": 124,
+  "מרכז": 116
  },
- "leads": [],
+ "leads": [
+  {
+   "id": "f0938b0e68a69f0d",
+   "ts": "2026-10-28T18:56:35.236291+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "בשל המלחמה באיראן: ספינת התענוגות נתקעה וסיימה את דרכה הנוסעים ההמומים נדרשו לעזוב - החברה ניסתה לגבות תשלום נוסף",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-dafc30c2ee181a1027.htm",
+   "prominence": 3,
+   "rank": 9
+  }
+ ],
  "items": [
   {
    "id": "535a845ee4507b58",
@@ -1431,6 +1451,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "f0938b0e68a69f0d",
+   "ts": "2026-10-28T18:56:35.236291+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "בשל המלחמה באיראן: ספינת התענוגות נתקעה וסיימה את דרכה הנוסעים ההמומים נדרשו לעזוב - החברה ניסתה לגבות תשלום נוסף",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-dafc30c2ee181a1027.htm",
+   "prominence": 3,
+   "rank": 9
   },
   {
    "id": "e50e49d55c608c5c",
@@ -3195,6 +3233,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "e0e8987d5ca87414",
+   "ts": "2026-10-28T18:56:35.236291+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח ארה\"ב למפרץ: \"תיערכו למערכה קצרה ועצימה באיראן\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-1bbda64e95081a1027.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-28T18:56:35.236291+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
   },
   {
    "id": "e0e8987d5ca87414",
@@ -5151,54 +5221,6 @@
   {
    "id": "d4d3730fe91952bd",
    "ts": "2026-10-23T17:57:37.129957+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "060382eaf69e3ff2",
-   "ts": "2026-10-23T12:57:56.143864+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות 02:40 ניר דבורי, אוהד חמו",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-23T12:57:56.143864+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-23T12:57:56.143864+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
