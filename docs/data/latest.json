@@ -1,84 +1,68 @@
 {
- "generated": "2026-10-28T04:13:31.904433+03:00",
- "last_24h_total": 713,
+ "generated": "2026-10-28T11:19:50.956783+03:00",
+ "last_24h_total": 722,
  "per_target": {
   "איראן": 499,
-  "בינה מלאכותית": 214
+  "בינה מלאכותית": 223
  },
  "per_source": {
-  "YNET": 79,
-  "מעריב": 67,
+  "YNET": 76,
+  "מעריב": 68,
   "TheMarker": 47,
-  "זמן ישראל": 46,
-  "גלובס": 40,
-  "הארץ": 37,
-  "כאן 11": 33,
-  "Investing.com": 31,
-  "סרוגים": 30,
-  "Vietnam.vn": 28,
-  "מקור ראשון": 24,
+  "זמן ישראל": 45,
+  "גלובס": 42,
+  "הארץ": 36,
+  "כאן 11": 35,
+  "Vietnam.vn": 35,
+  "סרוגים": 32,
+  "Investing.com": 27,
+  "מקור ראשון": 23,
   "ביזפורטל": 20,
-  "mako": 19,
-  "וואלה": 16,
+  "mako": 17,
   "N12": 16,
-  "C14": 13,
+  "וואלה": 15,
+  "C14": 14,
   "ערוץ 7": 13,
   "Israel Defense": 13,
-  "כלכליסט": 12,
-  "אפוק": 11,
+  "אפוק": 12,
+  "כלכליסט": 11,
   "אתר החדשות דבר": 10,
-  "INSS": 8,
-  "כיכר השבת": 8,
-  "היום": 7,
+  "INSS": 9,
   "בחדרי חרדים": 7,
-  "הידברות": 7,
+  "تسنیم": 7,
+  "היום": 7,
+  "כיכר השבת": 6,
+  "אמס": 6,
   "אנשים ומחשבים": 6,
+  "הידברות": 6,
+  "כיפה": 5,
   "העין השביעית": 5,
-  "אמס": 5,
+  "ice (אייס)": 5,
   "Google News (כל האתרים)": 5,
-  "באר שבע נט": 5,
   "Hayadan": 5,
+  "באר שבע נט": 5,
   "Gov.il": 5,
-  "تسنیم": 5,
-  "המחדש": 4,
-  "כיפה": 4,
-  "ice (אייס)": 4,
-  "JDN": 3,
-  "Microsoft": 3,
+  "Microsoft": 4,
+  "calcalist": 4,
+  "המחדש": 3,
   "HWzone": 3,
-  "103FM": 2,
+  "JDN": 2,
   "שוונג": 2,
   "ynet": 2,
+  "103FM": 1,
   "פואנטה": 1,
   "Gadgety": 1,
-  "calcalist": 1
+  "וואלה ספורט": 1,
+  "רשת 13": 1,
+  "OrcaRouter": 1
  },
  "per_lean": {
-  "שמאל": 254,
-  "אחר": 208,
-  "ימין": 135,
-  "מרכז": 116
+  "שמאל": 250,
+  "אחר": 220,
+  "ימין": 134,
+  "מרכז": 118
  },
- "leads": [
-  {
-   "id": "b3c445770cba83fb",
-   "ts": "2026-10-27T07:53:14.064115+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "ההערכה: אם נתניהו ירכיב את הממשלה הבאה - הרמטכ\"ל יודח ההתרעה של זמיר: ביצוע פעולות יוביל למיסקלקולציה מול איראן | פרטים חדשים 04:30 ירון אברהם, ניצן שפירא",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-26a9dd7643971a1027.htm",
-   "prominence": 5,
-   "rank": 3
-  }
- ],
+ "leads": [],
  "items": [
   {
    "id": "535a845ee4507b58",
@@ -1899,6 +1883,24 @@
    "rank": 9
   },
   {
+   "id": "e75dfbbad2db8a5c",
+   "ts": "2026-10-28T11:19:43.606803+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "08:58 הנשיא טראמפ רומז למהלך אפשרי באיראן: \"אתם תראו בעוד כשבועיים\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-3cea9f18d3181a1027.htm",
+   "prominence": 1,
+   "rank": 17
+  },
+  {
    "id": "686e736374741781",
    "ts": "2026-10-26T22:12:02.073604+03:00",
    "source": "haaretz",
@@ -3193,6 +3195,38 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "e0e8987d5ca87414",
+   "ts": "2026-10-28T11:19:43.606803+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח ארה\"ב למפרץ: \"תיערכו למערכה קצרה ועצימה באיראן\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-1bbda64e95081a1027.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-28T11:19:43.606803+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
   },
   {
    "id": "d63f74da781e897d",
@@ -5177,54 +5211,6 @@
    "lean": "left",
    "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-23T07:37:25.291771+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "28d89e6e41fb2232",
-   "ts": "2026-10-23T02:16:17.842455+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בכירים בצה\"ל: אין סיבה לתקוף באיראן לפני הבחירות - אלא אם נראה היערכות לירי",
-   "link": "https://www.ynet.co.il/news/elections2026/article/byene3d3fl"
-  },
-  {
-   "id": "d425749eada68920",
-   "ts": "2026-10-23T02:16:17.842455+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו בכלל רשאי להורות על מלחמה באיראן? | ynet מסביר",
-   "link": "https://www.ynet.co.il/news/elections2026/article/sjudjuv3me"
   }
  ]
 }
