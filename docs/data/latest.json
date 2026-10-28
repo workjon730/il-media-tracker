@@ -1,67 +1,66 @@
 {
- "generated": "2026-10-28T18:56:42.799373+03:00",
- "last_24h_total": 715,
+ "generated": "2026-10-28T23:58:48.392552+03:00",
+ "last_24h_total": 711,
  "per_target": {
   "איראן": 494,
-  "בינה מלאכותית": 221
+  "בינה מלאכותית": 217
  },
  "per_source": {
-  "YNET": 72,
-  "מעריב": 63,
-  "TheMarker": 46,
+  "YNET": 65,
+  "מעריב": 62,
+  "Vietnam.vn": 50,
+  "TheMarker": 43,
   "גלובס": 43,
-  "זמן ישראל": 43,
+  "זמן ישראל": 42,
   "כאן 11": 38,
-  "Vietnam.vn": 38,
-  "הארץ": 36,
+  "הארץ": 37,
   "סרוגים": 32,
-  "Investing.com": 31,
-  "ביזפורטל": 19,
-  "N12": 17,
-  "מקור ראשון": 17,
+  "Investing.com": 27,
+  "N12": 19,
+  "ביזפורטל": 18,
   "mako": 17,
-  "וואלה": 16,
+  "וואלה": 15,
+  "מקור ראשון": 14,
   "C14": 14,
   "Israel Defense": 14,
   "ערוץ 7": 13,
-  "אפוק": 12,
+  "אפוק": 11,
   "אתר החדשות דבר": 11,
-  "כלכליסט": 10,
-  "היום": 9,
-  "INSS": 7,
-  "تسنیم": 7,
-  "calcalist": 7,
+  "היום": 11,
+  "calcalist": 10,
+  "تسنیم": 8,
+  "כיכר השבת": 8,
+  "אמס": 7,
+  "כלכליסט": 7,
   "הידברות": 6,
   "בחדרי חרדים": 6,
-  "אמס": 6,
-  "כיכר השבת": 6,
-  "כיפה": 5,
-  "ice (אייס)": 5,
+  "כיפה": 6,
+  "INSS": 5,
   "העין השביעית": 5,
+  "ice (אייס)": 5,
   "Gov.il": 5,
   "Hayadan": 5,
-  "Google News (כל האתרים)": 4,
-  "באר שבע נט": 4,
-  "אנשים ומחשבים": 4,
-  "HWzone": 4,
+  "Google News (כל האתרים)": 3,
+  "באר שבע נט": 3,
   "Microsoft": 3,
-  "ynet": 2,
-  "המחדש": 2,
-  "וואלה ספורט": 2,
-  "רשת 13": 2,
-  "JDN": 1,
-  "שוונג": 1,
+  "HWzone": 3,
+  "וואלה ספורט": 3,
+  "רשת 13": 3,
+  "אנשים ומחשבים": 2,
+  "103FM": 2,
+  "Gadgety": 2,
+  "סוכנות החלל": 2,
+  "פאנדר": 2,
+  "ynet": 1,
+  "המחדש": 1,
   "OrcaRouter": 1,
-  "103FM": 1,
-  "Gadgety": 1,
-  "סוכנות החלל": 1,
-  "פאנדר": 1
+  "וואלה כסף": 1
  },
  "per_lean": {
-  "שמאל": 251,
-  "אחר": 224,
-  "ימין": 124,
-  "מרכז": 116
+  "שמאל": 243,
+  "אחר": 228,
+  "ימין": 122,
+  "מרכז": 118
  },
  "leads": [
   {
@@ -1921,6 +1920,24 @@
    "rank": 9
   },
   {
+   "id": "1b103c0167577d74",
+   "ts": "2026-10-28T23:58:41.042440+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "21:54 דיווח: מתקיימות התייעצויות בין המתווכות לאיראן לקיום פגישה בטורקיה, שבה ידונו גם על הגרעין",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-362ce447e0481a1026.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
    "id": "e75dfbbad2db8a5c",
    "ts": "2026-10-28T11:19:43.606803+03:00",
    "source": "n12",
@@ -3233,6 +3250,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "a3ed42834e22ed56",
+   "ts": "2026-10-28T23:58:41.042440+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח ארה\"ב למפרץ: \"היערכו למערכה קצרה ועצימה באיראן\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-1bbda64e95081a1027.htm"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-28T23:58:41.042440+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "485c6617cdd241d1",
+   "ts": "2026-10-28T23:58:41.042440+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בשל המלחמה באיראן: ספינת התענוגות נתקעה וסיימה את דרכה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-dafc30c2ee181a1027.htm"
   },
   {
    "id": "e0e8987d5ca87414",
@@ -5169,70 +5234,6 @@
    "lean": "left",
    "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-23T22:06:34.626211+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "060382eaf69e3ff2",
-   "ts": "2026-10-23T17:57:37.129957+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות 02:40 ניר דבורי, אוהד חמו",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-23T17:57:37.129957+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-23T17:57:37.129957+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
   }
  ]
 }
