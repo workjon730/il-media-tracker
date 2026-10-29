@@ -1,67 +1,64 @@
 {
- "generated": "2026-10-29T09:58:19.911585+03:00",
- "last_24h_total": 693,
+ "generated": "2026-10-29T17:09:59.651702+03:00",
+ "last_24h_total": 678,
  "per_target": {
-  "איראן": 488,
-  "בינה מלאכותית": 205
+  "איראן": 486,
+  "בינה מלאכותית": 192
  },
  "per_source": {
-  "Vietnam.vn": 62,
-  "מעריב": 61,
-  "YNET": 50,
-  "גלובס": 44,
-  "זמן ישראל": 43,
+  "מעריב": 67,
+  "Vietnam.vn": 58,
+  "YNET": 47,
+  "זמן ישראל": 44,
+  "גלובס": 42,
+  "הארץ": 38,
   "כאן 11": 38,
-  "הארץ": 37,
-  "TheMarker": 36,
-  "סרוגים": 30,
+  "TheMarker": 30,
+  "סרוגים": 28,
   "N12": 23,
-  "mako": 19,
-  "Israel Defense": 16,
+  "mako": 20,
+  "Investing.com": 17,
   "היום": 16,
-  "Investing.com": 16,
-  "ביזפורטל": 16,
-  "calcalist": 14,
+  "Israel Defense": 16,
   "C14": 14,
   "אתר החדשות דבר": 13,
-  "ערוץ 7": 12,
-  "כיכר השבת": 12,
-  "וואלה": 11,
+  "כיכר השבת": 13,
+  "calcalist": 13,
+  "ביזפורטל": 13,
+  "וואלה": 12,
   "تسنیم": 10,
+  "מקור ראשון": 10,
+  "ערוץ 7": 9,
   "אמס": 9,
-  "מקור ראשון": 9,
-  "אפוק": 7,
+  "103FM": 6,
+  "הידברות": 5,
   "העין השביעית": 5,
   "ice (אייס)": 5,
-  "Hayadan": 5,
+  "סוכנות החלל": 5,
+  "פאנדר": 5,
   "Gov.il": 5,
-  "וואלה ספורט": 4,
+  "אפוק": 4,
   "רשת 13": 4,
-  "בחדרי חרדים": 4,
-  "כיפה": 4,
-  "103FM": 4,
-  "הידברות": 4,
-  "סוכנות החלל": 4,
-  "פאנדר": 4,
-  "Microsoft": 3,
-  "כלכליסט": 3,
+  "Hayadan": 4,
+  "כיפה": 3,
+  "וואלה ספורט": 3,
+  "בחדרי חרדים": 3,
   "Gadgety": 3,
-  "INSS": 2,
+  "כלכליסט": 3,
+  "חב\"ד אינפו": 3,
   "HWzone": 2,
   "וואלה כסף": 2,
-  "חב\"ד אינפו": 2,
-  "Google News (כל האתרים)": 1,
-  "באר שבע נט": 1,
-  "OrcaRouter": 1,
-  "אנשים ומחשבים": 1,
-  "i24NEWS": 1,
-  "עניין מרכזי": 1
+  "Microsoft": 2,
+  "i24NEWS": 2,
+  "עניין מרכזי": 2,
+  "ynet": 1,
+  "TGspot": 1
  },
  "per_lean": {
-  "אחר": 228,
-  "שמאל": 223,
-  "מרכז": 126,
-  "ימין": 116
+  "שמאל": 218,
+  "אחר": 212,
+  "מרכז": 133,
+  "ימין": 115
  },
  "leads": [
   {
@@ -1993,6 +1990,24 @@
    "rank": 9
   },
   {
+   "id": "723b29acfbc55ac9",
+   "ts": "2026-10-29T17:09:52.784872+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 28 דקות שריפת ענק באיראן: תיעוד להבות משתוללות במבנה שלפי הדיווחים שייך לחברת תרופות בטהראן",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-62a50568dd781a1026.htm",
+   "prominence": 1,
+   "rank": 15
+  },
+  {
    "id": "1b103c0167577d74",
    "ts": "2026-10-28T23:58:41.042440+03:00",
    "source": "n12",
@@ -3323,6 +3338,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "566b2810b675672e",
+   "ts": "2026-10-29T17:09:52.784872+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ לא רוצה עוד מלחמה באיראן. תהיה לו ברירה?",
+   "link": "https://www.ynet.co.il/news/article/hknahqepfl"
+  },
+  {
+   "id": "d63f74da781e897d",
+   "ts": "2026-10-29T17:09:52.784872+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
+  },
+  {
+   "id": "f55a397278e4f37f",
+   "ts": "2026-10-29T17:09:52.784872+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המשבר שהחריף בעקבות המלחמה באיראן - ואיום הבכיר",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d3e33b2e25781a1027.htm"
   },
   {
    "id": "c38bb82652e8f766",
@@ -5211,70 +5274,6 @@
    "lean": "left",
    "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "7f2a9448869104b8",
-   "ts": "2026-10-24T03:37:02.154707+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ארה\"ב מפנה בחשאי דיפלומטים מהמזרח התיכון: \"ישראל לוחצת לתקוף באיראן\"",
-   "link": "https://www.ynet.co.il/news/article/ry7xypt2ge"
-  },
-  {
-   "id": "97d234f4a18bf241",
-   "ts": "2026-10-24T03:37:02.154707+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
-   "link": "https://www.ynet.co.il/news/article/hylsjfknfx"
-  },
-  {
-   "id": "e37c0884d4c0a553",
-   "ts": "2026-10-24T03:37:02.154707+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות 23.10.26 ניר דבורי, אוהד חמו",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-24T03:37:02.154707+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
   }
  ]
 }
