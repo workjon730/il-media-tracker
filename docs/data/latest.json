@@ -1,67 +1,84 @@
 {
- "generated": "2026-10-30T03:50:25.755082+03:00",
- "last_24h_total": 514,
+ "generated": "2026-10-30T10:01:09.051480+03:00",
+ "last_24h_total": 513,
  "per_target": {
-  "איראן": 384,
-  "בינה מלאכותית": 130
+  "איראן": 394,
+  "בינה מלאכותית": 119
  },
  "per_source": {
-  "מעריב": 58,
-  "זמן ישראל": 33,
-  "כאן 11": 32,
-  "הארץ": 31,
-  "YNET": 30,
+  "מעריב": 53,
+  "הארץ": 37,
+  "YNET": 32,
+  "כאן 11": 31,
+  "זמן ישראל": 31,
   "גלובס": 27,
-  "Vietnam.vn": 23,
-  "סרוגים": 21,
-  "mako": 20,
-  "היום": 18,
-  "Investing.com": 16,
-  "TheMarker": 15,
-  "N12": 14,
+  "היום": 20,
+  "mako": 19,
+  "Vietnam.vn": 19,
+  "סרוגים": 17,
+  "Investing.com": 15,
+  "מקור ראשון": 13,
+  "N12": 12,
+  "וואלה": 12,
+  "אמס": 12,
   "C14": 12,
-  "מקור ראשון": 11,
-  "כיכר השבת": 11,
-  "Israel Defense": 11,
-  "אמס": 10,
-  "רשת 13": 10,
-  "וואלה": 9,
-  "103FM": 9,
-  "تسنیم": 6,
-  "אתר החדשות דבר": 6,
-  "ביזפורטל": 6,
-  "כלכליסט": 6,
-  "ערוץ 7": 6,
-  "calcalist": 5,
-  "בחדרי חרדים": 5,
+  "TheMarker": 11,
+  "רשת 13": 11,
+  "כיכר השבת": 10,
+  "ערוץ 7": 10,
+  "103FM": 10,
+  "Israel Defense": 10,
+  "בחדרי חרדים": 9,
+  "כלכליסט": 8,
+  "ynet": 7,
+  "המחדש": 6,
+  "تسنیم": 4,
+  "i24NEWS": 4,
   "סוכנות החלל": 4,
   "עניין מרכזי": 4,
   "ice (אייס)": 4,
+  "ביזפורטל": 4,
   "פאנדר": 4,
   "Gov.il": 4,
-  "ynet": 4,
-  "המחדש": 4,
-  "חב\"ד אינפו": 3,
-  "HWzone": 3,
-  "i24NEWS": 3,
+  "אתר החדשות דבר": 3,
   "TGspot": 3,
-  "העין השביעית": 2,
-  "הידברות": 2,
-  "JDN": 2,
-  "ספונסר": 2,
-  "Hayadan": 1,
+  "calcalist": 3,
+  "JDN": 3,
+  "HWzone": 3,
+  "ספונסר": 3,
+  "חב\"ד אינפו": 2,
+  "INSS": 2,
+  "העין השביעית": 1,
+  "הידברות": 1,
   "www.inss.org.il": 1,
   "רדיו דרום": 1,
-  "Letem světem Applem": 1,
-  "INSS": 1
+  "Letem světem Applem": 1
  },
  "per_lean": {
-  "שמאל": 167,
-  "אחר": 137,
-  "מרכז": 115,
+  "שמאל": 173,
+  "אחר": 131,
+  "מרכז": 114,
   "ימין": 95
  },
  "leads": [
+  {
+   "id": "e4652cc7b9349eaf",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "הערכה באיראן: תקיפה נוספת תתרחש במטרה להפיל את המשטר \"ההזדמנות לתקיפה ישראלית-אמריקנית תיפתח\": בטהראן מתכוננים לסוף בחירות האמצע וחוששים מהתגברות הלחץ הכלכלי על המדינה אוהד חמו |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f9457f2fcf881a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "98bfa4e46c1e5381",
    "ts": "2026-10-30T03:50:20.413859+03:00",
@@ -99,8 +116,46 @@
    "rank": 5
   },
   {
-   "id": "d361a64dd7825fea",
-   "ts": "2026-10-29T09:58:12.770491+03:00",
+   "id": "643b89fa5f1ac8ae",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "בצבא חוששים שארה\"ב תכפה הפסקת אש מול איראן בלי שישראל תשיג את יעדיה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-30/ty-article/.premium/000001a1-8720-dd1d-a9f7-c77c392d0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "ddb86bef177ce809",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "08:36 דיווח: מתווכים מקטאר הגיעו לטהראן לקדום המגעים בין ארה\"ב לאיראן",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-30/ty-article-live/.premium/000001a1-89b6-dd01-a9ed-abbea01a0000?liveBlogItemId=232071660",
+   "prominence": 3,
+   "rank": 9
+  }
+ ],
+ "items": [
+  {
+   "id": "e4652cc7b9349eaf",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -109,15 +164,13 @@
    "groups": [
     "איראן"
    ],
-   "score": 17,
+   "score": 21,
    "lean": "left",
-   "title": "השיח בין סגן הנשיא לבכיר האיראני - וההבהרה לגבי הגרעין הנשיא טראמפ שוקל לחדש את הפעולה הצבאית, אך \"התלהב מלשלוח את המכתב לאיראן\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-175ef07eda481a1027.htm",
-   "prominence": 3,
-   "rank": 6
-  }
- ],
- "items": [
+   "title": "הערכה באיראן: תקיפה נוספת תתרחש במטרה להפיל את המשטר \"ההזדמנות לתקיפה ישראלית-אמריקנית תיפתח\": בטהראן מתכוננים לסוף בחירות האמצע וחוששים מהתגברות הלחץ הכלכלי על המדינה אוהד חמו |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f9457f2fcf881a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "535a845ee4507b58",
    "ts": "2026-10-26T22:12:02.073604+03:00",
@@ -2027,6 +2080,42 @@
    "rank": 9
   },
   {
+   "id": "643b89fa5f1ac8ae",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "בצבא חוששים שארה\"ב תכפה הפסקת אש מול איראן בלי שישראל תשיג את יעדיה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-30/ty-article/.premium/000001a1-8720-dd1d-a9f7-c77c392d0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "32821ad09eb6b49a",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "בהלה באיראן לקראת החורף: המשבר שהחריף בעקבות המלחמה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d3e33b2e25781a1027.htm",
+   "prominence": 1,
+   "rank": 18
+  },
+  {
    "id": "723b29acfbc55ac9",
    "ts": "2026-10-29T17:09:52.784872+03:00",
    "source": "n12",
@@ -3375,6 +3464,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "b9824ca2d3bc9e99",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
+   "link": "https://www.ynet.co.il/news/article/bk5hdibagx"
+  },
+  {
+   "id": "61ba106d6c853388",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
+   "link": "https://www.ynet.co.il/news/article/yokra14942037"
+  },
+  {
+   "id": "0cc669715e33768c",
+   "ts": "2026-10-30T10:01:02.512239+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "קיבל תדרוך \"אישי וחריג\": לטראמפ הוצגו אפשרויות לפעולה צבאית נגד איראן | דיווח",
+   "link": "https://www.ynet.co.il/news/article/hj3b7xzpzl"
   },
   {
    "id": "61ba106d6c853388",
@@ -5183,102 +5320,6 @@
    "lean": "left",
    "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "a645e7fe00c78d80",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תצלומי הלוויין חושפים: איראן מרחיבה את הבסיס הסודי 23.10.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2d929296d2861a1026.htm"
-  },
-  {
-   "id": "7f2a9448869104b8",
-   "ts": "2026-10-24T13:49:33.586333+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ארה\"ב מפנה בחשאי דיפלומטים מהמזרח התיכון: \"ישראל לוחצת לתקוף באיראן\"",
-   "link": "https://www.ynet.co.il/news/article/ry7xypt2ge"
-  },
-  {
-   "id": "97d234f4a18bf241",
-   "ts": "2026-10-24T13:49:33.586333+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
-   "link": "https://www.ynet.co.il/news/article/hylsjfknfx"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-24T13:49:33.586333+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-24T13:49:33.586333+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
   }
  ]
 }
