@@ -1,65 +1,65 @@
 {
- "generated": "2026-10-30T17:01:57.004642+03:00",
- "last_24h_total": 645,
+ "generated": "2026-10-30T22:14:30.870558+03:00",
+ "last_24h_total": 659,
  "per_target": {
-  "איראן": 496,
-  "בינה מלאכותית": 149
+  "איראן": 495,
+  "בינה מלאכותית": 164
  },
  "per_source": {
-  "מעריב": 70,
-  "הארץ": 45,
-  "כאן 11": 40,
-  "YNET": 40,
+  "מעריב": 71,
+  "הארץ": 46,
+  "כאן 11": 39,
+  "YNET": 39,
   "גלובס": 36,
-  "זמן ישראל": 35,
-  "היום": 25,
+  "Vietnam.vn": 33,
+  "זמן ישראל": 29,
+  "היום": 28,
   "mako": 24,
-  "Vietnam.vn": 24,
   "סרוגים": 21,
-  "וואלה": 17,
-  "אמס": 17,
-  "Investing.com": 17,
-  "מקור ראשון": 16,
-  "N12": 15,
+  "וואלה": 19,
+  "אמס": 18,
+  "Investing.com": 16,
   "C14": 15,
-  "ערוץ 7": 13,
+  "N12": 14,
+  "בחדרי חרדים": 14,
+  "ערוץ 7": 14,
+  "מקור ראשון": 14,
+  "כלכליסט": 14,
+  "רשת 13": 13,
   "Israel Defense": 13,
-  "בחדרי חרדים": 13,
-  "TheMarker": 12,
   "כיכר השבת": 12,
-  "רשת 13": 12,
   "103FM": 12,
-  "כלכליסט": 11,
+  "TheMarker": 10,
   "ynet": 9,
   "המחדש": 8,
-  "ביזפורטל": 6,
+  "ביזפורטל": 8,
+  "עניין מרכזי": 6,
+  "OpenAI": 6,
+  "JDN": 5,
   "אתר החדשות דבר": 5,
-  "تسنیم": 5,
-  "עניין מרכזי": 5,
-  "ice (אייס)": 5,
-  "פאנדר": 5,
   "Gov.il": 5,
+  "HWzone": 5,
+  "פאנדר": 5,
   "i24NEWS": 4,
+  "ice (אייס)": 4,
   "סוכנות החלל": 4,
-  "JDN": 4,
-  "HWzone": 4,
   "ספונסר": 4,
-  "TGspot": 3,
-  "calcalist": 3,
-  "INSS": 3,
-  "חב\"ד אינפו": 2,
-  "העין השביעית": 1,
-  "הידברות": 1,
+  "INSS": 4,
+  "تسنیم": 3,
+  "TGspot": 2,
+  "Google News (כל האתרים)": 2,
   "www.inss.org.il": 1,
+  "חב\"ד אינפו": 1,
   "רדיו דרום": 1,
+  "calcalist": 1,
   "Letem světem Applem": 1,
-  "Google News (כל האתרים)": 1
+  "Microsoft": 1
  },
  "per_lean": {
-  "שמאל": 215,
-  "אחר": 167,
-  "מרכז": 147,
-  "ימין": 116
+  "שמאל": 213,
+  "אחר": 185,
+  "מרכז": 151,
+  "ימין": 110
  },
  "leads": [
   {
@@ -135,6 +135,24 @@
    "rank": 2
   },
   {
+   "id": "8936cca90c838f72",
+   "ts": "2026-10-30T22:14:21.296046+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח מכליות ניסו לחצות בחשאי בהורמוז - והופצצו, טראמפ: \"המלחמה תסתיים בקרוב\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "ddb86bef177ce809",
    "ts": "2026-10-30T10:01:02.512239+03:00",
    "source": "haaretz",
@@ -151,6 +169,24 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-10-30/ty-article-live/.premium/000001a1-89b6-dd01-a9ed-abbea01a0000?liveBlogItemId=232071660",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "39b702d4cb1e24c8",
+   "ts": "2026-10-30T22:14:21.296046+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "20:04 דובר צבא פקיסטן: אין מניעה שאיראן תצטרף לברית ההגנה עם סעודיה וטורקיה",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-30/ty-article-live/.premium/000001a1-89b6-dd01-a9ed-abbea01a0000?liveBlogItemId=280121515",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
@@ -675,6 +711,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "8936cca90c838f72",
+   "ts": "2026-10-30T22:14:21.296046+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח מכליות ניסו לחצות בחשאי בהורמוז - והופצצו, טראמפ: \"המלחמה תסתיים בקרוב\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "98bfa4e46c1e5381",
@@ -3468,6 +3522,38 @@
   },
   {
    "id": "b9824ca2d3bc9e99",
+   "ts": "2026-10-30T22:14:21.296046+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
+   "link": "https://www.ynet.co.il/news/article/bk5hdibagx"
+  },
+  {
+   "id": "eb431f7f171c958a",
+   "ts": "2026-10-30T22:14:21.296046+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מפקד סנטקום תדרך את טראמפ על המלחמה עם איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d593562809981a1027.htm"
+  },
+  {
+   "id": "b9824ca2d3bc9e99",
    "ts": "2026-10-30T17:01:50.253746+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5273,54 +5359,6 @@
    "lean": "left",
    "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "a645e7fe00c78d80",
-   "ts": "2026-10-24T21:04:11.355015+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תצלומי הלוויין חושפים: איראן מרחיבה את הבסיס הסודי 23.10.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2d929296d2861a1026.htm"
-  },
-  {
-   "id": "3e279e100be18e81",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נשיא איראן רוצה לחזור למו\"מ; \"חיזבאללה הבהיר - לא נתערב אם תפרוץ שוב מלחמה\"",
-   "link": "https://www.ynet.co.il/news/article/r1qzdvqhfe"
-  },
-  {
-   "id": "2bf2776abd3fa701",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הישראלי שמסייע לפוטין לעקוף סנקציות במיליארדים והקשר לאיראן וחמאס",
-   "link": "https://www.ynet.co.il/news/article/s1rt1nf2ze"
   }
  ]
 }
