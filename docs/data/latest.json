@@ -1,64 +1,65 @@
 {
- "generated": "2026-10-30T10:01:09.051480+03:00",
- "last_24h_total": 513,
+ "generated": "2026-10-30T17:01:57.004642+03:00",
+ "last_24h_total": 645,
  "per_target": {
-  "איראן": 394,
-  "בינה מלאכותית": 119
+  "איראן": 496,
+  "בינה מלאכותית": 149
  },
  "per_source": {
-  "מעריב": 53,
-  "הארץ": 37,
-  "YNET": 32,
-  "כאן 11": 31,
-  "זמן ישראל": 31,
-  "גלובס": 27,
-  "היום": 20,
-  "mako": 19,
-  "Vietnam.vn": 19,
-  "סרוגים": 17,
-  "Investing.com": 15,
-  "מקור ראשון": 13,
-  "N12": 12,
-  "וואלה": 12,
-  "אמס": 12,
-  "C14": 12,
-  "TheMarker": 11,
-  "רשת 13": 11,
-  "כיכר השבת": 10,
-  "ערוץ 7": 10,
-  "103FM": 10,
-  "Israel Defense": 10,
-  "בחדרי חרדים": 9,
-  "כלכליסט": 8,
-  "ynet": 7,
-  "המחדש": 6,
-  "تسنیم": 4,
+  "מעריב": 70,
+  "הארץ": 45,
+  "כאן 11": 40,
+  "YNET": 40,
+  "גלובס": 36,
+  "זמן ישראל": 35,
+  "היום": 25,
+  "mako": 24,
+  "Vietnam.vn": 24,
+  "סרוגים": 21,
+  "וואלה": 17,
+  "אמס": 17,
+  "Investing.com": 17,
+  "מקור ראשון": 16,
+  "N12": 15,
+  "C14": 15,
+  "ערוץ 7": 13,
+  "Israel Defense": 13,
+  "בחדרי חרדים": 13,
+  "TheMarker": 12,
+  "כיכר השבת": 12,
+  "רשת 13": 12,
+  "103FM": 12,
+  "כלכליסט": 11,
+  "ynet": 9,
+  "המחדש": 8,
+  "ביזפורטל": 6,
+  "אתר החדשות דבר": 5,
+  "تسنیم": 5,
+  "עניין מרכזי": 5,
+  "ice (אייס)": 5,
+  "פאנדר": 5,
+  "Gov.il": 5,
   "i24NEWS": 4,
   "סוכנות החלל": 4,
-  "עניין מרכזי": 4,
-  "ice (אייס)": 4,
-  "ביזפורטל": 4,
-  "פאנדר": 4,
-  "Gov.il": 4,
-  "אתר החדשות דבר": 3,
+  "JDN": 4,
+  "HWzone": 4,
+  "ספונסר": 4,
   "TGspot": 3,
   "calcalist": 3,
-  "JDN": 3,
-  "HWzone": 3,
-  "ספונסר": 3,
+  "INSS": 3,
   "חב\"ד אינפו": 2,
-  "INSS": 2,
   "העין השביעית": 1,
   "הידברות": 1,
   "www.inss.org.il": 1,
   "רדיו דרום": 1,
-  "Letem světem Applem": 1
+  "Letem světem Applem": 1,
+  "Google News (כל האתרים)": 1
  },
  "per_lean": {
-  "שמאל": 173,
-  "אחר": 131,
-  "מרכז": 114,
-  "ימין": 95
+  "שמאל": 215,
+  "אחר": 167,
+  "מרכז": 147,
+  "ימין": 116
  },
  "leads": [
   {
@@ -3467,6 +3468,70 @@
   },
   {
    "id": "b9824ca2d3bc9e99",
+   "ts": "2026-10-30T17:01:50.253746+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
+   "link": "https://www.ynet.co.il/news/article/bk5hdibagx"
+  },
+  {
+   "id": "61ba106d6c853388",
+   "ts": "2026-10-30T17:01:50.253746+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
+   "link": "https://www.ynet.co.il/news/article/yokra14942037"
+  },
+  {
+   "id": "eb431f7f171c958a",
+   "ts": "2026-10-30T17:01:50.253746+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מפקד סנטקום תדרך את טראמפ על המלחמה עם איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d593562809981a1027.htm"
+  },
+  {
+   "id": "f55a397278e4f37f",
+   "ts": "2026-10-30T17:01:50.253746+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המשבר שהחריף בעקבות המלחמה באיראן - ואיום הבכיר",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d3e33b2e25781a1027.htm"
+  },
+  {
+   "id": "b9824ca2d3bc9e99",
    "ts": "2026-10-30T10:01:02.512239+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5256,70 +5321,6 @@
    "lean": "left",
    "title": "הישראלי שמסייע לפוטין לעקוף סנקציות במיליארדים והקשר לאיראן וחמאס",
    "link": "https://www.ynet.co.il/news/article/s1rt1nf2ze"
-  },
-  {
-   "id": "7f2a9448869104b8",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ארה\"ב מפנה בחשאי דיפלומטים מהמזרח התיכון: \"ישראל לוחצת לתקוף באיראן\"",
-   "link": "https://www.ynet.co.il/news/article/ry7xypt2ge"
-  },
-  {
-   "id": "97d234f4a18bf241",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
-   "link": "https://www.ynet.co.il/news/article/hylsjfknfx"
-  },
-  {
-   "id": "153b51605ec2e042",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "חשיפה איראן \"הגבירה משמעותית\" מאמצים לפגיעה בבכירים אמריקנים",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-eb407a2f53b61a1026.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-24T17:27:17.505179+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
   }
  ]
 }
