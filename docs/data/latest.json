@@ -1,65 +1,60 @@
 {
- "generated": "2026-10-30T22:14:30.870558+03:00",
- "last_24h_total": 659,
+ "generated": "2026-10-31T02:39:27.684993+03:00",
+ "last_24h_total": 651,
  "per_target": {
-  "איראן": 495,
-  "בינה מלאכותית": 164
+  "איראן": 498,
+  "בינה מלאכותית": 153
  },
  "per_source": {
-  "מעריב": 71,
+  "מעריב": 74,
   "הארץ": 46,
-  "כאן 11": 39,
-  "YNET": 39,
-  "גלובס": 36,
-  "Vietnam.vn": 33,
-  "זמן ישראל": 29,
-  "היום": 28,
-  "mako": 24,
+  "YNET": 42,
+  "כאן 11": 40,
+  "גלובס": 39,
+  "Vietnam.vn": 30,
+  "זמן ישראל": 28,
+  "היום": 24,
+  "וואלה": 24,
+  "mako": 23,
   "סרוגים": 21,
-  "וואלה": 19,
   "אמס": 18,
-  "Investing.com": 16,
+  "N12": 15,
   "C14": 15,
-  "N12": 14,
+  "כלכליסט": 15,
   "בחדרי חרדים": 14,
   "ערוץ 7": 14,
-  "מקור ראשון": 14,
-  "כלכליסט": 14,
-  "רשת 13": 13,
+  "מקור ראשון": 13,
   "Israel Defense": 13,
-  "כיכר השבת": 12,
-  "103FM": 12,
-  "TheMarker": 10,
-  "ynet": 9,
-  "המחדש": 8,
+  "Investing.com": 13,
+  "כיכר השבת": 11,
+  "103FM": 11,
+  "רשת 13": 10,
+  "ynet": 8,
+  "TheMarker": 8,
   "ביזפורטל": 8,
+  "INSS": 6,
+  "המחדש": 6,
+  "i24NEWS": 6,
   "עניין מרכזי": 6,
+  "אתר החדשות דבר": 6,
   "OpenAI": 6,
   "JDN": 5,
-  "אתר החדשות דבר": 5,
-  "Gov.il": 5,
-  "HWzone": 5,
   "פאנדר": 5,
-  "i24NEWS": 4,
+  "HWzone": 5,
+  "Gov.il": 5,
   "ice (אייס)": 4,
-  "סוכנות החלל": 4,
   "ספונסר": 4,
-  "INSS": 4,
-  "تسنیم": 3,
-  "TGspot": 2,
-  "Google News (כל האתרים)": 2,
-  "www.inss.org.il": 1,
-  "חב\"ד אינפו": 1,
-  "רדיו דרום": 1,
-  "calcalist": 1,
-  "Letem světem Applem": 1,
+  "סוכנות החלל": 3,
+  "Google News (כל האתרים)": 3,
+  "تسنیم": 2,
+  "TGspot": 1,
   "Microsoft": 1
  },
  "per_lean": {
-  "שמאל": 213,
-  "אחר": 185,
-  "מרכז": 151,
-  "ימין": 110
+  "שמאל": 216,
+  "אחר": 174,
+  "מרכז": 154,
+  "ימין": 107
  },
  "leads": [
   {
@@ -151,6 +146,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "7cd9ca251b02b473",
+   "ts": "2026-10-31T02:39:19.164175+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ על המו\"מ עם איראן: \"הם רוצים לדבר - ולנו יש זמן\" השיחות של הצוות הקטארי בטהראן נכנסות אל תוך הלילה: \"מאמץ להביא לפריצת דרך\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2175bcd803e81a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "ddb86bef177ce809",
@@ -711,6 +724,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "7cd9ca251b02b473",
+   "ts": "2026-10-31T02:39:19.164175+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ על המו\"מ עם איראן: \"הם רוצים לדבר - ולנו יש זמן\" השיחות של הצוות הקטארי בטהראן נכנסות אל תוך הלילה: \"מאמץ להביא לפריצת דרך\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2175bcd803e81a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "8936cca90c838f72",
@@ -2133,6 +2164,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "d95ee5050e06bfcb",
+   "ts": "2026-10-31T02:39:19.164175+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm",
+   "prominence": 1,
+   "rank": 19
   },
   {
    "id": "643b89fa5f1ac8ae",
@@ -5327,38 +5376,6 @@
    "lean": "left",
    "title": "חשיפה איראן \"הגבירה משמעותית\" מאמצים לפגיעה בבכירים אמריקנים",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-eb407a2f53b61a1026.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-24T21:04:11.355015+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-24T21:04:11.355015+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
   }
  ]
 }
