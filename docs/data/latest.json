@@ -1,75 +1,70 @@
 {
- "generated": "2026-10-29T23:13:43.444098+03:00",
- "last_24h_total": 671,
+ "generated": "2026-10-30T03:50:25.755082+03:00",
+ "last_24h_total": 514,
  "per_target": {
-  "איראן": 482,
-  "בינה מלאכותית": 189
+  "איראן": 384,
+  "בינה מלאכותית": 130
  },
  "per_source": {
-  "מעריב": 68,
-  "Vietnam.vn": 55,
-  "זמן ישראל": 42,
-  "YNET": 42,
-  "גלובס": 39,
-  "הארץ": 38,
-  "כאן 11": 37,
-  "סרוגים": 27,
-  "TheMarker": 26,
-  "N12": 21,
-  "mako": 21,
-  "היום": 20,
-  "Israel Defense": 16,
+  "מעריב": 58,
+  "זמן ישראל": 33,
+  "כאן 11": 32,
+  "הארץ": 31,
+  "YNET": 30,
+  "גלובס": 27,
+  "Vietnam.vn": 23,
+  "סרוגים": 21,
+  "mako": 20,
+  "היום": 18,
   "Investing.com": 16,
-  "C14": 15,
-  "כיכר השבת": 14,
-  "מקור ראשון": 12,
-  "אמס": 11,
-  "אתר החדשות דבר": 11,
-  "calcalist": 11,
-  "ביזפורטל": 11,
-  "تسنیم": 10,
-  "וואלה": 10,
-  "103FM": 8,
-  "ערוץ 7": 8,
-  "רשת 13": 8,
-  "ice (אייס)": 5,
-  "סוכנות החלל": 5,
-  "פאנדר": 5,
-  "Gov.il": 5,
-  "הידברות": 4,
-  "בחדרי חרדים": 4,
-  "העין השביעית": 4,
-  "חב\"ד אינפו": 4,
-  "כלכליסט": 4,
-  "Hayadan": 3,
+  "TheMarker": 15,
+  "N12": 14,
+  "C14": 12,
+  "מקור ראשון": 11,
+  "כיכר השבת": 11,
+  "Israel Defense": 11,
+  "אמס": 10,
+  "רשת 13": 10,
+  "וואלה": 9,
+  "103FM": 9,
+  "تسنیم": 6,
+  "אתר החדשות דבר": 6,
+  "ביזפורטל": 6,
+  "כלכליסט": 6,
+  "ערוץ 7": 6,
+  "calcalist": 5,
+  "בחדרי חרדים": 5,
+  "סוכנות החלל": 4,
+  "עניין מרכזי": 4,
+  "ice (אייס)": 4,
+  "פאנדר": 4,
+  "Gov.il": 4,
+  "ynet": 4,
+  "המחדש": 4,
+  "חב\"ד אינפו": 3,
+  "HWzone": 3,
   "i24NEWS": 3,
-  "עניין מרכזי": 3,
-  "כיפה": 2,
-  "אפוק": 2,
-  "וואלה ספורט": 2,
-  "וואלה כסף": 2,
-  "Gadgety": 2,
-  "Microsoft": 2,
-  "HWzone": 2,
-  "ynet": 2,
-  "TGspot": 2,
-  "המחדש": 2,
+  "TGspot": 3,
+  "העין השביעית": 2,
+  "הידברות": 2,
+  "JDN": 2,
+  "ספונסר": 2,
+  "Hayadan": 1,
   "www.inss.org.il": 1,
-  "JDN": 1,
   "רדיו דרום": 1,
-  "ספונסר": 1,
-  "Letem světem Applem": 1
+  "Letem světem Applem": 1,
+  "INSS": 1
  },
  "per_lean": {
-  "שמאל": 209,
-  "אחר": 207,
-  "מרכז": 138,
-  "ימין": 117
+  "שמאל": 167,
+  "אחר": 137,
+  "מרכז": 115,
+  "ימין": 95
  },
  "leads": [
   {
-   "id": "2c8ad2afcf57cdd9",
-   "ts": "2026-10-29T03:49:03.879603+03:00",
+   "id": "98bfa4e46c1e5381",
+   "ts": "2026-10-30T03:50:20.413859+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -80,8 +75,26 @@
    ],
    "score": 19,
    "lean": "left",
-   "title": "המכתב של ואנס לבכיר האיראני כל מו\"מ מחייב דיון בגרעין: המסר שנשלח כשטראמפ שוקל לחדש תקיפות באיראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-175ef07eda481a1027.htm",
+   "title": "בשיא המתיחות בשיא המתיחות מפקד סנטקום תדרך את טראמפ על מצב המלחמה עם איראן במוקד השיחות: הנשיא ביקש לשמוע ישירות האם המצור הימי משיג את מטרותיו",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d593562809981a1027.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "f4f4736b78e84613",
+   "ts": "2026-10-30T03:50:20.413859+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "בהלה באיראן לקראת החורף: המשבר שהחריף בעקבות המלחמה הבכיר שאיים: ערים שלמות עלולות להיות מנותקות מחשמל",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d3e33b2e25781a1027.htm",
    "prominence": 5,
    "rank": 5
   },
@@ -608,6 +621,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "98bfa4e46c1e5381",
+   "ts": "2026-10-30T03:50:20.413859+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "בשיא המתיחות בשיא המתיחות מפקד סנטקום תדרך את טראמפ על מצב המלחמה עם איראן במוקד השיחות: הנשיא ביקש לשמוע ישירות האם המצור הימי משיג את מטרותיו",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d593562809981a1027.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "f4f4736b78e84613",
+   "ts": "2026-10-30T03:50:20.413859+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "בהלה באיראן לקראת החורף: המשבר שהחריף בעקבות המלחמה הבכיר שאיים: ערים שלמות עלולות להיות מנותקות מחשמל",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d3e33b2e25781a1027.htm",
+   "prominence": 5,
+   "rank": 5
   },
   {
    "id": "2c8ad2afcf57cdd9",
@@ -3328,6 +3377,38 @@
    "rank": 15
   },
   {
+   "id": "61ba106d6c853388",
+   "ts": "2026-10-30T03:50:20.413859+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
+   "link": "https://www.ynet.co.il/news/article/yokra14942037"
+  },
+  {
+   "id": "0cc669715e33768c",
+   "ts": "2026-10-30T03:50:20.413859+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "קיבל תדרוך \"אישי וחריג\": לטראמפ הוצגו אפשרויות לפעולה צבאית נגד איראן | דיווח",
+   "link": "https://www.ynet.co.il/news/article/hj3b7xzpzl"
+  },
+  {
    "id": "566b2810b675672e",
    "ts": "2026-10-29T23:13:35.997664+03:00",
    "source": "ynet",
@@ -5198,70 +5279,6 @@
    "lean": "left",
    "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "1bdef10dd2944ba0",
-   "ts": "2026-10-24T13:49:33.586333+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תצלומי הלוויין חושפים: איראן מרחיבה את הבסיס הסודי",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2d929296d2861a1026.htm"
-  },
-  {
-   "id": "7f2a9448869104b8",
-   "ts": "2026-10-24T08:43:04.428714+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ארה\"ב מפנה בחשאי דיפלומטים מהמזרח התיכון: \"ישראל לוחצת לתקוף באיראן\"",
-   "link": "https://www.ynet.co.il/news/article/ry7xypt2ge"
-  },
-  {
-   "id": "97d234f4a18bf241",
-   "ts": "2026-10-24T08:43:04.428714+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
-   "link": "https://www.ynet.co.il/news/article/hylsjfknfx"
-  },
-  {
-   "id": "e37c0884d4c0a553",
-   "ts": "2026-10-24T08:43:04.428714+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "באיראן משוכנעים: ישראל תתקוף - אולי עוד לפני הבחירות 23.10.26 ניר דבורי, אוהד חמו",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm"
   }
  ]
 }
