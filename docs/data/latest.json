@@ -1,81 +1,64 @@
 {
- "generated": "2026-10-31T20:39:49.506083+03:00",
- "last_24h_total": 650,
+ "generated": "2026-11-01T00:26:13.635315+03:00",
+ "last_24h_total": 658,
  "per_target": {
-  "איראן": 488,
-  "בינה מלאכותית": 162
+  "איראן": 491,
+  "בינה מלאכותית": 167
  },
  "per_source": {
-  "מעריב": 77,
-  "YNET": 51,
-  "גלובס": 45,
-  "הארץ": 42,
-  "כאן 11": 41,
-  "Vietnam.vn": 34,
-  "וואלה": 33,
+  "מעריב": 73,
+  "YNET": 53,
+  "גלובס": 48,
+  "הארץ": 40,
+  "כאן 11": 40,
+  "וואלה": 37,
+  "Vietnam.vn": 32,
   "היום": 28,
+  "mako": 22,
   "זמן ישראל": 22,
-  "mako": 21,
-  "כלכליסט": 21,
-  "Israel Defense": 18,
-  "סרוגים": 17,
-  "N12": 15,
-  "i24NEWS": 14,
+  "Israel Defense": 19,
+  "כלכליסט": 19,
+  "N12": 16,
+  "i24NEWS": 16,
+  "OpenAI": 15,
+  "ynet": 14,
+  "סרוגים": 13,
+  "רשת 13": 12,
   "אתר החדשות דבר": 11,
-  "ynet": 10,
-  "רשת 13": 10,
+  "בחדרי חרדים": 10,
   "ביזפורטל": 10,
-  "אמס": 9,
-  "C14": 8,
-  "ערוץ 7": 8,
+  "تسنیم": 10,
+  "INSS": 8,
   "כיכר השבת": 7,
-  "מקור ראשון": 7,
-  "INSS": 7,
-  "103FM": 7,
-  "בחדרי חרדים": 7,
-  "עניין מרכזי": 7,
   "TheMarker": 7,
-  "تسنیم": 7,
-  "OpenAI": 6,
+  "ערוץ 7": 6,
+  "אמס": 6,
+  "עניין מרכזי": 6,
   "JDN": 5,
+  "מקור ראשון": 5,
   "Google News (כל האתרים)": 5,
-  "HWzone": 5,
+  "C14": 5,
+  "103FM": 5,
   "פאנדר": 5,
   "Gov.il": 5,
-  "Investing.com": 4,
+  "HWzone": 4,
   "ice (אייס)": 4,
   "Letem světem Applem": 4,
+  "Investing.com": 2,
   "ספונסר": 2,
+  "כיפה": 2,
+  "הידברות": 2,
+  "Calcalist": 1,
   "סוכנות החלל": 1,
-  "Microsoft": 1,
-  "כיפה": 1,
-  "הידברות": 1
+  "Microsoft": 1
  },
  "per_lean": {
-  "שמאל": 230,
-  "אחר": 175,
-  "מרכז": 171,
-  "ימין": 74
+  "שמאל": 242,
+  "אחר": 177,
+  "מרכז": 170,
+  "ימין": 69
  },
  "leads": [
-  {
-   "id": "8936cca90c838f72",
-   "ts": "2026-10-30T22:14:21.296046+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח מכליות ניסו לחצות בחשאי בהורמוז - והופצצו, טראמפ: \"המלחמה תסתיים בקרוב\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm",
-   "prominence": 5,
-   "rank": 2
-  },
   {
    "id": "7cd9ca251b02b473",
    "ts": "2026-10-31T02:39:19.164175+03:00",
@@ -165,24 +148,6 @@
    "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-0e790269ad871a1026.htm",
    "prominence": 5,
    "rank": 2
-  },
-  {
-   "id": "39b702d4cb1e24c8",
-   "ts": "2026-10-30T22:14:21.296046+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "20:04 דובר צבא פקיסטן: אין מניעה שאיראן תצטרף לברית ההגנה עם סעודיה וטורקיה",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-10-30/ty-article-live/.premium/000001a1-89b6-dd01-a9ed-abbea01a0000?liveBlogItemId=280121515",
-   "prominence": 3,
-   "rank": 10
   }
  ],
  "items": [
@@ -3643,6 +3608,134 @@
    "rank": 15
   },
   {
+   "id": "72f2809e56528579",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בישראל מחממים מנועים לקראת בחירות האמצע: \"המו\"מ תקוע, איראן לא בדרך לפשרה\"",
+   "link": "https://www.ynet.co.il/news/article/hkinj5xtgl"
+  },
+  {
+   "id": "e3df6275a7a77c1d",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מלחמה או הסכם: צה\"ל ערוך מול איראן - ומחכה להחלטה של טראמפ",
+   "link": "https://www.ynet.co.il/news/article/s1ecyympmg"
+  },
+  {
+   "id": "61ba106d6c853388",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
+   "link": "https://www.ynet.co.il/news/article/yokra14942037"
+  },
+  {
+   "id": "4c6efc155a8a2e2a",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מהלומה אפשרית באיראן: טראמפ ונתניהו לא חושבים על אותו הדבר",
+   "link": "https://www.ynet.co.il/news/article/hka00rqxpfe"
+  },
+  {
+   "id": "99b13bb6462f2fe1",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווחים סותרים: בקטאר טענו ל\"פריצת דרך\" עם איראן; ארה\"ב למפרציות: התכוננו לשבוע הבא",
+   "link": "https://www.ynet.co.il/news/article/r1dlow76me"
+  },
+  {
+   "id": "f44494acd990c32e",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "לפני 14 דקות הסימן בשמי המזרח התיכון לתקיפה קרובה נגד איראן | צפו",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-53bccd3cd2391a1026.htm"
+  },
+  {
+   "id": "ebc03869ec7a99db",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "לפני 26 דקות מתקרבים לנקודת הכרעה באיראן: ניר דבורי עם כל מה שמותר להגיד",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-ae94318151391a1026.htm"
+  },
+  {
+   "id": "7f8344d45815a50e",
+   "ts": "2026-11-01T00:26:04.922314+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "התקדמות במגעים להסכם עם איראן? פרטי הטיוטה שנחשפו",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8079c1f021f81a1026.htm"
+  },
+  {
    "id": "e3df6275a7a77c1d",
    "ts": "2026-10-31T20:39:41.696100+03:00",
    "source": "ynet",
@@ -5241,134 +5334,6 @@
    "lean": "left",
    "title": "ברנע חשף: פרסמנו את סרטון המוסד מלב איראן כדי שתעצור אלפים ולא תזהה את הסוכנים",
    "link": "https://www.ynet.co.il/news/article/sycsj005hfg"
-  },
-  {
-   "id": "526d661fc271d56b",
-   "ts": "2026-10-25T04:06:21.786567+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו בסרטון בחירות חדש: \"איראן רוצה להשמיד אותנו תוך זמן קצר\". איזנקוט: שקר",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx"
-  },
-  {
-   "id": "3e279e100be18e81",
-   "ts": "2026-10-25T04:06:21.786567+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נשיא איראן רוצה לחזור למו\"מ; \"חיזבאללה הבהיר - לא נתערב אם תפרוץ שוב מלחמה\"",
-   "link": "https://www.ynet.co.il/news/article/r1qzdvqhfe"
-  },
-  {
-   "id": "db33d7e9bde93503",
-   "ts": "2026-10-25T04:06:21.786567+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "חשיפה איראן \"הגבירה משמעותית\" מאמצים לפגיעה בבכירים אמריקנים 24.10.26 ברק רביד",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-eb407a2f53b61a1026.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-25T04:06:21.786567+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-25T04:06:21.786567+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "0b6946d5a4cf8561",
-   "ts": "2026-10-25T04:06:21.786567+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המהלך הנוסף שנועד לחנוק כלכלית את איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d89430b36bd61a1026.htm"
-  },
-  {
-   "id": "1737e02bb9c3ae1b",
-   "ts": "2026-10-25T02:06:52.349042+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ברנע חשף: פרסמנו את סרטון המוסד מלב איראן כדי שתעצור אלפים ולא תזהה את הסוכנים",
-   "link": "https://www.ynet.co.il/news/article/sycsj005hfg"
-  },
-  {
-   "id": "526d661fc271d56b",
-   "ts": "2026-10-25T02:06:52.349042+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו בסרטון בחירות חדש: \"איראן רוצה להשמיד אותנו תוך זמן קצר\". איזנקוט: שקר",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx"
   }
  ]
 }
