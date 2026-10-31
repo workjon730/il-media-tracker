@@ -1,60 +1,59 @@
 {
- "generated": "2026-10-31T02:39:27.684993+03:00",
- "last_24h_total": 651,
+ "generated": "2026-10-31T08:26:02.357368+03:00",
+ "last_24h_total": 653,
  "per_target": {
-  "איראן": 498,
+  "איראן": 500,
   "בינה מלאכותית": 153
  },
  "per_source": {
-  "מעריב": 74,
-  "הארץ": 46,
-  "YNET": 42,
-  "כאן 11": 40,
-  "גלובס": 39,
-  "Vietnam.vn": 30,
-  "זמן ישראל": 28,
-  "היום": 24,
-  "וואלה": 24,
-  "mako": 23,
-  "סרוגים": 21,
+  "מעריב": 78,
+  "YNET": 46,
+  "הארץ": 45,
+  "כאן 11": 42,
+  "גלובס": 42,
+  "Vietnam.vn": 31,
+  "וואלה": 28,
+  "זמן ישראל": 24,
+  "היום": 23,
+  "סרוגים": 22,
+  "mako": 20,
   "אמס": 18,
-  "N12": 15,
-  "C14": 15,
-  "כלכליסט": 15,
-  "בחדרי חרדים": 14,
-  "ערוץ 7": 14,
-  "מקור ראשון": 13,
-  "Israel Defense": 13,
-  "Investing.com": 13,
-  "כיכר השבת": 11,
-  "103FM": 11,
-  "רשת 13": 10,
-  "ynet": 8,
-  "TheMarker": 8,
-  "ביזפורטל": 8,
-  "INSS": 6,
-  "המחדש": 6,
-  "i24NEWS": 6,
+  "כלכליסט": 17,
+  "N12": 16,
+  "Israel Defense": 15,
+  "C14": 14,
+  "בחדרי חרדים": 13,
+  "ערוץ 7": 13,
+  "מקור ראשון": 12,
+  "כיכר השבת": 9,
+  "Investing.com": 9,
+  "103FM": 9,
+  "ביזפורטל": 9,
+  "i24NEWS": 8,
+  "רשת 13": 8,
+  "אתר החדשות דבר": 8,
+  "ynet": 7,
+  "INSS": 7,
+  "TheMarker": 6,
   "עניין מרכזי": 6,
-  "אתר החדשות דבר": 6,
   "OpenAI": 6,
   "JDN": 5,
   "פאנדר": 5,
   "HWzone": 5,
   "Gov.il": 5,
+  "המחדש": 4,
   "ice (אייס)": 4,
   "ספונסר": 4,
-  "סוכנות החלל": 3,
-  "Google News (כל האתרים)": 3,
-  "تسنیم": 2,
-  "TGspot": 1,
+  "Google News (כל האתרים)": 4,
+  "تسنیم": 3,
+  "סוכנות החלל": 2,
   "Microsoft": 1
  },
  "per_lean": {
-  "שמאל": 216,
-  "אחר": 174,
-  "מרכז": 154,
-  "ימין": 107
+  "שמאל": 218,
+  "אחר": 176,
+  "מרכז": 160,
+  "ימין": 99
  },
  "leads": [
   {
@@ -74,42 +73,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-f9457f2fcf881a1027.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "98bfa4e46c1e5381",
-   "ts": "2026-10-30T03:50:20.413859+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "בשיא המתיחות בשיא המתיחות מפקד סנטקום תדרך את טראמפ על מצב המלחמה עם איראן במוקד השיחות: הנשיא ביקש לשמוע ישירות האם המצור הימי משיג את מטרותיו",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d593562809981a1027.htm",
-   "prominence": 5,
-   "rank": 3
-  },
-  {
-   "id": "f4f4736b78e84613",
-   "ts": "2026-10-30T03:50:20.413859+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "בהלה באיראן לקראת החורף: המשבר שהחריף בעקבות המלחמה הבכיר שאיים: ערים שלמות עלולות להיות מנותקות מחשמל",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d3e33b2e25781a1027.htm",
-   "prominence": 5,
-   "rank": 5
   },
   {
    "id": "643b89fa5f1ac8ae",
@@ -150,6 +113,24 @@
   {
    "id": "7cd9ca251b02b473",
    "ts": "2026-10-31T02:39:19.164175+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ על המו\"מ עם איראן: \"הם רוצים לדבר - ולנו יש זמן\" השיחות של הצוות הקטארי בטהראן נכנסות אל תוך הלילה: \"מאמץ להביא לפריצת דרך\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2175bcd803e81a1026.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "7cd9ca251b02b473",
+   "ts": "2026-10-31T08:25:55.321227+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -724,6 +705,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "7cd9ca251b02b473",
+   "ts": "2026-10-31T08:25:55.321227+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ על המו\"מ עם איראן: \"הם רוצים לדבר - ולנו יש זמן\" השיחות של הצוות הקטארי בטהראן נכנסות אל תוך הלילה: \"מאמץ להביא לפריצת דרך\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2175bcd803e81a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "7cd9ca251b02b473",
@@ -3570,6 +3569,54 @@
    "rank": 15
   },
   {
+   "id": "82afc74a738e9598",
+   "ts": "2026-10-31T08:25:55.321227+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "פיצוצים במפרץ הפרסי, טראמפ: \"איראן רוצה לדבר, לנו יש זמן\"",
+   "link": "https://www.ynet.co.il/news/article/skn6tjfaze"
+  },
+  {
+   "id": "1242b48edb6ee5b2",
+   "ts": "2026-10-31T08:25:55.321227+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "לפני 23 דקות טראמפ על המו״מ עם איראן: ״אני מעוניין רק בדבר אחד - שלעולם לא יהיה להם נשק גרעיני״",
+   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-e27340e1c3091a1027.htm"
+  },
+  {
+   "id": "d95ee5050e06bfcb",
+   "ts": "2026-10-31T08:25:55.321227+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm"
+  },
+  {
    "id": "b9824ca2d3bc9e99",
    "ts": "2026-10-30T22:14:21.296046+03:00",
    "source": "ynet",
@@ -5312,70 +5359,6 @@
    "lean": "left",
    "title": "המהלך הנוסף שנועד לחנוק כלכלית את איראן",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-d89430b36bd61a1026.htm"
-  },
-  {
-   "id": "1c0a086e598f04f8",
-   "ts": "2026-10-24T21:04:11.355015+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו בסרטון בחירות חדש: \"שבוע גורלי לישראל. איראן רוצה להשמיד אותנו תוך זמן קצר\"",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx"
-  },
-  {
-   "id": "3e279e100be18e81",
-   "ts": "2026-10-24T21:04:11.355015+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נשיא איראן רוצה לחזור למו\"מ; \"חיזבאללה הבהיר - לא נתערב אם תפרוץ שוב מלחמה\"",
-   "link": "https://www.ynet.co.il/news/article/r1qzdvqhfe"
-  },
-  {
-   "id": "2bf2776abd3fa701",
-   "ts": "2026-10-24T21:04:11.355015+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הישראלי שמסייע לפוטין לעקוף סנקציות במיליארדים והקשר לאיראן וחמאס",
-   "link": "https://www.ynet.co.il/news/article/s1rt1nf2ze"
-  },
-  {
-   "id": "153b51605ec2e042",
-   "ts": "2026-10-24T21:04:11.355015+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "חשיפה איראן \"הגבירה משמעותית\" מאמצים לפגיעה בבכירים אמריקנים",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-eb407a2f53b61a1026.htm"
   }
  ]
 }
