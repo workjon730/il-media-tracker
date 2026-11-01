@@ -1,65 +1,63 @@
 {
- "generated": "2026-11-01T04:01:40.356450+03:00",
- "last_24h_total": 682,
+ "generated": "2026-11-01T10:25:56.504037+03:00",
+ "last_24h_total": 707,
  "per_target": {
-  "איראן": 491,
-  "בינה מלאכותית": 191
+  "איראן": 494,
+  "בינה מלאכותית": 213
  },
  "per_source": {
-  "מעריב": 73,
-  "YNET": 53,
-  "גלובס": 49,
+  "מעריב": 72,
+  "גלובס": 51,
+  "Vietnam.vn": 51,
+  "YNET": 49,
+  "הארץ": 43,
+  "OpenAI": 43,
   "וואלה": 40,
-  "הארץ": 40,
-  "Vietnam.vn": 40,
-  "כאן 11": 37,
+  "כאן 11": 35,
   "היום": 29,
-  "OpenAI": 29,
-  "mako": 23,
+  "mako": 26,
   "זמן ישראל": 22,
-  "Israel Defense": 19,
-  "ynet": 17,
-  "כלכליסט": 17,
+  "ynet": 19,
+  "Israel Defense": 17,
   "N12": 16,
   "i24NEWS": 15,
-  "تسنیم": 13,
-  "רשת 13": 13,
-  "ביזפורטל": 13,
-  "בחדרי חרדים": 12,
+  "רשת 13": 15,
+  "בחדרי חרדים": 14,
+  "כלכליסט": 14,
+  "ביזפורטל": 14,
+  "تسنیم": 12,
   "אתר החדשות דבר": 11,
-  "סרוגים": 10,
-  "INSS": 8,
-  "כיכר השבת": 7,
-  "TheMarker": 7,
-  "עניין מרכזי": 6,
+  "TheMarker": 10,
+  "כיכר השבת": 9,
+  "INSS": 7,
+  "סרוגים": 6,
+  "Calcalist": 6,
   "ערוץ 7": 5,
-  "Google News (כל האתרים)": 5,
+  "עניין מרכזי": 5,
   "פאנדר": 5,
   "Gov.il": 5,
-  "JDN": 4,
+  "כיפה": 5,
+  "Google News (כל האתרים)": 4,
   "Letem světem Applem": 4,
-  "אמס": 3,
-  "103FM": 3,
-  "מקור ראשון": 3,
-  "HWzone": 3,
-  "ice (אייס)": 3,
-  "כיפה": 3,
-  "הידברות": 3,
-  "Calcalist": 3,
-  "C14": 2,
-  "סוכנות החלל": 2,
-  "Microsoft": 2,
-  "Investing.com": 1,
-  "ספונסר": 1,
-  "המחדש": 1,
+  "הידברות": 4,
+  "JDN": 3,
+  "סוכנות החלל": 3,
+  "Microsoft": 3,
+  "103FM": 2,
+  "מקור ראשון": 2,
+  "HWzone": 2,
+  "ice (אייס)": 2,
+  "המחדש": 2,
+  "Gadgety": 2,
   "חרדים10": 1,
-  "Gadgety": 1
+  "104.5 FM רדיו צפון": 1,
+  "אפוק": 1
  },
  "per_lean": {
-  "שמאל": 249,
-  "אחר": 201,
+  "שמאל": 259,
+  "אחר": 218,
   "מרכז": 169,
-  "ימין": 63
+  "ימין": 61
  },
  "leads": [
   {
@@ -81,8 +79,8 @@
    "rank": 1
   },
   {
-   "id": "7cd9ca251b02b473",
-   "ts": "2026-10-31T08:25:55.321227+03:00",
+   "id": "5a489e525399ac71",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -91,12 +89,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "טראמפ על המו\"מ עם איראן: \"הם רוצים לדבר - ולנו יש זמן\" השיחות של הצוות הקטארי בטהראן נכנסות אל תוך הלילה: \"מאמץ להביא לפריצת דרך\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2175bcd803e81a1026.htm",
-   "prominence": 5,
-   "rank": 3
+   "title": "דריכות שיא \"תוך ימים או שבועות\": ההיערכות למלחמה והסימנים שמתרבים איך תיראה המערכה הבאה מול איראן? האיומים הצפויים, מה ישראל וארה\"ב מנסות להשיג - ואיך השבעת הקונגרס בינואר קשורה ללוחות הזמנים ניצן שפירא |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-8cdcb94f16491a1026.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "094834066b6e7bbc",
@@ -151,9 +149,63 @@
    "link": "https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-0e790269ad871a1026.htm",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "b897c2155f52241f",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "נתניהו לא נרתע מהפעלת שב\"כ נגד יריביו ולא יהסס לרתום סבב באיראן לצרכיו",
+   "link": "https://www.haaretz.co.il/news/elections/2026-11-01/ty-article/.highlight/000001a1-93bb-d03f-aded-dbff4deb0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "82092cfa82c38ee5",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ במסר תקיף לאיראן: \"אפשר לסיים ב-10 דקות\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-b16ea88113391a1027.htm",
+   "prominence": 5,
+   "rank": 2
   }
  ],
  "items": [
+  {
+   "id": "5a489e525399ac71",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "דריכות שיא \"תוך ימים או שבועות\": ההיערכות למלחמה והסימנים שמתרבים איך תיראה המערכה הבאה מול איראן? האיומים הצפויים, מה ישראל וארה\"ב מנסות להשיג - ואיך השבעת הקונגרס בינואר קשורה ללוחות הזמנים ניצן שפירא |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-8cdcb94f16491a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "074cc944d1bbf4eb",
    "ts": "2026-11-01T04:01:33.731372+03:00",
@@ -693,6 +745,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "82092cfa82c38ee5",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ במסר תקיף לאיראן: \"אפשר לסיים ב-10 דקות\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-b16ea88113391a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "8fc78d202d9e85ed",
@@ -2171,6 +2241,24 @@
    "rank": 9
   },
   {
+   "id": "b897c2155f52241f",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "נתניהו לא נרתע מהפעלת שב\"כ נגד יריביו ולא יהסס לרתום סבב באיראן לצרכיו",
+   "link": "https://www.haaretz.co.il/news/elections/2026-11-01/ty-article/.highlight/000001a1-93bb-d03f-aded-dbff4deb0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "094834066b6e7bbc",
    "ts": "2026-10-31T20:39:41.696100+03:00",
    "source": "haaretz",
@@ -3627,6 +3715,70 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "c75420efb516ff06",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "יאיר גולן: \"לנתניהו אין אמון ציבורי למערכה באיראן, להקים ממשלה חלופית מהר\"",
+   "link": "https://www.ynet.co.il/news/article/r1lbmlvtme"
+  },
+  {
+   "id": "3cb8879bcd46ac85",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נתניהו וטראמפ דיברו, הנשיא: \"נותרו לאיראן אתר או שניים. נטפל ב-10 דקות\"",
+   "link": "https://www.ynet.co.il/news/article/hkinj5xtgl"
+  },
+  {
+   "id": "e3df6275a7a77c1d",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מלחמה או הסכם: צה\"ל ערוך מול איראן - ומחכה להחלטה של טראמפ",
+   "link": "https://www.ynet.co.il/news/article/s1ecyympmg"
+  },
+  {
+   "id": "51ca795dfd1e5661",
+   "ts": "2026-11-01T10:25:48.421503+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "התקדמות במגעים להסכם עם איראן? פרטי הטיוטה שנחשפו 31.10.26 ספיר ליפקין",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8079c1f021f81a1026.htm"
   },
   {
    "id": "963a0888e62c6955",
@@ -5227,118 +5379,6 @@
    "lean": "left",
    "title": "צה\"ל חיסל שני מחבלים שהעבירו לחמאס מיליוני שקלים מאיראן ומטורקיה",
    "link": "https://www.ynet.co.il/news/article/by0bghi3fg"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-25T14:16:04.374145+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-25T14:16:04.374145+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "47cf015e9af29ea6",
-   "ts": "2026-10-25T14:16:04.374145+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המהלך הנוסף שנועד לחנוק כלכלית את איראן 24.10.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d89430b36bd61a1026.htm"
-  },
-  {
-   "id": "3e4e87f3a2a67c06",
-   "ts": "2026-10-25T14:16:04.374145+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "חשיפה: איראן מגדילה את המאמצים לפגיעה בבכירים אמריקנים 24.10.26 ברק רביד",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-eb407a2f53b61a1026.htm"
-  },
-  {
-   "id": "1737e02bb9c3ae1b",
-   "ts": "2026-10-25T09:03:07.716454+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ברנע חשף: פרסמנו את סרטון המוסד מלב איראן כדי שתעצור אלפים ולא תזהה את הסוכנים",
-   "link": "https://www.ynet.co.il/news/article/sycsj005hfg"
-  },
-  {
-   "id": "526d661fc271d56b",
-   "ts": "2026-10-25T09:03:07.716454+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו בסרטון בחירות חדש: \"איראן רוצה להשמיד אותנו תוך זמן קצר\". איזנקוט: שקר",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx"
-  },
-  {
-   "id": "3e279e100be18e81",
-   "ts": "2026-10-25T09:03:07.716454+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נשיא איראן רוצה לחזור למו\"מ; \"חיזבאללה הבהיר - לא נתערב אם תפרוץ שוב מלחמה\"",
-   "link": "https://www.ynet.co.il/news/article/r1qzdvqhfe"
   }
  ]
 }
