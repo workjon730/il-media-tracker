@@ -1,85 +1,68 @@
 {
- "generated": "2026-11-02T02:30:53.079320+03:00",
- "last_24h_total": 700,
+ "generated": "2026-11-02T08:51:56.116905+03:00",
+ "last_24h_total": 698,
  "per_target": {
-  "איראן": 497,
-  "בינה מלאכותית": 203
+  "איראן": 502,
+  "בינה מלאכותית": 196
  },
  "per_source": {
   "מעריב": 65,
-  "גלובס": 52,
+  "גלובס": 50,
   "YNET": 47,
-  "Vietnam.vn": 46,
+  "OpenAI": 44,
+  "Vietnam.vn": 44,
   "הארץ": 43,
-  "OpenAI": 42,
   "כאן 11": 34,
-  "זמן ישראל": 27,
-  "וואלה": 25,
-  "TheMarker": 22,
-  "mako": 21,
-  "היום": 20,
-  "בחדרי חרדים": 19,
+  "זמן ישראל": 28,
+  "TheMarker": 25,
+  "וואלה": 20,
+  "mako": 19,
   "N12": 18,
+  "בחדרי חרדים": 18,
+  "היום": 18,
   "Calcalist": 18,
-  "כיכר השבת": 15,
-  "ביזפורטל": 15,
-  "רשת 13": 14,
-  "ynet": 12,
-  "אתר החדשות דבר": 12,
-  "סרוגים": 11,
-  "מקור ראשון": 11,
-  "ערוץ 7": 10,
-  "i24NEWS": 10,
-  "تسنیم": 10,
-  "אפוק": 10,
+  "כיכר השבת": 16,
+  "רשת 13": 15,
+  "סרוגים": 14,
+  "אתר החדשות דבר": 13,
+  "ביזפורטל": 13,
+  "ערוץ 7": 12,
+  "מקור ראשון": 12,
+  "ynet": 11,
+  "אפוק": 11,
   "כיפה": 9,
-  "Israel Defense": 9,
+  "i24NEWS": 9,
+  "تسنیم": 9,
+  "Israel Defense": 8,
+  "C14": 8,
   "המחדש": 5,
-  "C14": 5,
-  "INSS": 4,
+  "103FM": 5,
   "Gov.il": 4,
-  "הידברות": 3,
+  "JDN": 4,
+  "בלינקר": 4,
   "סוכנות החלל": 3,
   "Microsoft": 3,
-  "103FM": 3,
-  "JDN": 3,
-  "בלינקר": 3,
-  "Gadgety": 2,
-  "פאנדר": 2,
-  "עניין מרכזי": 2,
-  "כלכליסט": 2,
+  "Mako": 3,
   "104.5 FM רדיו צפון": 2,
+  "הידברות": 2,
+  "INSS": 2,
   "HWzone": 2,
-  "Mako": 2,
-  "Google News (כל האתרים)": 1,
-  "חרדים10": 1,
-  "Investing.com": 1
+  "Gadgety": 1,
+  "פאנדר": 1,
+  "כלכליסט": 1,
+  "Investing.com": 1,
+  "עניין מרכזי": 1,
+  "אייס": 1,
+  "חב\"ד אינפו": 1,
+  "ice (אייס)": 1
  },
  "per_lean": {
-  "שמאל": 254,
-  "אחר": 196,
-  "מרכז": 150,
-  "ימין": 100
+  "שמאל": 250,
+  "אחר": 191,
+  "מרכז": 148,
+  "ימין": 109
  },
  "leads": [
-  {
-   "id": "074cc944d1bbf4eb",
-   "ts": "2026-11-01T04:01:33.731372+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "\"ימים רגישים\" דיווח: טראמפ ונתניהו שוחחו על רקע המתיחות עם איראן מלחמה או הסכם? הנשיא עוד לא הכריע אם לחדש את הלחימה. גורמים שמעורים בנושא מעריכים שההחלטה לצאת לפעולה, אם תתקבל, תקרה ברגע האחרון ברק רביד, ניר דבורי |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-b16ea88113391a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "5a489e525399ac71",
    "ts": "2026-11-01T10:25:48.421503+03:00",
@@ -169,6 +152,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-4e11586126891a1026.htm",
    "prominence": 5,
    "rank": 5
+  },
+  {
+   "id": "e07ba6ba94c46685",
+   "ts": "2026-11-02T08:51:48.626886+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "06:40 דיווח: טראמפ שוקל לתקוף באיראן אחרי בחירות האמצע",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-02/ty-article-live/000001a1-992e-d8a7-adff-dbfe38740000?liveBlogItemId=1632501774",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
@@ -2262,6 +2263,42 @@
   },
   {
    "id": "98ee2e40865dc8b9",
+   "ts": "2026-11-02T08:51:48.626886+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ ונתניהו קיימו שיחה \"נוקבת\" על המו\"מ עם איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4c71b9d56f791a1026.htm",
+   "prominence": 1,
+   "rank": 15
+  },
+  {
+   "id": "de5a23453def6bd7",
+   "ts": "2026-11-02T08:51:48.626886+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 55 דקות טראמפ: \"רציתי להיות נחמד לאיראן, אבל באיזשהו שלב נצטרך להנחית עליהם פטיש\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-01a0dde0d8a91a1026.htm",
+   "prominence": 1,
+   "rank": 20
+  },
+  {
+   "id": "98ee2e40865dc8b9",
    "ts": "2026-11-02T02:30:46.024752+03:00",
    "source": "n12",
    "source_display": "N12",
@@ -3771,6 +3808,54 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
+  },
+  {
+   "id": "79a39b6abe33ea45",
+   "ts": "2026-11-02T08:51:48.626886+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ מחפש אשמים בכישלון המלחמה באיראן: \"בוחן את תפקוד הגסת' וקיין\"",
+   "link": "https://www.ynet.co.il/news/article/bjd0rus6zx"
+  },
+  {
+   "id": "c6b1ff3066f32151",
+   "ts": "2026-11-02T08:51:48.626886+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הרצי הלוי: התפיסה הייתה שחמאס לא רוצה מלחמה - העדיפות הייתה איראן",
+   "link": "https://www.ynet.co.il/news/article/b15as11b6mg"
+  },
+  {
+   "id": "50503e3987cb1939",
+   "ts": "2026-11-02T08:51:48.626886+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "השיחה שרבים קיבלו: \"מקור הפעילות באיראן\" 31.10.26 דנה גוטרזון",
+   "link": "https://www.mako.co.il/news-money/tech12/Article-19e0a9e23b391a1026.htm"
   },
   {
    "id": "c6b1ff3066f32151",
@@ -5291,86 +5376,6 @@
    "lean": "left",
    "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "676f49bbbc4192c2",
-   "ts": "2026-10-26T09:02:41.231600+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "חשיפה של ירון אברהם עימות חסר תקדים בין הרמטכל לבין ראש הממשלה ביממה האחרונה הנושא ברקע: הסוגיה האיראנית חשש של זמיר שנתניהו והדרג המדיני מובילים לתרחיש של מיסקלקולציה מול איראן רגע לפני הבחירות שעלול להוביל להסלמה דרמטית ומיידית הידיעה מתפרסמת באישור הצנזורה",
-   "link": "https://t.me/amitsegal/66160"
-  },
-  {
-   "id": "5ea730b053644f9d",
-   "ts": "2026-10-26T09:02:41.231600+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "נתניהו בפטריוטים: מכחיש עימות עם הרמטכ״ל וטוען שיש ״ניסיון למנוע מאיראן לשבש את הבחירות בישראל״",
-   "link": "https://t.me/amitsegal/66162"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-26T03:11:12.047148+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-26T03:11:12.047148+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "676f49bbbc4192c2",
-   "ts": "2026-10-26T03:11:12.047148+03:00",
-   "source": "amitsegal",
-   "source_display": "עמית סגל (טלגרם)",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "",
-   "title": "חשיפה של ירון אברהם עימות חסר תקדים בין הרמטכל לבין ראש הממשלה ביממה האחרונה הנושא ברקע: הסוגיה האיראנית חשש של זמיר שנתניהו והדרג המדיני מובילים לתרחיש של מיסקלקולציה מול איראן רגע לפני הבחירות שעלול להוביל להסלמה דרמטית ומיידית הידיעה מתפרסמת באישור הצנזורה",
-   "link": "https://t.me/amitsegal/66160"
   }
  ]
 }
