@@ -1,88 +1,83 @@
 {
- "generated": "2026-11-03T02:26:23.308446+03:00",
- "last_24h_total": 564,
+ "generated": "2026-11-03T09:36:01.959286+03:00",
+ "last_24h_total": 437,
  "per_target": {
-  "איראן": 417,
-  "בינה מלאכותית": 147
+  "איראן": 326,
+  "בינה מלאכותית": 111
  },
  "per_source": {
-  "מעריב": 54,
-  "YNET": 38,
-  "גלובס": 34,
-  "הארץ": 30,
-  "OpenAI": 29,
-  "כאן 11": 28,
-  "Vietnam.vn": 28,
-  "זמן ישראל": 27,
-  "TheMarker": 23,
-  "וואלה": 18,
-  "N12": 15,
-  "סרוגים": 15,
-  "כיכר השבת": 15,
-  "C14": 15,
-  "mako": 13,
-  "היום": 12,
-  "רשת 13": 11,
-  "ביזפורטל": 11,
-  "בחדרי חרדים": 11,
-  "Calcalist": 11,
-  "ערוץ 7": 10,
-  "تسنیم": 9,
-  "אפוק": 9,
-  "אתר החדשות דבר": 8,
+  "מעריב": 44,
+  "YNET": 29,
+  "הארץ": 26,
+  "כאן 11": 26,
+  "OpenAI": 26,
+  "גלובס": 24,
+  "זמן ישראל": 23,
+  "TheMarker": 20,
+  "Vietnam.vn": 16,
+  "וואלה": 14,
+  "סרוגים": 12,
+  "C14": 12,
+  "N12": 10,
+  "כיכר השבת": 10,
+  "ערוץ 7": 8,
+  "בחדרי חרדים": 8,
   "Investing.com": 8,
   "ynet": 7,
-  "מקור ראשון": 7,
-  "103FM": 6,
-  "i24NEWS": 6,
-  "Israel Defense": 6,
-  "כיפה": 5,
-  "JDN": 5,
-  "Mako": 4,
-  "אמס": 4,
-  "הידברות": 4,
-  "בלינקר": 3,
-  "המחדש": 2,
-  "Gov.il": 2,
-  "חב\"ד אינפו": 2,
-  "ice (אייס)": 2,
+  "ביזפורטל": 7,
+  "mako": 7,
+  "تسنیم": 7,
+  "i24NEWS": 7,
+  "היום": 7,
+  "אמס": 6,
+  "הידברות": 6,
+  "Mako": 6,
+  "מקור ראשון": 5,
+  "אפוק": 5,
+  "Israel Defense": 5,
+  "Calcalist": 5,
+  "INSS": 4,
+  "103FM": 4,
+  "רשת 13": 4,
+  "JDN": 4,
+  "Google News (כל האתרים)": 3,
+  "עיריית ירושלים": 3,
+  "جريدة القدس": 3,
+  "אתר החדשות דבר": 2,
+  "כיפה": 2,
+  "TGspot": 2,
   "סוכנות החלל": 2,
-  "INSS": 2,
-  "Google News (כל האתרים)": 2,
-  "עיריית ירושלים": 2,
-  "جريدة القدس": 2,
-  "HWzone": 1,
-  "אייס": 1,
-  "Microsoft": 1,
-  "TGspot": 1,
-  "פאנדר": 1,
-  "קול ברמה": 1,
-  "וואלה טכנולוגיה": 1
+  "פאנדר": 2,
+  "קול ברמה": 2,
+  "חב\"ד אינפו": 1,
+  "ice (אייס)": 1,
+  "וואלה טכנולוגיה": 1,
+  "בלינקר": 1
  },
  "per_lean": {
-  "שמאל": 194,
-  "אחר": 157,
-  "מרכז": 113,
-  "ימין": 100
+  "שמאל": 148,
+  "אחר": 127,
+  "מרכז": 86,
+  "ימין": 76
  },
  "leads": [
   {
-   "id": "ef0a4f88d89fff7d",
-   "ts": "2026-11-02T02:30:46.024752+03:00",
-   "source": "n12",
-   "source_display": "N12",
+   "id": "b638142bcf67d06f",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 18,
    "lean": "left",
-   "title": "ראש אמ\"ן לשעבר על הסכם עם איראן: \"כרגע זה הכיוון\" אלוף במיל' תמיר הימן מזהיר מפני תקיפה משותפת ללא מטרה מוסכמת: \"יביא לפיצוץ\"",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-4e11586126891a1026.htm",
-   "prominence": 5,
-   "rank": 5
+   "title": "הסלמה מול איראן שוב על הפרק, אך לישראל ולארה\"ב מטרות שונות",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-03/ty-article/.highlight/000001a1-9ddf-d02e-abe7-dddf0ed60000",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "6ad09d5f3d3ed2b6",
@@ -139,8 +134,8 @@
    "rank": 5
   },
   {
-   "id": "e07ba6ba94c46685",
-   "ts": "2026-11-02T08:51:48.626886+03:00",
+   "id": "abe7e3bdfc0a9ec7",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -149,12 +144,30 @@
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 16,
    "lean": "left",
-   "title": "06:40 דיווח: טראמפ שוקל לתקוף באיראן אחרי בחירות האמצע",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-02/ty-article-live/000001a1-992e-d8a7-adff-dbfe38740000?liveBlogItemId=1632501774",
+   "title": "דיווח: ארה\"ב תקפה באי קשם באיראן בתגובה לירי על כלי טיס",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-03/ty-article/000001a1-9ee3-db9a-a1b3-9ef310b00000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "2055a5a7e15edf27",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "ארה\"ב השמידה משגר טילים באיראן: \"תקיפה להגנה עצמית\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-bf6abe955fe91a1026.htm",
    "prominence": 3,
-   "rank": 9
+   "rank": 10
   }
  ],
  "items": [
@@ -1689,6 +1702,24 @@
    "rank": 2
   },
   {
+   "id": "b638142bcf67d06f",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "הסלמה מול איראן שוב על הפרק, אך לישראל ולארה\"ב מטרות שונות",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-03/ty-article/.highlight/000001a1-9ddf-d02e-abe7-dddf0ed60000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
    "id": "c174c951321deabc",
    "ts": "2026-10-26T09:02:41.231600+03:00",
    "source": "haaretz",
@@ -1795,6 +1826,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "2055a5a7e15edf27",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "ארה\"ב השמידה משגר טילים באיראן: \"תקיפה להגנה עצמית\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-bf6abe955fe91a1026.htm",
+   "prominence": 3,
+   "rank": 10
   },
   {
    "id": "d361a64dd7825fea",
@@ -2281,6 +2330,42 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "abe7e3bdfc0a9ec7",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "דיווח: ארה\"ב תקפה באי קשם באיראן בתגובה לירי על כלי טיס",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-03/ty-article/000001a1-9ee3-db9a-a1b3-9ef310b00000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "3ae5555a4054fefb",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "07:32 מה קרה הלילה באיראן: צפו בדיווח המעודכן על מטוס הקרב האמריקאי שתקף באי קאשם והאיום של טראמפ",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-fc8afd2f1af91a1026.htm",
+   "prominence": 1,
+   "rank": 18
   },
   {
    "id": "02672fc1d33493a5",
@@ -3885,6 +3970,70 @@
    "rank": 15
   },
   {
+   "id": "78be2e043c720b99",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווחים: ארה\"ב תקפה באיראן בתגובה לירי לעבר כלי טיס אמריקני",
+   "link": "https://www.ynet.co.il/news/article/r1vvey8pge"
+  },
+  {
+   "id": "54d5ac05d8ce6149",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "תקיפה באיראן מתקרבת? הבחירות הגורליות מעבר לים והלחץ של נתניהו",
+   "link": "https://www.ynet.co.il/news/article/bjy9gi8tfg"
+  },
+  {
+   "id": "9dbfc28822f770fb",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "חמינאי נתן סמכויות לשיחות, \"מדינות ערב לאיראן: עשויים לתקוף יחד אם תפגעו בתשתיות\"",
+   "link": "https://www.ynet.co.il/news/article/rjv8squtmx"
+  },
+  {
+   "id": "50503e3987cb1939",
+   "ts": "2026-11-03T09:35:56.379656+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "השיחה שרבים קיבלו: \"מקור הפעילות באיראן\" 31.10.26 דנה גוטרזון",
+   "link": "https://www.mako.co.il/news-money/tech12/Article-19e0a9e23b391a1026.htm"
+  },
+  {
    "id": "54d5ac05d8ce6149",
    "ts": "2026-11-03T02:26:16.423282+03:00",
    "source": "ynet",
@@ -5243,134 +5392,6 @@
    "lean": "left",
    "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-27T13:25:53.743824+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-27T13:25:53.743824+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-27T07:53:14.064115+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-27T07:53:14.064115+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "4937bb81a7494f5d",
-   "ts": "2026-10-27T02:47:16.725802+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"לא דנו בגרעין\": הפגישה החריגה של \"ברית מכה\" בטהרן - והסיוע המצרי לסעודיה",
-   "link": "https://www.ynet.co.il/news/article/b1j4syp2fx"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-27T02:47:16.725802+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-27T02:47:16.725802+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "4937bb81a7494f5d",
-   "ts": "2026-10-26T22:12:02.073604+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"לא דנו בגרעין\": הפגישה החריגה של \"ברית מכה\" בטהרן - והסיוע המצרי לסעודיה",
-   "link": "https://www.ynet.co.il/news/article/b1j4syp2fx"
   }
  ]
 }
