@@ -1,46 +1,46 @@
 {
- "generated": "2026-11-03T09:36:01.959286+03:00",
- "last_24h_total": 437,
+ "generated": "2026-11-03T18:00:14.073942+03:00",
+ "last_24h_total": 563,
  "per_target": {
-  "איראן": 326,
-  "בינה מלאכותית": 111
+  "איראן": 424,
+  "בינה מלאכותית": 139
  },
  "per_source": {
-  "מעריב": 44,
-  "YNET": 29,
-  "הארץ": 26,
-  "כאן 11": 26,
+  "מעריב": 56,
+  "YNET": 40,
+  "הארץ": 36,
+  "כאן 11": 34,
+  "גלובס": 33,
+  "זמן ישראל": 30,
   "OpenAI": 26,
-  "גלובס": 24,
-  "זמן ישראל": 23,
-  "TheMarker": 20,
-  "Vietnam.vn": 16,
-  "וואלה": 14,
-  "סרוגים": 12,
+  "TheMarker": 23,
+  "Vietnam.vn": 21,
+  "וואלה": 19,
+  "סרוגים": 17,
+  "Investing.com": 15,
+  "כיכר השבת": 14,
+  "N12": 13,
   "C14": 12,
-  "N12": 10,
-  "כיכר השבת": 10,
-  "ערוץ 7": 8,
-  "בחדרי חרדים": 8,
-  "Investing.com": 8,
-  "ynet": 7,
-  "ביזפורטל": 7,
-  "mako": 7,
-  "تسنیم": 7,
-  "i24NEWS": 7,
-  "היום": 7,
-  "אמס": 6,
-  "הידברות": 6,
+  "בחדרי חרדים": 11,
+  "היום": 11,
+  "mako": 10,
+  "ערוץ 7": 10,
+  "i24NEWS": 9,
+  "Calcalist": 9,
+  "ynet": 8,
+  "ביזפורטל": 8,
+  "מקור ראשון": 8,
+  "تسنیم": 8,
+  "אמס": 7,
+  "הידברות": 7,
   "Mako": 6,
-  "מקור ראשון": 5,
+  "INSS": 5,
+  "רשת 13": 5,
   "אפוק": 5,
   "Israel Defense": 5,
-  "Calcalist": 5,
-  "INSS": 4,
+  "JDN": 5,
   "103FM": 4,
-  "רשת 13": 4,
-  "JDN": 4,
-  "Google News (כל האתרים)": 3,
+  "Google News (כל האתרים)": 4,
   "עיריית ירושלים": 3,
   "جريدة القدس": 3,
   "אתר החדשות דבר": 2,
@@ -49,16 +49,22 @@
   "סוכנות החלל": 2,
   "פאנדר": 2,
   "קול ברמה": 2,
+  "וואלה טכנולוגיה": 2,
   "חב\"ד אינפו": 1,
   "ice (אייס)": 1,
-  "וואלה טכנולוגיה": 1,
-  "בלינקר": 1
+  "בלינקר": 1,
+  "המחדש": 1,
+  "חב״ד און ליין": 1,
+  "רדיו גלי ישראל": 1,
+  "לדעת": 1,
+  "את\"צ": 1,
+  "Microsoft": 1
  },
  "per_lean": {
-  "שמאל": 148,
-  "אחר": 127,
-  "מרכז": 86,
-  "ימין": 76
+  "שמאל": 197,
+  "אחר": 154,
+  "מרכז": 113,
+  "ימין": 99
  },
  "leads": [
   {
@@ -150,6 +156,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-11-03/ty-article/000001a1-9ee3-db9a-a1b3-9ef310b00000",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "35a286d09cffec9f",
+   "ts": "2026-11-03T18:00:07.026821+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הקיצוניים באיראן חוגגים: האם קאליבאף \"נזרק\" מתפקידו? המתקפה גם נגד שר החוץ עראקצ'י: \"מתנה לטראמפ לפני הבחירות\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b1c1a43a70a1a1027.htm",
+   "prominence": 5,
+   "rank": 5
   },
   {
    "id": "2055a5a7e15edf27",
@@ -728,6 +752,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "35a286d09cffec9f",
+   "ts": "2026-11-03T18:00:07.026821+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הקיצוניים באיראן חוגגים: האם קאליבאף \"נזרק\" מתפקידו? המתקפה גם נגד שר החוץ עראקצ'י: \"מתנה לטראמפ לפני הבחירות\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b1c1a43a70a1a1027.htm",
+   "prominence": 5,
+   "rank": 5
   },
   {
    "id": "d45eb7020bbbc321",
@@ -2330,6 +2372,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "791e57665538b412",
+   "ts": "2026-11-03T18:00:07.026821+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 13 דקות דיווח באיראן: משמרות המהפכה האיראניים שיגרו טיל לעבר מסוק של צבא ארה\"ב במצר הורמוז- והוא התחמק",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-1b29eddddd1a1a1026.htm",
+   "prominence": 1,
+   "rank": 14
   },
   {
    "id": "abe7e3bdfc0a9ec7",
@@ -3970,6 +4030,38 @@
    "rank": 15
   },
   {
+   "id": "8d6c3b80cc26f8b9",
+   "ts": "2026-11-03T18:00:07.026821+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "התקיפות האמריקניות החשאיות, וחמשת העקרונות של איראן: \"הסכם? עוד רחוק\"",
+   "link": "https://www.ynet.co.il/news/article/skc6x11pafl"
+  },
+  {
+   "id": "425b61190febb50a",
+   "ts": "2026-11-03T18:00:07.026821+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המטרה במערכה הבאה נגד איראן - סיום שלטון האייתוללות אל\"מ במיל' קובי מרום",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-70c69ac82b0a1a1027.htm"
+  },
+  {
    "id": "78be2e043c720b99",
    "ts": "2026-11-03T09:35:56.379656+03:00",
    "source": "ynet",
@@ -5328,70 +5420,6 @@
    "lean": "left",
    "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-28T00:14:47.832111+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
-  },
-  {
-   "id": "533e579e2d7a1ad5",
-   "ts": "2026-10-27T19:28:37.035397+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ניו יורק טיימס: \"נתניהו דחף לאחרונה לתקוף באיראן, זמיר בלם. האפשרות עדיין קיימת\"",
-   "link": "https://www.ynet.co.il/news/article/b1dkofrhgx"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-27T19:28:37.035397+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "d4d3730fe91952bd",
-   "ts": "2026-10-27T19:28:37.035397+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ככה זה בעזה, ככה זה באיראן אבנר וילן, מומחה לגרעין האיראני",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-559c8787a8361a1027.htm"
   }
  ]
 }
