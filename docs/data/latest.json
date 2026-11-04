@@ -1,106 +1,65 @@
 {
- "generated": "2026-11-04T04:16:06.913410+03:00",
- "last_24h_total": 538,
+ "generated": "2026-11-04T12:01:39.675963+03:00",
+ "last_24h_total": 526,
  "per_target": {
-  "איראן": 417,
-  "בינה מלאכותית": 121
+  "איראן": 413,
+  "בינה מלאכותית": 113
  },
  "per_source": {
-  "מעריב": 60,
-  "הארץ": 48,
-  "YNET": 40,
-  "גלובס": 36,
-  "כאן 11": 32,
-  "זמן ישראל": 25,
-  "Vietnam.vn": 20,
-  "Investing.com": 20,
-  "סרוגים": 19,
-  "TheMarker": 16,
-  "היום": 15,
-  "כיכר השבת": 14,
-  "וואלה": 13,
-  "OpenAI": 13,
+  "מעריב": 61,
+  "הארץ": 50,
+  "YNET": 45,
+  "גלובס": 37,
+  "כאן 11": 30,
+  "Vietnam.vn": 24,
+  "Investing.com": 23,
+  "זמן ישראל": 22,
+  "סרוגים": 21,
+  "כיכר השבת": 17,
+  "היום": 16,
+  "מקור ראשון": 13,
+  "TheMarker": 12,
   "N12": 12,
-  "מקור ראשון": 12,
+  "mako": 12,
   "Calcalist": 12,
+  "בחדרי חרדים": 11,
+  "וואלה": 10,
   "i24NEWS": 10,
-  "בחדרי חרדים": 10,
-  "mako": 10,
-  "Mako": 9,
-  "אמס": 8,
+  "Mako": 8,
   "ynet": 7,
-  "ערוץ 7": 7,
-  "INSS": 6,
-  "تسنیم": 6,
-  "רשת 13": 6,
+  "אמס": 7,
+  "כיפה": 6,
   "JDN": 5,
-  "C14": 5,
-  "הידברות": 5,
   "המחדש": 5,
-  "כיפה": 4,
-  "ביזפורטל": 3,
-  "את\"צ": 3,
-  "Google News (כל האתרים)": 2,
-  "Israel Defense": 2,
+  "ערוץ 7": 5,
+  "רשת 13": 5,
+  "INSS": 5,
+  "تسنیم": 5,
+  "הידברות": 4,
+  "את\"צ": 4,
   "חב״ד און ליין": 2,
+  "Microsoft": 2,
   "וואלה טכנולוגיה": 2,
+  "C14": 2,
   "חרדים10": 2,
-  "פאנדר": 1,
-  "103FM": 1,
-  "קול ברמה": 1,
-  "עיריית ירושלים": 1,
-  "סוכנות החלל": 1,
-  "TGspot": 1,
-  "جريدة القدس": 1,
+  "PassportNews": 2,
+  "Jablíčkář.cz": 2,
+  "ביזפורטל": 1,
+  "Google News (כל האתרים)": 1,
   "רדיו גלי ישראל": 1,
   "לדעת": 1,
-  "Microsoft": 1,
-  "PassportNews": 1,
-  "Jablíčkář.cz": 1
+  "בית הנשיא": 1,
+  "News1 מחלקה ראשונה": 1,
+  "calcalist": 1,
+  "Letem světem Applem": 1
  },
  "per_lean": {
-  "שמאל": 196,
-  "אחר": 126,
-  "מרכז": 122,
-  "ימין": 94
+  "שמאל": 195,
+  "מרכז": 124,
+  "אחר": 110,
+  "ימין": 97
  },
  "leads": [
-  {
-   "id": "b638142bcf67d06f",
-   "ts": "2026-11-03T09:35:56.379656+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 18,
-   "lean": "left",
-   "title": "הסלמה מול איראן שוב על הפרק, אך לישראל ולארה\"ב מטרות שונות",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-03/ty-article/.highlight/000001a1-9ddf-d02e-abe7-dddf0ed60000",
-   "prominence": 10,
-   "rank": 1
-  },
-  {
-   "id": "abe7e3bdfc0a9ec7",
-   "ts": "2026-11-03T09:35:56.379656+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "דיווח: ארה\"ב תקפה באי קשם באיראן בתגובה לירי על כלי טיס",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-03/ty-article/000001a1-9ee3-db9a-a1b3-9ef310b00000",
-   "prominence": 5,
-   "rank": 2
-  },
   {
    "id": "35a286d09cffec9f",
    "ts": "2026-11-03T18:00:07.026821+03:00",
@@ -120,22 +79,22 @@
    "rank": 5
   },
   {
-   "id": "2055a5a7e15edf27",
-   "ts": "2026-11-03T09:35:56.379656+03:00",
-   "source": "n12",
-   "source_display": "N12",
+   "id": "b01d37b1aa4d175d",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 17,
+   "score": 16,
    "lean": "left",
-   "title": "ארה\"ב השמידה משגר טילים באיראן: \"תקיפה להגנה עצמית\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-bf6abe955fe91a1026.htm",
-   "prominence": 3,
-   "rank": 10
+   "title": "טראמפ: מוכן לקבל את התוצאות, למלחמה באיראן היה חלק בהפסדי הרפובליקאים",
+   "link": "https://www.haaretz.co.il/news/world/america/2026-11-04/ty-article/.premium/000001a1-a51c-d5c5-ade1-bd7f55120000",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "23c6c82d83172303",
@@ -172,6 +131,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-11-04/ty-article/000001a1-a3cf-d2e9-a5ad-bbdf84f90000",
    "prominence": 3,
    "rank": 6
+  },
+  {
+   "id": "65c7c621b1882f2a",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "רגע השיא היה המלחמה מול איראן, בזמן צילומי השחזור של מסיבת הנובה",
+   "link": "https://www.haaretz.co.il/blogs/photoblog/2026-11-04/ty-article-magazine/000001a1-9b2e-d125-a3b1-ffeebb6d0000",
+   "prominence": 3,
+   "rank": 7
   }
  ],
  "items": [
@@ -2372,6 +2349,24 @@
    "rank": 9
   },
   {
+   "id": "b01d37b1aa4d175d",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ: מוכן לקבל את התוצאות, למלחמה באיראן היה חלק בהפסדי הרפובליקאים",
+   "link": "https://www.haaretz.co.il/news/world/america/2026-11-04/ty-article/.premium/000001a1-a51c-d5c5-ade1-bd7f55120000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "23c6c82d83172303",
    "ts": "2026-11-04T04:15:59.620613+03:00",
    "source": "n12",
@@ -4046,6 +4041,102 @@
    "rank": 15
   },
   {
+   "id": "0c34219a434617d3",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "האזהרה לאחר הזיהוי בישראל - וההבהרה: \"אין כרגע באיראן יכולת כימית שמאיימת עלינו\"",
+   "link": "https://www.ynet.co.il/news/article/sy8mmidpfx"
+  },
+  {
+   "id": "57a5ce52f27ff13f",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הדרך להפלת איראן לא עוברת בהסכם ולא בתקיפה",
+   "link": "https://www.ynet.co.il/news/article/s1xmqro6fe"
+  },
+  {
+   "id": "b2c86731c4a15395",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ מתרץ את הכישלון, ומאשים: \"חלק מהתוצאות - בגלל איראן. אטיל וטו\"",
+   "link": "https://www.ynet.co.il/news/article/h1fahndaze"
+  },
+  {
+   "id": "425b61190febb50a",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המטרה במערכה הבאה נגד איראן - סיום שלטון האייתוללות אל\"מ במיל' קובי מרום",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-70c69ac82b0a1a1027.htm"
+  },
+  {
+   "id": "0ff799d13034a1f0",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "השמרנים באיראן חוגגים: האם קאליבאף \"הודח\" מתפקידו? 03.11.26 אסף רוזנצוייג",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b1c1a43a70a1a1027.htm"
+  },
+  {
+   "id": "7080c813c6afd6c6",
+   "ts": "2026-11-04T12:01:30.633184+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הדולר בשיא שלא נראה מפרוץ המלחמה נגד איראן - זו הסיבה",
+   "link": "https://www.mako.co.il/news-money/2026_q4/Article-74b88951aa5a1a1027.htm"
+  },
+  {
    "id": "a2930ef06de1a91d",
    "ts": "2026-11-04T04:15:59.620613+03:00",
    "source": "ynet",
@@ -5292,118 +5383,6 @@
    "lean": "left",
    "title": "דיווח ארה\"ב למפרץ: \"היערכו למערכה קצרה ועצימה באיראן\" 28.10.26 תומר אלמגור",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-1bbda64e95081a1027.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-29T09:58:12.770491+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "376adcf6bcea7571",
-   "ts": "2026-10-29T09:58:12.770491+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בשל המלחמה באיראן: ספינת התענוגות נתקעה וסיימה את דרכה 28.10.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-dafc30c2ee181a1027.htm"
-  },
-  {
-   "id": "c38bb82652e8f766",
-   "ts": "2026-10-29T03:49:03.879603+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווח ארה\"ב למפרץ: \"היערכו למערכה קצרה ועצימה באיראן\" 28.10.26 תומר אלמגור",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-1bbda64e95081a1027.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-29T03:49:03.879603+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
-  },
-  {
-   "id": "485c6617cdd241d1",
-   "ts": "2026-10-29T03:49:03.879603+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בשל המלחמה באיראן: ספינת התענוגות נתקעה וסיימה את דרכה",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-dafc30c2ee181a1027.htm"
-  },
-  {
-   "id": "a3ed42834e22ed56",
-   "ts": "2026-10-28T23:58:41.042440+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווח ארה\"ב למפרץ: \"היערכו למערכה קצרה ועצימה באיראן\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-1bbda64e95081a1027.htm"
-  },
-  {
-   "id": "d63f74da781e897d",
-   "ts": "2026-10-28T23:58:41.042440+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלקחים שישראל צריכה להפנים לפני המלחמה הבאה באיראן ראש אמ\"ן לשעבר תמיר הימן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-38950a5240461a1027.htm"
   }
  ]
 }
