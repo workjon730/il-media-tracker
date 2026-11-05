@@ -1,66 +1,67 @@
 {
- "generated": "2026-11-05T18:23:29.463755+03:00",
- "last_24h_total": 514,
+ "generated": "2026-11-06T00:55:59.474916+03:00",
+ "last_24h_total": 516,
  "per_target": {
-  "איראן": 400,
-  "בינה מלאכותית": 114
+  "איראן": 406,
+  "בינה מלאכותית": 110
  },
  "per_source": {
-  "מעריב": 49,
+  "מעריב": 53,
+  "הארץ": 48,
   "YNET": 47,
-  "הארץ": 44,
-  "גלובס": 35,
-  "כאן 11": 33,
-  "Vietnam.vn": 31,
+  "גלובס": 34,
+  "כאן 11": 31,
+  "Vietnam.vn": 29,
+  "זמן ישראל": 26,
+  "וואלה": 25,
   "mako": 24,
-  "וואלה": 22,
-  "זמן ישראל": 22,
   "JDN": 15,
-  "N12": 14,
-  "סרוגים": 14,
-  "i24NEWS": 14,
-  "בחדרי חרדים": 12,
-  "تسنیم": 12,
-  "כיכר השבת": 10,
-  "Investing.com": 10,
-  "מקור ראשון": 9,
-  "היום": 7,
+  "i24NEWS": 15,
+  "סרוגים": 12,
+  "מקור ראשון": 11,
+  "N12": 10,
+  "تسنیم": 9,
+  "כיכר השבת": 8,
+  "היום": 8,
+  "בחדרי חרדים": 8,
+  "TheMarker": 8,
+  "Investing.com": 8,
   "ערוץ 7": 7,
-  "ynet": 6,
-  "TheMarker": 6,
-  "הידברות": 6,
+  "Google News (כל האתרים)": 5,
+  "ynet": 4,
   "אתר החדשות דבר": 4,
-  "calcalist": 4,
-  "חב״ד און ליין": 4,
+  "הידברות": 4,
   "פאנדר": 4,
+  "חב״ד און ליין": 4,
   "את\"צ": 4,
   "אשדוד": 4,
   "עיריית ירושלים": 4,
-  "Jablíčkář.cz": 4,
-  "בית הנשיא": 3,
-  "Israel Defense": 3,
+  "Microsoft": 4,
+  "ביזפורטל": 4,
+  "calcalist": 3,
   "haipo.co.il": 3,
-  "Microsoft": 3,
-  "Google News (כל האתרים)": 3,
-  "ביזפורטל": 3,
-  "C14": 2,
-  "OrcaRouter": 2,
+  "Jablíčkář.cz": 3,
+  "רשת 13": 3,
+  "אמס": 3,
+  "כלכליסט": 3,
   "INSS": 2,
-  "אייס": 1,
-  "News1 מחלקה ראשונה": 1,
-  "Letem světem Applem": 1,
+  "C14": 2,
+  "בית הנשיא": 2,
+  "Israel Defense": 2,
+  "אנשים ומחשבים": 2,
   "Mako": 1,
   "Gadgety": 1,
-  "רשת 13": 1,
-  "אמס": 1,
-  "אנשים ומחשבים": 1,
-  "כלכליסט": 1
+  "OrcaRouter": 1,
+  "103FM": 1,
+  "כיפה": 1,
+  "The European Times": 1,
+  "Gov.il": 1
  },
  "per_lean": {
-  "שמאל": 197,
-  "אחר": 127,
-  "מרכז": 106,
-  "ימין": 84
+  "שמאל": 200,
+  "אחר": 122,
+  "מרכז": 111,
+  "ימין": 83
  },
  "leads": [
   {
@@ -134,6 +135,24 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-11-05/ty-article-live/000001a1-a896-d041-a5f9-edb7c8700000?liveBlogItemId=1946317604",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "f2e239218665fd39",
+   "ts": "2026-11-06T00:55:52.725440+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "23:34 טראמפ: איראן לא עושה שום דבר בלי אישור מארה\"ב",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-05/ty-article-live/000001a1-a896-d041-a5f9-edb7c8700000?liveBlogItemId=1322438400",
+   "prominence": 3,
+   "rank": 8
   }
  ],
  "items": [
@@ -4098,6 +4117,38 @@
    "rank": 15
   },
   {
+   "id": "95d80f5da5b90a7f",
+   "ts": "2026-11-06T00:55:52.725440+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"אי אפשר לחזות מה טראמפ יחליט\": צה\"ל נערך לאפשרות של חידוש הלחימה באיראן",
+   "link": "https://www.ynet.co.il/news/article/hjdyqfq6fx"
+  },
+  {
+   "id": "ef8ebea49d8ffac0",
+   "ts": "2026-11-06T00:55:52.725440+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "לפני 12 דקות טראמפ על איראן: \"מעדיף שלא להרוס את מה שנותר מהמדינה, אבל אולי אצטרך לעשות זאת. תדעו בקרוב מאוד\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-3ad2fde749da1a1026.htm"
+  },
+  {
    "id": "949db7f3802d1c00",
    "ts": "2026-11-05T18:23:22.981063+03:00",
    "source": "ynet",
@@ -5344,38 +5395,6 @@
    "lean": "left",
    "title": "התקדמות במגעים להסכם עם איראן? פרטי הטיוטה שנחשפו",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-8079c1f021f81a1026.htm"
-  },
-  {
-   "id": "4c6efc155a8a2e2a",
-   "ts": "2026-10-31T15:14:15.712156+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מהלומה אפשרית באיראן: טראמפ ונתניהו לא חושבים על אותו הדבר",
-   "link": "https://www.ynet.co.il/news/article/hka00rqxpfe"
-  },
-  {
-   "id": "99b13bb6462f2fe1",
-   "ts": "2026-10-31T15:14:15.712156+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווחים סותרים: בקטאר טענו ל\"פריצת דרך\" עם איראן; ארה\"ב למפרציות: התכוננו לשבוע הבא",
-   "link": "https://www.ynet.co.il/news/article/r1dlow76me"
   }
  ]
 }
