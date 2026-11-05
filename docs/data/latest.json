@@ -1,69 +1,86 @@
 {
- "generated": "2026-11-05T02:35:03.679526+03:00",
- "last_24h_total": 530,
+ "generated": "2026-11-05T09:32:08.805908+03:00",
+ "last_24h_total": 523,
  "per_target": {
-  "איראן": 414,
-  "בינה מלאכותית": 116
+  "איראן": 409,
+  "בינה מלאכותית": 114
  },
  "per_source": {
-  "מעריב": 60,
-  "YNET": 47,
-  "הארץ": 46,
-  "גלובס": 35,
-  "כאן 11": 31,
-  "Vietnam.vn": 29,
-  "סרוגים": 19,
-  "זמן ישראל": 18,
-  "mako": 18,
-  "Investing.com": 16,
-  "N12": 15,
-  "כיכר השבת": 15,
-  "וואלה": 15,
+  "מעריב": 54,
+  "YNET": 48,
+  "הארץ": 44,
+  "גלובס": 34,
+  "כאן 11": 33,
+  "Vietnam.vn": 30,
+  "זמן ישראל": 21,
+  "וואלה": 19,
+  "mako": 19,
+  "סרוגים": 17,
+  "N12": 16,
   "בחדרי חרדים": 14,
-  "i24NEWS": 12,
-  "היום": 12,
-  "JDN": 11,
-  "מקור ראשון": 10,
-  "تسنیم": 10,
-  "ynet": 9,
-  "TheMarker": 8,
-  "ערוץ 7": 6,
-  "הידברות": 6,
-  "Mako": 6,
-  "INSS": 4,
-  "כיפה": 4,
+  "i24NEWS": 14,
+  "JDN": 13,
+  "כיכר השבת": 12,
+  "تسنیم": 12,
+  "Investing.com": 12,
+  "היום": 10,
+  "ynet": 8,
+  "מקור ראשון": 8,
+  "ערוץ 7": 7,
+  "הידברות": 7,
+  "TheMarker": 6,
+  "Mako": 5,
+  "calcalist": 5,
+  "בית הנשיא": 4,
   "את\"צ": 4,
   "Jablíčkář.cz": 4,
-  "Calcalist": 4,
-  "calcalist": 4,
-  "אמס": 3,
-  "C14": 3,
-  "בית הנשיא": 3,
-  "המחדש": 2,
-  "PassportNews": 2,
+  "INSS": 3,
+  "Microsoft": 3,
+  "אתר החדשות דבר": 3,
+  "חב״ד און ליין": 3,
+  "פאנדר": 3,
+  "אשדוד": 3,
+  "Israel Defense": 3,
+  "עיריית ירושלים": 3,
+  "כיפה": 2,
   "News1 מחלקה ראשונה": 2,
   "Letem světem Applem": 2,
-  "Microsoft": 2,
-  "אתר החדשות דבר": 2,
-  "חב״ד און ליין": 2,
-  "פאנדר": 2,
-  "אשדוד": 2,
-  "Israel Defense": 2,
-  "עיריית ירושלים": 2,
+  "C14": 2,
   "OrcaRouter": 2,
-  "רשת 13": 1,
-  "חרדים10": 1,
+  "haipo.co.il": 2,
+  "אמס": 1,
+  "PassportNews": 1,
+  "Calcalist": 1,
   "אייס": 1,
-  "haipo.co.il": 1,
-  "Gadgety": 1
+  "Gadgety": 1,
+  "Google News (כל האתרים)": 1,
+  "ביזפורטל": 1
  },
  "per_lean": {
   "שמאל": 194,
-  "אחר": 122,
-  "מרכז": 120,
-  "ימין": 94
+  "אחר": 127,
+  "מרכז": 113,
+  "ימין": 89
  },
  "leads": [
+  {
+   "id": "7cf922153770ad61",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "בצל התבוסה: האפשרויות שנותרו לטראמפ נגד איראן הנשיא הודה כי המלחמה גבתה מהמפלגה הרפובליקנית מחיר פוליטי כבד, כאשר כל האופציות שעל השולחן הן בעייתיות ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f0536884089a1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "b01d37b1aa4d175d",
    "ts": "2026-11-04T12:01:30.633184+03:00",
@@ -83,8 +100,8 @@
    "rank": 2
   },
   {
-   "id": "fb8ab5eaeda3a407",
-   "ts": "2026-11-04T04:15:59.620613+03:00",
+   "id": "f436953ec306979f",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -93,12 +110,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 16,
    "lean": "left",
-   "title": "טראמפ: אין תוכנית לתקוף באיראן בזמן הקרוב, אך ערוכים לכך אם יהיה צורך",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-04/ty-article/000001a1-a3cf-d2e9-a5ad-bbdf84f90000",
-   "prominence": 3,
-   "rank": 6
+   "title": "הניצחון של הדמוקרטים דוחק את טראמפ ואיראן למרוץ נגד הזמן",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-05/ty-article/.premium/000001a1-a844-d041-a5f9-ed653e050000",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "65c7c621b1882f2a",
@@ -117,9 +134,45 @@
    "link": "https://www.haaretz.co.il/blogs/photoblog/2026-11-04/ty-article-magazine/000001a1-9b2e-d125-a3b1-ffeebb6d0000",
    "prominence": 3,
    "rank": 7
+  },
+  {
+   "id": "a9f4b81178864e56",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "08:31 מקורות: סביר שטרמאפ יתקוף באיראן אחרי בחירות האמצע, אין לו מה להפסיד פוליטית",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-05/ty-article-live/000001a1-a896-d041-a5f9-edb7c8700000?liveBlogItemId=255377765",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
+  {
+   "id": "7cf922153770ad61",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "בצל התבוסה: האפשרויות שנותרו לטראמפ נגד איראן הנשיא הודה כי המלחמה גבתה מהמפלגה הרפובליקנית מחיר פוליטי כבד, כאשר כל האופציות שעל השולחן הן בעייתיות ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f0536884089a1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "5a489e525399ac71",
    "ts": "2026-11-01T10:25:48.421503+03:00",
@@ -2317,6 +2370,24 @@
    "rank": 9
   },
   {
+   "id": "f436953ec306979f",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "הניצחון של הדמוקרטים דוחק את טראמפ ואיראן למרוץ נגד הזמן",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-05/ty-article/.premium/000001a1-a844-d041-a5f9-ed653e050000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "f7b1376ff1145f52",
    "ts": "2026-11-05T02:34:56.927489+03:00",
    "source": "n12",
@@ -4027,6 +4098,70 @@
    "rank": 15
   },
   {
+   "id": "949db7f3802d1c00",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "חריגת ואנס מהשורות, וההערכה בבית הלבן: \"איראן? עכשיו לטראמפ אין מה להפסיד\"",
+   "link": "https://www.ynet.co.il/news/article/bkln0fkafg"
+  },
+  {
+   "id": "88d47d11966f3d1e",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ישראל כבר תקפה: תוכנית הנשק הכימי של איראן 13:05 אסף רוזנצוייג, ניר דבורי",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-81b7cb5df26a1a1026.htm"
+  },
+  {
+   "id": "7bc6f2f7b27c79b4",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן? מצעד התירוצים של טראמפ לתבוסה בבחירות 04.11.26 תומר אלמגור",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-889a2149045a1a1027.htm"
+  },
+  {
+   "id": "9ae4f996cca88052",
+   "ts": "2026-11-05T09:32:01.677647+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הדולר בשיא שלא נראה מפרוץ המלחמה נגד איראן - זו הסיבה 04.11.26 תומר פדובה, גלובס",
+   "link": "https://www.mako.co.il/news-money/2026_q4/Article-74b88951aa5a1a1027.htm"
+  },
+  {
    "id": "e087748a84561dab",
    "ts": "2026-11-05T02:34:56.927489+03:00",
    "source": "ynet",
@@ -5257,102 +5392,6 @@
    "lean": "left",
    "title": "פיצוצים במפרץ הפרסי, טראמפ: \"איראן רוצה לדבר, לנו יש זמן\"",
    "link": "https://www.ynet.co.il/news/article/skn6tjfaze"
-  },
-  {
-   "id": "1242b48edb6ee5b2",
-   "ts": "2026-10-31T08:25:55.321227+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לפני 23 דקות טראמפ על המו״מ עם איראן: ״אני מעוניין רק בדבר אחד - שלעולם לא יהיה להם נשק גרעיני״",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w05/shorts-e27340e1c3091a1027.htm"
-  },
-  {
-   "id": "d95ee5050e06bfcb",
-   "ts": "2026-10-31T08:25:55.321227+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm"
-  },
-  {
-   "id": "b9824ca2d3bc9e99",
-   "ts": "2026-10-30T22:14:21.296046+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
-   "link": "https://www.ynet.co.il/news/article/bk5hdibagx"
-  },
-  {
-   "id": "eb431f7f171c958a",
-   "ts": "2026-10-30T22:14:21.296046+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מפקד סנטקום תדרך את טראמפ על המלחמה עם איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d593562809981a1027.htm"
-  },
-  {
-   "id": "b9824ca2d3bc9e99",
-   "ts": "2026-10-30T17:01:50.253746+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ניסיון אחרון לעסקה עם איראן? ארה\"ב רואה במנהיג הניצי כ\"תקווה הגדולה ביותר לשלום\"",
-   "link": "https://www.ynet.co.il/news/article/bk5hdibagx"
-  },
-  {
-   "id": "61ba106d6c853388",
-   "ts": "2026-10-30T17:01:50.253746+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
-   "link": "https://www.ynet.co.il/news/article/yokra14942037"
   }
  ]
 }
