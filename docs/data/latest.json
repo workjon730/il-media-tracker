@@ -1,67 +1,66 @@
 {
- "generated": "2026-11-06T00:55:59.474916+03:00",
- "last_24h_total": 516,
+ "generated": "2026-11-06T05:17:08.360269+03:00",
+ "last_24h_total": 523,
  "per_target": {
-  "איראן": 406,
-  "בינה מלאכותית": 110
+  "איראן": 411,
+  "בינה מלאכותית": 112
  },
  "per_source": {
-  "מעריב": 53,
+  "מעריב": 60,
   "הארץ": 48,
-  "YNET": 47,
-  "גלובס": 34,
-  "כאן 11": 31,
-  "Vietnam.vn": 29,
+  "YNET": 46,
+  "גלובס": 37,
+  "וואלה": 28,
+  "Vietnam.vn": 28,
+  "כאן 11": 27,
   "זמן ישראל": 26,
-  "וואלה": 25,
   "mako": 24,
-  "JDN": 15,
   "i24NEWS": 15,
-  "סרוגים": 12,
-  "מקור ראשון": 11,
-  "N12": 10,
-  "تسنیم": 9,
-  "כיכר השבת": 8,
-  "היום": 8,
-  "בחדרי חרדים": 8,
-  "TheMarker": 8,
-  "Investing.com": 8,
-  "ערוץ 7": 7,
-  "Google News (כל האתרים)": 5,
-  "ynet": 4,
+  "מקור ראשון": 14,
+  "JDN": 14,
+  "סרוגים": 11,
+  "היום": 9,
+  "TheMarker": 9,
+  "N12": 8,
+  "בחדרי חרדים": 7,
+  "כיכר השבת": 7,
+  "Google News (כל האתרים)": 7,
+  "Investing.com": 7,
+  "ynet": 6,
+  "ערוץ 7": 6,
+  "אמס": 6,
+  "تسنیم": 5,
+  "פאנדר": 5,
+  "ביזפורטל": 5,
+  "רשת 13": 5,
+  "כלכליסט": 5,
   "אתר החדשות דבר": 4,
-  "הידברות": 4,
-  "פאנדר": 4,
-  "חב״ד און ליין": 4,
   "את\"צ": 4,
-  "אשדוד": 4,
   "עיריית ירושלים": 4,
+  "חב״ד און ליין": 4,
+  "אשדוד": 4,
   "Microsoft": 4,
-  "ביזפורטל": 4,
-  "calcalist": 3,
-  "haipo.co.il": 3,
-  "Jablíčkář.cz": 3,
-  "רשת 13": 3,
-  "אמס": 3,
-  "כלכליסט": 3,
-  "INSS": 2,
+  "אנשים ומחשבים": 3,
+  "הידברות": 2,
+  "haipo.co.il": 2,
+  "Jablíčkář.cz": 2,
+  "103FM": 2,
   "C14": 2,
-  "בית הנשיא": 2,
-  "Israel Defense": 2,
-  "אנשים ומחשבים": 2,
-  "Mako": 1,
-  "Gadgety": 1,
-  "OrcaRouter": 1,
-  "103FM": 1,
+  "The European Times": 2,
+  "Gov.il": 2,
+  "INSS": 1,
+  "בית הנשיא": 1,
+  "Israel Defense": 1,
+  "calcalist": 1,
   "כיפה": 1,
-  "The European Times": 1,
-  "Gov.il": 1
+  "Mako": 1,
+  "וואלה טכנולוגיה": 1
  },
  "per_lean": {
-  "שמאל": 200,
-  "אחר": 122,
-  "מרכז": 111,
-  "ימין": 83
+  "שמאל": 201,
+  "מרכז": 123,
+  "אחר": 117,
+  "ימין": 82
  },
  "leads": [
   {
@@ -79,6 +78,24 @@
    "lean": "left",
    "title": "בצל התבוסה: האפשרויות שנותרו לטראמפ נגד איראן הנשיא הודה כי המלחמה גבתה מהמפלגה הרפובליקנית מחיר פוליטי כבד, כאשר כל האופציות שעל השולחן הן בעייתיות ברק רביד |",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-f0536884089a1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "2819c4b8cbce1ba7",
+   "ts": "2026-11-06T05:17:00.917157+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "טראמפ על איראן: \"אולי אצטרך להרוס את מה שנותר\" נשיא ארה\"ב באיום חריף לקראת ההכרעה על המשך המערכה: \"הייתי מעדיף לא לעשות זאת, אם אפשר. אתם תדעו בקרוב מאוד\" ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4357fde749da1a1026.htm",
    "prominence": 10,
    "rank": 1
   },
@@ -156,6 +173,24 @@
   }
  ],
  "items": [
+  {
+   "id": "2819c4b8cbce1ba7",
+   "ts": "2026-11-06T05:17:00.917157+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "טראמפ על איראן: \"אולי אצטרך להרוס את מה שנותר\" נשיא ארה\"ב באיום חריף לקראת ההכרעה על המשך המערכה: \"הייתי מעדיף לא לעשות זאת, אם אפשר. אתם תדעו בקרוב מאוד\" ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4357fde749da1a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "7cf922153770ad61",
    "ts": "2026-11-05T09:32:01.677647+03:00",
@@ -4117,6 +4152,70 @@
    "rank": 15
   },
   {
+   "id": "fe9a185cb857ee39",
+   "ts": "2026-11-06T05:17:00.917157+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
+   "link": "https://www.ynet.co.il/news/article/yokra14950309"
+  },
+  {
+   "id": "83fc04c37de7d63c",
+   "ts": "2026-11-06T05:17:00.917157+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הסלמה מול איראן? ממתינים לקולות החיילים",
+   "link": "https://www.ynet.co.il/news/article/yokra14949028"
+  },
+  {
+   "id": "95d80f5da5b90a7f",
+   "ts": "2026-11-06T05:17:00.917157+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"אי אפשר לחזות מה טראמפ יחליט\": צה\"ל נערך לאפשרות של חידוש הלחימה באיראן",
+   "link": "https://www.ynet.co.il/news/article/hjdyqfq6fx"
+  },
+  {
+   "id": "40b002e2bb7fa04e",
+   "ts": "2026-11-06T05:17:00.917157+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "23:42 טראמפ על איראן: \"מעדיף שלא להרוס את מה שנותר מהמדינה, אבל אולי אצטרך לעשות זאת. תדעו בקרוב מאוד\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-3ad2fde749da1a1026.htm"
+  },
+  {
    "id": "95d80f5da5b90a7f",
    "ts": "2026-11-06T00:55:52.725440+03:00",
    "source": "ynet",
@@ -5315,86 +5414,6 @@
    "lean": "left",
    "title": "מלחמה או הסכם: צה\"ל ערוך מול איראן - ומחכה להחלטה של טראמפ",
    "link": "https://www.ynet.co.il/news/article/s1ecyympmg"
-  },
-  {
-   "id": "61ba106d6c853388",
-   "ts": "2026-10-31T20:39:41.696100+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
-   "link": "https://www.ynet.co.il/news/article/yokra14942037"
-  },
-  {
-   "id": "4c6efc155a8a2e2a",
-   "ts": "2026-10-31T20:39:41.696100+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מהלומה אפשרית באיראן: טראמפ ונתניהו לא חושבים על אותו הדבר",
-   "link": "https://www.ynet.co.il/news/article/hka00rqxpfe"
-  },
-  {
-   "id": "99b13bb6462f2fe1",
-   "ts": "2026-10-31T20:39:41.696100+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווחים סותרים: בקטאר טענו ל\"פריצת דרך\" עם איראן; ארה\"ב למפרציות: התכוננו לשבוע הבא",
-   "link": "https://www.ynet.co.il/news/article/r1dlow76me"
-  },
-  {
-   "id": "82afc74a738e9598",
-   "ts": "2026-10-31T20:39:41.696100+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "פיצוצים במפרץ הפרסי, טראמפ: \"איראן רוצה לדבר, לנו יש זמן\"",
-   "link": "https://www.ynet.co.il/news/article/skn6tjfaze"
-  },
-  {
-   "id": "7f8344d45815a50e",
-   "ts": "2026-10-31T20:39:41.696100+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "התקדמות במגעים להסכם עם איראן? פרטי הטיוטה שנחשפו",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8079c1f021f81a1026.htm"
   }
  ]
 }
