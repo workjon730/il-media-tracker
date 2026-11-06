@@ -1,63 +1,61 @@
 {
- "generated": "2026-11-06T13:43:27.981762+03:00",
- "last_24h_total": 525,
+ "generated": "2026-11-06T20:54:09.469712+03:00",
+ "last_24h_total": 529,
  "per_target": {
   "איראן": 410,
-  "בינה מלאכותית": 115
+  "בינה מלאכותית": 119
  },
  "per_source": {
-  "מעריב": 67,
-  "YNET": 46,
-  "הארץ": 43,
-  "גלובס": 37,
-  "Vietnam.vn": 30,
-  "וואלה": 26,
+  "מעריב": 73,
+  "YNET": 43,
+  "הארץ": 39,
+  "גלובס": 36,
+  "Vietnam.vn": 33,
+  "וואלה": 28,
   "זמן ישראל": 25,
-  "mako": 23,
-  "כאן 11": 23,
-  "i24NEWS": 16,
-  "מקור ראשון": 15,
-  "JDN": 13,
-  "TheMarker": 10,
-  "סרוגים": 10,
-  "היום": 10,
-  "ynet": 8,
-  "בחדרי חרדים": 8,
-  "כיכר השבת": 8,
-  "אמס": 8,
-  "Google News (כל האתרים)": 7,
-  "רשת 13": 7,
-  "כלכליסט": 7,
+  "כאן 11": 20,
+  "mako": 18,
+  "i24NEWS": 17,
+  "מקור ראשון": 14,
+  "היום": 13,
+  "JDN": 12,
+  "ynet": 9,
+  "TheMarker": 9,
+  "בחדרי חרדים": 9,
+  "כיכר השבת": 9,
+  "אמס": 9,
+  "סרוגים": 8,
+  "כלכליסט": 8,
+  "פאנדר": 7,
   "N12": 6,
-  "פאנדר": 6,
+  "ערוץ 7": 6,
+  "C14": 6,
+  "רשת 13": 6,
+  "Google News (כל האתרים)": 6,
   "ביזפורטל": 6,
-  "ערוץ 7": 5,
+  "כיפה": 5,
   "אתר החדשות דבר": 4,
-  "אנשים ומחשבים": 4,
   "את\"צ": 4,
-  "אשדוד": 4,
   "חב״ד און ליין": 4,
-  "Investing.com": 4,
+  "The European Times": 4,
   "Microsoft": 4,
-  "C14": 4,
-  "עיריית ירושלים": 3,
+  "אשדוד": 4,
   "103FM": 3,
-  "כיפה": 3,
-  "The European Times": 3,
-  "تسنیم": 2,
-  "Gov.il": 2,
-  "וואלה טכנולוגיה": 2,
-  "haipo.co.il": 1,
-  "Jablíčkář.cz": 1,
-  "Mako": 1,
-  "המחדש": 1,
-  "Letem světem Applem": 1
+  "אנשים ומחשבים": 3,
+  "Investing.com": 3,
+  "Gov.il": 3,
+  "Mako": 3,
+  "וואלה טכנולוגיה": 3,
+  "עיריית ירושלים": 2,
+  "המחדש": 2,
+  "Letem světem Applem": 2,
+  "تسنیم": 1
  },
  "per_lean": {
-  "שמאל": 192,
-  "מרכז": 133,
-  "אחר": 114,
-  "ימין": 86
+  "שמאל": 178,
+  "מרכז": 142,
+  "אחר": 121,
+  "ימין": 88
  },
  "leads": [
   {
@@ -79,22 +77,22 @@
    "rank": 1
   },
   {
-   "id": "1e4cb00e3178c983",
-   "ts": "2026-11-05T18:23:22.981063+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "2157b1c75e2b9c50",
+   "ts": "2026-11-06T20:54:02.769888+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "16:41 פוטין נפגש בקרמלין עם מזכיר המועצה העליונה של איראן רזאי",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-05/ty-article-live/000001a1-a896-d041-a5f9-edb7c8700000?liveBlogItemId=1946317604",
-   "prominence": 3,
-   "rank": 9
+   "title": "תקיפה או המשך המו\"מ? ישראל ממתינה להחלטת טראמפ בצה\"ל העלו כוננות לקראת אפשרות של מערכה נוספת עם איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-dcdb1700deda1a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "f2e239218665fd39",
@@ -113,6 +111,24 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-11-05/ty-article-live/000001a1-a896-d041-a5f9-edb7c8700000?liveBlogItemId=1322438400",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "d05e23e5b1da7184",
+   "ts": "2026-11-06T20:54:02.769888+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "דיווח: רוסיה עשויה לספק לאיראן מערכות הגנה אוויריות מתקדמות",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
@@ -709,6 +725,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "2157b1c75e2b9c50",
+   "ts": "2026-11-06T20:54:02.769888+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "תקיפה או המשך המו\"מ? ישראל ממתינה להחלטת טראמפ בצה\"ל העלו כוננות לקראת אפשרות של מערכה נוספת עם איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-dcdb1700deda1a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "35a286d09cffec9f",
@@ -4096,6 +4130,38 @@
   },
   {
    "id": "f65aa5f7a65dc162",
+   "ts": "2026-11-06T20:54:02.769888+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ ג'וניור: \"המלחמה באיראן אחראית להפסד. זו לא תהיה מלחמת נצח\"",
+   "link": "https://www.ynet.co.il/news/article/syessli6fe"
+  },
+  {
+   "id": "aa1ee37f5a29f16a",
+   "ts": "2026-11-06T20:54:02.769888+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ספינות הקשורות לאיראן עקבו אחר כבלי תקשורת במפרץ: \"מתאים לפרופיל של הנחת מוקשים\"",
+   "link": "https://www.ynet.co.il/news/article/skhjaxitgx"
+  },
+  {
+   "id": "f65aa5f7a65dc162",
    "ts": "2026-11-06T13:43:20.426292+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5309,54 +5375,6 @@
    "lean": "left",
    "title": "בישראל מחממים מנועים לקראת בחירות האמצע: \"המו\"מ תקוע, איראן לא בדרך לפשרה\"",
    "link": "https://www.ynet.co.il/news/article/hkinj5xtgl"
-  },
-  {
-   "id": "e3df6275a7a77c1d",
-   "ts": "2026-11-01T00:26:04.922314+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מלחמה או הסכם: צה\"ל ערוך מול איראן - ומחכה להחלטה של טראמפ",
-   "link": "https://www.ynet.co.il/news/article/s1ecyympmg"
-  },
-  {
-   "id": "61ba106d6c853388",
-   "ts": "2026-11-01T00:26:04.922314+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
-   "link": "https://www.ynet.co.il/news/article/yokra14942037"
-  },
-  {
-   "id": "4c6efc155a8a2e2a",
-   "ts": "2026-11-01T00:26:04.922314+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מהלומה אפשרית באיראן: טראמפ ונתניהו לא חושבים על אותו הדבר",
-   "link": "https://www.ynet.co.il/news/article/hka00rqxpfe"
   }
  ]
 }
