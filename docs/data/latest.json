@@ -1,61 +1,62 @@
 {
- "generated": "2026-11-06T20:54:09.469712+03:00",
- "last_24h_total": 529,
+ "generated": "2026-11-07T02:00:47.247123+03:00",
+ "last_24h_total": 525,
  "per_target": {
-  "איראן": 410,
-  "בינה מלאכותית": 119
+  "איראן": 403,
+  "בינה מלאכותית": 122
  },
  "per_source": {
-  "מעריב": 73,
+  "מעריב": 76,
   "YNET": 43,
-  "הארץ": 39,
+  "Vietnam.vn": 38,
+  "הארץ": 37,
   "גלובס": 36,
-  "Vietnam.vn": 33,
-  "וואלה": 28,
-  "זמן ישראל": 25,
+  "זמן ישראל": 26,
+  "וואלה": 24,
   "כאן 11": 20,
-  "mako": 18,
-  "i24NEWS": 17,
-  "מקור ראשון": 14,
-  "היום": 13,
+  "mako": 13,
+  "מקור ראשון": 13,
+  "i24NEWS": 13,
   "JDN": 12,
+  "היום": 12,
+  "בחדרי חרדים": 10,
   "ynet": 9,
-  "TheMarker": 9,
-  "בחדרי חרדים": 9,
   "כיכר השבת": 9,
   "אמס": 9,
+  "כלכליסט": 9,
+  "TheMarker": 8,
   "סרוגים": 8,
-  "כלכליסט": 8,
-  "פאנדר": 7,
-  "N12": 6,
-  "ערוץ 7": 6,
-  "C14": 6,
-  "רשת 13": 6,
-  "Google News (כל האתרים)": 6,
-  "ביזפורטל": 6,
-  "כיפה": 5,
+  "פאנדר": 8,
+  "N12": 7,
+  "C14": 7,
+  "Mako": 7,
+  "ביזפורטל": 7,
+  "כיפה": 6,
+  "רשת 13": 5,
+  "Google News (כל האתרים)": 5,
+  "ערוץ 7": 4,
   "אתר החדשות דבר": 4,
-  "את\"צ": 4,
   "חב״ד און ליין": 4,
+  "את\"צ": 4,
+  "וואלה טכנולוגיה": 4,
   "The European Times": 4,
   "Microsoft": 4,
-  "אשדוד": 4,
-  "103FM": 3,
-  "אנשים ומחשבים": 3,
-  "Investing.com": 3,
-  "Gov.il": 3,
-  "Mako": 3,
-  "וואלה טכנולוגיה": 3,
-  "עיריית ירושלים": 2,
-  "המחדש": 2,
-  "Letem světem Applem": 2,
-  "تسنیم": 1
+  "אשדוד": 3,
+  "המחדש": 3,
+  "Letem světem Applem": 3,
+  "103FM": 2,
+  "אנשים ומחשבים": 2,
+  "Gov.il": 2,
+  "تسنیم": 2,
+  "עיריית ירושלים": 1,
+  "Investing.com": 1,
+  "Sortir à Paris": 1
  },
  "per_lean": {
-  "שמאל": 178,
-  "מרכז": 142,
-  "אחר": 121,
-  "ימין": 88
+  "שמאל": 166,
+  "מרכז": 139,
+  "אחר": 129,
+  "ימין": 91
  },
  "leads": [
   {
@@ -73,6 +74,24 @@
    "lean": "left",
    "title": "טראמפ על איראן: \"אולי אצטרך להרוס את מה שנותר\" נשיא ארה\"ב באיום חריף לקראת ההכרעה על המשך המערכה: \"הייתי מעדיף לא לעשות זאת, אם אפשר. אתם תדעו בקרוב מאוד\" ברק רביד |",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-4357fde749da1a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "c8276fc87745e02d",
+   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרטים חדשים כך ניסה נתניהו לקדם פעולה נגד איראן לפני הבחירות גורמי המקצוע התנגדו, למעט ראש המוסד שתמך. בגלל \"פזיזות\" של גורם ישראלי המהלך נודע לאמריקנים, שבלמו אותו מיד ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-8e62da6f0c1b1a1026.htm",
    "prominence": 10,
    "rank": 1
   },
@@ -95,22 +114,22 @@
    "rank": 2
   },
   {
-   "id": "f2e239218665fd39",
-   "ts": "2026-11-06T00:55:52.725440+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "fe215a546a7f4acc",
+   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "23:34 טראמפ: איראן לא עושה שום דבר בלי אישור מארה\"ב",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-05/ty-article-live/000001a1-a896-d041-a5f9-edb7c8700000?liveBlogItemId=1322438400",
-   "prominence": 3,
-   "rank": 8
+   "title": "איראן תקבל את מערכת הנ\"מ המתקדמת? המו\"מ והדרישה מפוטין אחרי שניסו במשך שנים, בטהראן אופטימיים: הפעם מוסקווה תאשר את העסקה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-3b39ba64ce1b1a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "d05e23e5b1da7184",
@@ -129,9 +148,63 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
    "prominence": 3,
    "rank": 10
+  },
+  {
+   "id": "318665021188e9d1",
+   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "23:51 סוכנות הידיעות הממלכתית של איראן: תושבים דיווחו על תקיפה באי קשם",
+   "link": "https://www.haaretz.co.il/2026-11-07/ty-article-live/000001a1-b2f7-dd7a-a3ed-f3f7a53d0000?liveBlogItemId=1053266953",
+   "prominence": 3,
+   "rank": 8
+  },
+  {
+   "id": "e9baa3473944acce",
+   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "דיווח: רוסיה עשויה לספק לאיראן מערכות הגנה אווירית מתקדמות",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
+  {
+   "id": "c8276fc87745e02d",
+   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרטים חדשים כך ניסה נתניהו לקדם פעולה נגד איראן לפני הבחירות גורמי המקצוע התנגדו, למעט ראש המוסד שתמך. בגלל \"פזיזות\" של גורם ישראלי המהלך נודע לאמריקנים, שבלמו אותו מיד ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-8e62da6f0c1b1a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "2819c4b8cbce1ba7",
    "ts": "2026-11-06T05:17:00.917157+03:00",
@@ -725,6 +798,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "fe215a546a7f4acc",
+   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "איראן תקבל את מערכת הנ\"מ המתקדמת? המו\"מ והדרישה מפוטין אחרי שניסו במשך שנים, בטהראן אופטימיים: הפעם מוסקווה תאשר את העסקה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-3b39ba64ce1b1a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "2157b1c75e2b9c50",
@@ -4129,6 +4220,22 @@
    "rank": 15
   },
   {
+   "id": "66c1861a202a3734",
+   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "אזהרה אמריקנית לשגרירות בירושלים: \"איראן מנסה לפגוע בבכירי ממשל\"",
+   "link": "https://www.ynet.co.il/news/article/hyhzpaitmg"
+  },
+  {
    "id": "f65aa5f7a65dc162",
    "ts": "2026-11-06T20:54:02.769888+03:00",
    "source": "ynet",
@@ -5327,54 +5434,6 @@
    "lean": "left",
    "title": "מלחמה או הסכם: צה\"ל ערוך מול איראן - ומחכה להחלטה של טראמפ",
    "link": "https://www.ynet.co.il/news/article/s1ecyympmg"
-  },
-  {
-   "id": "61ba106d6c853388",
-   "ts": "2026-11-01T04:01:33.731372+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גורם צבאי בכיר: היינו כפסע מפעולה התקפית באיראן - ואנחנו עדיין שם",
-   "link": "https://www.ynet.co.il/news/article/yokra14942037"
-  },
-  {
-   "id": "7f8344d45815a50e",
-   "ts": "2026-11-01T04:01:33.731372+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "התקדמות במגעים להסכם עם איראן? פרטי הטיוטה שנחשפו",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8079c1f021f81a1026.htm"
-  },
-  {
-   "id": "72f2809e56528579",
-   "ts": "2026-11-01T00:26:04.922314+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בישראל מחממים מנועים לקראת בחירות האמצע: \"המו\"מ תקוע, איראן לא בדרך לפשרה\"",
-   "link": "https://www.ynet.co.il/news/article/hkinj5xtgl"
   }
  ]
 }
