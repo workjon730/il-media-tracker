@@ -1,63 +1,64 @@
 {
- "generated": "2026-11-07T12:56:38.763215+03:00",
- "last_24h_total": 670,
+ "generated": "2026-11-07T19:20:52.016384+03:00",
+ "last_24h_total": 686,
  "per_target": {
-  "איראן": 503,
-  "בינה מלאכותית": 167
+  "איראן": 510,
+  "בינה מלאכותית": 176
  },
  "per_source": {
-  "מעריב": 99,
-  "Vietnam.vn": 61,
-  "YNET": 51,
-  "הארץ": 46,
-  "גלובס": 45,
-  "זמן ישראל": 39,
-  "וואלה": 28,
-  "כאן 11": 24,
-  "mako": 22,
-  "היום": 17,
-  "מקור ראשון": 14,
-  "סרוגים": 13,
-  "כלכליסט": 13,
-  "JDN": 12,
-  "כיכר השבת": 12,
+  "מעריב": 96,
+  "Vietnam.vn": 73,
+  "הארץ": 49,
+  "YNET": 49,
+  "זמן ישראל": 45,
+  "גלובס": 42,
+  "וואלה": 29,
+  "mako": 23,
+  "כאן 11": 20,
+  "היום": 18,
+  "כיכר השבת": 14,
+  "מקור ראשון": 13,
+  "N12": 12,
+  "סרוגים": 12,
+  "כלכליסט": 12,
   "TheMarker": 11,
+  "تسنیم": 11,
   "בחדרי חרדים": 10,
+  "JDN": 10,
   "אמס": 10,
-  "i24NEWS": 10,
   "C14": 10,
-  "פאנדר": 10,
-  "N12": 9,
-  "כיפה": 9,
+  "Mako": 9,
   "ביזפורטל": 9,
+  "פאנדר": 9,
   "ynet": 8,
-  "Mako": 7,
+  "כיפה": 8,
+  "i24NEWS": 7,
   "ערוץ 7": 6,
-  "تسنیم": 6,
   "חב״ד און ליין": 5,
-  "את\"צ": 5,
-  "וואלה טכנולוגיה": 5,
   "Google News (כל האתרים)": 5,
+  "וואלה טכנולוגיה": 5,
   "Microsoft": 5,
-  "Letem světem Applem": 5,
-  "המחדש": 4,
-  "אתר החדשות דבר": 4,
+  "Calcalist": 5,
+  "את\"צ": 4,
+  "Letem světem Applem": 4,
   "רשת 13": 4,
-  "The European Times": 3,
+  "המחדש": 3,
+  "אתר החדשות דבר": 3,
   "Gov.il": 3,
   "Sortir à Paris": 3,
+  "Investing.com": 3,
   "אשדוד": 2,
-  "Calcalist": 2,
-  "103FM": 1,
-  "אנשים ומחשבים": 1,
-  "Investing.com": 1,
-  "פוסטה": 1
+  "The European Times": 2,
+  "פוסטה": 2,
+  "הידברות": 1,
+  "HWzone": 1,
+  "חדשות 04": 1
  },
  "per_lean": {
-  "שמאל": 205,
-  "אחר": 174,
-  "מרכז": 172,
-  "ימין": 119
+  "שמאל": 210,
+  "אחר": 191,
+  "מרכז": 163,
+  "ימין": 122
  },
  "leads": [
   {
@@ -187,6 +188,42 @@
    "rank": 3
   },
   {
+   "id": "f3d1bc2feb2e6d20",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "חדשות השבת חדשות השבת רגע לפני הבחירות: המהלך שנתניהו ניסה לקדם נגד איראן הלחץ על איראן הולך וגובר, עשרות מ\"מ של גשם ירדו ברחבי הארץ: הכותרות מהסופ\"ש",
+   "link": "https://www.mako.co.il/news-israel/2026_q4/Article-4a096099516b1a1027.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "5a07bb7adc583f69",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "המצור על איראן מתרחב: המהלך החדש של צבא ארה\"ב כוח משימה חדש יפעל לשיבוש נתיבי הברחת הנשק דרך גבולותיה היבשתיים",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ad8dad2c636b1a1027.htm",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
    "id": "d05e23e5b1da7184",
    "ts": "2026-11-06T20:54:02.769888+03:00",
    "source": "haaretz",
@@ -225,42 +262,6 @@
   {
    "id": "e9baa3473944acce",
    "ts": "2026-11-07T02:00:40.003724+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "דיווח: רוסיה עשויה לספק לאיראן מערכות הגנה אווירית מתקדמות",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "e9baa3473944acce",
-   "ts": "2026-11-07T05:43:05.043608+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "דיווח: רוסיה עשויה לספק לאיראן מערכות הגנה אווירית מתקדמות",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "e9baa3473944acce",
-   "ts": "2026-11-07T12:56:31.428215+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -907,6 +908,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "f3d1bc2feb2e6d20",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "חדשות השבת חדשות השבת רגע לפני הבחירות: המהלך שנתניהו ניסה לקדם נגד איראן הלחץ על איראן הולך וגובר, עשרות מ\"מ של גשם ירדו ברחבי הארץ: הכותרות מהסופ\"ש",
+   "link": "https://www.mako.co.il/news-israel/2026_q4/Article-4a096099516b1a1027.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "5a07bb7adc583f69",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "המצור על איראן מתרחב: המהלך החדש של צבא ארה\"ב כוח משימה חדש יפעל לשיבוש נתיבי הברחת הנשק דרך גבולותיה היבשתיים",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ad8dad2c636b1a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "f6daba42f55e6653",
@@ -2617,6 +2654,42 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "26c0cf82a1a44adb",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "דיווח המתווה החדש לסיום המלחמה עם איראן נחשף",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c2bf049d9d5b1a1027.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
+   "id": "9a6e76e90ddc5f51",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "דיווח חזית מול איראן? סוריה החליטה להצטרף למלחמה בחות'ים",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c22357e4be2b1a1027.htm",
+   "prominence": 1,
+   "rank": 17
   },
   {
    "id": "97d3386ad95d6dca",
@@ -4383,6 +4456,70 @@
    "rank": 15
   },
   {
+   "id": "ab3f248bf7ba48da",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "התקדמות במו\"מ? המבצע החדש ל\"הרחבת המצור\" על איראן",
+   "link": "https://www.ynet.co.il/news/article/rkgxuo3azl"
+  },
+  {
+   "id": "be2fdb230fc49cac",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הרטוריקה המשתנה של טראמפ - ו\"כרטיס היציאה\" מאיראן: \"פרס של 20 מיליון דולר\"",
+   "link": "https://www.ynet.co.il/news/article/rk0jlo2pml"
+  },
+  {
+   "id": "66c1861a202a3734",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "אזהרה אמריקנית לשגרירות בירושלים: \"איראן מנסה לפגוע בבכירי ממשל\"",
+   "link": "https://www.ynet.co.il/news/article/hyhzpaitmg"
+  },
+  {
+   "id": "82a73f93ce651612",
+   "ts": "2026-11-07T19:20:45.977226+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ואנס פועל מאחורי הקלעים להשגת הסכם עם איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d20207ed763b1a1026.htm"
+  },
+  {
    "id": "66c1861a202a3734",
    "ts": "2026-11-07T12:56:31.428215+03:00",
    "source": "ynet",
@@ -5405,134 +5542,6 @@
    "lean": "left",
    "title": "הרצי הלוי: התפיסה הייתה שחמאס לא רוצה מלחמה - העדיפות הייתה איראן",
    "link": "https://www.ynet.co.il/news/article/b15as11b6mg"
-  },
-  {
-   "id": "5904cdbab0c118f3",
-   "ts": "2026-11-02T02:30:46.024752+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "00:04 נערכים להסלמה: כמה טילים איראן יכולה לכוון לישראל",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-1030294321991a1027.htm"
-  },
-  {
-   "id": "50503e3987cb1939",
-   "ts": "2026-11-02T02:30:46.024752+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השיחה שרבים קיבלו: \"מקור הפעילות באיראן\" 31.10.26 דנה גוטרזון",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-19e0a9e23b391a1026.htm"
-  },
-  {
-   "id": "c6b1ff3066f32151",
-   "ts": "2026-11-01T22:33:39.837621+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הרצי הלוי: התפיסה הייתה שחמאס לא רוצה מלחמה - העדיפות הייתה איראן",
-   "link": "https://www.ynet.co.il/news/article/b15as11b6mg"
-  },
-  {
-   "id": "bb135ee79ae2a596",
-   "ts": "2026-11-01T22:33:39.837621+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כל מלחמה שנגמרת עם איראן היא רק פרומו לבאה",
-   "link": "https://www.ynet.co.il/news/article/r115iieamg"
-  },
-  {
-   "id": "50503e3987cb1939",
-   "ts": "2026-11-01T22:33:39.837621+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השיחה שרבים קיבלו: \"מקור הפעילות באיראן\" 31.10.26 דנה גוטרזון",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-19e0a9e23b391a1026.htm"
-  },
-  {
-   "id": "bb135ee79ae2a596",
-   "ts": "2026-11-01T17:59:22.499023+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כל מלחמה שנגמרת עם איראן היא רק פרומו לבאה",
-   "link": "https://www.ynet.co.il/news/article/r115iieamg"
-  },
-  {
-   "id": "c75420efb516ff06",
-   "ts": "2026-11-01T17:59:22.499023+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "יאיר גולן: \"לנתניהו אין אמון ציבורי למערכה באיראן, להקים ממשלה חלופית מהר\"",
-   "link": "https://www.ynet.co.il/news/article/r1lbmlvtme"
-  },
-  {
-   "id": "3cb8879bcd46ac85",
-   "ts": "2026-11-01T17:59:22.499023+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו וטראמפ דיברו, הנשיא: \"נותרו לאיראן אתר או שניים. נטפל ב-10 דקות\"",
-   "link": "https://www.ynet.co.il/news/article/hkinj5xtgl"
   }
  ]
 }
