@@ -1,60 +1,63 @@
 {
- "generated": "2026-11-07T05:43:11.145157+03:00",
- "last_24h_total": 529,
+ "generated": "2026-11-07T12:56:38.763215+03:00",
+ "last_24h_total": 670,
  "per_target": {
-  "איראן": 401,
-  "בינה מלאכותית": 128
+  "איראן": 503,
+  "בינה מלאכותית": 167
  },
  "per_source": {
-  "מעריב": 79,
-  "Vietnam.vn": 45,
-  "YNET": 41,
-  "הארץ": 36,
-  "גלובס": 36,
-  "זמן ישראל": 27,
-  "וואלה": 22,
-  "כאן 11": 21,
-  "mako": 13,
-  "מקור ראשון": 13,
-  "היום": 13,
-  "JDN": 11,
-  "כלכליסט": 11,
-  "כיכר השבת": 10,
-  "בחדרי חרדים": 9,
-  "i24NEWS": 9,
-  "סרוגים": 9,
-  "C14": 9,
-  "TheMarker": 8,
-  "אמס": 8,
-  "כיפה": 8,
-  "פאנדר": 8,
-  "ynet": 7,
-  "N12": 7,
-  "ביזפורטל": 7,
+  "מעריב": 99,
+  "Vietnam.vn": 61,
+  "YNET": 51,
+  "הארץ": 46,
+  "גלובס": 45,
+  "זמן ישראל": 39,
+  "וואלה": 28,
+  "כאן 11": 24,
+  "mako": 22,
+  "היום": 17,
+  "מקור ראשון": 14,
+  "סרוגים": 13,
+  "כלכליסט": 13,
+  "JDN": 12,
+  "כיכר השבת": 12,
+  "TheMarker": 11,
+  "בחדרי חרדים": 10,
+  "אמס": 10,
+  "i24NEWS": 10,
+  "C14": 10,
+  "פאנדר": 10,
+  "N12": 9,
+  "כיפה": 9,
+  "ביזפורטל": 9,
+  "ynet": 8,
   "Mako": 7,
-  "ערוץ 7": 5,
+  "ערוץ 7": 6,
+  "تسنیم": 6,
+  "חב״ד און ליין": 5,
+  "את\"צ": 5,
+  "וואלה טכנולוגיה": 5,
+  "Google News (כל האתרים)": 5,
+  "Microsoft": 5,
+  "Letem světem Applem": 5,
   "המחדש": 4,
   "אתר החדשות דבר": 4,
   "רשת 13": 4,
-  "חב״ד און ליין": 4,
-  "את\"צ": 4,
-  "וואלה טכנולוגיה": 4,
-  "Google News (כל האתרים)": 4,
-  "Microsoft": 4,
-  "Letem světem Applem": 4,
   "The European Times": 3,
-  "تسنیم": 3,
+  "Gov.il": 3,
+  "Sortir à Paris": 3,
   "אשדוד": 2,
-  "Gov.il": 2,
-  "Sortir à Paris": 2,
+  "Calcalist": 2,
   "103FM": 1,
-  "אנשים ומחשבים": 1
+  "אנשים ומחשבים": 1,
+  "Investing.com": 1,
+  "פוסטה": 1
  },
  "per_lean": {
-  "שמאל": 159,
-  "מרכז": 138,
-  "אחר": 136,
-  "ימין": 96
+  "שמאל": 205,
+  "אחר": 174,
+  "מרכז": 172,
+  "ימין": 119
  },
  "leads": [
   {
@@ -148,6 +151,42 @@
    "rank": 4
   },
   {
+   "id": "97d3386ad95d6dca",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ אישר שארה\"ב תקפה באי קשם באיראן: \"פעולה מינורית\"",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-07/ty-article/000001a1-b4db-d041-a5f9-f5fbcd370000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "f6daba42f55e6653",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "20 מיליון דולר וכרטיס יציאה: ההצעה של טראמפ לאיראנים בזמן המגעים להסכם: ארה\"ב מחפשת מידע על תוכנית הגרעין של איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f06eac7225b1a1026.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
    "id": "d05e23e5b1da7184",
    "ts": "2026-11-06T20:54:02.769888+03:00",
    "source": "haaretz",
@@ -204,6 +243,24 @@
   {
    "id": "e9baa3473944acce",
    "ts": "2026-11-07T05:43:05.043608+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "דיווח: רוסיה עשויה לספק לאיראן מערכות הגנה אווירית מתקדמות",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
+   "prominence": 3,
+   "rank": 10
+  },
+  {
+   "id": "e9baa3473944acce",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -850,6 +907,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "f6daba42f55e6653",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "20 מיליון דולר וכרטיס יציאה: ההצעה של טראמפ לאיראנים בזמן המגעים להסכם: ארה\"ב מחפשת מידע על תוכנית הגרעין של איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f06eac7225b1a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "fe215a546a7f4acc",
@@ -2542,6 +2617,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "97d3386ad95d6dca",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ אישר שארה\"ב תקפה באי קשם באיראן: \"פעולה מינורית\"",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-07/ty-article/000001a1-b4db-d041-a5f9-f5fbcd370000",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "71fe0403077809fb",
@@ -4291,6 +4384,38 @@
   },
   {
    "id": "66c1861a202a3734",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "אזהרה אמריקנית לשגרירות בירושלים: \"איראן מנסה לפגוע בבכירי ממשל\"",
+   "link": "https://www.ynet.co.il/news/article/hyhzpaitmg"
+  },
+  {
+   "id": "82a73f93ce651612",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ואנס פועל מאחורי הקלעים להשגת הסכם עם איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d20207ed763b1a1026.htm"
+  },
+  {
+   "id": "66c1861a202a3734",
    "ts": "2026-11-07T05:43:05.043608+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5408,70 +5533,6 @@
    "lean": "left",
    "title": "נתניהו וטראמפ דיברו, הנשיא: \"נותרו לאיראן אתר או שניים. נטפל ב-10 דקות\"",
    "link": "https://www.ynet.co.il/news/article/hkinj5xtgl"
-  },
-  {
-   "id": "64daf137b48f2383",
-   "ts": "2026-11-01T17:59:22.499023+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השיחה שרבים קיבלו: \"מקור הפעילות באיראן\"",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-19e0a9e23b391a1026.htm"
-  },
-  {
-   "id": "c75420efb516ff06",
-   "ts": "2026-11-01T10:25:48.421503+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "יאיר גולן: \"לנתניהו אין אמון ציבורי למערכה באיראן, להקים ממשלה חלופית מהר\"",
-   "link": "https://www.ynet.co.il/news/article/r1lbmlvtme"
-  },
-  {
-   "id": "3cb8879bcd46ac85",
-   "ts": "2026-11-01T10:25:48.421503+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נתניהו וטראמפ דיברו, הנשיא: \"נותרו לאיראן אתר או שניים. נטפל ב-10 דקות\"",
-   "link": "https://www.ynet.co.il/news/article/hkinj5xtgl"
-  },
-  {
-   "id": "e3df6275a7a77c1d",
-   "ts": "2026-11-01T10:25:48.421503+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מלחמה או הסכם: צה\"ל ערוך מול איראן - ומחכה להחלטה של טראמפ",
-   "link": "https://www.ynet.co.il/news/article/s1ecyympmg"
   }
  ]
 }
