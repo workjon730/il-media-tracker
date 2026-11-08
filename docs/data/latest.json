@@ -1,104 +1,68 @@
 {
- "generated": "2026-11-08T18:03:01.942509+03:00",
- "last_24h_total": 711,
+ "generated": "2026-11-08T22:33:53.911194+03:00",
+ "last_24h_total": 710,
  "per_target": {
-  "איראן": 516,
-  "בינה מלאכותית": 195
+  "איראן": 511,
+  "בינה מלאכותית": 199
  },
  "per_source": {
-  "Vietnam.vn": 82,
-  "מעריב": 66,
-  "זמן ישראל": 56,
-  "הארץ": 53,
+  "Vietnam.vn": 79,
+  "מעריב": 65,
+  "הארץ": 50,
+  "זמן ישראל": 50,
   "YNET": 44,
-  "تسنیم": 28,
-  "mako": 26,
-  "גלובס": 25,
-  "וואלה": 21,
-  "כיכר השבת": 21,
-  "היום": 19,
-  "בחדרי חרדים": 17,
+  "تسنیم": 27,
+  "גלובס": 26,
+  "mako": 24,
+  "כיכר השבת": 24,
+  "וואלה": 20,
+  "היום": 18,
   "אמס": 17,
+  "בחדרי חרדים": 16,
+  "i24NEWS": 15,
   "Investing.com": 15,
-  "i24NEWS": 14,
+  "מקור ראשון": 14,
+  "כלכליסט": 14,
   "ynet": 13,
-  "מקור ראשון": 13,
+  "כיפה": 13,
   "Calcalist": 13,
-  "כלכליסט": 13,
   "TheMarker": 11,
-  "כיפה": 11,
+  "סרוגים": 11,
+  "כאן 11": 10,
   "JDN": 10,
   "רשת 13": 10,
-  "N12": 9,
-  "סרוגים": 9,
-  "כאן 11": 8,
-  "ביזפורטל": 8,
-  "ערוץ 7": 7,
-  "הידברות": 6,
-  "C14": 5,
-  "פאנדר": 5,
-  "HWzone": 5,
-  "Google News (כל האתרים)": 5,
-  "וואלה טכנולוגיה": 5,
+  "ערוץ 7": 9,
+  "הידברות": 8,
+  "N12": 6,
+  "המחדש": 6,
+  "C14": 6,
+  "Google News (כל האתרים)": 6,
+  "ביזפורטל": 6,
+  "אתר החדשות דבר": 5,
   "פוסטה": 5,
+  "פאנדר": 5,
+  "וואלה טכנולוגיה": 5,
+  "HWzone": 5,
   "Microsoft": 5,
-  "Mako": 4,
-  "חדשות 04": 4,
-  "המחדש": 4,
-  "אתר החדשות דבר": 4,
-  "אשדוד": 3,
-  "אפוק": 3,
+  "אפוק": 4,
+  "Mako": 3,
+  "חדשות 04": 3,
+  "Gov.il": 3,
+  "אשדוד": 2,
   "103FM": 2,
-  "Gov.il": 2,
-  "חב״ד און ליין": 1,
+  "INSS": 2,
+  "Israel Defense": 2,
   "עניין מרכזי": 1,
-  "INSS": 1,
-  "Israel Defense": 1,
-  "עמית סגל (טלגרם)": 1
+  "עמית סגל (טלגרם)": 1,
+  "Sortir à Paris": 1
  },
  "per_lean": {
-  "אחר": 235,
-  "שמאל": 208,
-  "ימין": 142,
+  "אחר": 239,
+  "שמאל": 201,
+  "ימין": 144,
   "מרכז": 126
  },
  "leads": [
-  {
-   "id": "f3d1bc2feb2e6d20",
-   "ts": "2026-11-07T19:20:45.977226+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "חדשות השבת חדשות השבת רגע לפני הבחירות: המהלך שנתניהו ניסה לקדם נגד איראן הלחץ על איראן הולך וגובר, עשרות מ\"מ של גשם ירדו ברחבי הארץ: הכותרות מהסופ\"ש",
-   "link": "https://www.mako.co.il/news-israel/2026_q4/Article-4a096099516b1a1027.htm",
-   "prominence": 5,
-   "rank": 3
-  },
-  {
-   "id": "5a07bb7adc583f69",
-   "ts": "2026-11-07T19:20:45.977226+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "המצור על איראן מתרחב: המהלך החדש של צבא ארה\"ב כוח משימה חדש יפעל לשיבוש נתיבי הברחת הנשק דרך גבולותיה היבשתיים",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ad8dad2c636b1a1027.htm",
-   "prominence": 5,
-   "rank": 4
-  },
   {
    "id": "cd3c4dc33fda162a",
    "ts": "2026-11-07T23:49:29.687638+03:00",
@@ -114,6 +78,42 @@
    "lean": "left",
    "title": "דיווח באיראן: פיצוצים נשמעו בכמה מוקדים באזור מצר הורמוז",
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-07/ty-article/.premium/000001a1-b7a8-deb0-a9b5-ffab12110000",
+   "prominence": 5,
+   "rank": 5
+  },
+  {
+   "id": "f2ef2ddddf1feccc",
+   "ts": "2026-11-08T22:33:45.888296+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הדיווחים וההצהרות שחושפים: כך איראן נערכת למלחמה הבקשה מפוטין, האיומים על אירופה והעיסוק החריג בנשק גרעיני",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-efbf0239e3ab1a1026.htm",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "fea34f42bfb7b92f",
+   "ts": "2026-11-08T22:33:45.888296+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "אחרי הבחירות: המסר של טראמפ לנתניהו לגבי עזה השניים שוחחו, גם לגבי איראן; בכיר אמריקני: זקוקים לשיתוף פעולה",
+   "link": "https://www.mako.co.il/news-diplomatic/2026_q4/Article-6c729e8681cb1a1026.htm",
    "prominence": 5,
    "rank": 5
   },
@@ -784,6 +784,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "f2ef2ddddf1feccc",
+   "ts": "2026-11-08T22:33:45.888296+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הדיווחים וההצהרות שחושפים: כך איראן נערכת למלחמה הבקשה מפוטין, האיומים על אירופה והעיסוק החריג בנשק גרעיני",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-efbf0239e3ab1a1026.htm",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "fea34f42bfb7b92f",
+   "ts": "2026-11-08T22:33:45.888296+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "אחרי הבחירות: המסר של טראמפ לנתניהו לגבי עזה השניים שוחחו, גם לגבי איראן; בכיר אמריקני: זקוקים לשיתוף פעולה",
+   "link": "https://www.mako.co.il/news-diplomatic/2026_q4/Article-6c729e8681cb1a1026.htm",
+   "prominence": 5,
+   "rank": 5
   },
   {
    "id": "f3d1bc2feb2e6d20",
@@ -4350,6 +4386,54 @@
    "rank": 15
   },
   {
+   "id": "44f97f22648164c3",
+   "ts": "2026-11-08T22:33:45.888296+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ארה\"ב סימנה גשרים באיראן, טראמפ: \"סיכוי נמוך שאורה לחזור למלחמה\"",
+   "link": "https://www.ynet.co.il/news/article/hyrsmn0pzg"
+  },
+  {
+   "id": "89f0f54cfdd1dc24",
+   "ts": "2026-11-08T22:33:45.888296+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המאבק בבית הלבן: הגסת' שואף למלחמה באיראן, ואנס מתנגד - וטראמפ משנה את דעתו",
+   "link": "https://www.ynet.co.il/news/article/ry5fvyatze"
+  },
+  {
+   "id": "c715b00a2342b73f",
+   "ts": "2026-11-08T22:33:45.888296+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שרה נתניהו: \"אין לי גישה למידע ביטחוני, גם לא על תקיפה באיראן\"",
+   "link": "https://www.ynet.co.il/news/article/bkdt11ya6fe"
+  },
+  {
    "id": "c715b00a2342b73f",
    "ts": "2026-11-08T18:02:55.564942+03:00",
    "source": "ynet",
@@ -5340,86 +5424,6 @@
    "lean": "left",
    "title": "המטרה במערכה הבאה נגד איראן - סיום שלטון האייתוללות אל\"מ במיל' קובי מרום",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-70c69ac82b0a1a1027.htm"
-  },
-  {
-   "id": "0bf2fa838cad9d9d",
-   "ts": "2026-11-04T04:15:59.620613+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השמרנים באיראן חוגגים: האם קאליבאף \"הודח\" מתפקידו?",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b1c1a43a70a1a1027.htm"
-  },
-  {
-   "id": "06d737fbf88ba064",
-   "ts": "2026-11-03T23:55:45.170558+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ניו יורק טיימס: ישראל הזהירה את ארה\"ב שאיראן שוקלת להשתמש בנשק כימי נגד יריבותיה",
-   "link": "https://www.ynet.co.il/news/article/bk9czip6gl"
-  },
-  {
-   "id": "425b61190febb50a",
-   "ts": "2026-11-03T23:55:45.170558+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המטרה במערכה הבאה נגד איראן - סיום שלטון האייתוללות אל\"מ במיל' קובי מרום",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-70c69ac82b0a1a1027.htm"
-  },
-  {
-   "id": "0bf2fa838cad9d9d",
-   "ts": "2026-11-03T23:55:45.170558+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השמרנים באיראן חוגגים: האם קאליבאף \"הודח\" מתפקידו?",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b1c1a43a70a1a1027.htm"
-  },
-  {
-   "id": "8d6c3b80cc26f8b9",
-   "ts": "2026-11-03T18:00:07.026821+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "התקיפות האמריקניות החשאיות, וחמשת העקרונות של איראן: \"הסכם? עוד רחוק\"",
-   "link": "https://www.ynet.co.il/news/article/skc6x11pafl"
   }
  ]
 }
