@@ -1,86 +1,69 @@
 {
- "generated": "2026-11-08T22:33:53.911194+03:00",
- "last_24h_total": 710,
+ "generated": "2026-11-09T02:39:02.423748+03:00",
+ "last_24h_total": 704,
  "per_target": {
-  "איראן": 511,
-  "בינה מלאכותית": 199
+  "איראן": 510,
+  "בינה מלאכותית": 194
  },
  "per_source": {
-  "Vietnam.vn": 79,
-  "מעריב": 65,
-  "הארץ": 50,
-  "זמן ישראל": 50,
-  "YNET": 44,
-  "تسنیم": 27,
-  "גלובס": 26,
+  "Vietnam.vn": 76,
+  "מעריב": 68,
+  "הארץ": 44,
+  "זמן ישראל": 44,
+  "YNET": 42,
+  "גלובס": 25,
+  "כיכר השבת": 25,
+  "تسنیم": 25,
   "mako": 24,
-  "כיכר השבת": 24,
-  "וואלה": 20,
-  "היום": 18,
-  "אמס": 17,
-  "בחדרי חרדים": 16,
-  "i24NEWS": 15,
-  "Investing.com": 15,
+  "וואלה": 21,
+  "אמס": 18,
+  "היום": 17,
+  "i24NEWS": 16,
+  "בחדרי חרדים": 14,
+  "כיפה": 14,
   "מקור ראשון": 14,
-  "כלכליסט": 14,
-  "ynet": 13,
-  "כיפה": 13,
+  "סרוגים": 13,
   "Calcalist": 13,
-  "TheMarker": 11,
-  "סרוגים": 11,
-  "כאן 11": 10,
-  "JDN": 10,
-  "רשת 13": 10,
-  "ערוץ 7": 9,
-  "הידברות": 8,
-  "N12": 6,
-  "המחדש": 6,
-  "C14": 6,
-  "Google News (כל האתרים)": 6,
-  "ביזפורטל": 6,
+  "כלכליסט": 13,
+  "ynet": 12,
+  "TheMarker": 12,
+  "Investing.com": 12,
+  "ערוץ 7": 11,
+  "כאן 11": 11,
+  "C14": 11,
+  "הידברות": 10,
+  "JDN": 9,
+  "רשת 13": 9,
+  "N12": 7,
+  "המחדש": 7,
+  "Google News (כל האתרים)": 7,
   "אתר החדשות דבר": 5,
-  "פוסטה": 5,
-  "פאנדר": 5,
-  "וואלה טכנולוגיה": 5,
   "HWzone": 5,
+  "וואלה טכנולוגיה": 5,
+  "פאנדר": 5,
+  "פוסטה": 5,
   "Microsoft": 5,
   "אפוק": 4,
-  "Mako": 3,
-  "חדשות 04": 3,
-  "Gov.il": 3,
-  "אשדוד": 2,
+  "ביזפורטל": 4,
+  "Gov.il": 4,
+  "INSS": 3,
+  "Israel Defense": 3,
+  "Mako": 2,
+  "חדשות 04": 2,
   "103FM": 2,
-  "INSS": 2,
-  "Israel Defense": 2,
+  "Sortir à Paris": 2,
   "עניין מרכזי": 1,
+  "אשדוד": 1,
   "עמית סגל (טלגרם)": 1,
-  "Sortir à Paris": 1
+  "חב״ד און ליין": 1
  },
  "per_lean": {
-  "אחר": 239,
-  "שמאל": 201,
+  "אחר": 237,
+  "שמאל": 195,
   "ימין": 144,
-  "מרכז": 126
+  "מרכז": 128
  },
  "leads": [
-  {
-   "id": "cd3c4dc33fda162a",
-   "ts": "2026-11-07T23:49:29.687638+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "דיווח באיראן: פיצוצים נשמעו בכמה מוקדים באזור מצר הורמוז",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-07/ty-article/.premium/000001a1-b7a8-deb0-a9b5-ffab12110000",
-   "prominence": 5,
-   "rank": 5
-  },
   {
    "id": "f2ef2ddddf1feccc",
    "ts": "2026-11-08T22:33:45.888296+03:00",
@@ -118,8 +101,8 @@
    "rank": 5
   },
   {
-   "id": "372d16c3113b82c2",
-   "ts": "2026-11-07T23:49:29.687638+03:00",
+   "id": "343584e44afa32fd",
+   "ts": "2026-11-09T02:38:54.528043+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -130,28 +113,10 @@
    ],
    "score": 14,
    "lean": "left",
-   "title": "22:16 דיווח באיראן: פיצוצים נשמעו בכמה מוקדים באזור מצר הורמוז",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-07/ty-article-live/000001a1-b2f7-dd7a-a3ed-f3f7a53d0000?liveBlogItemId=104276154",
+   "title": "00:35 טראמפ: כוח \"שער הברזל\" פועל במלוא עוצמתו באיראן, מעט מאוד נכנס אליה או יוצא ממנה",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-09/ty-article-live/000001a1-bd3c-d146-ada9-fd3d2e540000?liveBlogItemId=1261463529",
    "prominence": 3,
-   "rank": 9
-  },
-  {
-   "id": "4efc23c362c41378",
-   "ts": "2026-11-07T23:49:29.687638+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "21:34 דיווח בטהראן: פיצוצים נשמעו באי קשם שבאיראן",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-07/ty-article-live/000001a1-b2f7-dd7a-a3ed-f3f7a53d0000?liveBlogItemId=1889833175",
-   "prominence": 3,
-   "rank": 10
+   "rank": 8
   }
  ],
  "items": [
@@ -2568,6 +2533,42 @@
    "rank": 9
   },
   {
+   "id": "5cb27c975fab1c0d",
+   "ts": "2026-11-09T02:38:54.528043+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "הדיווחים וההצהרות שחושפים: כך איראן נערכת למלחמה",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-efbf0239e3ab1a1026.htm",
+   "prominence": 1,
+   "rank": 12
+  },
+  {
+   "id": "224f76e084b92deb",
+   "ts": "2026-11-09T02:38:54.528043+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:00 טראמפ מסביר: זה הסיכוי שאתן פקודה לתקוף שוב באיראן בקרוב",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-836f0c2e46cb1a1027.htm",
+   "prominence": 1,
+   "rank": 15
+  },
+  {
    "id": "cd3c4dc33fda162a",
    "ts": "2026-11-07T23:49:29.687638+03:00",
    "source": "haaretz",
@@ -4386,6 +4387,54 @@
    "rank": 15
   },
   {
+   "id": "326b5bfb06e2d4b4",
+   "ts": "2026-11-09T02:38:54.528043+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "באיראן מאשימים את ארה\"ב בתקיפה באי בהורמוז; טראמפ: סיכוי נמוך שאורה לחזור ללחימה",
+   "link": "https://www.ynet.co.il/news/article/hyrsmn0pzg"
+  },
+  {
+   "id": "89f0f54cfdd1dc24",
+   "ts": "2026-11-09T02:38:54.528043+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המאבק בבית הלבן: הגסת' שואף למלחמה באיראן, ואנס מתנגד - וטראמפ משנה את דעתו",
+   "link": "https://www.ynet.co.il/news/article/ry5fvyatze"
+  },
+  {
+   "id": "c715b00a2342b73f",
+   "ts": "2026-11-09T02:38:54.528043+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שרה נתניהו: \"אין לי גישה למידע ביטחוני, גם לא על תקיפה באיראן\"",
+   "link": "https://www.ynet.co.il/news/article/bkdt11ya6fe"
+  },
+  {
    "id": "44f97f22648164c3",
    "ts": "2026-11-08T22:33:45.888296+03:00",
    "source": "ynet",
@@ -5332,86 +5381,6 @@
   {
    "id": "425b61190febb50a",
    "ts": "2026-11-04T12:01:30.633184+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המטרה במערכה הבאה נגד איראן - סיום שלטון האייתוללות אל\"מ במיל' קובי מרום",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-70c69ac82b0a1a1027.htm"
-  },
-  {
-   "id": "0ff799d13034a1f0",
-   "ts": "2026-11-04T12:01:30.633184+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השמרנים באיראן חוגגים: האם קאליבאף \"הודח\" מתפקידו? 03.11.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b1c1a43a70a1a1027.htm"
-  },
-  {
-   "id": "7080c813c6afd6c6",
-   "ts": "2026-11-04T12:01:30.633184+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הדולר בשיא שלא נראה מפרוץ המלחמה נגד איראן - זו הסיבה",
-   "link": "https://www.mako.co.il/news-money/2026_q4/Article-74b88951aa5a1a1027.htm"
-  },
-  {
-   "id": "a2930ef06de1a91d",
-   "ts": "2026-11-04T04:15:59.620613+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווח: ארה\"ב נערכת למתקפה באיראן \"עוד היום\"; טראמפ: \"לא מתכנן לתקוף מיידית\"",
-   "link": "https://www.ynet.co.il/news/article/r1csw2v6ze"
-  },
-  {
-   "id": "06d737fbf88ba064",
-   "ts": "2026-11-04T04:15:59.620613+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ניו יורק טיימס: ישראל הזהירה את ארה\"ב שאיראן שוקלת להשתמש בנשק כימי נגד יריבותיה",
-   "link": "https://www.ynet.co.il/news/article/bk9czip6gl"
-  },
-  {
-   "id": "425b61190febb50a",
-   "ts": "2026-11-04T04:15:59.620613+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
