@@ -1,84 +1,67 @@
 {
- "generated": "2026-11-07T23:49:37.288583+03:00",
- "last_24h_total": 701,
+ "generated": "2026-11-08T03:28:00.646219+03:00",
+ "last_24h_total": 711,
  "per_target": {
-  "איראן": 519,
-  "בינה מלאכותית": 182
+  "איראן": 524,
+  "בינה מלאכותית": 187
  },
  "per_source": {
-  "מעריב": 90,
-  "Vietnam.vn": 78,
-  "הארץ": 54,
-  "זמן ישראל": 50,
-  "YNET": 47,
-  "גלובס": 38,
-  "mako": 27,
-  "וואלה": 26,
-  "היום": 18,
-  "כאן 11": 17,
-  "تسنیم": 16,
-  "כיכר השבת": 15,
+  "Vietnam.vn": 82,
+  "מעריב": 81,
+  "הארץ": 56,
+  "זמן ישראל": 55,
+  "YNET": 45,
+  "גלובס": 33,
+  "mako": 30,
+  "וואלה": 25,
+  "تسنیم": 21,
+  "היום": 19,
+  "כיכר השבת": 17,
+  "בחדרי חרדים": 13,
+  "אמס": 13,
   "כלכליסט": 13,
-  "N12": 12,
-  "סרוגים": 12,
-  "מקור ראשון": 12,
+  "ynet": 12,
+  "כאן 11": 12,
   "TheMarker": 11,
-  "בחדרי חרדים": 11,
+  "N12": 11,
   "JDN": 11,
-  "אמס": 11,
-  "ynet": 10,
-  "C14": 9,
+  "סרוגים": 11,
+  "מקור ראשון": 11,
+  "Calcalist": 10,
+  "Investing.com": 10,
   "ביזפורטל": 9,
-  "Mako": 8,
+  "i24NEWS": 9,
   "כיפה": 8,
-  "פאנדר": 8,
-  "Calcalist": 8,
-  "רשת 13": 7,
-  "i24NEWS": 6,
-  "Investing.com": 6,
+  "רשת 13": 8,
+  "C14": 7,
+  "פאנדר": 7,
+  "ערוץ 7": 6,
+  "Mako": 5,
   "Google News (כל האתרים)": 5,
   "וואלה טכנולוגיה": 5,
   "Microsoft": 5,
-  "ערוץ 7": 5,
-  "חב״ד און ליין": 4,
+  "פוסטה": 4,
   "אתר החדשות דבר": 3,
   "המחדש": 3,
-  "את\"צ": 3,
-  "Sortir à Paris": 3,
-  "Letem světem Applem": 3,
-  "פוסטה": 3,
+  "חב״ד און ליין": 3,
+  "הידברות": 3,
+  "HWzone": 3,
+  "אשדוד": 3,
+  "חדשות 04": 3,
+  "את\"צ": 2,
+  "Sortir à Paris": 2,
+  "Letem světem Applem": 2,
   "Gov.il": 2,
-  "הידברות": 2,
-  "HWzone": 2,
-  "אשדוד": 2,
-  "חדשות 04": 2,
-  "The European Times": 1
+  "אפוק": 1,
+  "עניין מרכזי": 1
  },
  "per_lean": {
-  "שמאל": 219,
-  "אחר": 202,
-  "מרכז": 152,
-  "ימין": 128
+  "שמאל": 220,
+  "אחר": 216,
+  "מרכז": 142,
+  "ימין": 133
  },
  "leads": [
-  {
-   "id": "c8276fc87745e02d",
-   "ts": "2026-11-07T02:00:40.003724+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "פרטים חדשים כך ניסה נתניהו לקדם פעולה נגד איראן לפני הבחירות גורמי המקצוע התנגדו, למעט ראש המוסד שתמך. בגלל \"פזיזות\" של גורם ישראלי המהלך נודע לאמריקנים, שבלמו אותו מיד ניר דבורי |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-8e62da6f0c1b1a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "c8276fc87745e02d",
    "ts": "2026-11-07T05:43:05.043608+03:00",
@@ -96,24 +79,6 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-8e62da6f0c1b1a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "fe215a546a7f4acc",
-   "ts": "2026-11-07T02:00:40.003724+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "איראן תקבל את מערכת הנ\"מ המתקדמת? המו\"מ והדרישה מפוטין אחרי שניסו במשך שנים, בטהראן אופטימיים: הפעם מוסקווה תאשר את העסקה",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-3b39ba64ce1b1a1027.htm",
-   "prominence": 5,
-   "rank": 4
   },
   {
    "id": "fe215a546a7f4acc",
@@ -224,26 +189,8 @@
    "rank": 5
   },
   {
-   "id": "318665021188e9d1",
-   "ts": "2026-11-07T02:00:40.003724+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "23:51 סוכנות הידיעות הממלכתית של איראן: תושבים דיווחו על תקיפה באי קשם",
-   "link": "https://www.haaretz.co.il/2026-11-07/ty-article-live/000001a1-b2f7-dd7a-a3ed-f3f7a53d0000?liveBlogItemId=1053266953",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
    "id": "e9baa3473944acce",
-   "ts": "2026-11-07T02:00:40.003724+03:00",
+   "ts": "2026-11-07T05:43:05.043608+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -261,7 +208,7 @@
   },
   {
    "id": "e9baa3473944acce",
-   "ts": "2026-11-07T05:43:05.043608+03:00",
+   "ts": "2026-11-07T12:56:31.428215+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -274,6 +221,42 @@
    "lean": "left",
    "title": "דיווח: רוסיה עשויה לספק לאיראן מערכות הגנה אווירית מתקדמות",
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-06/ty-article/.premium/000001a1-b1cf-d041-a5f9-f5ef9ee80000",
+   "prominence": 3,
+   "rank": 10
+  },
+  {
+   "id": "372d16c3113b82c2",
+   "ts": "2026-11-07T23:49:29.687638+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "22:16 דיווח באיראן: פיצוצים נשמעו בכמה מוקדים באזור מצר הורמוז",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-07/ty-article-live/000001a1-b2f7-dd7a-a3ed-f3f7a53d0000?liveBlogItemId=104276154",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
+   "id": "4efc23c362c41378",
+   "ts": "2026-11-07T23:49:29.687638+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "21:34 דיווח בטהראן: פיצוצים נשמעו באי קשם שבאיראן",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-07/ty-article-live/000001a1-b2f7-dd7a-a3ed-f3f7a53d0000?liveBlogItemId=1889833175",
    "prominence": 3,
    "rank": 10
   }
@@ -4475,6 +4458,70 @@
   },
   {
    "id": "e0fa7ec8ebb17ff4",
+   "ts": "2026-11-08T03:27:54.151296+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן וישראל היו חלק מהצונאמי הכחול בארה\"ב, אבל זה ממש לא כל הסיפור",
+   "link": "https://www.ynet.co.il/news/article/h1fz5a26gl"
+  },
+  {
+   "id": "ab3f248bf7ba48da",
+   "ts": "2026-11-08T03:27:54.151296+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "התקדמות במו\"מ? המבצע החדש ל\"הרחבת המצור\" על איראן",
+   "link": "https://www.ynet.co.il/news/article/rkgxuo3azl"
+  },
+  {
+   "id": "be2fdb230fc49cac",
+   "ts": "2026-11-08T03:27:54.151296+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הרטוריקה המשתנה של טראמפ - ו\"כרטיס היציאה\" מאיראן: \"פרס של 20 מיליון דולר\"",
+   "link": "https://www.ynet.co.il/news/article/rk0jlo2pml"
+  },
+  {
+   "id": "82a73f93ce651612",
+   "ts": "2026-11-08T03:27:54.151296+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ואנס פועל מאחורי הקלעים להשגת הסכם עם איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d20207ed763b1a1026.htm"
+  },
+  {
+   "id": "e0fa7ec8ebb17ff4",
    "ts": "2026-11-07T23:49:29.687638+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5480,70 +5527,6 @@
    "lean": "left",
    "title": "תקיפה באיראן מתקרבת? הבחירות הגורליות מעבר לים והלחץ של נתניהו",
    "link": "https://www.ynet.co.il/news/article/bjy9gi8tfg"
-  },
-  {
-   "id": "9dbfc28822f770fb",
-   "ts": "2026-11-03T02:26:16.423282+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "חמינאי נתן סמכויות לשיחות, \"מדינות ערב לאיראן: עשויים לתקוף יחד אם תפגעו בתשתיות\"",
-   "link": "https://www.ynet.co.il/news/article/rjv8squtmx"
-  },
-  {
-   "id": "50503e3987cb1939",
-   "ts": "2026-11-03T02:26:16.423282+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השיחה שרבים קיבלו: \"מקור הפעילות באיראן\" 31.10.26 דנה גוטרזון",
-   "link": "https://www.mako.co.il/news-money/tech12/Article-19e0a9e23b391a1026.htm"
-  },
-  {
-   "id": "d81208fabb78480f",
-   "ts": "2026-11-02T18:37:47.238383+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המובילות ואלה שקיבלו 0 קולות: כך הצביעו משפחות הטייסים שתקפו באיראן",
-   "link": "https://www.ynet.co.il/news/article/rjhrp3raze"
-  },
-  {
-   "id": "879632e765daed1b",
-   "ts": "2026-11-02T18:37:47.238383+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טאקר קרלסון: \"נתניהו נואש, ומפעיל לחץ כבד על טראמפ לתקוף את איראן בגרעין\"",
-   "link": "https://www.ynet.co.il/news/article/hj1ejhhtgx"
   }
  ]
 }
