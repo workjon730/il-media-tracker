@@ -1,66 +1,69 @@
 {
- "generated": "2026-11-09T09:07:26.609121+03:00",
- "last_24h_total": 702,
+ "generated": "2026-11-09T20:23:34.467174+03:00",
+ "last_24h_total": 558,
  "per_target": {
-  "איראן": 513,
-  "בינה מלאכותית": 189
+  "איראן": 423,
+  "בינה מלאכותית": 135
  },
  "per_source": {
-  "Vietnam.vn": 72,
-  "מעריב": 67,
-  "זמן ישראל": 45,
-  "YNET": 44,
-  "הארץ": 38,
-  "גלובס": 26,
+  "Vietnam.vn": 56,
+  "מעריב": 54,
+  "זמן ישראל": 41,
+  "YNET": 36,
+  "הארץ": 29,
   "וואלה": 25,
-  "mako": 25,
-  "כיכר השבת": 25,
-  "تسنیم": 20,
-  "היום": 18,
-  "i24NEWS": 16,
-  "אמס": 16,
+  "גלובס": 22,
+  "mako": 19,
+  "כיכר השבת": 18,
+  "כאן 11": 15,
   "C14": 15,
-  "כיפה": 15,
-  "Calcalist": 15,
-  "מקור ראשון": 14,
-  "סרוגים": 14,
-  "ynet": 13,
-  "כאן 11": 13,
-  "TheMarker": 12,
-  "ערוץ 7": 12,
-  "בחדרי חרדים": 12,
-  "כלכליסט": 12,
-  "הידברות": 11,
+  "i24NEWS": 12,
+  "סרוגים": 12,
+  "היום": 12,
+  "ynet": 11,
+  "TheMarker": 11,
+  "تسنیم": 11,
+  "Calcalist": 11,
+  "הידברות": 10,
+  "כיפה": 10,
+  "ערוץ 7": 10,
+  "בחדרי חרדים": 10,
   "N12": 9,
-  "רשת 13": 9,
-  "Investing.com": 9,
-  "המחדש": 8,
-  "Google News (כל האתרים)": 8,
-  "JDN": 6,
-  "אתר החדשות דבר": 5,
-  "Microsoft": 5,
-  "פוסטה": 5,
-  "HWzone": 5,
-  "Gov.il": 5,
-  "וואלה טכנולוגיה": 4,
-  "פאנדר": 4,
+  "אמס": 9,
+  "Google News (כל האתרים)": 7,
+  "מקור ראשון": 7,
+  "רשת 13": 7,
+  "המחדש": 7,
+  "כלכליסט": 6,
+  "Investing.com": 5,
   "INSS": 4,
-  "Israel Defense": 4,
-  "103FM": 3,
-  "אפוק": 3,
-  "ביזפורטל": 3,
-  "Sortir à Paris": 3,
-  "חדשות 04": 1,
-  "עמית סגל (טלגרם)": 1,
+  "JDN": 4,
+  "פאנדר": 4,
+  "Microsoft": 4,
+  "Sortir à Paris": 4,
+  "פוסטה": 4,
+  "Israel Defense": 3,
+  "אתר החדשות דבר": 3,
+  "HWzone": 3,
+  "Gov.il": 3,
+  "וואלה טכנולוגיה": 2,
+  "103FM": 2,
+  "ביזפורטל": 2,
+  "אפוק": 1,
   "Mako": 1,
   "חב״ד און ליין": 1,
-  "תל אביב אונליין": 1
+  "תל אביב אונליין": 1,
+  "אייס": 1,
+  "جريدة القدس": 1,
+  "GOV.IL": 1,
+  "חדשות חיפה": 1,
+  "מגדלור ניוז": 1
  },
  "per_lean": {
-  "אחר": 223,
-  "שמאל": 203,
-  "ימין": 146,
-  "מרכז": 130
+  "שמאל": 173,
+  "אחר": 165,
+  "ימין": 117,
+  "מרכז": 103
  },
  "leads": [
   {
@@ -134,6 +137,42 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-11-09/ty-article-live/000001a1-bd3c-d146-ada9-fd3d2e540000?liveBlogItemId=1261463529",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "2c858859d36bfacf",
+   "ts": "2026-11-09T20:23:26.947475+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "\"יהיו השלכות\": צרפת מאשימה את איראן במתקפת הסייבר על מקררים במרכולים",
+   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-09/ty-article/.premium/000001a1-c12f-d29f-afb5-d37faf520000",
+   "prominence": 3,
+   "rank": 10
+  },
+  {
+   "id": "cae8195055db1778",
+   "ts": "2026-11-09T20:23:26.947475+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "מכיוון לא צפוי: צרפת במתקפה חריפה על איראן מקררים עלו באש, עשרות ק\"ג של בשר נזרקו: שר החוץ מאיים - \"היא תישא בהשלכות\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-714ef425431c1a1026.htm",
+   "prominence": 3,
+   "rank": 6
   }
  ],
  "items": [
@@ -2044,6 +2083,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "cae8195055db1778",
+   "ts": "2026-11-09T20:23:26.947475+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "מכיוון לא צפוי: צרפת במתקפה חריפה על איראן מקררים עלו באש, עשרות ק\"ג של בשר נזרקו: שר החוץ מאיים - \"היא תישא בהשלכות\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-714ef425431c1a1026.htm",
+   "prominence": 3,
+   "rank": 6
   },
   {
    "id": "23c6c82d83172303",
@@ -4440,6 +4497,38 @@
    "rank": 15
   },
   {
+   "id": "c92f770ad19bcdf8",
+   "ts": "2026-11-09T20:23:26.947475+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "צרפת: איראן ביצעה את מתקפת \"המקררים הלוהטים\" נגד סופרמרקטים בשטחנו",
+   "link": "https://www.ynet.co.il/news/article/sy011bokcge"
+  },
+  {
+   "id": "00d142dd4d353e95",
+   "ts": "2026-11-09T20:23:26.947475+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "העלונים עם מסר מאיים שפוזרו בת\"א - והקשר שנבדק לאיראן 15:04 אדר גיציס, יולן כהן",
+   "link": "https://www.mako.co.il/news-law/2026_q4/Article-878b9b6f660c1a1026.htm"
+  },
+  {
    "id": "83fc04c37de7d63c",
    "ts": "2026-11-09T09:07:19.227928+03:00",
    "source": "ynet",
@@ -5366,54 +5455,6 @@
    "lean": "left",
    "title": "\"מטריית התמיכה מלאה חורים\": הלעג לטראמפ באיראן - וה\"מסר\" מחמינאי",
    "link": "https://www.ynet.co.il/news/article/rywaz0000azg"
-  },
-  {
-   "id": "0c34219a434617d3",
-   "ts": "2026-11-04T20:07:26.402309+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "האזהרה לאחר הזיהוי בישראל - וההבהרה: \"אין כרגע באיראן יכולת כימית שמאיימת עלינו\"",
-   "link": "https://www.ynet.co.il/news/article/sy8mmidpfx"
-  },
-  {
-   "id": "95b3d6c95efea0cb",
-   "ts": "2026-11-04T20:07:26.402309+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לעג באיראן לטראמפ \"התברר שמטריית ההגנה של טראמפ מחוררת בשיא הסערה\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-92da584f985a1a1026.htm"
-  },
-  {
-   "id": "425b61190febb50a",
-   "ts": "2026-11-04T20:07:26.402309+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המטרה במערכה הבאה נגד איראן - סיום שלטון האייתוללות אל\"מ במיל' קובי מרום",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-70c69ac82b0a1a1027.htm"
   }
  ]
 }
