@@ -1,72 +1,73 @@
 {
- "generated": "2026-11-10T20:41:45.868169+03:00",
- "last_24h_total": 405,
+ "generated": "2026-11-11T02:11:38.660193+03:00",
+ "last_24h_total": 542,
  "per_target": {
-  "איראן": 310,
-  "בינה מלאכותית": 95
+  "איראן": 413,
+  "בינה מלאכותית": 129
  },
  "per_source": {
-  "מעריב": 34,
-  "הארץ": 27,
-  "Vietnam.vn": 26,
-  "YNET": 22,
-  "וואלה": 19,
-  "זמן ישראל": 19,
-  "כאן 11": 18,
-  "גלובס": 16,
-  "mako": 14,
-  "בחדרי חרדים": 12,
-  "Calcalist": 12,
-  "היום": 12,
-  "סרוגים": 11,
-  "C14": 11,
-  "ערוץ 7": 11,
-  "i24NEWS": 10,
-  "מקור ראשון": 9,
-  "ynet": 8,
-  "כיכר השבת": 8,
-  "TheMarker": 7,
-  "Investing.com": 7,
-  "N12": 6,
-  "הידברות": 6,
-  "Israel Defense": 6,
+  "מעריב": 40,
+  "הארץ": 34,
+  "YNET": 32,
+  "Vietnam.vn": 31,
+  "וואלה": 26,
+  "זמן ישראל": 26,
+  "כאן 11": 24,
+  "גלובס": 21,
+  "mako": 19,
+  "בחדרי חרדים": 17,
+  "Calcalist": 16,
+  "C14": 16,
+  "i24NEWS": 15,
+  "ערוץ 7": 15,
+  "סרוגים": 14,
+  "כיכר השבת": 14,
+  "ynet": 13,
+  "מקור ראשון": 13,
+  "היום": 13,
+  "Israel Defense": 10,
+  "TheMarker": 9,
+  "הידברות": 8,
+  "Investing.com": 8,
+  "N12": 7,
+  "تسنیم": 7,
+  "JDN": 6,
+  "Google News (כל האתרים)": 6,
+  "פאנדר": 6,
   "המחדש": 5,
-  "تسنیم": 5,
-  "JDN": 4,
+  "אנשים ומחשבים": 5,
   "אמס": 4,
-  "Google News (כל האתרים)": 4,
-  "פאנדר": 4,
+  "INSS": 4,
+  "GOV.IL": 4,
+  "Hayadan": 4,
+  "וואלה טכנולוגיה": 4,
+  "חדשות חיפה": 4,
+  "מגדלור ניוז": 4,
+  "haipo.co.il": 4,
+  "gov.il": 4,
   "ביזפורטל": 3,
   "US Central Command (.mil)": 3,
-  "INSS": 3,
-  "GOV.IL": 3,
-  "Hayadan": 3,
-  "וואלה טכנולוגיה": 3,
-  "חדשות חיפה": 3,
-  "מגדלור ניוז": 3,
-  "אנשים ומחשבים": 3,
+  "Microsoft": 3,
+  "אפוק": 3,
   "פוסטה": 2,
-  "Microsoft": 2,
-  "אפוק": 2,
-  "haipo.co.il": 2,
-  "gov.il": 2,
+  "אתר החדשות דבר": 2,
+  "ספונסר": 2,
+  "כל העיר ירושלים": 2,
+  "HWzone": 2,
   "רשת 13": 1,
   "103FM": 1,
   "Sortir à Paris": 1,
-  "אתר החדשות דבר": 1,
   "PassportNews": 1,
   "Gadgety": 1,
   "ספורט 1": 1,
-  "ספונסר": 1,
   "חרדים10": 1,
-  "כל העיר ירושלים": 1,
-  "HWzone": 1
+  "ישראל היום": 1
  },
  "per_lean": {
-  "שמאל": 134,
-  "אחר": 124,
-  "ימין": 74,
-  "מרכז": 73
+  "שמאל": 181,
+  "אחר": 164,
+  "ימין": 106,
+  "מרכז": 91
  },
  "leads": [
   {
@@ -140,6 +141,42 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-11-09/ty-article/000001a1-c24e-df80-a9e3-e6fe47620000",
    "prominence": 3,
    "rank": 10
+  },
+  {
+   "id": "fa48019764655dae",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "מומחה: איראן פיתחה טיל בעל יכולות תמרון מתקדמות",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-10/ty-article/000001a1-c669-df80-a9e3-e6fddc1d0000",
+   "prominence": 3,
+   "rank": 6
+  },
+  {
+   "id": "904717cd256d1b1c",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "חשיפה שוב עימות בצמרת: המחלוקת בין נתניהו לזמיר סביב איראן הרמטכ\"ל התריע: הפעולות שרה\"מ מבקש אינן זהירות, ועלולות להצית מערכה חדשה",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-7131482da96c1a1027.htm",
+   "prominence": 3,
+   "rank": 6
   }
  ],
  "items": [
@@ -2050,6 +2087,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "904717cd256d1b1c",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "חשיפה שוב עימות בצמרת: המחלוקת בין נתניהו לזמיר סביב איראן הרמטכ\"ל התריע: הפעולות שרה\"מ מבקש אינן זהירות, ועלולות להצית מערכה חדשה",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-7131482da96c1a1027.htm",
+   "prominence": 3,
+   "rank": 6
   },
   {
    "id": "cae8195055db1778",
@@ -4590,6 +4645,86 @@
    "rank": 15
   },
   {
+   "id": "8a2d67dd422d5ad5",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הסבב הבא ייראה אחרת: הפקת הלקחים של איראן - והיתרון היחסי שאותו תנסה לנצל",
+   "link": "https://www.ynet.co.il/news/article/hybpucgrfl"
+  },
+  {
+   "id": "3da31ee8658d6a15",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "תעלומת רצח בביירות: חבר פרלמנט עיראקי שהתנגד לאיראן \"פותה לדירה\" ונמצא מת",
+   "link": "https://www.ynet.co.il/news/article/bymhybbafe"
+  },
+  {
+   "id": "40aaa4b9fde19033",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"שיחת צעקות מהגיהינום\": העימות בין נתניהו לטראמפ על איראן - וההכחשה",
+   "link": "https://www.ynet.co.il/news/article/by2vanlrgl"
+  },
+  {
+   "id": "cc2b8eb226a6000d",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
+   "link": "https://www.ynet.co.il/news/article/syqkajgamx"
+  },
+  {
+   "id": "d0e8aa84e909ef30",
+   "ts": "2026-11-11T02:11:31.021849+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "גם ההכנות לאיראן נפגעות: כך משפיע המשבר התקציבי על החייל בקצה",
+   "link": "https://www.ynet.co.il/news/article/hyvtp5l0zg"
+  },
+  {
    "id": "cc2b8eb226a6000d",
    "ts": "2026-11-10T20:41:38.187625+03:00",
    "source": "ynet",
@@ -5340,102 +5475,6 @@
    "lean": "left",
    "title": "ספינות הקשורות לאיראן עקבו אחר כבלי תקשורת במפרץ: \"מתאים לפרופיל של הנחת מוקשים\"",
    "link": "https://www.ynet.co.il/news/article/skhjaxitgx"
-  },
-  {
-   "id": "f65aa5f7a65dc162",
-   "ts": "2026-11-06T13:43:20.426292+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ ג'וניור: \"המלחמה באיראן אחראית להפסד. זו לא תהיה מלחמת נצח\"",
-   "link": "https://www.ynet.co.il/news/article/syessli6fe"
-  },
-  {
-   "id": "aa1ee37f5a29f16a",
-   "ts": "2026-11-06T13:43:20.426292+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ספינות הקשורות לאיראן עקבו אחר כבלי תקשורת במפרץ: \"מתאים לפרופיל של הנחת מוקשים\"",
-   "link": "https://www.ynet.co.il/news/article/skhjaxitgx"
-  },
-  {
-   "id": "fe9a185cb857ee39",
-   "ts": "2026-11-06T13:43:20.426292+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
-   "link": "https://www.ynet.co.il/news/article/yokra14950309"
-  },
-  {
-   "id": "4815d05cd8d4db96",
-   "ts": "2026-11-06T13:43:20.426292+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לפני 23 דקות האיום החדש של איראן: התנועות החריגות מעל כבלי התקשורת",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-b785331ee40b1a1027.htm"
-  },
-  {
-   "id": "959ad51a1cb0bed1",
-   "ts": "2026-11-06T13:43:20.426292+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ על איראן: \"אולי אצטרך להרוס את מה שנותר מהמדינה\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4357fde749da1a1026.htm"
-  },
-  {
-   "id": "fe9a185cb857ee39",
-   "ts": "2026-11-06T05:17:00.917157+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
-   "link": "https://www.ynet.co.il/news/article/yokra14950309"
   }
  ]
 }
