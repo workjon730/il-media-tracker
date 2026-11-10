@@ -1,68 +1,71 @@
 {
- "generated": "2026-11-10T12:39:37.765517+03:00",
- "last_24h_total": 402,
+ "generated": "2026-11-10T20:41:45.868169+03:00",
+ "last_24h_total": 405,
  "per_target": {
-  "איראן": 315,
-  "בינה מלאכותית": 87
+  "איראן": 310,
+  "בינה מלאכותית": 95
  },
  "per_source": {
-  "מעריב": 35,
-  "Vietnam.vn": 33,
-  "זמן ישראל": 30,
+  "מעריב": 34,
   "הארץ": 27,
-  "YNET": 23,
-  "וואלה": 20,
-  "כאן 11": 19,
+  "Vietnam.vn": 26,
+  "YNET": 22,
+  "וואלה": 19,
+  "זמן ישראל": 19,
+  "כאן 11": 18,
   "גלובס": 16,
   "mako": 14,
   "בחדרי חרדים": 12,
+  "Calcalist": 12,
+  "היום": 12,
   "סרוגים": 11,
-  "היום": 10,
-  "TheMarker": 9,
-  "i24NEWS": 9,
-  "ערוץ 7": 8,
-  "C14": 8,
-  "Investing.com": 8,
-  "Calcalist": 8,
-  "ynet": 7,
+  "C14": 11,
+  "ערוץ 7": 11,
+  "i24NEWS": 10,
+  "מקור ראשון": 9,
+  "ynet": 8,
+  "כיכר השבת": 8,
+  "TheMarker": 7,
+  "Investing.com": 7,
   "N12": 6,
-  "כיכר השבת": 6,
   "הידברות": 6,
+  "Israel Defense": 6,
   "המחדש": 5,
-  "JDN": 5,
-  "אמס": 5,
   "تسنیم": 5,
-  "מקור ראשון": 5,
-  "ביזפורטל": 4,
+  "JDN": 4,
+  "אמס": 4,
+  "Google News (כל האתרים)": 4,
   "פאנדר": 4,
+  "ביזפורטל": 3,
+  "US Central Command (.mil)": 3,
   "INSS": 3,
-  "Google News (כל האתרים)": 3,
   "GOV.IL": 3,
+  "Hayadan": 3,
+  "וואלה טכנולוגיה": 3,
   "חדשות חיפה": 3,
   "מגדלור ניוז": 3,
-  "פוסטה": 3,
-  "Israel Defense": 3,
-  "103FM": 2,
-  "רשת 13": 2,
-  "Sortir à Paris": 2,
+  "אנשים ומחשבים": 3,
+  "פוסטה": 2,
   "Microsoft": 2,
-  "US Central Command (.mil)": 2,
-  "Hayadan": 2,
-  "וואלה טכנולוגיה": 2,
-  "אייס": 1,
-  "جريدة القدس": 1,
-  "כיפה": 1,
+  "אפוק": 2,
+  "haipo.co.il": 2,
+  "gov.il": 2,
+  "רשת 13": 1,
+  "103FM": 1,
+  "Sortir à Paris": 1,
   "אתר החדשות דבר": 1,
-  "אנשים ומחשבים": 1,
-  "אפוק": 1,
   "PassportNews": 1,
-  "haipo.co.il": 1,
-  "Gadgety": 1
+  "Gadgety": 1,
+  "ספורט 1": 1,
+  "ספונסר": 1,
+  "חרדים10": 1,
+  "כל העיר ירושלים": 1,
+  "HWzone": 1
  },
  "per_lean": {
-  "שמאל": 135,
-  "אחר": 116,
-  "ימין": 78,
+  "שמאל": 134,
+  "אחר": 124,
+  "ימין": 74,
   "מרכז": 73
  },
  "leads": [
@@ -101,42 +104,6 @@
    "link": "https://www.haaretz.co.il/opinions/2026-11-09/ty-article-opinion/.premium/000001a1-c12a-dd2c-a3b7-f56ed2860000",
    "prominence": 5,
    "rank": 4
-  },
-  {
-   "id": "2c858859d36bfacf",
-   "ts": "2026-11-09T20:23:26.947475+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "\"יהיו השלכות\": צרפת מאשימה את איראן במתקפת הסייבר על מקררים במרכולים",
-   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-09/ty-article/.premium/000001a1-c12f-d29f-afb5-d37faf520000",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "cae8195055db1778",
-   "ts": "2026-11-09T20:23:26.947475+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "מכיוון לא צפוי: צרפת במתקפה חריפה על איראן מקררים עלו באש, עשרות ק\"ג של בשר נזרקו: שר החוץ מאיים - \"היא תישא בהשלכות\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-714ef425431c1a1026.htm",
-   "prominence": 3,
-   "rank": 6
   },
   {
    "id": "b6f5fdd6b2c7cefe",
@@ -2625,6 +2592,42 @@
    "rank": 9
   },
   {
+   "id": "196257620fc386c1",
+   "ts": "2026-11-10T20:41:38.187625+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "האפשרות לתקיפה נוספת באיראן: תמונת מצב",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8008c9e7605c1a1027.htm",
+   "prominence": 1,
+   "rank": 15
+  },
+  {
+   "id": "63bc17cde2513915",
+   "ts": "2026-11-10T20:41:38.187625+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 31 דקות החשש בעיראק: מלחמה בין ארה\"ב לאיראן תוביל לפלישה קרקעית",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-fb08bbfd166c1a1027.htm",
+   "prominence": 1,
+   "rank": 19
+  },
+  {
    "id": "86e2a43e226bb0c4",
    "ts": "2026-11-10T12:39:31.023259+03:00",
    "source": "haaretz",
@@ -4587,6 +4590,38 @@
    "rank": 15
   },
   {
+   "id": "cc2b8eb226a6000d",
+   "ts": "2026-11-10T20:41:38.187625+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
+   "link": "https://www.ynet.co.il/news/article/syqkajgamx"
+  },
+  {
+   "id": "d0e8aa84e909ef30",
+   "ts": "2026-11-10T20:41:38.187625+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "גם ההכנות לאיראן נפגעות: כך משפיע המשבר התקציבי על החייל בקצה",
+   "link": "https://www.ynet.co.il/news/article/hyvtp5l0zg"
+  },
+  {
    "id": "7ee53c58849766dd",
    "ts": "2026-11-10T12:39:31.023259+03:00",
    "source": "ynet",
@@ -5401,70 +5436,6 @@
    "lean": "left",
    "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
    "link": "https://www.ynet.co.il/news/article/yokra14950309"
-  },
-  {
-   "id": "83fc04c37de7d63c",
-   "ts": "2026-11-06T05:17:00.917157+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הסלמה מול איראן? ממתינים לקולות החיילים",
-   "link": "https://www.ynet.co.il/news/article/yokra14949028"
-  },
-  {
-   "id": "95d80f5da5b90a7f",
-   "ts": "2026-11-06T05:17:00.917157+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"אי אפשר לחזות מה טראמפ יחליט\": צה\"ל נערך לאפשרות של חידוש הלחימה באיראן",
-   "link": "https://www.ynet.co.il/news/article/hjdyqfq6fx"
-  },
-  {
-   "id": "40b002e2bb7fa04e",
-   "ts": "2026-11-06T05:17:00.917157+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "23:42 טראמפ על איראן: \"מעדיף שלא להרוס את מה שנותר מהמדינה, אבל אולי אצטרך לעשות זאת. תדעו בקרוב מאוד\"",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w01/shorts-3ad2fde749da1a1026.htm"
-  },
-  {
-   "id": "95d80f5da5b90a7f",
-   "ts": "2026-11-06T00:55:52.725440+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"אי אפשר לחזות מה טראמפ יחליט\": צה\"ל נערך לאפשרות של חידוש הלחימה באיראן",
-   "link": "https://www.ynet.co.il/news/article/hjdyqfq6fx"
   }
  ]
 }
