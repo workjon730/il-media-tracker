@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-12T00:21:01.890543+03:00",
- "last_24h_total": 555,
+ "generated": "2026-11-12T05:52:34.666392+03:00",
+ "last_24h_total": 556,
  "per_target": {
-  "איראן": 406,
-  "בינה מלאכותית": 149
+  "איראן": 400,
+  "בינה מלאכותית": 156
  },
  "per_source": {
-  "YNET": 38,
-  "מעריב": 33,
-  "הארץ": 27,
-  "כיכר השבת": 26,
-  "כאן 11": 25,
-  "וואלה": 24,
-  "Vietnam.vn": 24,
-  "בחדרי חרדים": 23,
-  "זמן ישראל": 23,
-  "C14": 21,
-  "mako": 20,
+  "מעריב": 38,
+  "YNET": 37,
+  "הארץ": 25,
+  "כיכר השבת": 25,
+  "כאן 11": 24,
+  "וואלה": 23,
+  "C14": 23,
+  "Vietnam.vn": 23,
+  "בחדרי חרדים": 22,
+  "mako": 21,
+  "זמן ישראל": 21,
   "Israel Defense": 19,
-  "גלובס": 18,
-  "Calcalist": 16,
-  "מקור ראשון": 15,
-  "N12": 13,
-  "ערוץ 7": 13,
-  "סרוגים": 13,
-  "ynet": 12,
-  "i24NEWS": 11,
+  "מקור ראשון": 16,
+  "גלובס": 16,
+  "סרוגים": 15,
+  "Calcalist": 15,
+  "N12": 14,
+  "تسنیم": 11,
+  "Investing.com": 11,
+  "ערוץ 7": 10,
+  "ynet": 9,
   "הידברות": 9,
   "TheMarker": 8,
-  "gov.il": 8,
   "פאנדר": 8,
-  "تسنیم": 8,
-  "Investing.com": 8,
-  "JDN": 7,
-  "Google News (כל האתרים)": 6,
+  "i24NEWS": 7,
+  "ביזפורטל": 7,
+  "אמס": 7,
+  "gov.il": 6,
+  "JDN": 6,
   "היום": 6,
-  "haipo.co.il": 6,
+  "GOV.IL": 6,
+  "וואלה טכנולוגיה": 6,
   "אתר החדשות דבר": 5,
-  "וואלה טכנולוגיה": 5,
-  "INSS": 4,
-  "אנשים ומחשבים": 4,
-  "GOV.IL": 4,
-  "Hayadan": 4,
+  "Google News (כל האתרים)": 5,
+  "haipo.co.il": 5,
   "ספונסר": 4,
-  "כל העיר ירושלים": 4,
+  "Hayadan": 4,
   "חדשות חיפה": 4,
+  "כל העיר ירושלים": 4,
   "HWzone": 4,
-  "ביזפורטל": 4,
-  "Microsoft": 3,
+  "אייס": 4,
+  "INSS": 3,
   "רשת 13": 3,
-  "אמס": 3,
-  "אפוק": 2,
-  "מגדלור ניוז": 2,
-  "PORT2PORT": 2,
-  "אייס": 2,
-  "ישראל היום": 1,
+  "PORT2PORT": 3,
+  "Microsoft": 3,
+  "המחדש": 3,
+  "אנשים ומחשבים": 2,
+  "BE106": 2,
+  "מגדלור ניוז": 1,
+  "אפוק": 1,
   "Gadgety": 1,
-  "המחדש": 1,
-  "BE106": 1
+  "תל אביב אונליין": 1
  },
  "per_lean": {
-  "שמאל": 186,
-  "אחר": 170,
+  "שמאל": 179,
+  "אחר": 178,
   "ימין": 128,
   "מרכז": 71
  },
@@ -83,42 +83,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-4986db2b8d8c1a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "fa48019764655dae",
-   "ts": "2026-11-11T02:11:31.021849+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 14,
-   "lean": "left",
-   "title": "מומחה: איראן פיתחה טיל בעל יכולות תמרון מתקדמות",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-10/ty-article/000001a1-c669-df80-a9e3-e6fddc1d0000",
-   "prominence": 3,
-   "rank": 6
-  },
-  {
-   "id": "904717cd256d1b1c",
-   "ts": "2026-11-11T02:11:31.021849+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "חשיפה שוב עימות בצמרת: המחלוקת בין נתניהו לזמיר סביב איראן הרמטכ\"ל התריע: הפעולות שרה\"מ מבקש אינן זהירות, ועלולות להצית מערכה חדשה",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-7131482da96c1a1027.htm",
-   "prominence": 3,
-   "rank": 6
   },
   {
    "id": "90ae76a3e1b6cd5c",
@@ -2643,6 +2607,24 @@
    "rank": 9
   },
   {
+   "id": "d7d1405b96eba237",
+   "ts": "2026-11-12T05:52:26.861510+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:00 הקווים האדומים של ישראל מול איראן",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-3b7815a792cc1a1026.htm",
+   "prominence": 1,
+   "rank": 13
+  },
+  {
    "id": "071a85cbb2046072",
    "ts": "2026-11-12T00:20:55.641892+03:00",
    "source": "n12",
@@ -4750,6 +4732,54 @@
   },
   {
    "id": "8c6d6c1827427fff",
+   "ts": "2026-11-12T05:52:26.861510+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "התכנסות הקבינט, ההתנגדות האמריקנית: לנתניהו מותר לצאת למלחמה באיראן?",
+   "link": "https://www.ynet.co.il/news/article/bjdmvezcgl"
+  },
+  {
+   "id": "b24c451d38340caa",
+   "ts": "2026-11-12T05:52:26.861510+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ירי, טיפוס על חבל ואומגה: מחנה האימונים החדש לנשים בטהרן",
+   "link": "https://www.ynet.co.il/news/article/ryz00e11mrml"
+  },
+  {
+   "id": "d992187d5675de52",
+   "ts": "2026-11-12T05:52:26.861510+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ארה\"ב מגבירה את התקיפות, איראן תקפה בעומאן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-84366cc1789c1a1026.htm"
+  },
+  {
+   "id": "8c6d6c1827427fff",
    "ts": "2026-11-12T00:20:55.641892+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5403,70 +5433,6 @@
    "lean": "",
    "title": "כ״ץ מצטרף לנתניהו: “מדינת ישראל נחושה יותר מתמיד להקדים תרופה למכה. מאמצי איראן חמורים ומעמידים אותנו בסכנה ממשית. זה זמן של אחדות״",
    "link": "https://t.me/amitsegal/66939"
-  },
-  {
-   "id": "969e54a99327ffdf",
-   "ts": "2026-11-08T10:12:48.348125+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "עיריית בת ים תובעת 250 מיליון שקל מאיראן",
-   "link": "https://www.ynet.co.il/news/article/yokra14950629"
-  },
-  {
-   "id": "e0fa7ec8ebb17ff4",
-   "ts": "2026-11-08T10:12:48.348125+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן וישראל היו חלק מהצונאמי הכחול בארה\"ב, אבל זה ממש לא כל הסיפור",
-   "link": "https://www.ynet.co.il/news/article/h1fz5a26gl"
-  },
-  {
-   "id": "15c96bb55eef8ae2",
-   "ts": "2026-11-08T10:12:48.348125+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ואנס פועל מאחורי הקלעים להשגת הסכם עם איראן 07.11.26 ברק רביד",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d20207ed763b1a1026.htm"
-  },
-  {
-   "id": "e0fa7ec8ebb17ff4",
-   "ts": "2026-11-08T03:27:54.151296+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "איראן וישראל היו חלק מהצונאמי הכחול בארה\"ב, אבל זה ממש לא כל הסיפור",
-   "link": "https://www.ynet.co.il/news/article/h1fz5a26gl"
   }
  ]
 }
