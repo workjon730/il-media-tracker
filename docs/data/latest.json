@@ -1,72 +1,70 @@
 {
- "generated": "2026-11-13T19:11:00.921858+03:00",
- "last_24h_total": 533,
+ "generated": "2026-11-14T01:31:39.599022+03:00",
+ "last_24h_total": 519,
  "per_target": {
-  "איראן": 398,
-  "בינה מלאכותית": 135
+  "איראן": 392,
+  "בינה מלאכותית": 127
  },
  "per_source": {
-  "מעריב": 39,
-  "YNET": 34,
-  "הארץ": 26,
-  "מקור ראשון": 26,
-  "וואלה": 26,
-  "Israel Defense": 22,
-  "Vietnam.vn": 21,
+  "מעריב": 38,
+  "YNET": 37,
+  "הארץ": 30,
+  "וואלה": 30,
+  "מקור ראשון": 24,
+  "זמן ישראל": 22,
+  "Vietnam.vn": 20,
   "N12": 19,
-  "זמן ישראל": 19,
-  "כיכר השבת": 18,
-  "בחדרי חרדים": 17,
-  "C14": 17,
-  "mako": 15,
+  "כיכר השבת": 19,
+  "Israel Defense": 17,
+  "בחדרי חרדים": 14,
   "גלובס": 14,
-  "סרוגים": 12,
-  "TheMarker": 11,
-  "ערוץ 7": 11,
-  "כיפה": 10,
-  "כאן 11": 9,
-  "Google News (כל האתרים)": 9,
-  "הידברות": 9,
-  "GOV.IL": 8,
+  "mako": 13,
+  "TheMarker": 12,
+  "ערוץ 7": 12,
+  "C14": 12,
+  "סרוגים": 11,
+  "Investing.com": 11,
+  "Google News (כל האתרים)": 10,
+  "הידברות": 10,
+  "כיפה": 8,
   "JDN": 8,
-  "ביזפורטל": 8,
-  "היום": 8,
   "تسنیم": 8,
   "פאנדר": 8,
-  "Investing.com": 8,
   "Hayadan": 8,
-  "i24NEWS": 6,
-  "המחדש": 6,
+  "i24NEWS": 7,
+  "כאן 11": 6,
+  "GOV.IL": 6,
+  "היום": 6,
   "רשת 13": 6,
+  "אפוק": 6,
   "ynet": 5,
-  "Calcalist": 5,
+  "המחדש": 5,
+  "ביזפורטל": 5,
   "אתר החדשות דבר": 5,
-  "אפוק": 5,
-  "אמס": 4,
+  "חב\"ד אינפו": 4,
+  "Calcalist": 4,
   "תל אביב אונליין": 4,
   "ספונסר": 4,
-  "וואלה טכנולוגיה": 3,
-  "חדשות חיפה": 3,
+  "אמס": 4,
   "חרדים10": 3,
-  "haipo.co.il": 3,
   "כל העיר ירושלים": 3,
   "Microsoft": 3,
-  "חב\"ד אינפו": 3,
-  "רדיו צפון 104.5FM": 2,
-  "המרכז הירושלמי לענייני חוץ וביטחון": 2,
+  "PORT2PORT": 3,
   "הגאולה": 2,
   "Reuters": 2,
-  "PORT2PORT": 2,
-  "העין השביעית": 1,
-  "gov.il": 1,
-  "HWzone": 1,
-  "103FM": 1
+  "וואלה טכנולוגיה": 2,
+  "חדשות חיפה": 2,
+  "haipo.co.il": 2,
+  "103FM": 2,
+  "המרכז הירושלמי לענייני חוץ וביטחון": 1,
+  "רדיו צפון 104.5FM": 1,
+  "HWzone": 1
  },
  "per_lean": {
-  "אחר": 181,
-  "שמאל": 157,
-  "ימין": 127,
-  "מרכז": 68
+  "אחר": 172,
+  "שמאל": 162,
+  "ימין": 118,
+  "מרכז": 67
  },
  "leads": [
   {
@@ -138,6 +136,24 @@
    "lean": "left",
    "title": "ראש המוסד גופמן נועד בארה\"ב עם בכירי ממשל טראמפ בנוגע לאיראן",
    "link": "https://www.haaretz.co.il/news/politics/2026-11-13/ty-article/000001a1-d542-d59b-a1f3-ddd6228a0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "f3845549296ef743",
+   "ts": "2026-11-14T01:31:32.668848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "חשיפת N12 חשיפת N12 למרות הפגישה: איזנקוט לא עודכן בנסיעת ראש המוסד במקביל - מחלוקת בצמרת מערכת הביטחון: הרמטכ\"ל ניצב לבד בנושא איראן 20:34 ברק רביד, ניר דבורי",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
    "prominence": 5,
    "rank": 2
   },
@@ -862,6 +878,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "f3845549296ef743",
+   "ts": "2026-11-14T01:31:32.668848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "חשיפת N12 חשיפת N12 למרות הפגישה: איזנקוט לא עודכן בנסיעת ראש המוסד במקביל - מחלוקת בצמרת מערכת הביטחון: הרמטכ\"ל ניצב לבד בנושא איראן 20:34 ברק רביד, ניר דבורי",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "74cbb903edd971d5",
@@ -4915,6 +4949,86 @@
   },
   {
    "id": "818de0d1dce428c5",
+   "ts": "2026-11-14T01:31:32.668848+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ראש המוסד נפגש עם בכירים בממשל טראמפ - ולוחץ לחדש את המלחמה באיראן",
+   "link": "https://www.ynet.co.il/news/article/rjmwtqeagx"
+  },
+  {
+   "id": "48fd6f6f0b2cd465",
+   "ts": "2026-11-14T01:31:32.668848+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המלחמה עם איראן לא נגמרה, היא כנראה נדחתה",
+   "link": "https://www.ynet.co.il/news/article/sysjqixrzl"
+  },
+  {
+   "id": "89693f50d991ed3b",
+   "ts": "2026-11-14T01:31:32.668848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני 07:40 ניר דבורי, ירון אברהם",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-14T01:31:32.668848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
+   "id": "b1f890bfb855e2a4",
+   "ts": "2026-11-14T01:31:32.668848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בעלות הברית זעמו: הכישלון של ארה\"ב בלחץ על איראן 12.11.26 אסף רוזנצוייג",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
+  },
+  {
+   "id": "818de0d1dce428c5",
    "ts": "2026-11-13T19:10:55.233313+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5408,102 +5522,6 @@
    "lean": "left",
    "title": "ארה\"ב מפנה מטוסים, חשש שאיראן מסמנת עוד יעדים באירופה",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-4986db2b8d8c1a1026.htm"
-  },
-  {
-   "id": "5f35d5f27f197d09",
-   "ts": "2026-11-11T17:05:28.039386+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שוב עימות בצמרת: המחלוקת בין נתניהו לזמיר סביב איראן",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-7131482da96c1a1027.htm"
-  },
-  {
-   "id": "d992187d5675de52",
-   "ts": "2026-11-11T17:05:28.039386+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ארה\"ב מגבירה את התקיפות, איראן תקפה בעומאן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-84366cc1789c1a1026.htm"
-  },
-  {
-   "id": "6ecacdf5fb727e56",
-   "ts": "2026-11-11T08:58:38.200365+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בגלל איומים מאיראן: שר האוצר האמריקני עבר להתגורר בבסיס צבאי",
-   "link": "https://www.ynet.co.il/news/article/ryfvbdb0fe"
-  },
-  {
-   "id": "8a2d67dd422d5ad5",
-   "ts": "2026-11-11T08:58:38.200365+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הסבב הבא ייראה אחרת: הפקת הלקחים של איראן - והיתרון היחסי שאותו תנסה לנצל",
-   "link": "https://www.ynet.co.il/news/article/hybpucgrfl"
-  },
-  {
-   "id": "3da31ee8658d6a15",
-   "ts": "2026-11-11T08:58:38.200365+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תעלומת רצח בביירות: חבר פרלמנט עיראקי שהתנגד לאיראן \"פותה לדירה\" ונמצא מת",
-   "link": "https://www.ynet.co.il/news/article/bymhybbafe"
-  },
-  {
-   "id": "40aaa4b9fde19033",
-   "ts": "2026-11-11T08:58:38.200365+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"שיחת צעקות מהגיהינום\": העימות בין נתניהו לטראמפ על איראן - וההכחשה",
-   "link": "https://www.ynet.co.il/news/article/by2vanlrgl"
   }
  ]
 }
