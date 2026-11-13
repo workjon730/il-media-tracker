@@ -1,74 +1,110 @@
 {
- "generated": "2026-11-13T10:49:57.824820+03:00",
- "last_24h_total": 539,
+ "generated": "2026-11-13T19:11:00.921858+03:00",
+ "last_24h_total": 533,
  "per_target": {
-  "איראן": 390,
-  "בינה מלאכותית": 149
+  "איראן": 398,
+  "בינה מלאכותית": 135
  },
  "per_source": {
   "מעריב": 39,
-  "YNET": 33,
-  "מקור ראשון": 24,
-  "Israel Defense": 24,
-  "Vietnam.vn": 24,
-  "וואלה": 23,
-  "C14": 22,
-  "זמן ישראל": 21,
-  "בחדרי חרדים": 20,
+  "YNET": 34,
+  "הארץ": 26,
+  "מקור ראשון": 26,
+  "וואלה": 26,
+  "Israel Defense": 22,
+  "Vietnam.vn": 21,
+  "N12": 19,
+  "זמן ישראל": 19,
   "כיכר השבת": 18,
-  "הארץ": 17,
-  "mako": 16,
-  "N12": 15,
-  "כאן 11": 15,
+  "בחדרי חרדים": 17,
+  "C14": 17,
+  "mako": 15,
   "גלובס": 14,
-  "סרוגים": 13,
-  "GOV.IL": 11,
-  "TheMarker": 10,
-  "تسنیم": 10,
-  "ערוץ 7": 10,
-  "כיפה": 9,
-  "ביזפורטל": 9,
-  "פאנדר": 9,
+  "סרוגים": 12,
+  "TheMarker": 11,
+  "ערוץ 7": 11,
+  "כיפה": 10,
+  "כאן 11": 9,
+  "Google News (כל האתרים)": 9,
+  "הידברות": 9,
+  "GOV.IL": 8,
+  "JDN": 8,
+  "ביזפורטל": 8,
   "היום": 8,
+  "تسنیم": 8,
+  "פאנדר": 8,
   "Investing.com": 8,
-  "הידברות": 8,
-  "רשת 13": 7,
-  "Google News (כל האתרים)": 7,
-  "Calcalist": 7,
-  "Hayadan": 7,
-  "JDN": 6,
+  "Hayadan": 8,
+  "i24NEWS": 6,
+  "המחדש": 6,
+  "רשת 13": 6,
   "ynet": 5,
-  "אמס": 5,
+  "Calcalist": 5,
   "אתר החדשות דבר": 5,
-  "i24NEWS": 5,
-  "המחדש": 5,
-  "אפוק": 4,
+  "אפוק": 5,
+  "אמס": 4,
   "תל אביב אונליין": 4,
   "ספונסר": 4,
-  "וואלה טכנולוגיה": 4,
-  "חדשות חיפה": 4,
-  "haipo.co.il": 4,
+  "וואלה טכנולוגיה": 3,
+  "חדשות חיפה": 3,
   "חרדים10": 3,
+  "haipo.co.il": 3,
   "כל העיר ירושלים": 3,
   "Microsoft": 3,
-  "העין השביעית": 2,
-  "PORT2PORT": 2,
-  "HWzone": 2,
+  "חב\"ד אינפו": 3,
   "רדיו צפון 104.5FM": 2,
   "המרכז הירושלמי לענייני חוץ וביטחון": 2,
-  "חב\"ד אינפו": 2,
+  "הגאולה": 2,
   "Reuters": 2,
-  "BE106": 1,
+  "PORT2PORT": 2,
+  "העין השביעית": 1,
   "gov.il": 1,
-  "הגאולה": 1
+  "HWzone": 1,
+  "103FM": 1
  },
  "per_lean": {
-  "אחר": 190,
-  "שמאל": 150,
-  "ימין": 133,
-  "מרכז": 66
+  "אחר": 181,
+  "שמאל": 157,
+  "ימין": 127,
+  "מרכז": 68
  },
  "leads": [
+  {
+   "id": "ea21d829f88047fc",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "הסטטוס קוו עם איראן נוח לטראמפ, אך השותפות באזור זקוקות להכרעה",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-13/ty-article/.premium/000001a1-d161-d292-abf9-fd7d7b710000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "137ce07263aaa589",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרסום ראשון על רקע הלחץ של נתניהו לחידוש המלחמה: גופמן בוושינגטון ראש המוסד בביקור עם בכירים בממשל טראמפ - שעד כה נוטה להסכם עם איראן ולא לתקיפה ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-24c5367a0f4d1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "74cbb903edd971d5",
    "ts": "2026-11-13T10:49:50.731917+03:00",
@@ -88,6 +124,24 @@
    "rank": 4
   },
   {
+   "id": "b67e072e20841eba",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "ראש המוסד גופמן נועד בארה\"ב עם בכירי ממשל טראמפ בנוגע לאיראן",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-13/ty-article/000001a1-d542-d59b-a1f3-ddd6228a0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "39dbb9265c721206",
    "ts": "2026-11-13T10:49:50.731917+03:00",
    "source": "n12",
@@ -104,9 +158,45 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-7ab3ed1e1bec1a1026.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "75f2c6dd8d43fc87",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "16:14 דיווח: ראש המוסד נפגש בוושינגטון עם בכירים בממשל האמריקאי ודן עמם בנושא איראן",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-13/ty-article-live/000001a1-d1c5-ddc9-abb7-ddc7aad10000?liveBlogItemId=1478742450",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
+  {
+   "id": "137ce07263aaa589",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרסום ראשון על רקע הלחץ של נתניהו לחידוש המלחמה: גופמן בוושינגטון ראש המוסד בביקור עם בכירים בממשל טראמפ - שעד כה נוטה להסכם עם איראן ולא לתקיפה ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-24c5367a0f4d1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "fce91fe069c3bb1e",
    "ts": "2026-11-11T08:58:38.200365+03:00",
@@ -1926,6 +2016,24 @@
    "rank": 2
   },
   {
+   "id": "ea21d829f88047fc",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "הסטטוס קוו עם איראן נוח לטראמפ, אך השותפות באזור זקוקות להכרעה",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-13/ty-article/.premium/000001a1-d161-d292-abf9-fd7d7b710000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
    "id": "b638142bcf67d06f",
    "ts": "2026-11-03T09:35:56.379656+03:00",
    "source": "haaretz",
@@ -2626,6 +2734,42 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "b67e072e20841eba",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "ראש המוסד גופמן נועד בארה\"ב עם בכירי ממשל טראמפ בנוגע לאיראן",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-13/ty-article/000001a1-d542-d59b-a1f3-ddd6228a0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "d7ed3a11225cdf02",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "דוח סודי בסבא\"א על איראן: \"חשש חמור להפצת נשק גרעיני\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-b1b55166614d1a1026.htm",
+   "prominence": 1,
+   "rank": 17
   },
   {
    "id": "978cb562cad2bfbf",
@@ -4770,6 +4914,102 @@
    "rank": 15
   },
   {
+   "id": "818de0d1dce428c5",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ראש המוסד נפגש עם בכירים בממשל טראמפ - ולוחץ לחדש את המלחמה באיראן",
+   "link": "https://www.ynet.co.il/news/article/rjmwtqeagx"
+  },
+  {
+   "id": "48fd6f6f0b2cd465",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "המלחמה עם איראן לא נגמרה, היא כנראה נדחתה",
+   "link": "https://www.ynet.co.il/news/article/sysjqixrzl"
+  },
+  {
+   "id": "b97d1adc7c3dfd30",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "16:43 המצוקה באיראן - אזרחים מוכרים חלקים מגופם כדי לשרוד",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-b74b069b555d1a1026.htm"
+  },
+  {
+   "id": "89693f50d991ed3b",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני 07:40 ניר דבורי, ירון אברהם",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
+   "id": "b1f890bfb855e2a4",
+   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בעלות הברית זעמו: הכישלון של ארה\"ב בלחץ על איראן 12.11.26 אסף רוזנצוייג",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
+  },
+  {
    "id": "7c03c1aea5972dfc",
    "ts": "2026-11-13T10:49:50.731917+03:00",
    "source": "n12",
@@ -5264,166 +5504,6 @@
    "lean": "left",
    "title": "\"שיחת צעקות מהגיהינום\": העימות בין נתניהו לטראמפ על איראן - וההכחשה",
    "link": "https://www.ynet.co.il/news/article/by2vanlrgl"
-  },
-  {
-   "id": "8a2d67dd422d5ad5",
-   "ts": "2026-11-11T02:11:31.021849+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הסבב הבא ייראה אחרת: הפקת הלקחים של איראן - והיתרון היחסי שאותו תנסה לנצל",
-   "link": "https://www.ynet.co.il/news/article/hybpucgrfl"
-  },
-  {
-   "id": "3da31ee8658d6a15",
-   "ts": "2026-11-11T02:11:31.021849+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תעלומת רצח בביירות: חבר פרלמנט עיראקי שהתנגד לאיראן \"פותה לדירה\" ונמצא מת",
-   "link": "https://www.ynet.co.il/news/article/bymhybbafe"
-  },
-  {
-   "id": "40aaa4b9fde19033",
-   "ts": "2026-11-11T02:11:31.021849+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"שיחת צעקות מהגיהינום\": העימות בין נתניהו לטראמפ על איראן - וההכחשה",
-   "link": "https://www.ynet.co.il/news/article/by2vanlrgl"
-  },
-  {
-   "id": "cc2b8eb226a6000d",
-   "ts": "2026-11-11T02:11:31.021849+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
-   "link": "https://www.ynet.co.il/news/article/syqkajgamx"
-  },
-  {
-   "id": "d0e8aa84e909ef30",
-   "ts": "2026-11-11T02:11:31.021849+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גם ההכנות לאיראן נפגעות: כך משפיע המשבר התקציבי על החייל בקצה",
-   "link": "https://www.ynet.co.il/news/article/hyvtp5l0zg"
-  },
-  {
-   "id": "cc2b8eb226a6000d",
-   "ts": "2026-11-10T20:41:38.187625+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שר ההגנה מתכונן ל\"הדחה\": \"זאת פארסה, למלחמה מול איראן הייתי יוצא שוב מחר\"",
-   "link": "https://www.ynet.co.il/news/article/syqkajgamx"
-  },
-  {
-   "id": "d0e8aa84e909ef30",
-   "ts": "2026-11-10T20:41:38.187625+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גם ההכנות לאיראן נפגעות: כך משפיע המשבר התקציבי על החייל בקצה",
-   "link": "https://www.ynet.co.il/news/article/hyvtp5l0zg"
-  },
-  {
-   "id": "7ee53c58849766dd",
-   "ts": "2026-11-10T12:39:31.023259+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מטוסי תדלוק אמריקניים פונו מבסיס בריטי: \"עקב איום מאיראן\"",
-   "link": "https://www.ynet.co.il/news/article/ryxmwmgrfl"
-  },
-  {
-   "id": "2ada5405aa0fc032",
-   "ts": "2026-11-10T12:39:31.023259+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"השיחות התכופות\" בין נתניהו לטראמפ - והצהרת הנשיא: \"פעולה באיראן? זה לא הכרחי\"",
-   "link": "https://www.ynet.co.il/news/article/hktq3310mx"
-  },
-  {
-   "id": "b0d4b2543e0673b5",
-   "ts": "2026-11-10T12:39:31.023259+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טהרן צָהֲלָה וְשָׂמֵחָה",
-   "link": "https://www.ynet.co.il/news/article/yokra14953707"
   }
  ]
 }
