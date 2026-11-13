@@ -1,75 +1,111 @@
 {
- "generated": "2026-11-13T03:11:11.554093+03:00",
- "last_24h_total": 547,
+ "generated": "2026-11-13T10:49:57.824820+03:00",
+ "last_24h_total": 539,
  "per_target": {
   "איראן": 390,
-  "בינה מלאכותית": 157
+  "בינה מלאכותית": 149
  },
  "per_source": {
-  "מעריב": 43,
-  "YNET": 34,
-  "Vietnam.vn": 25,
-  "C14": 24,
-  "Israel Defense": 23,
-  "וואלה": 22,
-  "מקור ראשון": 21,
-  "זמן ישראל": 20,
-  "כיכר השבת": 19,
-  "mako": 18,
-  "בחדרי חרדים": 18,
-  "כאן 11": 18,
-  "הארץ": 16,
-  "סרוגים": 14,
-  "גלובס": 13,
-  "تسنیم": 13,
-  "N12": 12,
+  "מעריב": 39,
+  "YNET": 33,
+  "מקור ראשון": 24,
+  "Israel Defense": 24,
+  "Vietnam.vn": 24,
+  "וואלה": 23,
+  "C14": 22,
+  "זמן ישראל": 21,
+  "בחדרי חרדים": 20,
+  "כיכר השבת": 18,
+  "הארץ": 17,
+  "mako": 16,
+  "N12": 15,
+  "כאן 11": 15,
+  "גלובס": 14,
+  "סרוגים": 13,
   "GOV.IL": 11,
-  "Investing.com": 11,
-  "ביזפורטל": 10,
-  "TheMarker": 9,
-  "אמס": 9,
-  "Calcalist": 9,
+  "TheMarker": 10,
+  "تسنیم": 10,
+  "ערוץ 7": 10,
+  "כיפה": 9,
+  "ביזפורטל": 9,
   "פאנדר": 9,
+  "היום": 8,
+  "Investing.com": 8,
   "הידברות": 8,
-  "ynet": 7,
-  "היום": 7,
-  "ערוץ 7": 7,
-  "כיפה": 7,
-  "המחדש": 6,
-  "Google News (כל האתרים)": 6,
-  "Hayadan": 6,
-  "JDN": 5,
+  "רשת 13": 7,
+  "Google News (כל האתרים)": 7,
+  "Calcalist": 7,
+  "Hayadan": 7,
+  "JDN": 6,
+  "ynet": 5,
+  "אמס": 5,
   "אתר החדשות דבר": 5,
-  "וואלה טכנולוגיה": 5,
-  "רשת 13": 5,
+  "i24NEWS": 5,
+  "המחדש": 5,
+  "אפוק": 4,
   "תל אביב אונליין": 4,
   "ספונסר": 4,
-  "i24NEWS": 4,
+  "וואלה טכנולוגיה": 4,
   "חדשות חיפה": 4,
   "haipo.co.il": 4,
-  "כל העיר ירושלים": 4,
-  "Microsoft": 4,
-  "אפוק": 3,
   "חרדים10": 3,
-  "אייס": 2,
-  "PORT2PORT": 2,
-  "BE106": 2,
-  "HWzone": 2,
+  "כל העיר ירושלים": 3,
+  "Microsoft": 3,
   "העין השביעית": 2,
+  "PORT2PORT": 2,
+  "HWzone": 2,
   "רדיו צפון 104.5FM": 2,
   "המרכז הירושלמי לענייני חוץ וביטחון": 2,
+  "חב\"ד אינפו": 2,
+  "Reuters": 2,
+  "BE106": 1,
   "gov.il": 1,
-  "חב\"ד אינפו": 1,
-  "הגאולה": 1,
-  "Reuters": 1
+  "הגאולה": 1
  },
  "per_lean": {
-  "אחר": 198,
-  "שמאל": 152,
-  "ימין": 128,
-  "מרכז": 69
+  "אחר": 190,
+  "שמאל": 150,
+  "ימין": 133,
+  "מרכז": 66
  },
- "leads": [],
+ "leads": [
+  {
+   "id": "74cbb903edd971d5",
+   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "לקראת הסלמה במפרץ? לקראת הסלמה במפרץ? לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני אחרי התקיפה האמריקנית אמש - במשמרות המהפכה טוענים שתקפו בבחרין 07:40 ניר דבורי, ירון אברהם",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "39dbb9265c721206",
+   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "המפגש של הישראלי והדוגמניות מאיראן הסתיים באופן מפתיע \"היא צחקה ואמרה 'מעולה, עכשיו אפשר לשבור את הקרח ולדבר חופשי'\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7ab3ed1e1bec1a1026.htm",
+   "prominence": 3,
+   "rank": 9
+  }
+ ],
  "items": [
   {
    "id": "fce91fe069c3bb1e",
@@ -736,6 +772,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "74cbb903edd971d5",
+   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "לקראת הסלמה במפרץ? לקראת הסלמה במפרץ? לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני אחרי התקיפה האמריקנית אמש - במשמרות המהפכה טוענים שתקפו בבחרין 07:40 ניר דבורי, ירון אברהם",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "f2ef2ddddf1feccc",
@@ -1996,6 +2050,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "39dbb9265c721206",
+   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "המפגש של הישראלי והדוגמניות מאיראן הסתיים באופן מפתיע \"היא צחקה ואמרה 'מעולה, עכשיו אפשר לשבור את הקרח ולדבר חופשי'\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7ab3ed1e1bec1a1026.htm",
+   "prominence": 3,
+   "rank": 9
   },
   {
    "id": "904717cd256d1b1c",
@@ -4698,6 +4770,54 @@
    "rank": 15
   },
   {
+   "id": "7c03c1aea5972dfc",
+   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מחכים לטראמפ: בישראל מוטרדים מקצב ייצור הטילים באיראן 12.11.26 ניר דבורי, אוהד חמו",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-ad653967cbcc1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
+   "id": "20efe96c3d966ff4",
+   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בעלות הברית זעמו: הכישלון של ארה\"ב בלחץ על איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
+  },
+  {
    "id": "143689fde2fb245b",
    "ts": "2026-11-13T03:11:05.552283+03:00",
    "source": "ynet",
@@ -5304,86 +5424,6 @@
    "lean": "left",
    "title": "טהרן צָהֲלָה וְשָׂמֵחָה",
    "link": "https://www.ynet.co.il/news/article/yokra14953707"
-  },
-  {
-   "id": "2ada5405aa0fc032",
-   "ts": "2026-11-10T04:26:51.151634+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"השיחות התכופות\" בין נתניהו לטראמפ - והצהרת הנשיא: \"פעולה באיראן? זה לא הכרחי\"",
-   "link": "https://www.ynet.co.il/news/article/hktq3310mx"
-  },
-  {
-   "id": "b0d4b2543e0673b5",
-   "ts": "2026-11-10T04:26:51.151634+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טהרן צָהֲלָה וְשָׂמֵחָה",
-   "link": "https://www.ynet.co.il/news/article/yokra14953707"
-  },
-  {
-   "id": "c92f770ad19bcdf8",
-   "ts": "2026-11-10T04:26:51.151634+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "צרפת: איראן ביצעה את מתקפת \"המקררים הלוהטים\" נגד סופרמרקטים בשטחנו",
-   "link": "https://www.ynet.co.il/news/article/sy011bokcge"
-  },
-  {
-   "id": "00d142dd4d353e95",
-   "ts": "2026-11-10T04:26:51.151634+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "העלונים עם מסר מאיים שפוזרו בת\"א - והקשר שנבדק לאיראן 15:04 אדר גיציס, יולן כהן",
-   "link": "https://www.mako.co.il/news-law/2026_q4/Article-878b9b6f660c1a1026.htm"
-  },
-  {
-   "id": "c92f770ad19bcdf8",
-   "ts": "2026-11-09T20:23:26.947475+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "צרפת: איראן ביצעה את מתקפת \"המקררים הלוהטים\" נגד סופרמרקטים בשטחנו",
-   "link": "https://www.ynet.co.il/news/article/sy011bokcge"
   }
  ]
 }
