@@ -1,71 +1,73 @@
 {
- "generated": "2026-11-12T21:50:13.345297+03:00",
- "last_24h_total": 555,
+ "generated": "2026-11-13T03:11:11.554093+03:00",
+ "last_24h_total": 547,
  "per_target": {
-  "איראן": 392,
-  "בינה מלאכותית": 163
+  "איראן": 390,
+  "בינה מלאכותית": 157
  },
  "per_source": {
   "מעריב": 43,
-  "YNET": 36,
-  "Vietnam.vn": 26,
-  "C14": 25,
-  "וואלה": 24,
-  "כיכר השבת": 21,
-  "mako": 21,
-  "כאן 11": 21,
-  "Israel Defense": 21,
-  "מקור ראשון": 19,
+  "YNET": 34,
+  "Vietnam.vn": 25,
+  "C14": 24,
+  "Israel Defense": 23,
+  "וואלה": 22,
+  "מקור ראשון": 21,
+  "זמן ישראל": 20,
+  "כיכר השבת": 19,
+  "mako": 18,
   "בחדרי חרדים": 18,
-  "הארץ": 18,
-  "זמן ישראל": 17,
-  "סרוגים": 15,
-  "גלובס": 14,
-  "تسنیم": 14,
-  "Investing.com": 13,
-  "אמס": 12,
-  "N12": 11,
-  "ביזפורטל": 11,
-  "Calcalist": 11,
+  "כאן 11": 18,
+  "הארץ": 16,
+  "סרוגים": 14,
+  "גלובס": 13,
+  "تسنیم": 13,
+  "N12": 12,
+  "GOV.IL": 11,
+  "Investing.com": 11,
+  "ביזפורטל": 10,
+  "TheMarker": 9,
+  "אמס": 9,
+  "Calcalist": 9,
   "פאנדר": 9,
-  "GOV.IL": 9,
-  "ynet": 8,
-  "TheMarker": 8,
   "הידברות": 8,
+  "ynet": 7,
+  "היום": 7,
   "ערוץ 7": 7,
-  "היום": 6,
-  "וואלה טכנולוגיה": 6,
-  "המחדש": 5,
+  "כיפה": 7,
+  "המחדש": 6,
+  "Google News (כל האתרים)": 6,
+  "Hayadan": 6,
   "JDN": 5,
-  "Google News (כל האתרים)": 5,
-  "Hayadan": 5,
-  "אייס": 4,
-  "אתר החדשות דבר": 4,
-  "רשת 13": 4,
+  "אתר החדשות דבר": 5,
+  "וואלה טכנולוגיה": 5,
+  "רשת 13": 5,
+  "תל אביב אונליין": 4,
   "ספונסר": 4,
+  "i24NEWS": 4,
   "חדשות חיפה": 4,
   "haipo.co.il": 4,
   "כל העיר ירושלים": 4,
   "Microsoft": 4,
-  "כיפה": 4,
-  "gov.il": 3,
-  "PORT2PORT": 3,
-  "BE106": 3,
-  "i24NEWS": 3,
-  "HWzone": 3,
-  "תל אביב אונליין": 3,
-  "אפוק": 2,
+  "אפוק": 3,
+  "חרדים10": 3,
+  "אייס": 2,
+  "PORT2PORT": 2,
+  "BE106": 2,
+  "HWzone": 2,
   "העין השביעית": 2,
-  "חרדים10": 2,
-  "INSS": 1,
-  "רדיו צפון 104.5FM": 1,
-  "המרכז הירושלמי לענייני חוץ וביטחון": 1
+  "רדיו צפון 104.5FM": 2,
+  "המרכז הירושלמי לענייני חוץ וביטחון": 2,
+  "gov.il": 1,
+  "חב\"ד אינפו": 1,
+  "הגאולה": 1,
+  "Reuters": 1
  },
  "per_lean": {
-  "אחר": 197,
-  "שמאל": 164,
-  "ימין": 124,
-  "מרכז": 70
+  "אחר": 198,
+  "שמאל": 152,
+  "ימין": 128,
+  "מרכז": 69
  },
  "leads": [],
  "items": [
@@ -4696,6 +4698,86 @@
    "rank": 15
   },
   {
+   "id": "143689fde2fb245b",
+   "ts": "2026-11-13T03:11:05.552283+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "תקיפה בדרום איראן; בישראל מעריכים: המו\"מ עדיין לא התפוצץ",
+   "link": "https://www.ynet.co.il/news/article/h16dmu7azg"
+  },
+  {
+   "id": "383ff0c0ba9540f2",
+   "ts": "2026-11-13T03:11:05.552283+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "23:56 הנשיא טראמפ: \"אני שוקל לתקוף באיראן בקרוב, אני רוצה להשמיד אותם ב-100% ולא 98%\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-d57dfcad281d1a1027.htm"
+  },
+  {
+   "id": "978cb562cad2bfbf",
+   "ts": "2026-11-13T03:11:05.552283+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מחכים לטראמפ: בישראל מוטרדים מקצב ייצור הטילים באיראן 10:10 ניר דבורי, אוהד חמו",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-ad653967cbcc1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-13T03:11:05.552283+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
+   "id": "20efe96c3d966ff4",
+   "ts": "2026-11-13T03:11:05.552283+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בעלות הברית זעמו: הכישלון של ארה\"ב בלחץ על איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
+  },
+  {
    "id": "e345a7b56d2d3005",
    "ts": "2026-11-12T21:50:06.554548+03:00",
    "source": "ynet",
@@ -5302,86 +5384,6 @@
    "lean": "left",
    "title": "צרפת: איראן ביצעה את מתקפת \"המקררים הלוהטים\" נגד סופרמרקטים בשטחנו",
    "link": "https://www.ynet.co.il/news/article/sy011bokcge"
-  },
-  {
-   "id": "00d142dd4d353e95",
-   "ts": "2026-11-09T20:23:26.947475+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "העלונים עם מסר מאיים שפוזרו בת\"א - והקשר שנבדק לאיראן 15:04 אדר גיציס, יולן כהן",
-   "link": "https://www.mako.co.il/news-law/2026_q4/Article-878b9b6f660c1a1026.htm"
-  },
-  {
-   "id": "83fc04c37de7d63c",
-   "ts": "2026-11-09T09:07:19.227928+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הסלמה מול איראן? ממתינים לקולות החיילים",
-   "link": "https://www.ynet.co.il/news/article/yokra14949028"
-  },
-  {
-   "id": "d64a1f26a425862d",
-   "ts": "2026-11-09T09:07:19.227928+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מו\"מ או מלחמה: האם העימות עם איראן עומד להתחדש? | עם רון בן ישי",
-   "link": "https://www.ynet.co.il/news/theheadline/article/f969hl021"
-  },
-  {
-   "id": "326b5bfb06e2d4b4",
-   "ts": "2026-11-09T09:07:19.227928+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "באיראן מאשימים את ארה\"ב בתקיפה באי בהורמוז; טראמפ: סיכוי נמוך שאורה לחזור ללחימה",
-   "link": "https://www.ynet.co.il/news/article/hyrsmn0pzg"
-  },
-  {
-   "id": "89f0f54cfdd1dc24",
-   "ts": "2026-11-09T09:07:19.227928+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המאבק בבית הלבן: הגסת' שואף למלחמה באיראן, ואנס מתנגד - וטראמפ משנה את דעתו",
-   "link": "https://www.ynet.co.il/news/article/ry5fvyatze"
   }
  ]
 }
