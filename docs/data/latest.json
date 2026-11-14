@@ -1,88 +1,70 @@
 {
- "generated": "2026-11-14T13:14:42.232379+03:00",
- "last_24h_total": 504,
+ "generated": "2026-11-14T19:59:26.959814+03:00",
+ "last_24h_total": 500,
  "per_target": {
-  "איראן": 392,
-  "בינה מלאכותית": 112
+  "איראן": 387,
+  "בינה מלאכותית": 113
  },
  "per_source": {
-  "מעריב": 50,
-  "YNET": 46,
+  "מעריב": 54,
+  "YNET": 48,
   "הארץ": 39,
-  "וואלה": 33,
-  "Vietnam.vn": 27,
-  "כיכר השבת": 26,
-  "N12": 18,
-  "מקור ראשון": 17,
-  "Investing.com": 16,
-  "זמן ישראל": 15,
+  "Vietnam.vn": 31,
+  "וואלה": 28,
+  "כיכר השבת": 27,
+  "Investing.com": 15,
+  "N12": 14,
+  "מקור ראשון": 14,
   "גלובס": 14,
-  "ערוץ 7": 12,
-  "TheMarker": 11,
-  "mako": 11,
-  "Google News (כל האתרים)": 11,
+  "זמן ישראל": 14,
+  "TheMarker": 13,
+  "ערוץ 7": 13,
+  "تسنیم": 11,
+  "mako": 10,
+  "Google News (כל האתרים)": 10,
+  "היום": 10,
+  "כאן 11": 10,
   "סרוגים": 9,
-  "הידברות": 9,
+  "בחדרי חרדים": 9,
   "ynet": 8,
-  "בחדרי חרדים": 8,
-  "تسنیم": 8,
-  "Israel Defense": 8,
   "Hayadan": 8,
-  "JDN": 7,
-  "כאן 11": 7,
-  "היום": 6,
-  "אפוק": 6,
-  "אמס": 6,
-  "פאנדר": 6,
-  "רשת 13": 6,
-  "כיפה": 5,
-  "i24NEWS": 5,
+  "רשת 13": 7,
+  "הידברות": 7,
+  "אפוק": 5,
+  "JDN": 5,
+  "אמס": 5,
+  "Calcalist": 5,
   "חב\"ד אינפו": 4,
-  "המחדש": 4,
+  "כיפה": 4,
   "אתר החדשות דבר": 4,
+  "פאנדר": 4,
+  "i24NEWS": 4,
   "ספונסר": 4,
-  "Microsoft": 4,
-  "Calcalist": 4,
+  "Israel Defense": 4,
+  "C14": 4,
+  "המחדש": 3,
   "PORT2PORT": 3,
-  "חרדים10": 3,
-  "כל העיר ירושלים": 3,
-  "103FM": 2,
-  "C14": 2,
+  "Microsoft": 3,
+  "GOV.IL": 3,
+  "חרדים10": 2,
+  "כל העיר ירושלים": 2,
   "ביזפורטל": 2,
-  "תל אביב אונליין": 2,
-  "GOV.IL": 2,
-  "הגאולה": 1,
-  "וואלה טכנולוגיה": 1,
-  "haipo.co.il": 1
+  "וואלה טכנולוגיה": 2,
+  "haipo.co.il": 2,
+  "103FM": 1,
+  "תל אביב אונליין": 1,
+  "HWzone": 1
  },
  "per_lean": {
-  "שמאל": 183,
-  "אחר": 155,
-  "ימין": 89,
-  "מרכז": 77
+  "שמאל": 182,
+  "אחר": 149,
+  "ימין": 86,
+  "מרכז": 83
  },
  "leads": [
   {
-   "id": "ea21d829f88047fc",
-   "ts": "2026-11-13T19:10:55.233313+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 18,
-   "lean": "left",
-   "title": "הסטטוס קוו עם איראן נוח לטראמפ, אך השותפות באזור זקוקות להכרעה",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-13/ty-article/.premium/000001a1-d161-d292-abf9-fd7d7b710000",
-   "prominence": 10,
-   "rank": 1
-  },
-  {
-   "id": "137ce07263aaa589",
-   "ts": "2026-11-13T19:10:55.233313+03:00",
+   "id": "a488352bdd575197",
+   "ts": "2026-11-14T19:59:18.945475+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -93,28 +75,10 @@
    ],
    "score": 21,
    "lean": "left",
-   "title": "פרסום ראשון על רקע הלחץ של נתניהו לחידוש המלחמה: גופמן בוושינגטון ראש המוסד בביקור עם בכירים בממשל טראמפ - שעד כה נוטה להסכם עם איראן ולא לתקיפה ברק רביד |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-24c5367a0f4d1a1027.htm",
+   "title": "כתר של סנקציות ומצור ימי: כך טראמפ סוגר על איראן מאגרי המזון של טהראן אוזלים, הספינות מכבות משדרים במפרץ והדלק בארה\"ב מוזל: מה עומד מאחורי הימור הענק של טראמפ? | עושים סדר N12 |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8dee059dcbad1a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "b67e072e20841eba",
-   "ts": "2026-11-13T19:10:55.233313+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "ראש המוסד גופמן נועד בארה\"ב עם בכירי ממשל טראמפ בנוגע לאיראן",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-13/ty-article/000001a1-d542-d59b-a1f3-ddd6228a0000",
-   "prominence": 5,
-   "rank": 2
   },
   {
    "id": "f3845549296ef743",
@@ -169,27 +133,27 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-9e15ed609c7d1a1026.htm",
    "prominence": 5,
    "rank": 3
-  },
+  }
+ ],
+ "items": [
   {
-   "id": "75f2c6dd8d43fc87",
-   "ts": "2026-11-13T19:10:55.233313+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "a488352bdd575197",
+   "ts": "2026-11-14T19:59:18.945475+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 21,
    "lean": "left",
-   "title": "16:14 דיווח: ראש המוסד נפגש בוושינגטון עם בכירים בממשל האמריקאי ודן עמם בנושא איראן",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-13/ty-article-live/000001a1-d1c5-ddc9-abb7-ddc7aad10000?liveBlogItemId=1478742450",
-   "prominence": 3,
-   "rank": 9
-  }
- ],
- "items": [
+   "title": "כתר של סנקציות ומצור ימי: כך טראמפ סוגר על איראן מאגרי המזון של טהראן אוזלים, הספינות מכבות משדרים במפרץ והדלק בארה\"ב מוזל: מה עומד מאחורי הימור הענק של טראמפ? | עושים סדר N12 |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8dee059dcbad1a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "137ce07263aaa589",
    "ts": "2026-11-13T19:10:55.233313+03:00",
@@ -4997,6 +4961,54 @@
    "rank": 15
   },
   {
+   "id": "f1a49c72686a380b",
+   "ts": "2026-11-14T19:59:18.945475+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שקרי \"מלחמת המוקשים\" של איראן - והאזהרה ממתקן הגרעין הסודי שבו קבור האורניום",
+   "link": "https://www.ynet.co.il/news/article/hktw00kl0zl"
+  },
+  {
+   "id": "409f5ee4a1522822",
+   "ts": "2026-11-14T19:59:18.945475+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווחים: טראמפ שוקל להשאיר את המו\"מ למדינות המפרץ - ולהימנע מתקיפה באיראן",
+   "link": "https://www.ynet.co.il/news/article/ry116kkrage"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-14T19:59:18.945475+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
    "id": "9b470d9249e1b928",
    "ts": "2026-11-14T13:14:36.203603+03:00",
    "source": "ynet",
@@ -5459,70 +5471,6 @@
    "lean": "left",
    "title": "בישראל מעריכים: המו\"מ עם איראן עדיין לא התפוצץ",
    "link": "https://www.ynet.co.il/news/article/h16dmu7azg"
-  },
-  {
-   "id": "bda9670e704ccb84",
-   "ts": "2026-11-12T21:50:06.554548+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ הורה לוואנס לעזוב את המו\"מ עם איראן: \"לא צריך הסכם איתם\"",
-   "link": "https://www.ynet.co.il/news/article/skssnv7czg"
-  },
-  {
-   "id": "9bf506d715840006",
-   "ts": "2026-11-12T21:50:06.554548+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טראמפ דוחק את ואנס, ושולח מסר לאיראן: \"לא צריכים עסקה\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
-  },
-  {
-   "id": "5d1ae338b3e2d2c8",
-   "ts": "2026-11-12T21:50:06.554548+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לפני 25 דקות מה הסיכוי למלחמה באיראן? זה מה שאומרים במערכת הביטחון",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-a27a683adf0d1a1026.htm"
-  },
-  {
-   "id": "978cb562cad2bfbf",
-   "ts": "2026-11-12T21:50:06.554548+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מחכים לטראמפ: בישראל מוטרדים מקצב ייצור הטילים באיראן 10:10 ניר דבורי, אוהד חמו",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-ad653967cbcc1a1027.htm"
   }
  ]
 }
