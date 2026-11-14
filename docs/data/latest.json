@@ -1,68 +1,65 @@
 {
- "generated": "2026-11-14T06:05:34.328486+03:00",
- "last_24h_total": 512,
+ "generated": "2026-11-14T13:14:42.232379+03:00",
+ "last_24h_total": 504,
  "per_target": {
   "איראן": 392,
-  "בינה מלאכותית": 120
+  "בינה מלאכותית": 112
  },
  "per_source": {
-  "מעריב": 43,
-  "YNET": 40,
-  "הארץ": 36,
-  "וואלה": 35,
-  "Vietnam.vn": 24,
-  "כיכר השבת": 22,
-  "מקור ראשון": 22,
-  "N12": 19,
-  "זמן ישראל": 18,
+  "מעריב": 50,
+  "YNET": 46,
+  "הארץ": 39,
+  "וואלה": 33,
+  "Vietnam.vn": 27,
+  "כיכר השבת": 26,
+  "N12": 18,
+  "מקור ראשון": 17,
+  "Investing.com": 16,
+  "זמן ישראל": 15,
   "גלובס": 14,
-  "ערוץ 7": 13,
-  "Israel Defense": 13,
-  "Investing.com": 13,
-  "TheMarker": 12,
-  "בחדרי חרדים": 12,
-  "mako": 12,
+  "ערוץ 7": 12,
+  "TheMarker": 11,
+  "mako": 11,
   "Google News (כל האתרים)": 11,
-  "הידברות": 11,
-  "סרוגים": 10,
-  "JDN": 8,
+  "סרוגים": 9,
+  "הידברות": 9,
+  "ynet": 8,
+  "בחדרי חרדים": 8,
   "تسنیم": 8,
+  "Israel Defense": 8,
   "Hayadan": 8,
-  "פאנדר": 7,
-  "כיפה": 6,
-  "רשת 13": 6,
+  "JDN": 7,
+  "כאן 11": 7,
+  "היום": 6,
   "אפוק": 6,
-  "i24NEWS": 6,
-  "C14": 6,
-  "ynet": 6,
-  "כאן 11": 5,
-  "היום": 5,
-  "אמס": 5,
+  "אמס": 6,
+  "פאנדר": 6,
+  "רשת 13": 6,
+  "כיפה": 5,
+  "i24NEWS": 5,
   "חב\"ד אינפו": 4,
-  "GOV.IL": 4,
-  "Calcalist": 4,
   "המחדש": 4,
   "אתר החדשות דבר": 4,
   "ספונסר": 4,
-  "ביזפורטל": 3,
+  "Microsoft": 4,
+  "Calcalist": 4,
   "PORT2PORT": 3,
-  "תל אביב אונליין": 3,
   "חרדים10": 3,
   "כל העיר ירושלים": 3,
-  "Microsoft": 3,
   "103FM": 2,
-  "Reuters": 1,
+  "C14": 2,
+  "ביזפורטל": 2,
+  "תל אביב אונליין": 2,
+  "GOV.IL": 2,
+  "הגאולה": 1,
   "וואלה טכנולוגיה": 1,
-  "חדשות חיפה": 1,
-  "haipo.co.il": 1,
-  "HWzone": 1,
-  "הגאולה": 1
+  "haipo.co.il": 1
  },
  "per_lean": {
-  "שמאל": 175,
-  "אחר": 163,
-  "ימין": 104,
-  "מרכז": 70
+  "שמאל": 183,
+  "אחר": 155,
+  "ימין": 89,
+  "מרכז": 77
  },
  "leads": [
   {
@@ -100,24 +97,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-24c5367a0f4d1a1027.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "74cbb903edd971d5",
-   "ts": "2026-11-13T10:49:50.731917+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "לקראת הסלמה במפרץ? לקראת הסלמה במפרץ? לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני אחרי התקיפה האמריקנית אמש - במשמרות המהפכה טוענים שתקפו בבחרין 07:40 ניר דבורי, ירון אברהם",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm",
-   "prominence": 5,
-   "rank": 4
   },
   {
    "id": "b67e072e20841eba",
@@ -174,8 +153,8 @@
    "rank": 2
   },
   {
-   "id": "39dbb9265c721206",
-   "ts": "2026-11-13T10:49:50.731917+03:00",
+   "id": "f703f751e9d69484",
+   "ts": "2026-11-14T13:14:36.203603+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -184,12 +163,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 17,
+   "score": 19,
    "lean": "left",
-   "title": "המפגש של הישראלי והדוגמניות מאיראן הסתיים באופן מפתיע \"היא צחקה ואמרה 'מעולה, עכשיו אפשר לשבור את הקרח ולדבר חופשי'\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7ab3ed1e1bec1a1026.htm",
-   "prominence": 3,
-   "rank": 9
+   "title": "מפגש ראשון אי-פעם של שלושת מנהיגי המעצמות החזקות בעולם ידונו בצמצום הנשק הגרעיני ובמלחמה עם איראן: \"זה תחילתו של שיח\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9e15ed609c7d1a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "75f2c6dd8d43fc87",
@@ -894,6 +873,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "f703f751e9d69484",
+   "ts": "2026-11-14T13:14:36.203603+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "מפגש ראשון אי-פעם של שלושת מנהיגי המעצמות החזקות בעולם ידונו בצמצום הנשק הגרעיני ובמלחמה עם איראן: \"זה תחילתו של שיח\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9e15ed609c7d1a1026.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "a461d020a6ba6f4e",
@@ -2802,6 +2799,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "11a7bce05f0fa6a2",
+   "ts": "2026-11-14T13:14:36.203603+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 38 דקות המצוקה באיראן - אזרחים מוכרים חלקים מגופם כדי לשרוד",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-b74b069b555d1a1026.htm",
+   "prominence": 1,
+   "rank": 20
   },
   {
    "id": "b67e072e20841eba",
@@ -4982,6 +4997,70 @@
    "rank": 15
   },
   {
+   "id": "9b470d9249e1b928",
+   "ts": "2026-11-14T13:14:36.203603+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"טראמפ שוקל להשאיר למדינות המפרץ את המו\"מ עם איראן על מצר הורמוז\"",
+   "link": "https://www.ynet.co.il/news/article/ry116kkrage"
+  },
+  {
+   "id": "818de0d1dce428c5",
+   "ts": "2026-11-14T13:14:36.203603+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווח: ראש המוסד נפגש עם בכירים בממשל טראמפ - ולוחץ לחדש את המלחמה באיראן",
+   "link": "https://www.ynet.co.il/news/article/rjmwtqeagx"
+  },
+  {
+   "id": "58c70a7254cb48e2",
+   "ts": "2026-11-14T13:14:36.203603+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני 13.11.26 ניר דבורי, ירון אברהם",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-14T13:14:36.203603+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
    "id": "818de0d1dce428c5",
    "ts": "2026-11-14T06:05:29.811138+03:00",
    "source": "ynet",
@@ -5444,102 +5523,6 @@
    "lean": "left",
    "title": "מחכים לטראמפ: בישראל מוטרדים מקצב ייצור הטילים באיראן 10:10 ניר דבורי, אוהד חמו",
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-ad653967cbcc1a1027.htm"
-  },
-  {
-   "id": "80bce5db2eb3ec0f",
-   "ts": "2026-11-12T21:50:06.554548+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "896876288c65020a",
-   "ts": "2026-11-12T13:55:06.488153+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "וושינגטון, יש לנו בעיה: שכנותיה של איראן מסרבות ללחץ האמריקני לסגירת גבולותיהן",
-   "link": "https://www.ynet.co.il/news/article/rkl1p17rmg"
-  },
-  {
-   "id": "8c6d6c1827427fff",
-   "ts": "2026-11-12T13:55:06.488153+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "התכנסות הקבינט, ההתנגדות האמריקנית: לנתניהו מותר לצאת למלחמה באיראן?",
-   "link": "https://www.ynet.co.il/news/article/bjdmvezcgl"
-  },
-  {
-   "id": "20efe96c3d966ff4",
-   "ts": "2026-11-12T13:55:06.488153+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בעלות הברית זעמו: הכישלון של ארה\"ב בלחץ על איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
-  },
-  {
-   "id": "8c6d6c1827427fff",
-   "ts": "2026-11-12T05:52:26.861510+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "התכנסות הקבינט, ההתנגדות האמריקנית: לנתניהו מותר לצאת למלחמה באיראן?",
-   "link": "https://www.ynet.co.il/news/article/bjdmvezcgl"
-  },
-  {
-   "id": "b24c451d38340caa",
-   "ts": "2026-11-12T05:52:26.861510+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ירי, טיפוס על חבל ואומגה: מחנה האימונים החדש לנשים בטהרן",
-   "link": "https://www.ynet.co.il/news/article/ryz00e11mrml"
   }
  ]
 }
