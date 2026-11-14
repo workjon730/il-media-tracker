@@ -1,65 +1,66 @@
 {
- "generated": "2026-11-14T19:59:26.959814+03:00",
- "last_24h_total": 500,
+ "generated": "2026-11-15T00:23:17.291308+03:00",
+ "last_24h_total": 630,
  "per_target": {
-  "איראן": 387,
-  "בינה מלאכותית": 113
+  "איראן": 487,
+  "בינה מלאכותית": 143
  },
  "per_source": {
-  "מעריב": 54,
-  "YNET": 48,
-  "הארץ": 39,
-  "Vietnam.vn": 31,
-  "וואלה": 28,
-  "כיכר השבת": 27,
-  "Investing.com": 15,
-  "N12": 14,
-  "מקור ראשון": 14,
-  "גלובס": 14,
-  "זמן ישראל": 14,
-  "TheMarker": 13,
-  "ערוץ 7": 13,
-  "تسنیم": 11,
-  "mako": 10,
-  "Google News (כל האתרים)": 10,
-  "היום": 10,
-  "כאן 11": 10,
-  "סרוגים": 9,
-  "בחדרי חרדים": 9,
-  "ynet": 8,
-  "Hayadan": 8,
-  "רשת 13": 7,
-  "הידברות": 7,
+  "מעריב": 67,
+  "YNET": 62,
+  "הארץ": 47,
+  "Vietnam.vn": 39,
+  "כיכר השבת": 33,
+  "וואלה": 30,
+  "TheMarker": 18,
+  "N12": 18,
+  "גלובס": 18,
+  "ערוץ 7": 17,
+  "מקור ראשון": 17,
+  "تسنیم": 17,
+  "זמן ישראל": 17,
+  "Investing.com": 17,
+  "בחדרי חרדים": 15,
+  "mako": 14,
+  "היום": 13,
+  "כאן 11": 13,
+  "Google News (כל האתרים)": 12,
+  "ynet": 11,
+  "סרוגים": 11,
+  "Hayadan": 9,
+  "רשת 13": 8,
+  "הידברות": 8,
+  "אמס": 8,
+  "JDN": 7,
+  "C14": 7,
+  "חב\"ד אינפו": 5,
   "אפוק": 5,
-  "JDN": 5,
-  "אמס": 5,
+  "כיפה": 5,
+  "אתר החדשות דבר": 5,
   "Calcalist": 5,
-  "חב\"ד אינפו": 4,
-  "כיפה": 4,
-  "אתר החדשות דבר": 4,
+  "ספונסר": 5,
+  "Israel Defense": 5,
+  "המחדש": 4,
   "פאנדר": 4,
   "i24NEWS": 4,
-  "ספונסר": 4,
-  "Israel Defense": 4,
-  "C14": 4,
-  "המחדש": 3,
-  "PORT2PORT": 3,
-  "Microsoft": 3,
+  "PORT2PORT": 4,
+  "Microsoft": 4,
   "GOV.IL": 3,
+  "ביזפורטל": 3,
+  "וואלה טכנולוגיה": 3,
+  "haipo.co.il": 3,
+  "תל אביב אונליין": 2,
   "חרדים10": 2,
   "כל העיר ירושלים": 2,
-  "ביזפורטל": 2,
-  "וואלה טכנולוגיה": 2,
-  "haipo.co.il": 2,
+  "HWzone": 2,
   "103FM": 1,
-  "תל אביב אונליין": 1,
-  "HWzone": 1
+  "gov.il": 1
  },
  "per_lean": {
-  "שמאל": 182,
-  "אחר": 149,
-  "ימין": 86,
-  "מרכז": 83
+  "שמאל": 226,
+  "אחר": 189,
+  "ימין": 112,
+  "מרכז": 103
  },
  "leads": [
   {
@@ -133,6 +134,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-9e15ed609c7d1a1026.htm",
    "prominence": 5,
    "rank": 3
+  },
+  {
+   "id": "21752d4cec174513",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "פרטים חדשים פרטים חדשים אזהרה לישראל: \"האמריקנים לא יסבלו מידע לא אמין\" המוסד מקדם פעולה באיראן בעוד במערכת הביטחון מסתייגים",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-ce704287e3bd1a1027.htm",
+   "prominence": 5,
+   "rank": 2
   }
  ],
  "items": [
@@ -837,6 +856,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "21752d4cec174513",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "פרטים חדשים פרטים חדשים אזהרה לישראל: \"האמריקנים לא יסבלו מידע לא אמין\" המוסד מקדם פעולה באיראן בעוד במערכת הביטחון מסתייגים",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-ce704287e3bd1a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "f703f751e9d69484",
@@ -2763,6 +2800,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "7cc1d5e38f991241",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 18 דקות בישראל מנסים להפעיל לחץ על האמריקאים לפעול באיראן",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-9901c60da5bd1a1026.htm",
+   "prominence": 1,
+   "rank": 16
   },
   {
    "id": "11a7bce05f0fa6a2",
@@ -4961,6 +5016,86 @@
    "rank": 15
   },
   {
+   "id": "ae49f4fb983dd81a",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ישראל עשויה \"להידרש לפעולת סולו\" באיראן, צה\"ל דורש ודאות אסטרטגית",
+   "link": "https://www.ynet.co.il/news/article/hy11dym80ml"
+  },
+  {
+   "id": "f1a49c72686a380b",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "שקרי \"מלחמת המוקשים\" של איראן - והאזהרה ממתקן הגרעין הסודי שבו קבור האורניום",
+   "link": "https://www.ynet.co.il/news/article/hktw00kl0zl"
+  },
+  {
+   "id": "409f5ee4a1522822",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דיווחים: טראמפ שוקל להשאיר את המו\"מ למדינות המפרץ - ולהימנע מתקיפה באיראן",
+   "link": "https://www.ynet.co.il/news/article/ry116kkrage"
+  },
+  {
+   "id": "69ccb50eeb2eeead",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מלחמה נוספת באיראן תהיה טעות אסטרטגית קשה דני סיטרינוביץ', מומחה לאיראן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-15T00:23:10.621237+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
    "id": "f1a49c72686a380b",
    "ts": "2026-11-14T19:59:18.945475+03:00",
    "source": "ynet",
@@ -5359,118 +5494,6 @@
    "lean": "left",
    "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "20efe96c3d966ff4",
-   "ts": "2026-11-13T10:49:50.731917+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בעלות הברית זעמו: הכישלון של ארה\"ב בלחץ על איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
-  },
-  {
-   "id": "143689fde2fb245b",
-   "ts": "2026-11-13T03:11:05.552283+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תקיפה בדרום איראן; בישראל מעריכים: המו\"מ עדיין לא התפוצץ",
-   "link": "https://www.ynet.co.il/news/article/h16dmu7azg"
-  },
-  {
-   "id": "383ff0c0ba9540f2",
-   "ts": "2026-11-13T03:11:05.552283+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "23:56 הנשיא טראמפ: \"אני שוקל לתקוף באיראן בקרוב, אני רוצה להשמיד אותם ב-100% ולא 98%\"",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w02/shorts-d57dfcad281d1a1027.htm"
-  },
-  {
-   "id": "978cb562cad2bfbf",
-   "ts": "2026-11-13T03:11:05.552283+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מחכים לטראמפ: בישראל מוטרדים מקצב ייצור הטילים באיראן 10:10 ניר דבורי, אוהד חמו",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-ad653967cbcc1a1027.htm"
-  },
-  {
-   "id": "80bce5db2eb3ec0f",
-   "ts": "2026-11-13T03:11:05.552283+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "20efe96c3d966ff4",
-   "ts": "2026-11-13T03:11:05.552283+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בעלות הברית זעמו: הכישלון של ארה\"ב בלחץ על איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-32f50dd879ec1a1026.htm"
-  },
-  {
-   "id": "e345a7b56d2d3005",
-   "ts": "2026-11-12T21:50:06.554548+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בישראל מעריכים: המו\"מ עם איראן עדיין לא התפוצץ",
-   "link": "https://www.ynet.co.il/news/article/h16dmu7azg"
   }
  ]
 }
