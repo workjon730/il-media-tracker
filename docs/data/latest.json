@@ -1,106 +1,77 @@
 {
- "generated": "2026-11-15T12:13:14.684377+03:00",
- "last_24h_total": 649,
+ "generated": "2026-11-15T19:59:56.612991+03:00",
+ "last_24h_total": 539,
  "per_target": {
-  "איראן": 495,
-  "בינה מלאכותית": 154
+  "איראן": 396,
+  "בינה מלאכותית": 143
  },
  "per_source": {
-  "מעריב": 70,
-  "YNET": 64,
-  "הארץ": 44,
-  "Vietnam.vn": 39,
-  "כיכר השבת": 31,
-  "בחדרי חרדים": 24,
-  "TheMarker": 22,
-  "تسنیم": 22,
-  "גלובס": 21,
-  "N12": 19,
-  "כאן 11": 19,
-  "היום": 18,
-  "ערוץ 7": 18,
-  "זמן ישראל": 16,
-  "מקור ראשון": 15,
+  "YNET": 53,
+  "מעריב": 50,
+  "Vietnam.vn": 36,
+  "הארץ": 30,
+  "בחדרי חרדים": 23,
+  "כיכר השבת": 22,
+  "TheMarker": 21,
+  "تسنیم": 19,
+  "גלובס": 18,
+  "כאן 11": 17,
+  "N12": 15,
   "C14": 15,
-  "mako": 14,
-  "וואלה": 14,
-  "ynet": 13,
+  "זמן ישראל": 14,
+  "ערוץ 7": 14,
+  "היום": 14,
   "אמס": 12,
-  "Investing.com": 12,
-  "Google News (כל האתרים)": 10,
-  "סרוגים": 10,
-  "הידברות": 10,
+  "ynet": 11,
+  "הידברות": 11,
+  "מקור ראשון": 11,
+  "Google News (כל האתרים)": 9,
+  "mako": 9,
   "JDN": 8,
-  "Hayadan": 8,
+  "וואלה": 7,
+  "Investing.com": 7,
+  "סרוגים": 7,
+  "המחדש": 6,
   "אתר החדשות דבר": 6,
   "ביזפורטל": 6,
-  "חב\"ד אינפו": 5,
-  "המחדש": 5,
-  "ספונסר": 5,
-  "וואלה טכנולוגיה": 5,
-  "רשת 13": 4,
-  "כיפה": 4,
-  "GOV.IL": 4,
-  "PORT2PORT": 4,
-  "haipo.co.il": 4,
-  "Microsoft": 4,
+  "GOV.IL": 6,
+  "Hayadan": 5,
+  "חב\"ד אינפו": 4,
   "HWzone": 4,
-  "אפוק": 3,
-  "Calcalist": 3,
+  "Microsoft": 4,
+  "רשת 13": 3,
+  "ספונסר": 3,
   "תל אביב אונליין": 3,
-  "פאנדר": 2,
+  "וואלה טכנולוגיה": 3,
+  "כיפה": 2,
   "Israel Defense": 2,
   "gov.il": 2,
-  "i24NEWS": 1,
+  "PORT2PORT": 2,
+  "haipo.co.il": 2,
+  "פאנדר": 2,
+  "אפוק": 2,
+  "שרון אונליין": 2,
+  "Gadgety": 2,
+  "Calcalist": 2,
+  "INSS": 2,
+  "i24NEWS": 2,
   "אייס": 1,
   "רדיו צפון 104.5FM": 1,
   "לדעת": 1,
-  "שרון אונליין": 1,
-  "Gadgety": 1
+  "הקול היהודי": 1,
+  "TGspot": 1,
+  "צומת השרון הרצליה": 1,
+  "אנשים ומחשבים": 1,
+  "המכון הישראלי לדמוקרטיה": 1,
+  "אוניברסיטת תל אביב": 1
  },
  "per_lean": {
-  "שמאל": 216,
-  "אחר": 199,
-  "ימין": 123,
-  "מרכז": 111
+  "אחר": 184,
+  "שמאל": 168,
+  "ימין": 102,
+  "מרכז": 85
  },
  "leads": [
-  {
-   "id": "a488352bdd575197",
-   "ts": "2026-11-14T19:59:18.945475+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "כתר של סנקציות ומצור ימי: כך טראמפ סוגר על איראן מאגרי המזון של טהראן אוזלים, הספינות מכבות משדרים במפרץ והדלק בארה\"ב מוזל: מה עומד מאחורי הימור הענק של טראמפ? | עושים סדר N12 |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-8dee059dcbad1a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
-  {
-   "id": "f703f751e9d69484",
-   "ts": "2026-11-14T13:14:36.203603+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "מפגש ראשון אי-פעם של שלושת מנהיגי המעצמות החזקות בעולם ידונו בצמצום הנשק הגרעיני ובמלחמה עם איראן: \"זה תחילתו של שיח\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9e15ed609c7d1a1026.htm",
-   "prominence": 5,
-   "rank": 3
-  },
   {
    "id": "21752d4cec174513",
    "ts": "2026-11-15T00:23:10.621237+03:00",
@@ -5090,6 +5061,70 @@
    "rank": 15
   },
   {
+   "id": "881128320327757f",
+   "ts": "2026-11-15T19:59:50.032228+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ראש המוסד נחת בישראל אחרי השיחות על איראן בארה\"ב - ויעדכן את הקבינט",
+   "link": "https://www.ynet.co.il/news/article/sy9qslprfg"
+  },
+  {
+   "id": "b9a109c0d523e281",
+   "ts": "2026-11-15T19:59:50.032228+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "באיראן שוב טוענים: \"מכליות פגעו במוקשים בהורמוז - ועלו באש\" | תיעוד",
+   "link": "https://www.ynet.co.il/news/article/rkpkuvwrzg"
+  },
+  {
+   "id": "69ccb50eeb2eeead",
+   "ts": "2026-11-15T19:59:50.032228+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "מלחמה נוספת באיראן תהיה טעות אסטרטגית קשה דני סיטרינוביץ', מומחה לאיראן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-15T19:59:50.032228+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
    "id": "9ae1f5523287324d",
    "ts": "2026-11-15T12:13:09.162717+03:00",
    "source": "ynet",
@@ -5439,70 +5474,6 @@
    "score": 15,
    "lean": "left",
    "title": "לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני 13.11.26 ניר דבורי, ירון אברהם",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm"
-  },
-  {
-   "id": "80bce5db2eb3ec0f",
-   "ts": "2026-11-14T13:14:36.203603+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "818de0d1dce428c5",
-   "ts": "2026-11-14T06:05:29.811138+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווח: ראש המוסד נפגש עם בכירים בממשל טראמפ - ולוחץ לחדש את המלחמה באיראן",
-   "link": "https://www.ynet.co.il/news/article/rjmwtqeagx"
-  },
-  {
-   "id": "48fd6f6f0b2cd465",
-   "ts": "2026-11-14T06:05:29.811138+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "המלחמה עם איראן לא נגמרה, היא כנראה נדחתה",
-   "link": "https://www.ynet.co.il/news/article/sysjqixrzl"
-  },
-  {
-   "id": "89693f50d991ed3b",
-   "ts": "2026-11-14T06:05:29.811138+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לראשונה מאז ספטמבר: איראן טוענת שתקפה יעד אמריקני 07:40 ניר דבורי, ירון אברהם",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-9b90f4349f1d1a1027.htm"
   }
  ]
