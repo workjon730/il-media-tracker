@@ -1,93 +1,71 @@
 {
- "generated": "2026-11-16T04:54:27.935964+03:00",
- "last_24h_total": 540,
+ "generated": "2026-11-16T12:29:50.218416+03:00",
+ "last_24h_total": 515,
  "per_target": {
-  "איראן": 386,
-  "בינה מלאכותית": 154
+  "איראן": 374,
+  "בינה מלאכותית": 141
  },
  "per_source": {
-  "YNET": 55,
-  "מעריב": 40,
-  "Vietnam.vn": 36,
-  "הארץ": 24,
-  "TheMarker": 23,
-  "כאן 11": 22,
-  "גלובס": 18,
+  "YNET": 56,
+  "מעריב": 35,
+  "Vietnam.vn": 35,
+  "הארץ": 25,
+  "כאן 11": 23,
+  "TheMarker": 20,
+  "גלובס": 19,
   "כיכר השבת": 18,
-  "היום": 17,
-  "تسنیم": 16,
-  "C14": 16,
-  "בחדרי חרדים": 14,
-  "זמן ישראל": 14,
-  "N12": 13,
-  "ערוץ 7": 13,
-  "אמס": 12,
-  "הידברות": 11,
-  "Google News (כל האתרים)": 11,
-  "מקור ראשון": 10,
-  "GOV.IL": 10,
-  "ynet": 9,
-  "המחדש": 8,
+  "זמן ישראל": 16,
+  "היום": 15,
+  "ערוץ 7": 14,
+  "تسنیم": 14,
+  "Google News (כל האתרים)": 12,
+  "מקור ראשון": 12,
+  "C14": 11,
+  "N12": 10,
+  "אמס": 10,
+  "בחדרי חרדים": 9,
+  "GOV.IL": 9,
+  "ynet": 8,
+  "INSS": 8,
   "אתר החדשות דבר": 8,
   "וואלה": 8,
-  "JDN": 7,
+  "Investing.com": 8,
   "סרוגים": 7,
-  "Investing.com": 7,
-  "ביזפורטל": 6,
-  "INSS": 6,
-  "i24NEWS": 6,
+  "JDN": 7,
+  "הידברות": 7,
+  "i24NEWS": 7,
+  "המחדש": 6,
+  "mako": 6,
+  "רשת 13": 5,
+  "ביזפורטל": 5,
   "חב\"ד אינפו": 4,
-  "פאנדר": 4,
   "אפוק": 4,
-  "HWzone": 4,
+  "TGspot": 4,
   "שרון אונליין": 4,
-  "Hayadan": 4,
-  "Gadgety": 4,
+  "צומת השרון הרצליה": 4,
+  "אנשים ומחשבים": 4,
   "Microsoft": 4,
-  "Calcalist": 4,
-  "רשת 13": 4,
-  "mako": 4,
+  "פאנדר": 3,
+  "הקול היהודי": 3,
+  "Hayadan": 3,
+  "HWzone": 3,
+  "Gadgety": 3,
+  "Calcalist": 3,
+  "כיפה": 3,
   "רדיו צפון 104.5FM": 3,
   "Israel Defense": 3,
-  "הקול היהודי": 3,
-  "TGspot": 3,
-  "צומת השרון הרצליה": 3,
-  "אנשים ומחשבים": 3,
   "המכון הישראלי לדמוקרטיה": 2,
   "אוניברסיטת תל אביב": 2,
-  "כיפה": 2,
   "חדשות חיפה": 2,
-  "אייס": 1,
-  "לדעת": 1,
-  "ספונסר": 1,
-  "תל אביב אונליין": 1,
-  "וואלה טכנולוגיה": 1
+  "מידה": 1
  },
  "per_lean": {
-  "אחר": 204,
-  "שמאל": 166,
-  "ימין": 88,
-  "מרכז": 82
+  "אחר": 192,
+  "שמאל": 164,
+  "ימין": 83,
+  "מרכז": 76
  },
  "leads": [
-  {
-   "id": "eca3039e5c3bc5c3",
-   "ts": "2026-11-15T12:13:09.162717+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "ניסו להשיג טילים וכטב\"מים: התוכנית של איראן באירופה החוליה נגד יהודים נחשפה - כך הוכוונו פעולות הטרור בזמן אמת",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-c7c5646161ed1a1026.htm",
-   "prominence": 5,
-   "rank": 3
-  },
   {
    "id": "27c3f2d75c99595e",
    "ts": "2026-11-16T00:41:32.729179+03:00",
@@ -5095,6 +5073,70 @@
    "rank": 15
   },
   {
+   "id": "7d057d15e7b965fd",
+   "ts": "2026-11-16T12:29:43.211669+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בכיר המוסד מודה אחרי התחקיר על רון ארד: \"תיאוריית החטיפה לאיראן נולדה בחטא\"",
+   "link": "https://www.ynet.co.il/news/article/s1q6q00vrzx"
+  },
+  {
+   "id": "5d5e2224f779f36d",
+   "ts": "2026-11-16T12:29:43.211669+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "האזהרה החריפה של גורמי הביטחון: העיניים על איראן - וחמאס משקם את המנהרות",
+   "link": "https://www.ynet.co.il/news/article/yokra14959434"
+  },
+  {
+   "id": "3e4c7f4343d13de6",
+   "ts": "2026-11-16T12:29:43.211669+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "תקיפות חוזרות לא יעלימו את האיום האיראני דני סיטרינוביץ', מומחה לאיראן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-16T12:29:43.211669+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
    "id": "881128320327757f",
    "ts": "2026-11-16T04:54:20.648848+03:00",
    "source": "ynet",
@@ -5413,70 +5455,6 @@
    "lean": "left",
    "title": "שקרי \"מלחמת המוקשים\" של איראן - והאזהרה ממתקן הגרעין הסודי שבו קבור האורניום",
    "link": "https://www.ynet.co.il/news/article/hktw00kl0zl"
-  },
-  {
-   "id": "409f5ee4a1522822",
-   "ts": "2026-11-15T04:47:32.465477+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווחים: טראמפ שוקל להשאיר את המו\"מ למדינות המפרץ - ולהימנע מתקיפה באיראן",
-   "link": "https://www.ynet.co.il/news/article/ry116kkrage"
-  },
-  {
-   "id": "69ccb50eeb2eeead",
-   "ts": "2026-11-15T04:47:32.465477+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מלחמה נוספת באיראן תהיה טעות אסטרטגית קשה דני סיטרינוביץ', מומחה לאיראן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
-  },
-  {
-   "id": "80bce5db2eb3ec0f",
-   "ts": "2026-11-15T04:47:32.465477+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "ae49f4fb983dd81a",
-   "ts": "2026-11-15T00:23:10.621237+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ישראל עשויה \"להידרש לפעולת סולו\" באיראן, צה\"ל דורש ודאות אסטרטגית",
-   "link": "https://www.ynet.co.il/news/article/hy11dym80ml"
   }
  ]
 }
