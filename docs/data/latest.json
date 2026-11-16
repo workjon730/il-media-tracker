@@ -1,96 +1,75 @@
 {
- "generated": "2026-11-16T00:41:40.529049+03:00",
- "last_24h_total": 541,
+ "generated": "2026-11-16T04:54:27.935964+03:00",
+ "last_24h_total": 540,
  "per_target": {
-  "איראן": 389,
-  "בינה מלאכותית": 152
+  "איראן": 386,
+  "בינה מלאכותית": 154
  },
  "per_source": {
-  "YNET": 52,
-  "מעריב": 46,
-  "Vietnam.vn": 38,
-  "הארץ": 27,
-  "TheMarker": 22,
-  "בחדרי חרדים": 20,
-  "כאן 11": 19,
-  "כיכר השבת": 19,
+  "YNET": 55,
+  "מעריב": 40,
+  "Vietnam.vn": 36,
+  "הארץ": 24,
+  "TheMarker": 23,
+  "כאן 11": 22,
   "גלובס": 18,
-  "تسنیم": 17,
-  "היום": 16,
+  "כיכר השבת": 18,
+  "היום": 17,
+  "تسنیم": 16,
   "C14": 16,
-  "זמן ישראל": 15,
-  "N12": 14,
+  "בחדרי חרדים": 14,
+  "זמן ישראל": 14,
+  "N12": 13,
   "ערוץ 7": 13,
   "אמס": 12,
-  "הידברות": 12,
-  "ynet": 10,
-  "Google News (כל האתרים)": 10,
+  "הידברות": 11,
+  "Google News (כל האתרים)": 11,
   "מקור ראשון": 10,
-  "GOV.IL": 9,
-  "JDN": 8,
-  "המחדש": 7,
+  "GOV.IL": 10,
+  "ynet": 9,
+  "המחדש": 8,
+  "אתר החדשות דבר": 8,
+  "וואלה": 8,
+  "JDN": 7,
   "סרוגים": 7,
-  "אתר החדשות דבר": 7,
-  "mako": 6,
+  "Investing.com": 7,
   "ביזפורטל": 6,
-  "Investing.com": 6,
-  "וואלה": 6,
-  "Hayadan": 5,
+  "INSS": 6,
+  "i24NEWS": 6,
   "חב\"ד אינפו": 4,
+  "פאנדר": 4,
+  "אפוק": 4,
   "HWzone": 4,
+  "שרון אונליין": 4,
+  "Hayadan": 4,
+  "Gadgety": 4,
   "Microsoft": 4,
-  "INSS": 4,
-  "i24NEWS": 4,
-  "פאנדר": 3,
-  "אפוק": 3,
-  "שרון אונליין": 3,
-  "Gadgety": 3,
-  "Calcalist": 3,
-  "רשת 13": 3,
-  "כיפה": 2,
-  "ספונסר": 2,
-  "תל אביב אונליין": 2,
-  "וואלה טכנולוגיה": 2,
-  "רדיו צפון 104.5FM": 2,
-  "Israel Defense": 2,
-  "הקול היהודי": 2,
-  "TGspot": 2,
-  "צומת השרון הרצליה": 2,
-  "אנשים ומחשבים": 2,
+  "Calcalist": 4,
+  "רשת 13": 4,
+  "mako": 4,
+  "רדיו צפון 104.5FM": 3,
+  "Israel Defense": 3,
+  "הקול היהודי": 3,
+  "TGspot": 3,
+  "צומת השרון הרצליה": 3,
+  "אנשים ומחשבים": 3,
   "המכון הישראלי לדמוקרטיה": 2,
   "אוניברסיטת תל אביב": 2,
-  "gov.il": 1,
-  "PORT2PORT": 1,
-  "haipo.co.il": 1,
+  "כיפה": 2,
+  "חדשות חיפה": 2,
   "אייס": 1,
   "לדעת": 1,
-  "חדשות חיפה": 1
+  "ספונסר": 1,
+  "תל אביב אונליין": 1,
+  "וואלה טכנולוגיה": 1
  },
  "per_lean": {
-  "אחר": 197,
-  "שמאל": 162,
-  "ימין": 97,
-  "מרכז": 85
+  "אחר": 204,
+  "שמאל": 166,
+  "ימין": 88,
+  "מרכז": 82
  },
  "leads": [
-  {
-   "id": "21752d4cec174513",
-   "ts": "2026-11-15T04:47:32.465477+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "פרטים חדשים פרטים חדשים אזהרה לישראל: \"האמריקנים לא יסבלו מידע לא אמין\" המוסד מקדם פעולה באיראן בעוד במערכת הביטחון מסתייגים",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-ce704287e3bd1a1027.htm",
-   "prominence": 5,
-   "rank": 2
-  },
   {
    "id": "eca3039e5c3bc5c3",
    "ts": "2026-11-15T12:13:09.162717+03:00",
@@ -126,6 +105,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-f3e70067c3ed1a1026.htm",
    "prominence": 3,
    "rank": 8
+  },
+  {
+   "id": "27c3f2d75c99595e",
+   "ts": "2026-11-16T04:54:20.648848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "האזהרה החריפה לאיראן ולארה\"ב: עשרות מיליונים בסכנת רעב",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f3e70067c3ed1a1026.htm",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
@@ -2234,6 +2231,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "27c3f2d75c99595e",
+   "ts": "2026-11-16T04:54:20.648848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "האזהרה החריפה לאיראן ולארה\"ב: עשרות מיליונים בסכנת רעב",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f3e70067c3ed1a1026.htm",
+   "prominence": 3,
+   "rank": 9
   },
   {
    "id": "27c3f2d75c99595e",
@@ -5081,6 +5096,70 @@
   },
   {
    "id": "881128320327757f",
+   "ts": "2026-11-16T04:54:20.648848+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "ראש המוסד נחת בישראל אחרי השיחות על איראן בארה\"ב - ויעדכן את הקבינט",
+   "link": "https://www.ynet.co.il/news/article/sy9qslprfg"
+  },
+  {
+   "id": "b9a109c0d523e281",
+   "ts": "2026-11-16T04:54:20.648848+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "באיראן שוב טוענים: \"מכליות פגעו במוקשים בהורמוז - ועלו באש\" | תיעוד",
+   "link": "https://www.ynet.co.il/news/article/rkpkuvwrzg"
+  },
+  {
+   "id": "3e4c7f4343d13de6",
+   "ts": "2026-11-16T04:54:20.648848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "תקיפות חוזרות לא יעלימו את האיום האיראני דני סיטרינוביץ', מומחה לאיראן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
+  },
+  {
+   "id": "80bce5db2eb3ec0f",
+   "ts": "2026-11-16T04:54:20.648848+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
+  },
+  {
+   "id": "881128320327757f",
    "ts": "2026-11-16T00:41:32.729179+03:00",
    "source": "ynet",
    "source_display": "ynet",
@@ -5398,86 +5477,6 @@
    "lean": "left",
    "title": "ישראל עשויה \"להידרש לפעולת סולו\" באיראן, צה\"ל דורש ודאות אסטרטגית",
    "link": "https://www.ynet.co.il/news/article/hy11dym80ml"
-  },
-  {
-   "id": "f1a49c72686a380b",
-   "ts": "2026-11-15T00:23:10.621237+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שקרי \"מלחמת המוקשים\" של איראן - והאזהרה ממתקן הגרעין הסודי שבו קבור האורניום",
-   "link": "https://www.ynet.co.il/news/article/hktw00kl0zl"
-  },
-  {
-   "id": "409f5ee4a1522822",
-   "ts": "2026-11-15T00:23:10.621237+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דיווחים: טראמפ שוקל להשאיר את המו\"מ למדינות המפרץ - ולהימנע מתקיפה באיראן",
-   "link": "https://www.ynet.co.il/news/article/ry116kkrage"
-  },
-  {
-   "id": "69ccb50eeb2eeead",
-   "ts": "2026-11-15T00:23:10.621237+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מלחמה נוספת באיראן תהיה טעות אסטרטגית קשה דני סיטרינוביץ', מומחה לאיראן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
-  },
-  {
-   "id": "80bce5db2eb3ec0f",
-   "ts": "2026-11-15T00:23:10.621237+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "f1a49c72686a380b",
-   "ts": "2026-11-14T19:59:18.945475+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "שקרי \"מלחמת המוקשים\" של איראן - והאזהרה ממתקן הגרעין הסודי שבו קבור האורניום",
-   "link": "https://www.ynet.co.il/news/article/hktw00kl0zl"
   }
  ]
 }
