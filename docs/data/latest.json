@@ -1,112 +1,68 @@
 {
- "generated": "2026-11-16T23:20:05.777793+03:00",
- "last_24h_total": 412,
+ "generated": "2026-11-17T06:43:46.145154+03:00",
+ "last_24h_total": 196,
  "per_target": {
-  "איראן": 290,
-  "בינה מלאכותית": 122
+  "איראן": 112,
+  "בינה מלאכותית": 84
  },
  "per_source": {
-  "YNET": 43,
-  "מעריב": 29,
-  "Vietnam.vn": 29,
-  "הארץ": 18,
-  "כאן 11": 18,
-  "TheMarker": 17,
-  "גלובס": 15,
-  "N12": 13,
-  "כיכר השבת": 13,
-  "זמן ישראל": 12,
-  "ערוץ 7": 11,
-  "היום": 11,
-  "تسنیم": 10,
-  "מקור ראשון": 10,
-  "Google News (כל האתרים)": 9,
-  "ynet": 8,
-  "אמס": 8,
-  "Investing.com": 8,
-  "אתר החדשות דבר": 7,
-  "C14": 7,
-  "וואלה": 7,
-  "INSS": 6,
-  "i24NEWS": 6,
-  "GOV.IL": 6,
-  "סרוגים": 5,
-  "JDN": 5,
-  "הידברות": 5,
-  "בחדרי חרדים": 5,
-  "mako": 5,
-  "המחדש": 4,
-  "רשת 13": 4,
-  "צומת השרון הרצליה": 4,
-  "אנשים ומחשבים": 4,
-  "כיפה": 3,
-  "רדיו צפון 104.5FM": 3,
-  "Israel Defense": 3,
-  "אפוק": 3,
-  "ביזפורטל": 3,
-  "חב\"ד אינפו": 3,
-  "שרון אונליין": 3,
-  "TGspot": 3,
-  "Microsoft": 3,
-  "פאנדר": 2,
-  "הקול היהודי": 2,
-  "חדשות חיפה": 2,
-  "Hayadan": 2,
-  "HWzone": 2,
-  "Gadgety": 2,
-  "Calcalist": 2,
+  "Vietnam.vn": 23,
+  "YNET": 18,
+  "מעריב": 16,
+  "N12": 12,
+  "TheMarker": 8,
+  "גלובס": 8,
+  "הארץ": 7,
+  "Investing.com": 7,
+  "כאן 11": 6,
+  "כיכר השבת": 6,
+  "ynet": 5,
+  "זמן ישראל": 5,
+  "מקור ראשון": 5,
+  "ערוץ 7": 4,
+  "וואלה": 4,
+  "אתר החדשות דבר": 4,
+  "Google News (כל האתרים)": 3,
+  "רשת 13": 3,
+  "mako": 3,
+  "i24NEWS": 3,
+  "צומת השרון הרצליה": 3,
+  "אנשים ומחשבים": 3,
+  "OrcaRouter": 3,
+  "INSS": 2,
+  "JDN": 2,
+  "היום": 2,
+  "אמס": 2,
+  "تسنیم": 2,
+  "שרון אונליין": 2,
+  "GOV.IL": 2,
   "המכון הישראלי לדמוקרטיה": 2,
-  "OrcaRouter": 2,
-  "אוניברסיטת תל אביב": 1,
+  "Reuters": 2,
+  "BE106": 2,
+  "וואלה מקומי": 2,
+  "אפוק": 1,
+  "בחדרי חרדים": 1,
+  "סרוגים": 1,
+  "C14": 1,
+  "ביזפורטל": 1,
+  "הידברות": 1,
   "מידה": 1,
-  "Reuters": 1,
-  "BE106": 1,
-  "וואלה מקומי": 1
+  "חב\"ד אינפו": 1,
+  "כיפה": 1,
+  "רדיו צפון 104.5FM": 1,
+  "Israel Defense": 1,
+  "TGspot": 1,
+  "Microsoft": 1,
+  "אייס": 1,
+  "Calcalist": 1
  },
  "per_lean": {
-  "אחר": 156,
-  "שמאל": 135,
-  "מרכז": 61,
-  "ימין": 60
+  "אחר": 77,
+  "שמאל": 67,
+  "מרכז": 30,
+  "ימין": 22
  },
- "leads": [
-  {
-   "id": "27c3f2d75c99595e",
-   "ts": "2026-11-16T00:41:32.729179+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "האזהרה החריפה לאיראן ולארה\"ב: עשרות מיליונים בסכנת רעב",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f3e70067c3ed1a1026.htm",
-   "prominence": 3,
-   "rank": 8
-  },
-  {
-   "id": "27c3f2d75c99595e",
-   "ts": "2026-11-16T04:54:20.648848+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "האזהרה החריפה לאיראן ולארה\"ב: עשרות מיליונים בסכנת רעב",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-f3e70067c3ed1a1026.htm",
-   "prominence": 3,
-   "rank": 9
-  }
- ],
+ "leads": [],
  "items": [
   {
    "id": "a488352bdd575197",
@@ -2827,6 +2783,24 @@
    "rank": 9
   },
   {
+   "id": "b5358cc139aedc4b",
+   "ts": "2026-11-17T06:43:38.580208+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:00 התחקיר הדרמטי חושף: הסוד שאיראן ניסתה להסתיר",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-848cf112bd5e1a1026.htm",
+   "prominence": 1,
+   "rank": 15
+  },
+  {
    "id": "6e58b899b6cd1cb8",
    "ts": "2026-11-16T23:19:58.660574+03:00",
    "source": "n12",
@@ -5095,6 +5069,70 @@
    "rank": 15
   },
   {
+   "id": "3bdc621223825f7c",
+   "ts": "2026-11-17T06:43:38.580208+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "התעלם מסוגיית ממשלת המעבר: הקבינט דן בתקיפה באיראן, ובהתנגדות ארה\"ב",
+   "link": "https://www.ynet.co.il/news/article/rju44tdrml"
+  },
+  {
+   "id": "2fd26355ec2f07ec",
+   "ts": "2026-11-17T06:43:38.580208+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "דריכות במזרח התיכון: התגובה של טראמפ לאיומים מאיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-a730e6d3542e1a1026.htm"
+  },
+  {
+   "id": "3e4c7f4343d13de6",
+   "ts": "2026-11-17T06:43:38.580208+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "תקיפות חוזרות לא יעלימו את האיום האיראני דני סיטרינוביץ', מומחה לאיראן",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
+  },
+  {
+   "id": "def3d5afd7c55ffa",
+   "ts": "2026-11-17T06:43:38.580208+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נפתרה התעלומה הגדולה באיראן? הקשר למיזמי הטרור החשובים",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ff25dc99634e1a1027.htm"
+  },
+  {
    "id": "f8ddbb6df16e76c2",
    "ts": "2026-11-16T23:19:58.660574+03:00",
    "source": "ynet",
@@ -5381,86 +5419,6 @@
    "lean": "left",
    "title": "ראש המוסד נחת בישראל אחרי השיחות על איראן בארה\"ב - ויעדכן את הקבינט",
    "link": "https://www.ynet.co.il/news/article/sy9qslprfg"
-  },
-  {
-   "id": "b9a109c0d523e281",
-   "ts": "2026-11-15T19:59:50.032228+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "באיראן שוב טוענים: \"מכליות פגעו במוקשים בהורמוז - ועלו באש\" | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/rkpkuvwrzg"
-  },
-  {
-   "id": "69ccb50eeb2eeead",
-   "ts": "2026-11-15T19:59:50.032228+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "מלחמה נוספת באיראן תהיה טעות אסטרטגית קשה דני סיטרינוביץ', מומחה לאיראן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
-  },
-  {
-   "id": "80bce5db2eb3ec0f",
-   "ts": "2026-11-15T19:59:50.032228+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "9ae1f5523287324d",
-   "ts": "2026-11-15T12:13:09.162717+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "פנה מיוזמתו לטהרן ו\"רצה לנקום\": ישראלי מהצפון יואשם באיסוף מודיעין עבור איראן",
-   "link": "https://www.ynet.co.il/news/article/rkngf0uazx"
-  },
-  {
-   "id": "91911a7dc768c361",
-   "ts": "2026-11-15T12:13:09.162717+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הערכת המודיעין שסותרת את ההצהרות על \"השמדה\": בכמה טילים מחזיקה איראן?",
-   "link": "https://www.ynet.co.il/news/article/ry6rlj8czl"
   }
  ]
 }
