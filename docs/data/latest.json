@@ -1,42 +1,38 @@
 {
- "generated": "2026-11-17T16:10:22.011719+03:00",
- "last_24h_total": 204,
+ "generated": "2026-11-18T01:13:30.449877+03:00",
+ "last_24h_total": 181,
  "per_target": {
-  "איראן": 121,
-  "בינה מלאכותית": 83
+  "איראן": 122,
+  "בינה מלאכותית": 59
  },
  "per_source": {
-  "Vietnam.vn": 20,
   "מעריב": 19,
-  "YNET": 19,
-  "N12": 13,
-  "TheMarker": 9,
-  "הארץ": 9,
-  "Investing.com": 7,
+  "YNET": 17,
+  "Vietnam.vn": 14,
+  "הארץ": 12,
+  "N12": 11,
+  "TheMarker": 7,
   "זמן ישראל": 7,
   "כאן 11": 6,
   "מקור ראשון": 6,
   "ynet": 5,
-  "גלובס": 5,
-  "רשת 13": 5,
+  "Investing.com": 5,
   "בחדרי חרדים": 5,
   "تسنیم": 5,
-  "i24NEWS": 4,
+  "גלובס": 4,
+  "רשת 13": 4,
   "היום": 4,
   "וואלה": 4,
-  "BE106": 3,
-  "אתר החדשות דבר": 3,
-  "OrcaRouter": 3,
-  "וואלה מקומי": 3,
-  "צומת השרון הרצליה": 3,
+  "i24NEWS": 3,
   "mako": 3,
   "C14": 3,
-  "המכון הישראלי לדמוקרטיה": 2,
-  "Reuters": 2,
-  "אנשים ומחשבים": 2,
-  "GOV.IL": 2,
+  "אייס": 2,
   "Calcalist": 2,
+  "BE106": 2,
+  "אתר החדשות דבר": 2,
+  "וואלה מקומי": 2,
   "שרון אונליין": 2,
+  "צומת השרון הרצליה": 2,
   "ערוץ 7": 2,
   "הידברות": 2,
   "INSS": 2,
@@ -44,16 +40,20 @@
   "סרוגים": 2,
   "JDN": 2,
   "Google News (כל האתרים)": 2,
-  "אייס": 1,
+  "המכון הישראלי לדמוקרטיה": 1,
+  "Reuters": 1,
+  "אנשים ומחשבים": 1,
+  "OrcaRouter": 1,
   "אמס": 1,
   "חרדים10": 1,
   "103FM": 1,
+  "GOV.IL": 1,
   "Microsoft": 1
  },
  "per_lean": {
-  "שמאל": 75,
-  "אחר": 68,
-  "מרכז": 34,
+  "שמאל": 71,
+  "אחר": 50,
+  "מרכז": 33,
   "ימין": 27
  },
  "leads": [
@@ -92,6 +92,42 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-17/ty-article/.premium/000001a1-e61d-dad7-a9fd-e65f29fd0000",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "14e3cfc8c8126d32",
+   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "בכיר בצבא ארה\"ב מאשר: תקפנו אתר שיגור טילים של איראן ההפצצה בקשם, והמסר האמריקני לטהראן: \"נשארים בכוננות גבוהה\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7d18e95410be1a1026.htm",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "b305b0bd67900f74",
+   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "צבא ארה\"ב: תקפנו אתר לשיגור טילים של איראן באי קשם",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-17/ty-article/.premium/000001a1-eb07-dad7-a9fd-eb4f15670000",
+   "prominence": 3,
+   "rank": 6
   }
  ],
  "items": [
@@ -814,6 +850,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "14e3cfc8c8126d32",
+   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "בכיר בצבא ארה\"ב מאשר: תקפנו אתר שיגור טילים של איראן ההפצצה בקשם, והמסר האמריקני לטהראן: \"נשארים בכוננות גבוהה\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7d18e95410be1a1026.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "eca3039e5c3bc5c3",
@@ -5136,6 +5190,70 @@
    "rank": 15
   },
   {
+   "id": "74ad861714bc3a98",
+   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "יורש העצר הגולה של איראן בשיחה עם הרצוג: \"המשטר לא יהסס לשחרר שואה שנייה\"",
+   "link": "https://www.ynet.co.il/news/article/b1o7czqafe"
+  },
+  {
+   "id": "9640fcca611007f0",
+   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "\"אין דחיפות\": השאלות שיכריעו על תקיפה באיראן - והמסר האמריקני בים הערבי",
+   "link": "https://www.ynet.co.il/news/article/rk11unk50zl"
+  },
+  {
+   "id": "0e875bbd69532c2c",
+   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "הלחצים על איזנקוט והרמיזה של מקורב נתניהו על איראן",
+   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-f0719277898e1a1027.htm"
+  },
+  {
+   "id": "9c6fb6cd6d6594be",
+   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נפתרה התעלומה הגדולה באיראן? הקשר למיזמי הטרור החשובים 16.11.26 אסף רוזנצוייג",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ff25dc99634e1a1027.htm"
+  },
+  {
    "id": "6fd9c804b3fddd76",
    "ts": "2026-11-17T16:10:08.670898+03:00",
    "source": "ynet",
@@ -5374,86 +5492,6 @@
    "lean": "left",
    "title": "האזהרה החריפה של גורמי הביטחון: העיניים על איראן - וחמאס משקם את המנהרות",
    "link": "https://www.ynet.co.il/news/article/yokra14959434"
-  },
-  {
-   "id": "3e4c7f4343d13de6",
-   "ts": "2026-11-16T12:29:43.211669+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תקיפות חוזרות לא יעלימו את האיום האיראני דני סיטרינוביץ', מומחה לאיראן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
-  },
-  {
-   "id": "80bce5db2eb3ec0f",
-   "ts": "2026-11-16T12:29:43.211669+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "כבר קורה: הדבר היחיד שטראמפ, איראן וישראל מסכימים עליו סימה שיין",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-bb1df0a634fc1a1026.htm"
-  },
-  {
-   "id": "881128320327757f",
-   "ts": "2026-11-16T04:54:20.648848+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ראש המוסד נחת בישראל אחרי השיחות על איראן בארה\"ב - ויעדכן את הקבינט",
-   "link": "https://www.ynet.co.il/news/article/sy9qslprfg"
-  },
-  {
-   "id": "b9a109c0d523e281",
-   "ts": "2026-11-16T04:54:20.648848+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "באיראן שוב טוענים: \"מכליות פגעו במוקשים בהורמוז - ועלו באש\" | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/rkpkuvwrzg"
-  },
-  {
-   "id": "3e4c7f4343d13de6",
-   "ts": "2026-11-16T04:54:20.648848+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תקיפות חוזרות לא יעלימו את האיום האיראני דני סיטרינוביץ', מומחה לאיראן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
   }
  ]
 }
