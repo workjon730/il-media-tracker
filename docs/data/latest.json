@@ -1,100 +1,65 @@
 {
- "generated": "2026-11-18T07:10:40.423344+03:00",
+ "generated": "2026-11-18T16:50:27.931650+03:00",
  "last_24h_total": 265,
  "per_target": {
-  "איראן": 215,
-  "בינה מלאכותית": 50
+  "איראן": 212,
+  "בינה מלאכותית": 53
  },
  "per_source": {
-  "YNET": 31,
-  "מעריב": 28,
+  "YNET": 36,
+  "מעריב": 23,
   "הארץ": 23,
-  "כאן 11": 11,
-  "מקור ראשון": 11,
-  "זמן ישראל": 11,
-  "N12": 9,
-  "C14": 8,
-  "כיכר השבת": 8,
-  "בחדרי חרדים": 8,
-  "גלובס": 8,
-  "تسنیم": 8,
+  "כאן 11": 10,
+  "כיכר השבת": 10,
+  "מקור ראשון": 10,
+  "גלובס": 10,
+  "וואלה": 9,
+  "C14": 9,
+  "זמן ישראל": 8,
   "Vietnam.vn": 8,
   "TheMarker": 7,
-  "היום": 7,
-  "וואלה": 7,
+  "N12": 7,
+  "JDN": 7,
+  "ערוץ 7": 7,
+  "סרוגים": 7,
   "ynet": 6,
-  "JDN": 6,
-  "ערוץ 7": 5,
-  "סרוגים": 5,
-  "i24NEWS": 4,
+  "ביזפורטל": 6,
+  "בחדרי חרדים": 5,
+  "تسنیم": 5,
+  "היום": 5,
+  "mako": 5,
   "הידברות": 4,
-  "INSS": 4,
-  "Google News (כל האתרים)": 4,
-  "mako": 3,
-  "רשת 13": 3,
-  "Investing.com": 3,
-  "ביזפורטל": 3,
+  "i24NEWS": 4,
+  "INSS": 3,
+  "Google News (כל האתרים)": 3,
+  "אתר החדשות דבר": 3,
   "אמס": 2,
-  "חרדים10": 2,
-  "Calcalist": 2,
-  "אתר החדשות דבר": 2,
+  "חב״ד און ליין": 2,
+  "כל העיר ירושלים": 2,
   "שרון אונליין": 2,
-  "103FM": 1,
-  "BE106": 1,
-  "צומת השרון הרצליה": 1,
-  "וואלה מקומי": 1,
-  "GOV.IL": 1,
-  "Microsoft": 1,
+  "רשת 13": 2,
+  "אנשים ומחשבים": 2,
   "אייס": 1,
   "כיפה": 1,
+  "חרדים10": 1,
   "המחדש": 1,
-  "חב״ד און ליין": 1,
   "GlobeNewswire": 1,
-  "כל העיר ירושלים": 1
+  "Calcalist": 1,
+  "103FM": 1,
+  "קול ברמה": 1,
+  "אפוק": 1,
+  "Israel Defense": 1,
+  "Investing.com": 1,
+  "כלכליסט": 1,
+  "וואלה מקומי": 1
  },
  "per_lean": {
-  "שמאל": 102,
-  "ימין": 58,
-  "אחר": 56,
-  "מרכז": 49
+  "שמאל": 106,
+  "אחר": 58,
+  "ימין": 57,
+  "מרכז": 44
  },
  "leads": [
-  {
-   "id": "a9a84c26ad42f732",
-   "ts": "2026-11-17T16:10:08.670898+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "עדויות בלעדיות מתוך איראן: \"בודקים טלפונים במחסומים\" תורים של שעות לדלק, שוק שחור ומעצרים ברחובות: איראנים מתארים ל-N12 את המצוקה המחריפה והחשש של המשטר מחידוש ההפגנות ספיר ליפקין |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-b6af51d36b8e1a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
-  {
-   "id": "ac61cf02902945dc",
-   "ts": "2026-11-17T16:10:08.670898+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "צעדיה של סעודיה בתימן יקבעו גם את גבולות ההכלה מול איראן",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-17/ty-article/.premium/000001a1-e61d-dad7-a9fd-e65f29fd0000",
-   "prominence": 5,
-   "rank": 2
-  },
   {
    "id": "14e3cfc8c8126d32",
    "ts": "2026-11-18T01:13:08.511839+03:00",
@@ -5228,6 +5193,54 @@
    "rank": 15
   },
   {
+   "id": "5b1a9e13596c419b",
+   "ts": "2026-11-18T16:50:21.654594+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בשליחות איראן: אנשי דת תאילנדים תכננו פיגוע בשגרירות ישראל בבנגקוק",
+   "link": "https://www.ynet.co.il/news/article/sk2e4p5rzl"
+  },
+  {
+   "id": "4272b9a741f9db6a",
+   "ts": "2026-11-18T16:50:21.654594+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "איראן הקשיחה עמדות במו\"מ אחרי מפלת טראמפ בבחירות האמצע: \"הביטחון עלה\"",
+   "link": "https://www.ynet.co.il/news/article/ry6bstcazg"
+  },
+  {
+   "id": "fd606331a993018f",
+   "ts": "2026-11-18T16:50:21.654594+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בארה\"ב חשפו: נאלצנו להשתמש בטילים פגי תוקף באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9ec3e9d7e4de1a1026.htm"
+  },
+  {
    "id": "74ad861714bc3a98",
    "ts": "2026-11-18T07:10:33.480815+03:00",
    "source": "ynet",
@@ -5466,54 +5479,6 @@
    "lean": "left",
    "title": "תקיפות חוזרות לא יעלימו את האיום האיראני דני סיטרינוביץ', מומחה לאיראן",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
-  },
-  {
-   "id": "def3d5afd7c55ffa",
-   "ts": "2026-11-17T06:43:38.580208+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נפתרה התעלומה הגדולה באיראן? הקשר למיזמי הטרור החשובים",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ff25dc99634e1a1027.htm"
-  },
-  {
-   "id": "f8ddbb6df16e76c2",
-   "ts": "2026-11-16T23:19:58.660574+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "ליד \"ערי הטילים\": התעלומה מאחורי מאות הסכרים באיראן",
-   "link": "https://www.ynet.co.il/news/article/bjbtakuczg"
-  },
-  {
-   "id": "4cc09680544f2fee",
-   "ts": "2026-11-16T23:19:58.660574+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"השתלטו על מסגדים, קידמו הפיכה\": המהלך הנפיץ בממלכה שאיראן תוקפת",
-   "link": "https://www.ynet.co.il/news/article/byhwvdu0me"
   }
  ]
 }
