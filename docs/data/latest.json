@@ -1,65 +1,83 @@
 {
- "generated": "2026-11-18T16:50:27.931650+03:00",
- "last_24h_total": 265,
+ "generated": "2026-11-19T00:50:48.118879+03:00",
+ "last_24h_total": 394,
  "per_target": {
-  "איראן": 212,
-  "בינה מלאכותית": 53
+  "איראן": 314,
+  "בינה מלאכותית": 80
  },
  "per_source": {
-  "YNET": 36,
-  "מעריב": 23,
-  "הארץ": 23,
-  "כאן 11": 10,
-  "כיכר השבת": 10,
-  "מקור ראשון": 10,
-  "גלובס": 10,
-  "וואלה": 9,
-  "C14": 9,
-  "זמן ישראל": 8,
-  "Vietnam.vn": 8,
-  "TheMarker": 7,
-  "N12": 7,
-  "JDN": 7,
-  "ערוץ 7": 7,
-  "סרוגים": 7,
-  "ynet": 6,
-  "ביזפורטל": 6,
-  "בחדרי חרדים": 5,
-  "تسنیم": 5,
-  "היום": 5,
-  "mako": 5,
-  "הידברות": 4,
-  "i24NEWS": 4,
-  "INSS": 3,
-  "Google News (כל האתרים)": 3,
-  "אתר החדשות דבר": 3,
-  "אמס": 2,
-  "חב״ד און ליין": 2,
-  "כל העיר ירושלים": 2,
-  "שרון אונליין": 2,
-  "רשת 13": 2,
-  "אנשים ומחשבים": 2,
+  "YNET": 50,
+  "מעריב": 36,
+  "הארץ": 34,
+  "כאן 11": 17,
+  "כיכר השבת": 15,
+  "מקור ראשון": 14,
+  "וואלה": 14,
+  "C14": 14,
+  "גלובס": 14,
+  "TheMarker": 12,
+  "Vietnam.vn": 12,
+  "סרוגים": 11,
+  "זמן ישראל": 11,
+  "N12": 10,
+  "בחדרי חרדים": 9,
+  "ערוץ 7": 9,
+  "ביזפורטל": 9,
+  "ynet": 8,
+  "JDN": 8,
+  "تسنیم": 8,
+  "mako": 8,
+  "הידברות": 7,
+  "היום": 7,
+  "i24NEWS": 6,
+  "INSS": 4,
+  "Google News (כל האתרים)": 4,
+  "אתר החדשות דבר": 4,
+  "אנשים ומחשבים": 4,
+  "אמס": 3,
+  "חב״ד און ליין": 3,
+  "כל העיר ירושלים": 3,
+  "שרון אונליין": 3,
+  "רשת 13": 3,
+  "כיפה": 2,
+  "המחדש": 2,
+  "103FM": 2,
+  "קול ברמה": 2,
+  "Israel Defense": 2,
+  "Investing.com": 2,
+  "כלכליסט": 2,
   "אייס": 1,
-  "כיפה": 1,
   "חרדים10": 1,
-  "המחדש": 1,
   "GlobeNewswire": 1,
   "Calcalist": 1,
-  "103FM": 1,
-  "קול ברמה": 1,
   "אפוק": 1,
-  "Israel Defense": 1,
-  "Investing.com": 1,
-  "כלכליסט": 1,
   "וואלה מקומי": 1
  },
  "per_lean": {
-  "שמאל": 106,
-  "אחר": 58,
-  "ימין": 57,
-  "מרכז": 44
+  "שמאל": 157,
+  "אחר": 87,
+  "ימין": 84,
+  "מרכז": 66
  },
  "leads": [
+  {
+   "id": "a02605a5849eab1b",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "בצל המתיחות הידוק תוכניות: הפגישה של הצמרת הביטחונית על איראן מפקד סנטקום הגיע לדיון בישראל, גם ראש המוסד נכח; עמדת הרמטכ\"ל: אם אין הסכם, נכון לתקוף באיראן ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-01f36299040f1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "14e3cfc8c8126d32",
    "ts": "2026-11-18T01:13:08.511839+03:00",
@@ -97,6 +115,24 @@
    "rank": 4
   },
   {
+   "id": "fef000f63ffc3530",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "ראש המוסד טס לארה\"ב כדי לדון עם בכירי הממשל על איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "b305b0bd67900f74",
    "ts": "2026-11-18T01:13:08.511839+03:00",
    "source": "haaretz",
@@ -113,9 +149,45 @@
    "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-17/ty-article/.premium/000001a1-eb07-dad7-a9fd-eb4f15670000",
    "prominence": 3,
    "rank": 6
+  },
+  {
+   "id": "79747ddfa5c02cf4",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "22:34 דיווח באיראן: שלוש מכליות נפט עלו באש לאחר שפגעו במוקשים ימיים מזרחית להורמוז",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-18/ty-article-live/000001a1-eb8b-dad7-a9fd-ebcb45bc0000?liveBlogItemId=1797005681",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
+  {
+   "id": "a02605a5849eab1b",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "בצל המתיחות הידוק תוכניות: הפגישה של הצמרת הביטחונית על איראן מפקד סנטקום הגיע לדיון בישראל, גם ראש המוסד נכח; עמדת הרמטכ\"ל: אם אין הסכם, נכון לתקוף באיראן ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-01f36299040f1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "a9a84c26ad42f732",
    "ts": "2026-11-17T16:10:08.670898+03:00",
@@ -835,6 +907,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "fef000f63ffc3530",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "ראש המוסד טס לארה\"ב כדי לדון עם בכירי הממשל על איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "14e3cfc8c8126d32",
@@ -5193,6 +5283,54 @@
    "rank": 15
   },
   {
+   "id": "f2c24ea2d54e6523",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ מתוסכל מוואנס על רקע הביקורת שלו על המלחמה באיראן | דיווח",
+   "link": "https://www.ynet.co.il/news/article/h1qaetsafg"
+  },
+  {
+   "id": "87c6097b46453350",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כוננות שיא ומסר לאיראן ב\"זרוע הארוכה\": הביקור הקריטי - והניסיון לקדם תקיפות משותפות",
+   "link": "https://www.ynet.co.il/news/article/bypiihi0zl"
+  },
+  {
+   "id": "fd606331a993018f",
+   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בארה\"ב חשפו: נאלצנו להשתמש בטילים פגי תוקף באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9ec3e9d7e4de1a1026.htm"
+  },
+  {
    "id": "5b1a9e13596c419b",
    "ts": "2026-11-18T16:50:21.654594+03:00",
    "source": "ynet",
@@ -5399,86 +5537,6 @@
    "lean": "left",
    "title": "אש אדירה בלב ים; איראן במשוואה חדשה: תקפה מתקן אמריקני בגלל \"הפרת המרחב האווירי\"",
    "link": "https://www.ynet.co.il/news/article/bk800rdtcgl"
-  },
-  {
-   "id": "0e875bbd69532c2c",
-   "ts": "2026-11-17T16:10:08.670898+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלחצים על איזנקוט והרמיזה של מקורב נתניהו על איראן",
-   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-f0719277898e1a1027.htm"
-  },
-  {
-   "id": "9c6fb6cd6d6594be",
-   "ts": "2026-11-17T16:10:08.670898+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נפתרה התעלומה הגדולה באיראן? הקשר למיזמי הטרור החשובים 16.11.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ff25dc99634e1a1027.htm"
-  },
-  {
-   "id": "3bdc621223825f7c",
-   "ts": "2026-11-17T06:43:38.580208+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "התעלם מסוגיית ממשלת המעבר: הקבינט דן בתקיפה באיראן, ובהתנגדות ארה\"ב",
-   "link": "https://www.ynet.co.il/news/article/rju44tdrml"
-  },
-  {
-   "id": "2fd26355ec2f07ec",
-   "ts": "2026-11-17T06:43:38.580208+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "דריכות במזרח התיכון: התגובה של טראמפ לאיומים מאיראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-a730e6d3542e1a1026.htm"
-  },
-  {
-   "id": "3e4c7f4343d13de6",
-   "ts": "2026-11-17T06:43:38.580208+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "תקיפות חוזרות לא יעלימו את האיום האיראני דני סיטרינוביץ', מומחה לאיראן",
-   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-7178aed82bad1a1027.htm"
   }
  ]
 }
