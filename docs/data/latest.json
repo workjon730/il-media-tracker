@@ -1,52 +1,52 @@
 {
- "generated": "2026-11-19T00:50:48.118879+03:00",
- "last_24h_total": 394,
+ "generated": "2026-11-19T06:15:25.563454+03:00",
+ "last_24h_total": 513,
  "per_target": {
-  "איראן": 314,
-  "בינה מלאכותית": 80
+  "איראן": 408,
+  "בינה מלאכותית": 105
  },
  "per_source": {
-  "YNET": 50,
-  "מעריב": 36,
-  "הארץ": 34,
-  "כאן 11": 17,
-  "כיכר השבת": 15,
-  "מקור ראשון": 14,
-  "וואלה": 14,
-  "C14": 14,
-  "גלובס": 14,
-  "TheMarker": 12,
-  "Vietnam.vn": 12,
-  "סרוגים": 11,
-  "זמן ישראל": 11,
-  "N12": 10,
-  "בחדרי חרדים": 9,
-  "ערוץ 7": 9,
-  "ביזפורטל": 9,
-  "ynet": 8,
-  "JDN": 8,
-  "تسنیم": 8,
-  "mako": 8,
-  "הידברות": 7,
-  "היום": 7,
-  "i24NEWS": 6,
+  "YNET": 65,
+  "מעריב": 46,
+  "הארץ": 43,
+  "כאן 11": 25,
+  "כיכר השבת": 21,
+  "וואלה": 21,
+  "מקור ראשון": 19,
+  "גלובס": 18,
+  "TheMarker": 16,
+  "זמן ישראל": 16,
+  "C14": 16,
+  "סרוגים": 15,
+  "Vietnam.vn": 14,
+  "בחדרי חרדים": 13,
+  "ערוץ 7": 12,
+  "تسنیم": 12,
+  "N12": 11,
+  "ביזפורטל": 11,
+  "הידברות": 10,
+  "mako": 10,
+  "ynet": 9,
+  "JDN": 9,
+  "היום": 8,
+  "i24NEWS": 7,
+  "Google News (כל האתרים)": 5,
+  "אתר החדשות דבר": 5,
+  "אנשים ומחשבים": 5,
   "INSS": 4,
-  "Google News (כל האתרים)": 4,
-  "אתר החדשות דבר": 4,
-  "אנשים ומחשבים": 4,
-  "אמס": 3,
-  "חב״ד און ליין": 3,
-  "כל העיר ירושלים": 3,
-  "שרון אונליין": 3,
+  "אמס": 4,
+  "חב״ד און ליין": 4,
+  "כל העיר ירושלים": 4,
+  "שרון אונליין": 4,
+  "Investing.com": 4,
+  "כיפה": 3,
+  "המחדש": 3,
   "רשת 13": 3,
-  "כיפה": 2,
-  "המחדש": 2,
+  "קול ברמה": 3,
+  "Israel Defense": 3,
+  "OrcaRouter": 3,
   "103FM": 2,
-  "קול ברמה": 2,
-  "Israel Defense": 2,
-  "Investing.com": 2,
   "כלכליסט": 2,
-  "אייס": 1,
   "חרדים10": 1,
   "GlobeNewswire": 1,
   "Calcalist": 1,
@@ -54,10 +54,10 @@
   "וואלה מקומי": 1
  },
  "per_lean": {
-  "שמאל": 157,
-  "אחר": 87,
-  "ימין": 84,
-  "מרכז": 66
+  "שמאל": 204,
+  "אחר": 116,
+  "ימין": 112,
+  "מרכז": 81
  },
  "leads": [
   {
@@ -79,8 +79,26 @@
    "rank": 1
   },
   {
-   "id": "14e3cfc8c8126d32",
-   "ts": "2026-11-18T01:13:08.511839+03:00",
+   "id": "cb9b9d0aa0136be8",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "מקורות: נתניהו דוחף למלחמה בת כמה ימים באיראן, טראמפ שוקל את האפשרות",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-19/ty-article/000001a1-f191-d287-adbb-f79bc2140000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "5e905dcbac535ee7",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -89,12 +107,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "בכיר בצבא ארה\"ב מאשר: תקפנו אתר שיגור טילים של איראן ההפצצה בקשם, והמסר האמריקני לטהראן: \"נשארים בכוננות גבוהה\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-7d18e95410be1a1026.htm",
-   "prominence": 5,
-   "rank": 4
+   "title": "למרות ההצהרות: טראמפ שוקל שוב לתקוף באיראן נתניהו לוחץ לחדש את המלחמה, מדינות המפרץ מזהירות מתגובה מטהראן - בבית הלבן בוחנים את תרחישי התגובה האפשריים ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-27bf1e8b831f1a1027.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "14e3cfc8c8126d32",
@@ -133,22 +151,40 @@
    "rank": 2
   },
   {
-   "id": "b305b0bd67900f74",
-   "ts": "2026-11-18T01:13:08.511839+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "fef000f63ffc3530",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "צבא ארה\"ב: תקפנו אתר לשיגור טילים של איראן באי קשם",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-17/ty-article/.premium/000001a1-eb07-dad7-a9fd-eb4f15670000",
-   "prominence": 3,
-   "rank": 6
+   "title": "ראש המוסד טס לארה\"ב כדי לדון עם בכירי הממשל על איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "d1d7853e7bcaba50",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "בצל המתיחות בצל המתיחות הידוק תוכניות: הפגישה של הצמרת הביטחונית על איראן מפקד סנטקום הגיע לדיון בישראל, גם ראש המוסד נכח יחד עם הרמטכ\"ל",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-01f36299040f1a1027.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "79747ddfa5c02cf4",
@@ -167,9 +203,45 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-11-18/ty-article-live/000001a1-eb8b-dad7-a9fd-ebcb45bc0000?liveBlogItemId=1797005681",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "74242f235a782b75",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "04:34 דיווח: נתניהו דוחף למלחמה בת כמה ימים באיראן; טראמפ שוקל את האפשרות",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-19/ty-article-live/000001a1-f0b9-d9ff-a7b5-f1bf21ef0000?liveBlogItemId=25548304",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
+  {
+   "id": "5e905dcbac535ee7",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "למרות ההצהרות: טראמפ שוקל שוב לתקוף באיראן נתניהו לוחץ לחדש את המלחמה, מדינות המפרץ מזהירות מתגובה מטהראן - בבית הלבן בוחנים את תרחישי התגובה האפשריים ברק רביד |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-27bf1e8b831f1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "a02605a5849eab1b",
    "ts": "2026-11-19T00:50:40.544334+03:00",
@@ -907,6 +979,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "fef000f63ffc3530",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "ראש המוסד טס לארה\"ב כדי לדון עם בכירי הממשל על איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "d1d7853e7bcaba50",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "בצל המתיחות בצל המתיחות הידוק תוכניות: הפגישה של הצמרת הביטחונית על איראן מפקד סנטקום הגיע לדיון בישראל, גם ראש המוסד נכח יחד עם הרמטכ\"ל",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-01f36299040f1a1027.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "fef000f63ffc3530",
@@ -2221,6 +2329,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-87e7c986fb2d0a1026.htm",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "cb9b9d0aa0136be8",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "מקורות: נתניהו דוחף למלחמה בת כמה ימים באיראן, טראמפ שוקל את האפשרות",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-19/ty-article/000001a1-f191-d287-adbb-f79bc2140000",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "ea21d829f88047fc",
@@ -5283,6 +5409,70 @@
    "rank": 15
   },
   {
+   "id": "43f7ecc02e05a44b",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "נתניהו דוחף למערכה \"אגרסיבית\" של 7-4 ימים באיראן, טראמפ מתלבט | דיווח",
+   "link": "https://www.ynet.co.il/news/article/sjlfpsorfx"
+  },
+  {
+   "id": "f2c24ea2d54e6523",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "טראמפ מתוסכל מוואנס על רקע הביקורת שלו על המלחמה באיראן | דיווח",
+   "link": "https://www.ynet.co.il/news/article/h1qaetsafg"
+  },
+  {
+   "id": "87c6097b46453350",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "כוננות שיא ומסר לאיראן ב\"זרוע הארוכה\": הביקור הקריטי - והניסיון לקדם תקיפות משותפות",
+   "link": "https://www.ynet.co.il/news/article/bypiihi0zl"
+  },
+  {
+   "id": "fd606331a993018f",
+   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בארה\"ב חשפו: נאלצנו להשתמש בטילים פגי תוקף באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-9ec3e9d7e4de1a1026.htm"
+  },
+  {
    "id": "f2c24ea2d54e6523",
    "ts": "2026-11-19T00:50:40.544334+03:00",
    "source": "ynet",
@@ -5409,134 +5599,6 @@
    "lean": "left",
    "title": "\"אין דחיפות\": השאלות שיכריעו על תקיפה באיראן - והמסר האמריקני בים הערבי",
    "link": "https://www.ynet.co.il/news/article/rk11unk50zl"
-  },
-  {
-   "id": "0e875bbd69532c2c",
-   "ts": "2026-11-18T07:10:33.480815+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלחצים על איזנקוט והרמיזה של מקורב נתניהו על איראן",
-   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-f0719277898e1a1027.htm"
-  },
-  {
-   "id": "9c6fb6cd6d6594be",
-   "ts": "2026-11-18T07:10:33.480815+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נפתרה התעלומה הגדולה באיראן? הקשר למיזמי הטרור החשובים 16.11.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ff25dc99634e1a1027.htm"
-  },
-  {
-   "id": "74ad861714bc3a98",
-   "ts": "2026-11-18T01:13:08.511839+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "יורש העצר הגולה של איראן בשיחה עם הרצוג: \"המשטר לא יהסס לשחרר שואה שנייה\"",
-   "link": "https://www.ynet.co.il/news/article/b1o7czqafe"
-  },
-  {
-   "id": "9640fcca611007f0",
-   "ts": "2026-11-18T01:13:08.511839+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "\"אין דחיפות\": השאלות שיכריעו על תקיפה באיראן - והמסר האמריקני בים הערבי",
-   "link": "https://www.ynet.co.il/news/article/rk11unk50zl"
-  },
-  {
-   "id": "0e875bbd69532c2c",
-   "ts": "2026-11-18T01:13:08.511839+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הלחצים על איזנקוט והרמיזה של מקורב נתניהו על איראן",
-   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-f0719277898e1a1027.htm"
-  },
-  {
-   "id": "9c6fb6cd6d6594be",
-   "ts": "2026-11-18T01:13:08.511839+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "נפתרה התעלומה הגדולה באיראן? הקשר למיזמי הטרור החשובים 16.11.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-ff25dc99634e1a1027.htm"
-  },
-  {
-   "id": "6fd9c804b3fddd76",
-   "ts": "2026-11-17T16:10:08.670898+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "הרמיזה המוזרה מצד מקורבו של נתניהו על איראן, וההבהרה: \"אין לי שום מודיעין\"",
-   "link": "https://www.ynet.co.il/news/article/hki00zstcmg"
-  },
-  {
-   "id": "81b005f0d8cf5522",
-   "ts": "2026-11-17T16:10:08.670898+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "אש אדירה בלב ים; איראן במשוואה חדשה: תקפה מתקן אמריקני בגלל \"הפרת המרחב האווירי\"",
-   "link": "https://www.ynet.co.il/news/article/bk800rdtcgl"
   }
  ]
 }
