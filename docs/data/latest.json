@@ -1,100 +1,62 @@
 {
- "generated": "2026-11-20T06:02:06.068119+03:00",
- "last_24h_total": 554,
+ "generated": "2026-11-20T14:23:34.508355+03:00",
+ "last_24h_total": 553,
  "per_target": {
-  "איראן": 415,
-  "בינה מלאכותית": 139
+  "איראן": 407,
+  "בינה מלאכותית": 146
  },
  "per_source": {
   "YNET": 63,
-  "מעריב": 54,
-  "הארץ": 50,
-  "כאן 11": 36,
-  "TheMarker": 35,
+  "מעריב": 55,
+  "הארץ": 53,
+  "TheMarker": 43,
+  "כאן 11": 37,
   "וואלה": 24,
-  "גלובס": 21,
-  "מקור ראשון": 21,
-  "Vietnam.vn": 20,
-  "כיכר השבת": 18,
-  "N12": 15,
-  "הידברות": 14,
-  "ynet": 13,
+  "גלובס": 24,
+  "מקור ראשון": 22,
+  "Vietnam.vn": 21,
+  "כיכר השבת": 14,
+  "אמס": 14,
+  "ערוץ 7": 13,
   "mako": 13,
-  "זמן ישראל": 13,
-  "בחדרי חרדים": 12,
-  "ערוץ 7": 11,
-  "אמס": 11,
+  "ynet": 12,
+  "N12": 12,
+  "הידברות": 12,
+  "זמן ישראל": 11,
   "C14": 11,
-  "סרוגים": 9,
-  "היום": 8,
+  "היום": 9,
+  "בחדרי חרדים": 8,
+  "JDN": 7,
   "ביזפורטל": 7,
-  "Investing.com": 7,
-  "تسنیم": 6,
-  "JDN": 6,
-  "אתר החדשות דבר": 6,
-  "INSS": 5,
-  "כלכליסט": 5,
+  "כלכליסט": 7,
+  "INSS": 6,
+  "Investing.com": 6,
+  "אתר החדשות דבר": 5,
+  "סרוגים": 5,
+  "רשת 13": 5,
   "המחדש": 4,
   "חב״ד און ליין": 4,
-  "Israel Defense": 4,
-  "OrcaRouter": 4,
-  "אנשים ומחשבים": 4,
+  "Israel Defense": 3,
+  "אנשים ומחשבים": 3,
+  "אייס": 3,
   "קול ברמה": 3,
-  "כיפה": 2,
-  "כל העיר ירושלים": 2,
-  "אייס": 2,
+  "את\"צ": 3,
+  "تسنیم": 2,
   "פאנדר": 2,
-  "רשת 13": 2,
-  "את\"צ": 2,
-  "Google News (כל האתרים)": 1,
-  "i24NEWS": 1,
-  "שרון אונליין": 1,
+  "חב\"ד אינפו": 2,
   "לדעת": 1,
-  "חב\"ד אינפו": 1
+  "כיפה": 1,
+  "OrcaRouter": 1,
+  "כל העיר ירושלים": 1,
+  "אפוק": 1
  },
  "per_lean": {
-  "שמאל": 251,
-  "אחר": 125,
-  "ימין": 92,
-  "מרכז": 86
+  "שמאל": 262,
+  "אחר": 121,
+  "מרכז": 91,
+  "ימין": 79
  },
  "leads": [
-  {
-   "id": "cb9b9d0aa0136be8",
-   "ts": "2026-11-19T06:15:17.567788+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 18,
-   "lean": "left",
-   "title": "מקורות: נתניהו דוחף למלחמה בת כמה ימים באיראן, טראמפ שוקל את האפשרות",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-19/ty-article/000001a1-f191-d287-adbb-f79bc2140000",
-   "prominence": 10,
-   "rank": 1
-  },
-  {
-   "id": "5e905dcbac535ee7",
-   "ts": "2026-11-19T06:15:17.567788+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "למרות ההצהרות: טראמפ שוקל שוב לתקוף באיראן נתניהו לוחץ לחדש את המלחמה, מדינות המפרץ מזהירות מתגובה מטהראן - בבית הלבן בוחנים את תרחישי התגובה האפשריים ברק רביד |",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-27bf1e8b831f1a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "5c0873c3da94e2d5",
    "ts": "2026-11-20T00:24:52.709896+03:00",
@@ -130,42 +92,6 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-c615254d545f1a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "fef000f63ffc3530",
-   "ts": "2026-11-19T06:15:17.567788+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "ראש המוסד טס לארה\"ב כדי לדון עם בכירי הממשל על איראן",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
-   "id": "d1d7853e7bcaba50",
-   "ts": "2026-11-19T06:15:17.567788+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "בצל המתיחות בצל המתיחות הידוק תוכניות: הפגישה של הצמרת הביטחונית על איראן מפקד סנטקום הגיע לדיון בישראל, גם ראש המוסד נכח יחד עם הרמטכ\"ל",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-01f36299040f1a1027.htm",
-   "prominence": 5,
-   "rank": 3
   },
   {
    "id": "bad9e58247dd4dce",
@@ -258,8 +184,44 @@
    "rank": 2
   },
   {
-   "id": "74242f235a782b75",
-   "ts": "2026-11-19T06:15:17.567788+03:00",
+   "id": "c653b457de706cac",
+   "ts": "2026-11-20T14:23:26.633465+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "מערכת קלע דוד שודרגה על רקע החשש מחידוש המלחמה עם איראן",
+   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-20/ty-article/.premium/000001a1-f835-d381-ade5-fbf5cdf70000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "241198b91808d047",
+   "ts": "2026-11-20T00:24:52.709896+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "ai",
+   "target_display": "בינה מלאכותית",
+   "groups": [
+    "טכנולוגיה"
+   ],
+   "score": 10,
+   "lean": "left",
+   "title": "אנתרופיק זינקה ב-17% ביום הבכורה בוול סטריט; נאסד\"ק איבד 2%",
+   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-19/ty-article-live/000001a1-e2bb-da30-a7fb-fabf3a770000",
+   "prominence": 3,
+   "rank": 7
+  },
+  {
+   "id": "ede152da3e559dc5",
+   "ts": "2026-11-20T00:24:52.709896+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -270,10 +232,46 @@
    ],
    "score": 14,
    "lean": "left",
-   "title": "04:34 דיווח: נתניהו דוחף למלחמה בת כמה ימים באיראן; טראמפ שוקל את האפשרות",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-19/ty-article-live/000001a1-f0b9-d9ff-a7b5-f1bf21ef0000?liveBlogItemId=25548304",
+   "title": "23:02 דובר משרד החוץ של איראן: האשמות ארה\"ב כי טהראן מפתחת נשק כימי נועדו לעורר פחד ולהצדיק פעולה צבאית",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-19/ty-article-live/000001a1-f0b9-d9ff-a7b5-f1bf21ef0000?liveBlogItemId=1545153721",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "241198b91808d047",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "ai",
+   "target_display": "בינה מלאכותית",
+   "groups": [
+    "טכנולוגיה"
+   ],
+   "score": 10,
+   "lean": "left",
+   "title": "אנתרופיק זינקה ב-17% ביום הבכורה בוול סטריט; נאסד\"ק איבד 2%",
+   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-19/ty-article-live/000001a1-e2bb-da30-a7fb-fabf3a770000",
+   "prominence": 3,
+   "rank": 8
+  },
+  {
+   "id": "643649909c2f90bc",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "04:17 הרפובליקאים בסנאט חסמו הצעת חוק שהייתה מחייבת לסיים את המלחמה באיראן",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-20/ty-article-live/000001a1-f5e2-d287-adbb-f7fae63d0000?liveBlogItemId=745463362",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
@@ -3248,6 +3246,24 @@
    "rank": 9
   },
   {
+   "id": "c653b457de706cac",
+   "ts": "2026-11-20T14:23:26.633465+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "מערכת קלע דוד שודרגה על רקע החשש מחידוש המלחמה עם איראן",
+   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-20/ty-article/.premium/000001a1-f835-d381-ade5-fbf5cdf70000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "e6b76c34ed02b378",
    "ts": "2026-11-20T06:01:59.195838+03:00",
    "source": "haaretz",
@@ -5588,24 +5604,8 @@
    "rank": 15
   },
   {
-   "id": "bb1636f138c040f6",
-   "ts": "2026-11-20T06:01:59.195838+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בישראל מדברים על מבצע קצר. איראן טוענת שזה יהיה אחרת",
-   "link": "https://www.ynet.co.il/news/article/h1e11oq2rmg"
-  },
-  {
    "id": "18d5d4faa021483f",
-   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "ts": "2026-11-20T14:23:26.633465+03:00",
    "source": "ynet",
    "source_display": "ynet",
    "sub_source": "",
@@ -5620,8 +5620,8 @@
    "link": "https://www.ynet.co.il/news/article/yokra14964791"
   },
   {
-   "id": "80dd748b9c427228",
-   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "id": "bb1636f138c040f6",
+   "ts": "2026-11-20T14:23:26.633465+03:00",
    "source": "ynet",
    "source_display": "ynet",
    "sub_source": "",
@@ -5632,28 +5632,12 @@
    ],
    "score": 15,
    "lean": "left",
-   "title": "נתניהו לוחץ לאור ירוק לתקוף באיראן; טראמפ: לא ממהר, נראה ב-2027",
-   "link": "https://www.ynet.co.il/news/article/hkeqfqncfg"
+   "title": "בישראל מדברים על מבצע קצר. איראן טוענת שזה יהיה אחרת",
+   "link": "https://www.ynet.co.il/news/article/h1e11oq2rmg"
   },
   {
-   "id": "7f102a86257d9ff2",
-   "ts": "2026-11-20T06:01:59.195838+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "האיום הכימי והביולוגי לא מחייב בינתיים תקיפה באיראן",
-   "link": "https://www.ynet.co.il/news/article/byhi6p2rgl"
-  },
-  {
-   "id": "d0a97b190657d268",
-   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "id": "1c2850e7f13b823a",
+   "ts": "2026-11-20T14:23:26.633465+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -5664,8 +5648,24 @@
    ],
    "score": 15,
    "lean": "left",
-   "title": "00:01 הסיכויים לתקיפה באיראן גדלים",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-ca2100b6815f1a1026.htm"
+   "title": "גובר הלחץ - לא מארה\"ב וישראל: הסלמה במתקפות נגד איראן 19.11.26 אסף רוזנצוייג",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-686d55d9683f1a1026.htm"
+  },
+  {
+   "id": "bb1636f138c040f6",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "בישראל מדברים על מבצע קצר. איראן טוענת שזה יהיה אחרת",
+   "link": "https://www.ynet.co.il/news/article/h1e11oq2rmg"
   }
  ]
 }
