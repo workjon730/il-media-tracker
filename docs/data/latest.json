@@ -1,82 +1,64 @@
 {
- "generated": "2026-11-20T00:24:58.748355+03:00",
- "last_24h_total": 539,
+ "generated": "2026-11-20T06:02:06.068119+03:00",
+ "last_24h_total": 554,
  "per_target": {
-  "איראן": 411,
-  "בינה מלאכותית": 128
+  "איראן": 415,
+  "בינה מלאכותית": 139
  },
  "per_source": {
-  "YNET": 58,
-  "מעריב": 56,
-  "הארץ": 48,
-  "כאן 11": 32,
-  "TheMarker": 30,
+  "YNET": 63,
+  "מעריב": 54,
+  "הארץ": 50,
+  "כאן 11": 36,
+  "TheMarker": 35,
   "וואלה": 24,
-  "כיכר השבת": 20,
-  "מקור ראשון": 20,
-  "Vietnam.vn": 19,
-  "גלובס": 18,
-  "N12": 14,
-  "בחדרי חרדים": 14,
-  "C14": 14,
-  "הידברות": 13,
-  "זמן ישראל": 12,
-  "סרוגים": 12,
-  "ynet": 11,
-  "mako": 11,
-  "تسنیم": 9,
-  "ערוץ 7": 9,
-  "היום": 9,
-  "ביזפורטל": 8,
-  "אמס": 8,
+  "גלובס": 21,
+  "מקור ראשון": 21,
+  "Vietnam.vn": 20,
+  "כיכר השבת": 18,
+  "N12": 15,
+  "הידברות": 14,
+  "ynet": 13,
+  "mako": 13,
+  "זמן ישראל": 13,
+  "בחדרי חרדים": 12,
+  "ערוץ 7": 11,
+  "אמס": 11,
+  "C14": 11,
+  "סרוגים": 9,
+  "היום": 8,
+  "ביזפורטל": 7,
   "Investing.com": 7,
+  "تسنیم": 6,
+  "JDN": 6,
   "אתר החדשות דבר": 6,
-  "JDN": 5,
-  "Israel Defense": 5,
-  "אנשים ומחשבים": 5,
+  "INSS": 5,
+  "כלכליסט": 5,
   "המחדש": 4,
   "חב״ד און ליין": 4,
-  "כלכליסט": 4,
+  "Israel Defense": 4,
   "OrcaRouter": 4,
-  "i24NEWS": 3,
-  "INSS": 3,
+  "אנשים ומחשבים": 4,
   "קול ברמה": 3,
-  "כיפה": 3,
-  "כל העיר ירושלים": 3,
+  "כיפה": 2,
+  "כל העיר ירושלים": 2,
+  "אייס": 2,
+  "פאנדר": 2,
   "רשת 13": 2,
-  "Google News (כל האתרים)": 2,
-  "שרון אונליין": 2,
-  "103FM": 1,
+  "את\"צ": 2,
+  "Google News (כל האתרים)": 1,
+  "i24NEWS": 1,
+  "שרון אונליין": 1,
   "לדעת": 1,
-  "אייס": 1,
-  "פאנדר": 1,
-  "את\"צ": 1
+  "חב\"ד אינפו": 1
  },
  "per_lean": {
-  "שמאל": 230,
-  "אחר": 121,
-  "ימין": 100,
-  "מרכז": 88
+  "שמאל": 251,
+  "אחר": 125,
+  "ימין": 92,
+  "מרכז": 86
  },
  "leads": [
-  {
-   "id": "a02605a5849eab1b",
-   "ts": "2026-11-19T00:50:40.544334+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "בצל המתיחות הידוק תוכניות: הפגישה של הצמרת הביטחונית על איראן מפקד סנטקום הגיע לדיון בישראל, גם ראש המוסד נכח; עמדת הרמטכ\"ל: אם אין הסכם, נכון לתקוף באיראן ניר דבורי |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-01f36299040f1a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "cb9b9d0aa0136be8",
    "ts": "2026-11-19T06:15:17.567788+03:00",
@@ -132,8 +114,8 @@
    "rank": 1
   },
   {
-   "id": "fef000f63ffc3530",
-   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "id": "5c0873c3da94e2d5",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -142,12 +124,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "ראש המוסד טס לארה\"ב כדי לדון עם בכירי הממשל על איראן",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-86d65ef1906d1a1027.htm",
-   "prominence": 5,
-   "rank": 2
+   "title": "פרטים חדשים גורם ישראלי: \"גוברים הסיכויים לפעולה באיראן\" הנחיות ביטחון מידע חודדו בדיון מצומצם, לפי מקורות מערביים - ראש המוסד הציג לאמריקנים מידע על תוכנית הגרעין ירון אברהם, ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c615254d545f1a1026.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "fef000f63ffc3530",
@@ -240,8 +222,8 @@
    "rank": 2
   },
   {
-   "id": "79747ddfa5c02cf4",
-   "ts": "2026-11-19T00:50:40.544334+03:00",
+   "id": "e6b76c34ed02b378",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -250,12 +232,30 @@
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 16,
    "lean": "left",
-   "title": "22:34 דיווח באיראן: שלוש מכליות נפט עלו באש לאחר שפגעו במוקשים ימיים מזרחית להורמוז",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-18/ty-article-live/000001a1-eb8b-dad7-a9fd-ebcb45bc0000?liveBlogItemId=1797005681",
-   "prominence": 3,
-   "rank": 9
+   "title": "טראמפ על אפשרות של תקיפה באיראן: \"נראה מה יהיה אחרי 1 בינואר\"",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-19/ty-article/000001a1-f597-d381-ade5-fff7d2940000",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "fd0ab1a277608bf3",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ לחדשות 12: \"לא ממהר לקבל החלטה בקשר לאיראן\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-693b8c9fde4f1a1026.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "74242f235a782b75",
@@ -277,6 +277,24 @@
   }
  ],
  "items": [
+  {
+   "id": "5c0873c3da94e2d5",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "פרטים חדשים גורם ישראלי: \"גוברים הסיכויים לפעולה באיראן\" הנחיות ביטחון מידע חודדו בדיון מצומצם, לפי מקורות מערביים - ראש המוסד הציג לאמריקנים מידע על תוכנית הגרעין ירון אברהם, ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c615254d545f1a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "5c0873c3da94e2d5",
    "ts": "2026-11-20T00:24:52.709896+03:00",
@@ -1050,6 +1068,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "fd0ab1a277608bf3",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ לחדשות 12: \"לא ממהר לקבל החלטה בקשר לאיראן\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-693b8c9fde4f1a1026.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "fd0ab1a277608bf3",
@@ -3210,6 +3246,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "e6b76c34ed02b378",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "טראמפ על אפשרות של תקיפה באיראן: \"נראה מה יהיה אחרי 1 בינואר\"",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-19/ty-article/000001a1-f597-d381-ade5-fff7d2940000",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "e6b76c34ed02b378",
@@ -5535,7 +5589,7 @@
   },
   {
    "id": "bb1636f138c040f6",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
    "source": "ynet",
    "source_display": "ynet",
    "sub_source": "",
@@ -5550,8 +5604,24 @@
    "link": "https://www.ynet.co.il/news/article/h1e11oq2rmg"
   },
   {
+   "id": "18d5d4faa021483f",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
+   "source": "ynet",
+   "source_display": "ynet",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 15,
+   "lean": "left",
+   "title": "השעון מתקתק: לוחות הזמנים לתקיפה באיראן - והמרוץ שלה לחסינות צבאית",
+   "link": "https://www.ynet.co.il/news/article/yokra14964791"
+  },
+  {
    "id": "80dd748b9c427228",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
    "source": "ynet",
    "source_display": "ynet",
    "sub_source": "",
@@ -5567,7 +5637,7 @@
   },
   {
    "id": "7f102a86257d9ff2",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
    "source": "ynet",
    "source_display": "ynet",
    "sub_source": "",
@@ -5582,24 +5652,8 @@
    "link": "https://www.ynet.co.il/news/article/byhi6p2rgl"
   },
   {
-   "id": "6a7cb22504df2078",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "טיל חות'י פגע בגורד השחקים הגבוה בריאד; מחאה נדירה באיראן: \"מוות לדיקטטור!\" | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/sjwhr00hczx"
-  },
-  {
-   "id": "4ccf36398a9ce624",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
+   "id": "d0a97b190657d268",
+   "ts": "2026-11-20T06:01:59.195838+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -5610,56 +5664,8 @@
    ],
    "score": 15,
    "lean": "left",
-   "title": "לפני 23 דקות מפגן כוח ברחובות איראן: כטב\"מים בטהראן וטילים בליסטיים בטהרן",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-c7b06841095f1a1026.htm"
-  },
-  {
-   "id": "146950eba6735794",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "לפני 25 דקות איראן מוציאה את הנשק לרחובות: כטב\"מים וטילים בליסטיים מוצגים לעיני הציבור בטהרן",
-   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-859c00b6815f1a1026.htm"
-  },
-  {
-   "id": "0cf6f87464034212",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גובר הלחץ - לא מארה\"ב וישראל: הסלמה במתקפות נגד איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-686d55d9683f1a1026.htm"
-  },
-  {
-   "id": "d822810b5c353112",
-   "ts": "2026-11-19T15:52:59.724384+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בזמן מלחמה עם איראן: התקלה ב-NSA שיבשה את פעילות המודיעין האמריקני במזרח התיכון",
-   "link": "https://www.ynet.co.il/news/article/byg3cx2agg"
+   "title": "00:01 הסיכויים לתקיפה באיראן גדלים",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-ca2100b6815f1a1026.htm"
   }
  ]
 }
