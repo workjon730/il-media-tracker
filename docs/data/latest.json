@@ -1,60 +1,54 @@
 {
- "generated": "2026-11-20T14:23:34.508355+03:00",
- "last_24h_total": 553,
+ "generated": "2026-11-20T23:00:38.101857+03:00",
+ "last_24h_total": 562,
  "per_target": {
-  "איראן": 407,
+  "איראן": 416,
   "בינה מלאכותית": 146
  },
  "per_source": {
-  "YNET": 63,
-  "מעריב": 55,
-  "הארץ": 53,
-  "TheMarker": 43,
-  "כאן 11": 37,
-  "וואלה": 24,
+  "YNET": 69,
+  "מעריב": 58,
+  "הארץ": 57,
+  "TheMarker": 46,
+  "כאן 11": 38,
+  "וואלה": 26,
   "גלובס": 24,
-  "מקור ראשון": 22,
-  "Vietnam.vn": 21,
-  "כיכר השבת": 14,
-  "אמס": 14,
-  "ערוץ 7": 13,
+  "מקור ראשון": 23,
+  "Vietnam.vn": 19,
+  "N12": 15,
+  "ערוץ 7": 15,
   "mako": 13,
+  "אמס": 13,
   "ynet": 12,
-  "N12": 12,
-  "הידברות": 12,
-  "זמן ישראל": 11,
+  "כיכר השבת": 11,
   "C14": 11,
-  "היום": 9,
-  "בחדרי חרדים": 8,
-  "JDN": 7,
+  "זמן ישראל": 11,
+  "הידברות": 10,
+  "היום": 10,
+  "כלכליסט": 9,
+  "JDN": 8,
+  "רשת 13": 8,
   "ביזפורטל": 7,
-  "כלכליסט": 7,
   "INSS": 6,
-  "Investing.com": 6,
-  "אתר החדשות דבר": 5,
-  "סרוגים": 5,
-  "רשת 13": 5,
-  "המחדש": 4,
+  "בחדרי חרדים": 5,
+  "סרוגים": 4,
   "חב״ד און ליין": 4,
-  "Israel Defense": 3,
-  "אנשים ומחשבים": 3,
+  "Investing.com": 4,
+  "את\"צ": 4,
   "אייס": 3,
+  "המחדש": 3,
+  "אתר החדשות דבר": 3,
   "קול ברמה": 3,
-  "את\"צ": 3,
-  "تسنیم": 2,
+  "אנשים ומחשבים": 3,
+  "חב\"ד אינפו": 3,
   "פאנדר": 2,
-  "חב\"ד אינפו": 2,
-  "לדעת": 1,
-  "כיפה": 1,
-  "OrcaRouter": 1,
-  "כל העיר ירושלים": 1,
-  "אפוק": 1
+  "אפוק": 2
  },
  "per_lean": {
-  "שמאל": 262,
-  "אחר": 121,
-  "מרכז": 91,
-  "ימין": 79
+  "שמאל": 284,
+  "אחר": 110,
+  "מרכז": 95,
+  "ימין": 73
  },
  "leads": [
   {
@@ -92,24 +86,6 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-c615254d545f1a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "bad9e58247dd4dce",
-   "ts": "2026-11-19T15:52:59.724384+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "לא ארה\"ב וישראל: הסלמה חמורה במתקפות נגד איראן הארגונים שמתקוממים מבית - ומגבירים את הלחץ הכבד על המשטר",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-686d55d9683f1a1026.htm",
-   "prominence": 5,
-   "rank": 2
   },
   {
    "id": "e6b76c34ed02b378",
@@ -198,6 +174,24 @@
    "lean": "left",
    "title": "מערכת קלע דוד שודרגה על רקע החשש מחידוש המלחמה עם איראן",
    "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-20/ty-article/.premium/000001a1-f835-d381-ade5-fbf5cdf70000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "453afa4ed3788406",
+   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "עמוק יותר מפורדו: המתקן התת-קרקעי החדש של איראן צילומי לוויין חשפו את בסיס הטילים שנבנה בעומק 150 מטרים - ומוגן מחימוש חודר",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-aad8a1b0d19f1a1026.htm",
    "prominence": 5,
    "rank": 2
   },
@@ -1066,6 +1060,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "453afa4ed3788406",
+   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "עמוק יותר מפורדו: המתקן התת-קרקעי החדש של איראן צילומי לוויין חשפו את בסיס הטילים שנבנה בעומק 150 מטרים - ומוגן מחימוש חודר",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-aad8a1b0d19f1a1026.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "fd0ab1a277608bf3",
@@ -2634,6 +2646,24 @@
    "rank": 1
   },
   {
+   "id": "5a34f5ca00338e81",
+   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "היכולת שמשנה את המערכה נגד איראן: הצצה ראשונה מבפנים \"אנחנו עובדים סביב השעון, וזה לא מספיק\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-6469d115f2ee1a1026.htm",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
    "id": "27c3f2d75c99595e",
    "ts": "2026-11-16T04:54:20.648848+03:00",
    "source": "n12",
@@ -3244,6 +3274,42 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "04fb76389ba810cc",
+   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "הרהב מסתיר את מה שבאמת קורה בתוך איראן בני סבטי",
+   "link": "https://www.mako.co.il/news-columns/2026_q4/Article-59f9405ed84f1a1026.htm",
+   "prominence": 1,
+   "rank": 15
+  },
+  {
+   "id": "49e9643f2a86e400",
+   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 7 דקות הרמטכ\"ל מאשר: נערכים לנשק בלתי קונבנציונלי מאיראן",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-b0b2dc6a07af1a1026.htm",
+   "prominence": 1,
+   "rank": 19
   },
   {
    "id": "c653b457de706cac",
@@ -5602,70 +5668,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
    "prominence": 1,
    "rank": 15
-  },
-  {
-   "id": "18d5d4faa021483f",
-   "ts": "2026-11-20T14:23:26.633465+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "השעון מתקתק: לוחות הזמנים לתקיפה באיראן - והמרוץ שלה לחסינות צבאית",
-   "link": "https://www.ynet.co.il/news/article/yokra14964791"
-  },
-  {
-   "id": "bb1636f138c040f6",
-   "ts": "2026-11-20T14:23:26.633465+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בישראל מדברים על מבצע קצר. איראן טוענת שזה יהיה אחרת",
-   "link": "https://www.ynet.co.il/news/article/h1e11oq2rmg"
-  },
-  {
-   "id": "1c2850e7f13b823a",
-   "ts": "2026-11-20T14:23:26.633465+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "גובר הלחץ - לא מארה\"ב וישראל: הסלמה במתקפות נגד איראן 19.11.26 אסף רוזנצוייג",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-686d55d9683f1a1026.htm"
-  },
-  {
-   "id": "bb1636f138c040f6",
-   "ts": "2026-11-20T06:01:59.195838+03:00",
-   "source": "ynet",
-   "source_display": "ynet",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 15,
-   "lean": "left",
-   "title": "בישראל מדברים על מבצע קצר. איראן טוענת שזה יהיה אחרת",
-   "link": "https://www.ynet.co.il/news/article/h1e11oq2rmg"
   }
  ]
 }
