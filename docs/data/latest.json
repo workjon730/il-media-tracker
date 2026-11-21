@@ -1,74 +1,56 @@
 {
- "generated": "2026-11-20T23:00:38.101857+03:00",
- "last_24h_total": 562,
+ "generated": "2026-11-21T04:24:31.932696+03:00",
+ "last_24h_total": 560,
  "per_target": {
-  "איראן": 416,
-  "בינה מלאכותית": 146
+  "איראן": 417,
+  "בינה מלאכותית": 143
  },
  "per_source": {
-  "YNET": 69,
-  "מעריב": 58,
-  "הארץ": 57,
-  "TheMarker": 46,
-  "כאן 11": 38,
+  "YNET": 68,
+  "מעריב": 63,
+  "הארץ": 56,
+  "TheMarker": 50,
+  "כאן 11": 41,
   "וואלה": 26,
   "גלובס": 24,
-  "מקור ראשון": 23,
-  "Vietnam.vn": 19,
-  "N12": 15,
-  "ערוץ 7": 15,
+  "מקור ראשון": 24,
+  "N12": 17,
+  "Vietnam.vn": 16,
+  "ערוץ 7": 14,
   "mako": 13,
   "אמס": 13,
-  "ynet": 12,
-  "כיכר השבת": 11,
+  "היום": 13,
+  "זמן ישראל": 12,
   "C14": 11,
-  "זמן ישראל": 11,
-  "הידברות": 10,
-  "היום": 10,
+  "ynet": 10,
+  "רשת 13": 10,
+  "כיכר השבת": 9,
   "כלכליסט": 9,
-  "JDN": 8,
-  "רשת 13": 8,
+  "JDN": 7,
   "ביזפורטל": 7,
+  "הידברות": 6,
   "INSS": 6,
-  "בחדרי חרדים": 5,
-  "סרוגים": 4,
+  "בחדרי חרדים": 4,
   "חב״ד און ליין": 4,
-  "Investing.com": 4,
   "את\"צ": 4,
-  "אייס": 3,
-  "המחדש": 3,
-  "אתר החדשות דבר": 3,
-  "קול ברמה": 3,
-  "אנשים ומחשבים": 3,
+  "Investing.com": 4,
   "חב\"ד אינפו": 3,
-  "פאנדר": 2,
-  "אפוק": 2
+  "אנשים ומחשבים": 3,
+  "אפוק": 3,
+  "אייס": 2,
+  "קול ברמה": 2,
+  "המחדש": 2,
+  "סרוגים": 2,
+  "פאנדר": 1,
+  "אתר החדשות דבר": 1
  },
  "per_lean": {
-  "שמאל": 284,
-  "אחר": 110,
-  "מרכז": 95,
-  "ימין": 73
+  "שמאל": 291,
+  "מרכז": 102,
+  "אחר": 98,
+  "ימין": 69
  },
  "leads": [
-  {
-   "id": "5c0873c3da94e2d5",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "פרטים חדשים גורם ישראלי: \"גוברים הסיכויים לפעולה באיראן\" הנחיות ביטחון מידע חודדו בדיון מצומצם, לפי מקורות מערביים - ראש המוסד הציג לאמריקנים מידע על תוכנית הגרעין ירון אברהם, ניר דבורי |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c615254d545f1a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "5c0873c3da94e2d5",
    "ts": "2026-11-20T06:01:59.195838+03:00",
@@ -86,42 +68,6 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-c615254d545f1a1026.htm",
    "prominence": 10,
    "rank": 1
-  },
-  {
-   "id": "e6b76c34ed02b378",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "טראמפ על אפשרות של תקיפה באיראן: \"נראה מה יהיה אחרי 1 בינואר\"",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-19/ty-article/000001a1-f597-d381-ade5-fff7d2940000",
-   "prominence": 5,
-   "rank": 3
-  },
-  {
-   "id": "fd0ab1a277608bf3",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "טראמפ לחדשות 12: \"לא ממהר לקבל החלטה בקשר לאיראן\"",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-693b8c9fde4f1a1026.htm",
-   "prominence": 5,
-   "rank": 2
   },
   {
    "id": "e6b76c34ed02b378",
@@ -196,40 +142,40 @@
    "rank": 2
   },
   {
-   "id": "241198b91808d047",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "ai",
-   "target_display": "בינה מלאכותית",
-   "groups": [
-    "טכנולוגיה"
-   ],
-   "score": 10,
-   "lean": "left",
-   "title": "אנתרופיק זינקה ב-17% ביום הבכורה בוול סטריט; נאסד\"ק איבד 2%",
-   "link": "https://www.haaretz.co.il/tmr/wallstreet/2026-11-19/ty-article-live/000001a1-e2bb-da30-a7fb-fabf3a770000",
-   "prominence": 3,
-   "rank": 7
-  },
-  {
-   "id": "ede152da3e559dc5",
-   "ts": "2026-11-20T00:24:52.709896+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "dd1da0959c432e47",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "23:02 דובר משרד החוץ של איראן: האשמות ארה\"ב כי טהראן מפתחת נשק כימי נועדו לעורר פחד ולהצדיק פעולה צבאית",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-19/ty-article-live/000001a1-f0b9-d9ff-a7b5-f1bf21ef0000?liveBlogItemId=1545153721",
-   "prominence": 3,
-   "rank": 9
+   "title": "\"לא נוכל לחיות עם איום קיומי, אך אנחנו לא שם\" בצמרת מערכת הביטחון מעריכים: אין דחיפות מיידית לתקיפה באיראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-cee0d329cd9f1a1026.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "c54592a9ed221a8b",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הפגישה הלילית בברלין והלחץ של נתניהו על טראמפ שליחי הנשיא דנו עם הקטארים על איראן, בניסיון למנוע מלחמה אזורית",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-be5210dd14af1a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "241198b91808d047",
@@ -266,6 +212,60 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-11-20/ty-article-live/000001a1-f5e2-d287-adbb-f7fae63d0000?liveBlogItemId=745463362",
    "prominence": 3,
    "rank": 10
+  },
+  {
+   "id": "a5dc21a0f6b9b393",
+   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "מקורות ל CBS: ישראל וארה\"ב שוקלות לתקוף באיראן בטווח הזמן הקרוב",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-20/ty-article/000001a1-f908-d9ff-a7b5-f9ae323c0000",
+   "prominence": 3,
+   "rank": 10
+  },
+  {
+   "id": "5a34f5ca00338e81",
+   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "היכולת שמשנה את המערכה נגד איראן: הצצה ראשונה מבפנים \"אנחנו עובדים סביב השעון, וזה לא מספיק\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-6469d115f2ee1a1026.htm",
+   "prominence": 3,
+   "rank": 9
+  },
+  {
+   "id": "5a34f5ca00338e81",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "היכולת שמשנה את המערכה נגד איראן: הצצה ראשונה מבפנים \"אנחנו עובדים סביב השעון, וזה לא מספיק\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-6469d115f2ee1a1026.htm",
+   "prominence": 3,
+   "rank": 8
   }
  ],
  "items": [
@@ -1060,6 +1060,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "dd1da0959c432e47",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "\"לא נוכל לחיות עם איום קיומי, אך אנחנו לא שם\" בצמרת מערכת הביטחון מעריכים: אין דחיפות מיידית לתקיפה באיראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-cee0d329cd9f1a1026.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "c54592a9ed221a8b",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הפגישה הלילית בברלין והלחץ של נתניהו על טראמפ שליחי הנשיא דנו עם הקטארים על איראן, בניסיון למנוע מלחמה אזורית",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-be5210dd14af1a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "453afa4ed3788406",
@@ -2647,6 +2683,24 @@
   },
   {
    "id": "5a34f5ca00338e81",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "היכולת שמשנה את המערכה נגד איראן: הצצה ראשונה מבפנים \"אנחנו עובדים סביב השעון, וזה לא מספיק\"",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-6469d115f2ee1a1026.htm",
+   "prominence": 3,
+   "rank": 8
+  },
+  {
+   "id": "5a34f5ca00338e81",
    "ts": "2026-11-20T23:00:31.347989+03:00",
    "source": "n12",
    "source_display": "N12",
@@ -3274,6 +3328,42 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "1ff1a87b85cd4736",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "עמוק יותר מפורדו: המתקן התת-קרקעי החדש של איראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-aad8a1b0d19f1a1026.htm",
+   "prominence": 1,
+   "rank": 14
+  },
+  {
+   "id": "b9194486f040a512",
+   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:04 מערכת הביטחון על תקיפה באיראן: \"לא נאפשר לאיומים חמורים להתקיים ובכל מחיר\"",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-7edc678cf2af1a1026.htm",
+   "prominence": 1,
+   "rank": 19
   },
   {
    "id": "04fb76389ba810cc",
@@ -5578,96 +5668,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m09_w05/shorts-4a68bfd8bdee0a1027.htm",
    "prominence": 1,
    "rank": 16
-  },
-  {
-   "id": "d0a3595db6a2b556",
-   "ts": "2026-09-27T20:41:46.504263+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "דיווח משבר בהנהגת חיזבאללה: \"החלטות מגיעות ישירות מאיראן\"",
-   "link": "https://www.mako.co.il/news-world/2026_q3/Article-07fbef91e82e0a1027.htm",
-   "prominence": 1,
-   "rank": 11
-  },
-  {
-   "id": "a76e62cecd2a2567",
-   "ts": "2026-09-27T15:56:33.549580+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "עבר עינויים באיראן, נמלט מהמשטר - והתחתן עם ישראלית",
-   "link": "https://www.mako.co.il/news-israel/2026_q4/Article-20c1b4386cfd0a1026.htm",
-   "prominence": 1,
-   "rank": 15
-  },
-  {
-   "id": "d2707abcac653caa",
-   "ts": "2026-09-27T15:56:33.549580+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 5 דקות איראן: לכדנו צוללת אוטונומית אמריקנית נוספת במצר הורמוז",
-   "link": "https://www.mako.co.il/news-shorts/2026-m09_w05/shorts-6d984aa69e2e0a1026.htm",
-   "prominence": 1,
-   "rank": 18
-  },
-  {
-   "id": "398f1688fc035203",
-   "ts": "2026-09-26T17:23:11.742971+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "טראמפ: דוחה את ההצעה של איראן להפסקת אש",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-09-26/ty-article/.premium/000001a0-de03-dfbb-afa4-ff53bab40000",
-   "prominence": 5,
-   "rank": 4
-  },
-  {
-   "id": "0e81c818a0cdea4f",
-   "ts": "2026-09-26T17:23:11.742971+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 19 דקות טראמפ: \"אני דוחה את הצעת איראן להפסקת אש\"",
-   "link": "https://www.mako.co.il/news-shorts/2026-m09_w04/shorts-2f4382903fdd0a1027.htm",
-   "prominence": 1,
-   "rank": 15
   }
  ]
 }
