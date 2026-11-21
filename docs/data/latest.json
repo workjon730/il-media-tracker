@@ -1,61 +1,61 @@
 {
- "generated": "2026-11-21T20:22:59.605893+03:00",
- "last_24h_total": 580,
+ "generated": "2026-11-22T02:05:47.633576+03:00",
+ "last_24h_total": 589,
  "per_target": {
   "איראן": 418,
-  "בינה מלאכותית": 162
+  "בינה מלאכותית": 171
  },
  "per_source": {
-  "מעריב": 77,
-  "YNET": 63,
-  "TheMarker": 58,
-  "הארץ": 56,
+  "מעריב": 76,
+  "TheMarker": 61,
+  "YNET": 56,
+  "הארץ": 55,
   "כאן 11": 39,
   "וואלה": 28,
-  "N12": 24,
+  "N12": 27,
+  "היום": 24,
+  "Vietnam.vn": 23,
   "גלובס": 21,
-  "היום": 21,
-  "Vietnam.vn": 21,
-  "מקור ראשון": 20,
-  "ערוץ 7": 13,
+  "מקור ראשון": 15,
+  "ערוץ 7": 14,
   "C14": 13,
-  "רשת 13": 12,
+  "רשת 13": 13,
+  "mako": 11,
   "כיכר השבת": 10,
-  "mako": 9,
   "אמס": 9,
-  "זמן ישראל": 9,
-  "כלכליסט": 9,
-  "ynet": 8,
+  "בחדרי חרדים": 8,
+  "זמן ישראל": 8,
+  "כלכליסט": 8,
+  "ynet": 7,
+  "INSS": 7,
   "ביזפורטל": 7,
-  "INSS": 6,
   "JDN": 5,
   "Investing.com": 5,
-  "בחדרי חרדים": 5,
-  "הידברות": 4,
-  "חב״ד און ליין": 4,
+  "Mako": 5,
+  "המחדש": 5,
+  "הידברות": 5,
   "את\"צ": 4,
-  "Mako": 4,
   "אפוק": 3,
+  "חב״ד און ליין": 3,
+  "HWzone": 3,
   "סרוגים": 2,
-  "אנשים ומחשבים": 2,
-  "המחדש": 2,
-  "HWzone": 2,
-  "חב\"ד אינפו": 1,
+  "חרדים10": 2,
+  "אתר החדשות דבר": 2,
+  "Hayadan": 2,
+  "אנשים ומחשבים": 1,
   "OrcaRouter": 1,
-  "חרדים10": 1,
-  "אתר החדשות דבר": 1,
-  "Hayadan": 1
+  "חב\"ד אינפו": 1
  },
  "per_lean": {
   "שמאל": 297,
-  "מרכז": 119,
-  "אחר": 100,
-  "ימין": 64
+  "מרכז": 121,
+  "אחר": 110,
+  "ימין": 61
  },
  "leads": [
   {
-   "id": "453afa4ed3788406",
-   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "id": "ac1100dd93d2d452",
+   "ts": "2026-11-22T02:05:39.283700+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -64,12 +64,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "עמוק יותר מפורדו: המתקן התת-קרקעי החדש של איראן צילומי לוויין חשפו את בסיס הטילים שנבנה בעומק 150 מטרים - ומוגן מחימוש חודר",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-aad8a1b0d19f1a1026.htm",
-   "prominence": 5,
-   "rank": 2
+   "title": "הסלמה או מו\"מ? דיווח: איראן תקפה שתי יחידות מכ\"ם אמריקניות בבחרין המתווכים הקטארים מאיצים את המגעים, איראן פועלת לייצר משוואה חדשה באמצעות מהלך נפיץ ברק רביד, ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c28f533dbbff1a1027.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "dd1da0959c432e47",
@@ -144,8 +144,8 @@
    "rank": 2
   },
   {
-   "id": "a5dc21a0f6b9b393",
-   "ts": "2026-11-20T23:00:31.347989+03:00",
+   "id": "b33b64be3ee55f13",
+   "ts": "2026-11-22T02:05:39.283700+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -154,30 +154,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 16,
    "lean": "left",
-   "title": "מקורות ל CBS: ישראל וארה\"ב שוקלות לתקוף באיראן בטווח הזמן הקרוב",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-20/ty-article/000001a1-f908-d9ff-a7b5-f9ae323c0000",
-   "prominence": 3,
-   "rank": 10
-  },
-  {
-   "id": "5a34f5ca00338e81",
-   "ts": "2026-11-20T23:00:31.347989+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 17,
-   "lean": "left",
-   "title": "היכולת שמשנה את המערכה נגד איראן: הצצה ראשונה מבפנים \"אנחנו עובדים סביב השעון, וזה לא מספיק\"",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-6469d115f2ee1a1026.htm",
-   "prominence": 3,
-   "rank": 9
+   "title": "איראן תקפה בבחריין, שמסרה שנפגע מתקן אזרחי בשטחה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-21/ty-article/.premium/000001a1-ff9c-d381-ade5-fffdbe860000",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "5a34f5ca00338e81",
@@ -232,9 +214,45 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-6469d115f2ee1a1026.htm",
    "prominence": 3,
    "rank": 10
+  },
+  {
+   "id": "f8a09818e8983de0",
+   "ts": "2026-11-22T02:05:39.283700+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "22:46 בחריין הודיעה כי יירטה מספר שיגורים אוויריות מאיראן, בפעם השנייה בפחות משעתיים",
+   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-22/ty-article-live/000001a2-002f-d02c-a7ea-9d6f29900000?liveBlogItemId=1325373710",
+   "prominence": 3,
+   "rank": 9
   }
  ],
  "items": [
+  {
+   "id": "ac1100dd93d2d452",
+   "ts": "2026-11-22T02:05:39.283700+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "הסלמה או מו\"מ? דיווח: איראן תקפה שתי יחידות מכ\"ם אמריקניות בבחרין המתווכים הקטארים מאיצים את המגעים, איראן פועלת לייצר משוואה חדשה באמצעות מהלך נפיץ ברק רביד, ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c28f533dbbff1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "5c0873c3da94e2d5",
    "ts": "2026-11-20T06:01:59.195838+03:00",
@@ -3332,6 +3350,42 @@
    "rank": 9
   },
   {
+   "id": "b33b64be3ee55f13",
+   "ts": "2026-11-22T02:05:39.283700+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "איראן תקפה בבחריין, שמסרה שנפגע מתקן אזרחי בשטחה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-21/ty-article/.premium/000001a1-ff9c-d381-ade5-fffdbe860000",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "fd76e92a369e0b0b",
+   "ts": "2026-11-22T02:05:39.283700+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "22:50 דיווחים באיראן תקפנו שני בסיסים אמריקניים בבחריין | כעת: נשמעות אזעקות במכה שבסעודיה",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-b0079fe1d5ff1a1026.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
    "id": "e808ed657c7458c6",
    "ts": "2026-11-21T20:22:52.050139+03:00",
    "source": "n12",
@@ -5580,60 +5634,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w02/shorts-21e05b7d3e211a1027.htm",
    "prominence": 1,
    "rank": 18
-  },
-  {
-   "id": "673ce9badbe3fc13",
-   "ts": "2026-10-07T00:35:40.161080+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 56 דקות טראמפ: הבעיה הגדולה ביותר באיראן - אף אחד לא יודע מי מנהל את המדינה",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w02/shorts-21e05b7d3e211a1027.htm",
-   "prominence": 1,
-   "rank": 18
-  },
-  {
-   "id": "69d079c8095fb8b4",
-   "ts": "2026-10-03T20:12:30.438828+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 26 דקות ישראל מזהירה: היעד שאיראן רוצה לפגוע בו",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w01/shorts-be5bd673f9201a1027.htm",
-   "prominence": 1,
-   "rank": 16
-  },
-  {
-   "id": "1ea36f5bf9ee82e7",
-   "ts": "2026-10-03T15:27:27.600082+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "חשיפה הדיון החשאי של בכירי ממשל טראמפ על המלחמה באיראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm",
-   "prominence": 1,
-   "rank": 12
   }
  ]
 }
