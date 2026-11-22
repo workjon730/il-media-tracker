@@ -1,56 +1,55 @@
 {
- "generated": "2026-11-22T02:05:47.633576+03:00",
- "last_24h_total": 589,
+ "generated": "2026-11-22T06:03:49.649203+03:00",
+ "last_24h_total": 593,
  "per_target": {
-  "איראן": 418,
-  "בינה מלאכותית": 171
+  "איראן": 414,
+  "בינה מלאכותית": 179
  },
  "per_source": {
-  "מעריב": 76,
-  "TheMarker": 61,
-  "YNET": 56,
+  "מעריב": 74,
+  "TheMarker": 63,
   "הארץ": 55,
+  "YNET": 52,
   "כאן 11": 39,
-  "וואלה": 28,
-  "N12": 27,
-  "היום": 24,
-  "Vietnam.vn": 23,
+  "וואלה": 30,
+  "N12": 29,
+  "היום": 25,
+  "Vietnam.vn": 25,
   "גלובס": 21,
-  "מקור ראשון": 15,
-  "ערוץ 7": 14,
-  "C14": 13,
-  "רשת 13": 13,
+  "ערוץ 7": 16,
+  "רשת 13": 14,
   "mako": 11,
+  "C14": 11,
+  "מקור ראשון": 10,
   "כיכר השבת": 10,
-  "אמס": 9,
+  "INSS": 8,
   "בחדרי חרדים": 8,
-  "זמן ישראל": 8,
+  "אמס": 8,
+  "המחדש": 8,
   "כלכליסט": 8,
-  "ynet": 7,
-  "INSS": 7,
-  "ביזפורטל": 7,
-  "JDN": 5,
-  "Investing.com": 5,
-  "Mako": 5,
-  "המחדש": 5,
-  "הידברות": 5,
+  "Mako": 6,
+  "זמן ישראל": 6,
+  "הידברות": 6,
+  "JDN": 6,
+  "ביזפורטל": 6,
+  "ynet": 5,
+  "Investing.com": 4,
+  "HWzone": 4,
   "את\"צ": 4,
-  "אפוק": 3,
   "חב״ד און ליין": 3,
-  "HWzone": 3,
-  "סרוגים": 2,
-  "חרדים10": 2,
-  "אתר החדשות דבר": 2,
-  "Hayadan": 2,
-  "אנשים ומחשבים": 1,
-  "OrcaRouter": 1,
-  "חב\"ד אינפו": 1
+  "סרוגים": 3,
+  "חרדים10": 3,
+  "אפוק": 3,
+  "אתר החדשות דבר": 3,
+  "Hayadan": 3,
+  "חב\"ד אינפו": 2,
+  "OrcaRouter": 1
  },
  "per_lean": {
-  "שמאל": 297,
-  "מרכז": 121,
-  "אחר": 110,
-  "ימין": 61
+  "שמאל": 298,
+  "אחר": 121,
+  "מרכז": 120,
+  "ימין": 54
  },
  "leads": [
   {
@@ -72,8 +71,8 @@
    "rank": 1
   },
   {
-   "id": "dd1da0959c432e47",
-   "ts": "2026-11-21T04:24:25.399602+03:00",
+   "id": "ac1100dd93d2d452",
+   "ts": "2026-11-22T06:03:42.973900+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -82,30 +81,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "\"לא נוכל לחיות עם איום קיומי, אך אנחנו לא שם\" בצמרת מערכת הביטחון מעריכים: אין דחיפות מיידית לתקיפה באיראן",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-cee0d329cd9f1a1026.htm",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
-   "id": "c54592a9ed221a8b",
-   "ts": "2026-11-21T04:24:25.399602+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "הפגישה הלילית בברלין והלחץ של נתניהו על טראמפ שליחי הנשיא דנו עם הקטארים על איראן, בניסיון למנוע מלחמה אזורית",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-be5210dd14af1a1027.htm",
-   "prominence": 5,
-   "rank": 4
+   "title": "הסלמה או מו\"מ? דיווח: איראן תקפה שתי יחידות מכ\"ם אמריקניות בבחרין המתווכים הקטארים מאיצים את המגעים, איראן פועלת לייצר משוואה חדשה באמצעות מהלך נפיץ ברק רביד, ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c28f533dbbff1a1027.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "3da3ba1329ac63c6",
@@ -162,22 +143,22 @@
    "rank": 4
   },
   {
-   "id": "5a34f5ca00338e81",
-   "ts": "2026-11-21T04:24:25.399602+03:00",
-   "source": "n12",
-   "source_display": "N12",
+   "id": "b33b64be3ee55f13",
+   "ts": "2026-11-22T06:03:42.973900+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 17,
+   "score": 16,
    "lean": "left",
-   "title": "היכולת שמשנה את המערכה נגד איראן: הצצה ראשונה מבפנים \"אנחנו עובדים סביב השעון, וזה לא מספיק\"",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-6469d115f2ee1a1026.htm",
-   "prominence": 3,
-   "rank": 8
+   "title": "איראן תקפה בבחריין, שמסרה שנפגע מתקן אזרחי בשטחה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-21/ty-article/.premium/000001a1-ff9c-d381-ade5-fffdbe860000",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "67077b144632d3c0",
@@ -235,6 +216,24 @@
   }
  ],
  "items": [
+  {
+   "id": "ac1100dd93d2d452",
+   "ts": "2026-11-22T06:03:42.973900+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "הסלמה או מו\"מ? דיווח: איראן תקפה שתי יחידות מכ\"ם אמריקניות בבחרין המתווכים הקטארים מאיצים את המגעים, איראן פועלת לייצר משוואה חדשה באמצעות מהלך נפיץ ברק רביד, ניר דבורי |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c28f533dbbff1a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "ac1100dd93d2d452",
    "ts": "2026-11-22T02:05:39.283700+03:00",
@@ -3351,6 +3350,42 @@
   },
   {
    "id": "b33b64be3ee55f13",
+   "ts": "2026-11-22T06:03:42.973900+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "איראן תקפה בבחריין, שמסרה שנפגע מתקן אזרחי בשטחה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-21/ty-article/.premium/000001a1-ff9c-d381-ade5-fffdbe860000",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "fd76e92a369e0b0b",
+   "ts": "2026-11-22T06:03:42.973900+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "22:50 דיווחים באיראן תקפנו שני בסיסים אמריקניים בבחריין | כעת: נשמעות אזעקות במכה שבסעודיה",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w03/shorts-b0079fe1d5ff1a1026.htm",
+   "prominence": 1,
+   "rank": 16
+  },
+  {
+   "id": "b33b64be3ee55f13",
    "ts": "2026-11-22T02:05:39.283700+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
@@ -5580,60 +5615,6 @@
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-ec0730b6fc611a1026.htm",
    "prominence": 1,
    "rank": 12
-  },
-  {
-   "id": "093459c62869a29c",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "מקורות: חיזבאללה קיבל מאיראן 200 מיליון דולר לסיוע לעקורים במלחמה",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-07/ty-article/.premium/000001a1-16c6-dbd6-a5a5-9ff795970000",
-   "prominence": 5,
-   "rank": 4
-  },
-  {
-   "id": "b8973fda83fa8884",
-   "ts": "2026-10-07T19:22:14.769674+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 39 דקות דיווח: איראן העבירה לחיזבאללה 200 מיליון דולר למען \"עקורים בלבנון\" אך לא צוין כיצד הכסף עבר",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w02/shorts-a1038b315f611a1026.htm",
-   "prominence": 1,
-   "rank": 16
-  },
-  {
-   "id": "8f13753afe58df97",
-   "ts": "2026-10-07T04:27:23.877357+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "23:39 טראמפ: הבעיה הגדולה ביותר באיראן - אף אחד לא יודע מי מנהל את המדינה",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w02/shorts-21e05b7d3e211a1027.htm",
-   "prominence": 1,
-   "rank": 18
   }
  ]
 }
