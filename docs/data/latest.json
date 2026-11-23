@@ -1,87 +1,69 @@
 {
- "generated": "2026-11-23T11:55:42.041108+03:00",
- "last_24h_total": 554,
+ "generated": "2026-11-24T00:14:29.234204+03:00",
+ "last_24h_total": 403,
  "per_target": {
-  "איראן": 400,
-  "בינה מלאכותית": 154
+  "איראן": 305,
+  "בינה מלאכותית": 98
  },
  "per_source": {
-  "כאן 11": 55,
-  "הארץ": 54,
-  "TheMarker": 50,
-  "YNET": 45,
-  "מעריב": 35,
-  "וואלה": 21,
-  "כיכר השבת": 21,
-  "C14": 21,
-  "היום": 18,
-  "N12": 16,
-  "Vietnam.vn": 16,
-  "גלובס": 15,
-  "ערוץ 7": 14,
-  "JDN": 12,
-  "mako": 10,
-  "INSS": 9,
-  "פאנדר": 9,
-  "בחדרי חרדים": 8,
-  "הידברות": 8,
-  "Hayadan": 8,
-  "אמס": 7,
-  "חב\"ד אינפו": 7,
-  "מקור ראשון": 7,
-  "המחדש": 6,
-  "זמן ישראל": 6,
-  "סרוגים": 5,
-  "רשת 13": 5,
-  "ביזפורטל": 5,
-  "כלכליסט": 5,
+  "כאן 11": 38,
+  "הארץ": 34,
+  "YNET": 31,
+  "TheMarker": 29,
+  "מעריב": 27,
+  "וואלה": 20,
+  "C14": 19,
+  "כיכר השבת": 18,
+  "גלובס": 13,
+  "N12": 13,
+  "JDN": 11,
+  "היום": 10,
+  "ערוץ 7": 10,
+  "מקור ראשון": 8,
+  "Vietnam.vn": 8,
+  "סרוגים": 7,
+  "הידברות": 6,
+  "INSS": 6,
+  "Hayadan": 6,
+  "פאנדר": 6,
+  "חב\"ד אינפו": 5,
+  "זמן ישראל": 5,
   "המרכז הירושלמי לענייני חוץ וביטחון": 5,
-  "Vgames.co.il": 4,
-  "חדשות חיפה": 4,
-  "אתר החדשות דבר": 4,
-  "את\"צ": 4,
-  "HWzone": 4,
+  "אמס": 5,
+  "mako": 5,
+  "בחדרי חרדים": 5,
+  "ביזפורטל": 4,
+  "כיפה": 4,
+  "המחדש": 3,
   "تسنیم": 3,
-  "העין השביעית": 3,
-  "כיפה": 3,
+  "אתר החדשות דבר": 3,
   "Techtime": 3,
-  "בלינקר": 3,
-  "Microsoft": 3,
-  "ynet": 2,
-  "BE106": 2,
-  "Israel Defense": 2,
+  "חדשות חיפה": 3,
+  "את\"צ": 3,
+  "העין השביעית": 2,
+  "Vgames.co.il": 2,
+  "בלינקר": 2,
+  "רשת 13": 2,
   "Investing.com": 2,
-  "חרדים10": 1,
-  "NWS חדשות חיפה והסביבה": 1,
-  "אנשים ומחשבים": 1,
+  "כלכליסט": 2,
+  "Microsoft": 2,
+  "HWzone": 2,
+  "וואלה ספורט": 2,
+  "ynet": 2,
+  "103FM": 2,
   "חב״ד און ליין": 1,
-  "וואלה ספורט": 1
+  "Israel Defense": 1,
+  "אייס": 1,
+  "Google News (כל האתרים)": 1,
+  "חדשות באר שבע והנגב": 1
  },
  "per_lean": {
-  "שמאל": 261,
-  "אחר": 142,
-  "ימין": 83,
-  "מרכז": 68
+  "שמאל": 176,
+  "אחר": 97,
+  "ימין": 77,
+  "מרכז": 53
  },
  "leads": [
-  {
-   "id": "22910424cc9d3ccc",
-   "ts": "2026-11-22T22:28:37.836694+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "פרסום ראשון \"התפרצות זירות\": אמ\"ן באזהרה חריגה מפני תקיפה באיראן מאחורי האזהרה החמורה של ליברמן: נתניהו שוקל לפעול לבד, ללא תיאום עם ארה\"ב | כל הפרטים ירון אברהם |",
-   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-81a35a9d96402a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "2c438449109dd014",
    "ts": "2026-11-23T11:55:35.125245+03:00",
@@ -97,6 +79,24 @@
    "lean": "left",
    "title": "חשיפת חדשות 12 מתקפה באיראן בלי ארה\"ב? הסיכונים והסיכויים של ישראל במערכת הביטחון דוחפים לנצל את חלון ההזדמנויות שנוצר מול טראמפ, במקביל - צה\"ל ערוך גם לאפשרות של התפרצות זירות ניר דבורי |",
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-39d0747431702a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "3e7426aa5d7ec838",
+   "ts": "2026-11-24T00:14:21.469945+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "הסבלנות האמריקנית פוקעת: בישראל נערכים להסלמה עם איראן החשש שאיראן תפתח במתקפה, הקווים האדומים שהציבה ישראל והאפשרות לפעול גם ללא ארה\"ב. במערכת הביטחון מעריכים: האיום עדיין בהתהוות ניר דבורי, אוהד חמו |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-fe09ed2abc902a1027.htm",
    "prominence": 10,
    "rank": 1
   },
@@ -119,8 +119,8 @@
    "rank": 2
   },
   {
-   "id": "76ca4b31c975497c",
-   "ts": "2026-11-22T22:28:37.836694+03:00",
+   "id": "4b1aae28d1f3cf78",
+   "ts": "2026-11-24T00:14:21.469945+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
    "sub_source": "",
@@ -129,12 +129,30 @@
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 16,
    "lean": "left",
-   "title": "20:13 טראמפ: נוטה לחדש את התקיפות באיראן לאחר השנה החדשה",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-22/ty-article-live/000001a2-002f-d02c-a7ea-9d6f29900000?liveBlogItemId=1012579790",
-   "prominence": 3,
-   "rank": 9
+   "title": "אנשי מחקר במוסד מסתייגים מדחיפות פעולה באיראן. גופמן מקדם עמדה הפוכה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-23/ty-article/.premium/000001a2-0918-d7ca-abf6-6f5cba7d0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "b4dd3486d68843be",
+   "ts": "2026-11-24T00:14:21.469945+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "האזהרה של קושנר לישראל: \"בדרך למעמד של מדינה מנודה\" חתנו ומקורבו של טראמפ חשף: מה אמר לו רגע לפני שהורה על תקיפה באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-b213727fea902a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "6397481749429bd2",
@@ -156,6 +174,24 @@
   }
  ],
  "items": [
+  {
+   "id": "3e7426aa5d7ec838",
+   "ts": "2026-11-24T00:14:21.469945+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "הסבלנות האמריקנית פוקעת: בישראל נערכים להסלמה עם איראן החשש שאיראן תפתח במתקפה, הקווים האדומים שהציבה ישראל והאפשרות לפעול גם ללא ארה\"ב. במערכת הביטחון מעריכים: האיום עדיין בהתהוות ניר דבורי, אוהד חמו |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-fe09ed2abc902a1027.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "2c438449109dd014",
    "ts": "2026-11-23T11:55:35.125245+03:00",
@@ -1019,6 +1055,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "b4dd3486d68843be",
+   "ts": "2026-11-24T00:14:21.469945+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "האזהרה של קושנר לישראל: \"בדרך למעמד של מדינה מנודה\" חתנו ומקורבו של טראמפ חשף: מה אמר לו רגע לפני שהורה על תקיפה באיראן",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-b213727fea902a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "d5d78391e7ca236e",
@@ -3343,6 +3397,42 @@
    "rank": 9
   },
   {
+   "id": "4b1aae28d1f3cf78",
+   "ts": "2026-11-24T00:14:21.469945+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "אנשי מחקר במוסד מסתייגים מדחיפות פעולה באיראן. גופמן מקדם עמדה הפוכה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-23/ty-article/.premium/000001a2-0918-d7ca-abf6-6f5cba7d0000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "c4cabd6f9eb5fbd9",
+   "ts": "2026-11-24T00:14:21.469945+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 11 דקות השופטים היו בהלם: בני סבטי, הפרשן לענייני איראן, נחשף מתחת למסיכת הסוריקטה",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w04/shorts-91aedd0003a02a1027.htm",
+   "prominence": 1,
+   "rank": 13
+  },
+  {
    "id": "fdbbff7128f89a1e",
    "ts": "2026-11-23T11:55:35.125245+03:00",
    "source": "n12",
@@ -5483,78 +5573,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-831ea97201c21a1027.htm",
    "prominence": 1,
    "rank": 15
-  },
-  {
-   "id": "c47877c959f8d4ab",
-   "ts": "2026-10-11T21:00:25.181186+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 8 דקות המתיחות מול איראן: מי תתקוף ראשונה?",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-831ea97201c21a1027.htm",
-   "prominence": 1,
-   "rank": 18
-  },
-  {
-   "id": "187e2950521d1fe2",
-   "ts": "2026-10-11T08:36:56.591125+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "07:26 המתיחות מול איראן, ההכרזה של הרשימה המשותפת וחשד לרצח בבאר שבע - אלה הן כותרות הבוקר",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-f38774be20921a1027.htm",
-   "prominence": 1,
-   "rank": 18
-  },
-  {
-   "id": "253e90e253a5d7d5",
-   "ts": "2026-10-11T02:28:42.261716+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "גורמים ביטחוניים: תקיפה באיראן לפני הבחירות עשויה להיתפס כצעד פוליטי",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
-   "id": "a17e21eb471bd113",
-   "ts": "2026-10-10T18:16:46.726756+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "דיווח: איראן שימרה את יכולות ייצור הטילים שלה, וצבאה מצויד בהם היטב",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-10/ty-article/.premium/000001a1-25a2-d0ca-a7b7-bfa22b0b0000",
-   "prominence": 5,
-   "rank": 2
   }
  ]
 }
