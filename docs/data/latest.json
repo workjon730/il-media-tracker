@@ -1,87 +1,70 @@
 {
- "generated": "2026-11-22T22:28:44.235087+03:00",
- "last_24h_total": 577,
+ "generated": "2026-11-23T03:46:15.580873+03:00",
+ "last_24h_total": 561,
  "per_target": {
-  "איראן": 410,
-  "בינה מלאכותית": 167
+  "איראן": 402,
+  "בינה מלאכותית": 159
  },
  "per_source": {
-  "TheMarker": 60,
   "הארץ": 57,
-  "מעריב": 54,
-  "כאן 11": 47,
-  "YNET": 46,
-  "וואלה": 27,
-  "N12": 24,
-  "היום": 24,
-  "Vietnam.vn": 21,
-  "גלובס": 17,
-  "ערוץ 7": 15,
-  "mako": 15,
-  "כיכר השבת": 13,
-  "C14": 13,
-  "רשת 13": 11,
-  "בחדרי חרדים": 10,
-  "המחדש": 10,
-  "JDN": 9,
+  "TheMarker": 56,
+  "כאן 11": 52,
+  "YNET": 47,
+  "מעריב": 44,
+  "וואלה": 24,
+  "N12": 21,
+  "היום": 20,
+  "Vietnam.vn": 17,
+  "כיכר השבת": 16,
+  "C14": 16,
+  "גלובס": 15,
+  "ערוץ 7": 13,
+  "mako": 13,
+  "JDN": 10,
   "INSS": 9,
-  "אמס": 8,
+  "בחדרי חרדים": 8,
+  "המחדש": 8,
+  "רשת 13": 8,
+  "אמס": 7,
   "הידברות": 7,
   "מקור ראשון": 7,
-  "כלכליסט": 7,
-  "Hayadan": 6,
-  "חב\"ד אינפו": 5,
-  "זמן ישראל": 4,
+  "Hayadan": 7,
+  "חב\"ד אינפו": 6,
+  "כלכליסט": 6,
+  "פאנדר": 6,
+  "זמן ישראל": 5,
   "סרוגים": 4,
   "אתר החדשות דבר": 4,
   "ביזפורטל": 4,
-  "HWzone": 4,
   "את\"צ": 4,
-  "פאנדר": 4,
-  "ynet": 3,
-  "חרדים10": 3,
-  "אפוק": 2,
-  "Mako": 2,
-  "Vgames.co.il": 2,
-  "חדשות חיפה": 2,
+  "HWzone": 4,
+  "Vgames.co.il": 3,
+  "חדשות חיפה": 3,
+  "המרכז הירושלמי לענייני חוץ וביטחון": 3,
+  "חרדים10": 2,
+  "חב״ד און ליין": 2,
+  "ynet": 2,
   "BE106": 2,
-  "Investing.com": 1,
-  "חב״ד און ליין": 1,
+  "تسنیم": 2,
+  "העין השביעית": 2,
+  "כיפה": 2,
+  "Israel Defense": 2,
+  "Techtime": 2,
+  "בלינקר": 2,
+  "Microsoft": 2,
+  "אפוק": 1,
+  "Mako": 1,
   "NWS חדשות חיפה והסביבה": 1,
   "אנשים ומחשבים": 1,
-  "تسنیم": 1,
-  "העין השביעית": 1,
-  "כיפה": 1,
-  "Israel Defense": 1,
-  "Techtime": 1,
-  "בלינקר": 1,
-  "Microsoft": 1
+  "Investing.com": 1
  },
  "per_lean": {
-  "שמאל": 291,
-  "אחר": 130,
-  "מרכז": 95,
-  "ימין": 61
+  "שמאל": 282,
+  "אחר": 132,
+  "מרכז": 79,
+  "ימין": 68
  },
  "leads": [
-  {
-   "id": "ac1100dd93d2d452",
-   "ts": "2026-11-22T02:05:39.283700+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "הסלמה או מו\"מ? דיווח: איראן תקפה שתי יחידות מכ\"ם אמריקניות בבחרין המתווכים הקטארים מאיצים את המגעים, איראן פועלת לייצר משוואה חדשה באמצעות מהלך נפיץ ברק רביד, ניר דבורי |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-c28f533dbbff1a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "ac1100dd93d2d452",
    "ts": "2026-11-22T06:03:42.973900+03:00",
@@ -120,24 +103,6 @@
   },
   {
    "id": "b33b64be3ee55f13",
-   "ts": "2026-11-22T02:05:39.283700+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "איראן תקפה בבחריין, שמסרה שנפגע מתקן אזרחי בשטחה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-21/ty-article/.premium/000001a1-ff9c-d381-ade5-fffdbe860000",
-   "prominence": 5,
-   "rank": 4
-  },
-  {
-   "id": "b33b64be3ee55f13",
    "ts": "2026-11-22T06:03:42.973900+03:00",
    "source": "haaretz",
    "source_display": "הארץ",
@@ -155,22 +120,22 @@
    "rank": 4
   },
   {
-   "id": "f8a09818e8983de0",
-   "ts": "2026-11-22T02:05:39.283700+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "d5d78391e7ca236e",
+   "ts": "2026-11-23T03:46:08.379083+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 19,
    "lean": "left",
-   "title": "22:46 בחריין הודיעה כי יירטה מספר שיגורים אוויריות מאיראן, בפעם השנייה בפחות משעתיים",
-   "link": "https://www.haaretz.co.il/news/dailynews/2026-11-22/ty-article-live/000001a2-002f-d02c-a7ea-9d6f29900000?liveBlogItemId=1325373710",
-   "prominence": 3,
-   "rank": 9
+   "title": "פרסום ראשון פרסום ראשון \"התפרצות זירות\": אמ\"ן באזהרה חריגה מפני תקיפה באיראן מאחורי האזהרה החמורה של ליברמן: נתניהו שוקל לפעול לבד | כל הפרטים",
+   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-81a35a9d96402a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "76ca4b31c975497c",
@@ -1037,6 +1002,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "d5d78391e7ca236e",
+   "ts": "2026-11-23T03:46:08.379083+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "פרסום ראשון פרסום ראשון \"התפרצות זירות\": אמ\"ן באזהרה חריגה מפני תקיפה באיראן מאחורי האזהרה החמורה של ליברמן: נתניהו שוקל לפעול לבד | כל הפרטים",
+   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-81a35a9d96402a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "f8da0e5b0f4e97a5",
@@ -3343,6 +3326,24 @@
    "rank": 9
   },
   {
+   "id": "dffd0c1da873a912",
+   "ts": "2026-11-23T03:46:08.379083+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:01 האזהרה החריגה של צה\"ל לנתניהו: מה יקרה אם ישראל תתקוף באיראן | מתפרסם באישור הצנזורה",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w04/shorts-30ff5a9d96402a1027.htm",
+   "prominence": 1,
+   "rank": 13
+  },
+  {
    "id": "b33b64be3ee55f13",
    "ts": "2026-11-22T06:03:42.973900+03:00",
    "source": "haaretz",
@@ -5555,42 +5556,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w02/shorts-6c138a45e0f11a1027.htm",
    "prominence": 1,
    "rank": 15
-  },
-  {
-   "id": "5ad4fbd23079a2eb",
-   "ts": "2026-10-08T11:51:02.160649+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "53 מדינות, 93 סנקציות, ועוד תשע בדרך. ישראל נהפכת למצורעת כמו איראן",
-   "link": "https://www.haaretz.co.il/tmr/news/politics/2026-10-07/ty-article/.premium/000001a1-1693-dba5-a5bf-dfd39e2c0000",
-   "prominence": 5,
-   "rank": 3
-  },
-  {
-   "id": "2fea5067e83cff41",
-   "ts": "2026-10-08T04:50:34.565203+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "דיווח: טראמפ שוקל לחדש את התקיפות באיראן בשבועות הקרובים",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-10-08/ty-article/000001a1-1907-d5f6-a9f5-dd373bb10000",
-   "prominence": 5,
-   "rank": 4
   }
  ]
 }
