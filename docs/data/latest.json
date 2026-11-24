@@ -1,87 +1,70 @@
 {
- "generated": "2026-11-24T08:56:14.182581+03:00",
- "last_24h_total": 386,
+ "generated": "2026-11-24T20:31:49.552004+03:00",
+ "last_24h_total": 376,
  "per_target": {
-  "איראן": 303,
-  "בינה מלאכותית": 83
+  "איראן": 300,
+  "בינה מלאכותית": 76
  },
  "per_source": {
-  "כאן 11": 31,
-  "מעריב": 30,
-  "הארץ": 29,
-  "YNET": 29,
-  "TheMarker": 21,
-  "וואלה": 19,
-  "כיכר השבת": 19,
-  "גלובס": 16,
-  "C14": 16,
-  "ערוץ 7": 12,
+  "מעריב": 34,
+  "YNET": 31,
+  "הארץ": 26,
+  "כאן 11": 24,
+  "וואלה": 20,
+  "כיכר השבת": 16,
+  "גלובס": 15,
+  "מקור ראשון": 15,
+  "TheMarker": 12,
   "סרוגים": 11,
-  "מקור ראשון": 11,
-  "JDN": 11,
+  "C14": 11,
+  "ערוץ 7": 11,
   "N12": 10,
+  "تسنیم": 10,
   "היום": 10,
-  "הידברות": 7,
-  "Vietnam.vn": 7,
-  "בחדרי חרדים": 6,
+  "JDN": 8,
+  "הידברות": 8,
+  "mako": 6,
   "INSS": 6,
-  "تسنیم": 6,
-  "אמס": 6,
+  "בחדרי חרדים": 6,
   "Hayadan": 6,
+  "ynet": 5,
+  "אמס": 5,
   "כיפה": 5,
   "פאנדר": 5,
-  "חב\"ד אינפו": 4,
-  "זמן ישראל": 4,
-  "ביזפורטל": 4,
-  "mako": 4,
+  "Vietnam.vn": 5,
+  "Google News (כל האתרים)": 4,
+  "אתר החדשות דבר": 4,
+  "רשת 13": 4,
   "המחדש": 3,
-  "Techtime": 3,
-  "חדשות חיפה": 3,
-  "אתר החדשות דבר": 3,
-  "את\"צ": 3,
-  "ynet": 3,
   "103FM": 3,
-  "וואלה ספורט": 2,
-  "המרכז הירושלמי לענייני חוץ וביטחון": 2,
-  "רשת 13": 2,
-  "Google News (כל האתרים)": 2,
-  "חדשות באר שבע והנגב": 2,
-  "העין השביעית": 1,
-  "Vgames.co.il": 1,
-  "בלינקר": 1,
-  "כלכליסט": 1,
-  "Investing.com": 1,
-  "Microsoft": 1,
-  "HWzone": 1,
+  "חב\"ד אינפו": 3,
+  "Techtime": 3,
+  "ביזפורטל": 3,
+  "חדשות באר שבע והנגב": 3,
+  "חדשות חיפה": 3,
+  "את\"צ": 3,
+  "GOV.IL": 3,
+  "זמן ישראל": 2,
+  "NWS חדשות חיפה והסביבה": 2,
+  "Gadgety": 2,
   "אייס": 1,
-  "NWS חדשות חיפה והסביבה": 1,
-  "Gadgety": 1
+  "וואלה ספורט": 1,
+  "אפוק": 1,
+  "אנשים ומחשבים": 1,
+  "Israel Defense": 1,
+  "HWzone": 1,
+  "OrcaRouter": 1,
+  "בלינקר": 1,
+  "המכון הישראלי לדמוקרטיה": 1,
+  "עמית סגל (טלגרם)": 1
  },
  "per_lean": {
-  "שמאל": 149,
-  "אחר": 94,
-  "ימין": 83,
-  "מרכז": 60
+  "שמאל": 138,
+  "אחר": 101,
+  "ימין": 74,
+  "מרכז": 63
  },
  "leads": [
-  {
-   "id": "2c438449109dd014",
-   "ts": "2026-11-23T11:55:35.125245+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "חשיפת חדשות 12 מתקפה באיראן בלי ארה\"ב? הסיכונים והסיכויים של ישראל במערכת הביטחון דוחפים לנצל את חלון ההזדמנויות שנוצר מול טראמפ, במקביל - צה\"ל ערוך גם לאפשרות של התפרצות זירות ניר דבורי |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-39d0747431702a1026.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "3e7426aa5d7ec838",
    "ts": "2026-11-24T00:14:21.469945+03:00",
@@ -115,6 +98,42 @@
    "lean": "left",
    "title": "דיווח חשש בארה\"ב: כך איראן פועלת להרחבת המלחמה כ-50 מכליות שנשאו נפט, כימיקלים וחומרים נפיצים הותקפו וחלקן קיבלו אזהרות מפני פיצוץ. מבצעי הסייבר האיראניים שמדאיגים את הבית הלבן N12 |",
    "link": "https://www.mako.co.il/news-world/2026_q4/Article-d700927320b02a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "b2f578a6262f4140",
+   "ts": "2026-11-24T20:31:43.553240+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "כץ: איראן החלה לפתח נשק כימי לאחר המלחמה האחרונה",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-24/ty-article/.premium/000001a2-0e5b-d9a3-abea-7f5f34920000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
+   "id": "f2201665cc430b1d",
+   "ts": "2026-11-24T20:31:43.553240+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "שר הביטחון כ\"ץ: איראן נמצאת בתהליך פיתוח של נשק כימי כ\"ץ חשף כי צה\"ל וארה\"ב נערכים לתקיפה אפשרית, וההחלטה בידי טראמפ: \"האיראנים עשויים לבחור שלא להיות מופתעים בפעם השלישית\" ירון אברהם |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-33ac5bc948e02a1026.htm",
    "prominence": 10,
    "rank": 1
   },
@@ -189,27 +208,27 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-fe09ed2abc902a1027.htm",
    "prominence": 5,
    "rank": 2
-  },
+  }
+ ],
+ "items": [
   {
-   "id": "6397481749429bd2",
-   "ts": "2026-11-23T11:55:35.125245+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
+   "id": "f2201665cc430b1d",
+   "ts": "2026-11-24T20:31:43.553240+03:00",
+   "source": "n12",
+   "source_display": "N12",
    "sub_source": "",
    "target": "iran",
    "target_display": "איראן",
    "groups": [
     "איראן"
    ],
-   "score": 14,
+   "score": 21,
    "lean": "left",
-   "title": "ככל שאיזנקוט מתקרב לממשלה, נתניהו מגביר את הלחץ על טראמפ לתקוף באיראן",
-   "link": "https://www.haaretz.co.il/news/elections/2026-11-23/ty-article/.highlight/000001a2-04ea-d175-abf6-1efe97a20000",
-   "prominence": 3,
-   "rank": 10
-  }
- ],
- "items": [
+   "title": "שר הביטחון כ\"ץ: איראן נמצאת בתהליך פיתוח של נשק כימי כ\"ץ חשף כי צה\"ל וארה\"ב נערכים לתקיפה אפשרית, וההחלטה בידי טראמפ: \"האיראנים עשויים לבחור שלא להיות מופתעים בפעם השלישית\" ירון אברהם |",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-33ac5bc948e02a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "05ca0a800643d3f4",
    "ts": "2026-11-24T08:56:06.205039+03:00",
@@ -2641,6 +2660,24 @@
    "rank": 2
   },
   {
+   "id": "b2f578a6262f4140",
+   "ts": "2026-11-24T20:31:43.553240+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 18,
+   "lean": "left",
+   "title": "כץ: איראן החלה לפתח נשק כימי לאחר המלחמה האחרונה",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-24/ty-article/.premium/000001a2-0e5b-d9a3-abea-7f5f34920000",
+   "prominence": 10,
+   "rank": 1
+  },
+  {
    "id": "cb9b9d0aa0136be8",
    "ts": "2026-11-19T06:15:17.567788+03:00",
    "source": "haaretz",
@@ -3467,6 +3504,24 @@
    "link": "https://www.mako.co.il/news-world/2026_q3/Article-798b099688ad0a1027.htm",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "9045de5f1287ece9",
+   "ts": "2026-11-24T20:31:43.553240+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 21 דקות שר הביטחון כ\"ץ: איראן מפתחת נשק כימי נגד ישראל. נערכים לאפשרות לתקוף - ההחלטה בידי טראמפ",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w04/shorts-50d7270c17e02a1026.htm",
+   "prominence": 1,
+   "rank": 15
   },
   {
    "id": "3609d6d8440afcce",
@@ -5555,60 +5610,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-806d2e13a1a31a1026.htm",
    "prominence": 1,
    "rank": 19
-  },
-  {
-   "id": "a6535332134911a5",
-   "ts": "2026-10-14T04:49:10.034466+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "00:23 חשש בישראל: איראן משקמת את מערך הטילים",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-c177cb4aa1631a1027.htm",
-   "prominence": 1,
-   "rank": 16
-  },
-  {
-   "id": "a6535332134911a5",
-   "ts": "2026-10-14T01:38:24.367156+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "00:23 חשש בישראל: איראן משקמת את מערך הטילים",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-c177cb4aa1631a1027.htm",
-   "prominence": 1,
-   "rank": 16
-  },
-  {
-   "id": "c139896005c7ad3b",
-   "ts": "2026-10-13T20:32:54.451411+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 14 דקות חשש בישראל: איראן משקמת את מערך הטילים",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-c177cb4aa1631a1027.htm",
-   "prominence": 1,
-   "rank": 17
   }
  ]
 }
