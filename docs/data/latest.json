@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-24T00:14:29.234204+03:00",
- "last_24h_total": 403,
+ "generated": "2026-11-24T08:56:14.182581+03:00",
+ "last_24h_total": 386,
  "per_target": {
-  "איראן": 305,
-  "בינה מלאכותית": 98
+  "איראן": 303,
+  "בינה מלאכותית": 83
  },
  "per_source": {
-  "כאן 11": 38,
-  "הארץ": 34,
-  "YNET": 31,
-  "TheMarker": 29,
-  "מעריב": 27,
-  "וואלה": 20,
-  "C14": 19,
-  "כיכר השבת": 18,
-  "גלובס": 13,
-  "N12": 13,
+  "כאן 11": 31,
+  "מעריב": 30,
+  "הארץ": 29,
+  "YNET": 29,
+  "TheMarker": 21,
+  "וואלה": 19,
+  "כיכר השבת": 19,
+  "גלובס": 16,
+  "C14": 16,
+  "ערוץ 7": 12,
+  "סרוגים": 11,
+  "מקור ראשון": 11,
   "JDN": 11,
+  "N12": 10,
   "היום": 10,
-  "ערוץ 7": 10,
-  "מקור ראשון": 8,
-  "Vietnam.vn": 8,
-  "סרוגים": 7,
-  "הידברות": 6,
+  "הידברות": 7,
+  "Vietnam.vn": 7,
+  "בחדרי חרדים": 6,
   "INSS": 6,
+  "تسنیم": 6,
+  "אמס": 6,
   "Hayadan": 6,
-  "פאנדר": 6,
-  "חב\"ד אינפו": 5,
-  "זמן ישראל": 5,
-  "המרכז הירושלמי לענייני חוץ וביטחון": 5,
-  "אמס": 5,
-  "mako": 5,
-  "בחדרי חרדים": 5,
+  "כיפה": 5,
+  "פאנדר": 5,
+  "חב\"ד אינפו": 4,
+  "זמן ישראל": 4,
   "ביזפורטל": 4,
-  "כיפה": 4,
+  "mako": 4,
   "המחדש": 3,
-  "تسنیم": 3,
-  "אתר החדשות דבר": 3,
   "Techtime": 3,
   "חדשות חיפה": 3,
+  "אתר החדשות דבר": 3,
   "את\"צ": 3,
-  "העין השביעית": 2,
-  "Vgames.co.il": 2,
-  "בלינקר": 2,
-  "רשת 13": 2,
-  "Investing.com": 2,
-  "כלכליסט": 2,
-  "Microsoft": 2,
-  "HWzone": 2,
+  "ynet": 3,
+  "103FM": 3,
   "וואלה ספורט": 2,
-  "ynet": 2,
-  "103FM": 2,
-  "חב״ד און ליין": 1,
-  "Israel Defense": 1,
+  "המרכז הירושלמי לענייני חוץ וביטחון": 2,
+  "רשת 13": 2,
+  "Google News (כל האתרים)": 2,
+  "חדשות באר שבע והנגב": 2,
+  "העין השביעית": 1,
+  "Vgames.co.il": 1,
+  "בלינקר": 1,
+  "כלכליסט": 1,
+  "Investing.com": 1,
+  "Microsoft": 1,
+  "HWzone": 1,
   "אייס": 1,
-  "Google News (כל האתרים)": 1,
-  "חדשות באר שבע והנגב": 1
+  "NWS חדשות חיפה והסביבה": 1,
+  "Gadgety": 1
  },
  "per_lean": {
-  "שמאל": 176,
-  "אחר": 97,
-  "ימין": 77,
-  "מרכז": 53
+  "שמאל": 149,
+  "אחר": 94,
+  "ימין": 83,
+  "מרכז": 60
  },
  "leads": [
   {
@@ -101,8 +101,8 @@
    "rank": 1
   },
   {
-   "id": "d5d78391e7ca236e",
-   "ts": "2026-11-23T03:46:08.379083+03:00",
+   "id": "05ca0a800643d3f4",
+   "ts": "2026-11-24T08:56:06.205039+03:00",
    "source": "n12",
    "source_display": "N12",
    "sub_source": "",
@@ -111,12 +111,12 @@
    "groups": [
     "איראן"
    ],
-   "score": 19,
+   "score": 21,
    "lean": "left",
-   "title": "פרסום ראשון פרסום ראשון \"התפרצות זירות\": אמ\"ן באזהרה חריגה מפני תקיפה באיראן מאחורי האזהרה החמורה של ליברמן: נתניהו שוקל לפעול לבד | כל הפרטים",
-   "link": "https://www.mako.co.il/news-politics/2026_q4/Article-81a35a9d96402a1027.htm",
-   "prominence": 5,
-   "rank": 2
+   "title": "דיווח חשש בארה\"ב: כך איראן פועלת להרחבת המלחמה כ-50 מכליות שנשאו נפט, כימיקלים וחומרים נפיצים הותקפו וחלקן קיבלו אזהרות מפני פיצוץ. מבצעי הסייבר האיראניים שמדאיגים את הבית הלבן N12 |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d700927320b02a1026.htm",
+   "prominence": 10,
+   "rank": 1
   },
   {
    "id": "4b1aae28d1f3cf78",
@@ -155,6 +155,42 @@
    "rank": 2
   },
   {
+   "id": "3609d6d8440afcce",
+   "ts": "2026-11-24T08:56:06.205039+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "איראן היתה אמורה להיות גורם מאחד. תחת נתניהו, גם את זה איבדנו",
+   "link": "https://www.haaretz.co.il/opinions/2026-11-24/ty-article-opinion/.premium/000001a2-0955-da6f-adab-df7756dd0000",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "08b352e08aca2b79",
+   "ts": "2026-11-24T08:56:06.205039+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הסבלנות האמריקנית פוקעת: בישראל נערכים להסלמה עם איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-fe09ed2abc902a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "6397481749429bd2",
    "ts": "2026-11-23T11:55:35.125245+03:00",
    "source": "haaretz",
@@ -174,6 +210,24 @@
   }
  ],
  "items": [
+  {
+   "id": "05ca0a800643d3f4",
+   "ts": "2026-11-24T08:56:06.205039+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 21,
+   "lean": "left",
+   "title": "דיווח חשש בארה\"ב: כך איראן פועלת להרחבת המלחמה כ-50 מכליות שנשאו נפט, כימיקלים וחומרים נפיצים הותקפו וחלקן קיבלו אזהרות מפני פיצוץ. מבצעי הסייבר האיראניים שמדאיגים את הבית הלבן N12 |",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-d700927320b02a1026.htm",
+   "prominence": 10,
+   "rank": 1
+  },
   {
    "id": "3e7426aa5d7ec838",
    "ts": "2026-11-24T00:14:21.469945+03:00",
@@ -1055,6 +1109,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "08b352e08aca2b79",
+   "ts": "2026-11-24T08:56:06.205039+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "הסבלנות האמריקנית פוקעת: בישראל נערכים להסלמה עם איראן",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-fe09ed2abc902a1027.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "b4dd3486d68843be",
@@ -3397,6 +3469,24 @@
    "rank": 9
   },
   {
+   "id": "3609d6d8440afcce",
+   "ts": "2026-11-24T08:56:06.205039+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "איראן היתה אמורה להיות גורם מאחד. תחת נתניהו, גם את זה איבדנו",
+   "link": "https://www.haaretz.co.il/opinions/2026-11-24/ty-article-opinion/.premium/000001a2-0955-da6f-adab-df7756dd0000",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
    "id": "4b1aae28d1f3cf78",
    "ts": "2026-11-24T00:14:21.469945+03:00",
    "source": "haaretz",
@@ -5519,60 +5609,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-c177cb4aa1631a1027.htm",
    "prominence": 1,
    "rank": 17
-  },
-  {
-   "id": "bdd03b02f4247ab3",
-   "ts": "2026-10-13T20:32:54.451411+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 16 דקות נתניהו ביקש מטראמפ לתקוף באיראן: זה המועד | כפי שחשף ברק רביד בחדשות 12",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-53e933ac04631a1026.htm",
-   "prominence": 1,
-   "rank": 18
-  },
-  {
-   "id": "f4457d6b8f872d15",
-   "ts": "2026-10-13T12:19:14.780217+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 30 דקות איראן מאיימת: נפלוש קרקעית למדינות שכנות",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-aab52888f6431a1027.htm",
-   "prominence": 1,
-   "rank": 17
-  },
-  {
-   "id": "1e8fdb9372721662",
-   "ts": "2026-10-12T12:04:45.746373+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "22:38 המתיחות מול איראן: מי תתקוף ראשונה?",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-831ea97201c21a1027.htm",
-   "prominence": 1,
-   "rank": 15
   }
  ]
 }
