@@ -1,88 +1,70 @@
 {
- "generated": "2026-11-24T20:31:49.552004+03:00",
+ "generated": "2026-11-25T05:18:51.174322+03:00",
  "last_24h_total": 376,
  "per_target": {
-  "איראן": 300,
-  "בינה מלאכותית": 76
+  "איראן": 301,
+  "בינה מלאכותית": 75
  },
  "per_source": {
   "מעריב": 34,
-  "YNET": 31,
-  "הארץ": 26,
-  "כאן 11": 24,
-  "וואלה": 20,
-  "כיכר השבת": 16,
+  "YNET": 30,
+  "כאן 11": 26,
+  "הארץ": 23,
+  "וואלה": 15,
   "גלובס": 15,
+  "כיכר השבת": 15,
   "מקור ראשון": 15,
-  "TheMarker": 12,
-  "סרוגים": 11,
-  "C14": 11,
+  "تسنیم": 13,
+  "היום": 12,
   "ערוץ 7": 11,
-  "N12": 10,
-  "تسنیم": 10,
-  "היום": 10,
-  "JDN": 8,
-  "הידברות": 8,
-  "mako": 6,
+  "הידברות": 10,
+  "סרוגים": 10,
+  "N12": 9,
+  "Vietnam.vn": 8,
+  "ynet": 7,
+  "mako": 7,
+  "C14": 7,
+  "בחדרי חרדים": 7,
+  "TheMarker": 6,
   "INSS": 6,
-  "בחדרי חרדים": 6,
+  "JDN": 6,
   "Hayadan": 6,
-  "ynet": 5,
-  "אמס": 5,
+  "פאנדר": 6,
   "כיפה": 5,
-  "פאנדר": 5,
-  "Vietnam.vn": 5,
-  "Google News (כל האתרים)": 4,
+  "אמס": 5,
+  "Google News (כל האתרים)": 5,
+  "רשת 13": 5,
+  "המחדש": 4,
   "אתר החדשות דבר": 4,
-  "רשת 13": 4,
-  "המחדש": 3,
-  "103FM": 3,
   "חב\"ד אינפו": 3,
   "Techtime": 3,
-  "ביזפורטל": 3,
   "חדשות באר שבע והנגב": 3,
+  "NWS חדשות חיפה והסביבה": 3,
   "חדשות חיפה": 3,
+  "Gadgety": 3,
   "את\"צ": 3,
   "GOV.IL": 3,
-  "זמן ישראל": 2,
-  "NWS חדשות חיפה והסביבה": 2,
-  "Gadgety": 2,
-  "אייס": 1,
-  "וואלה ספורט": 1,
-  "אפוק": 1,
-  "אנשים ומחשבים": 1,
-  "Israel Defense": 1,
-  "HWzone": 1,
+  "ביזפורטל": 2,
+  "אפוק": 2,
+  "אנשים ומחשבים": 2,
+  "Israel Defense": 2,
+  "HWzone": 2,
+  "בלינקר": 2,
+  "עמית סגל (טלגרם)": 2,
+  "103FM": 1,
+  "זמן ישראל": 1,
   "OrcaRouter": 1,
-  "בלינקר": 1,
   "המכון הישראלי לדמוקרטיה": 1,
-  "עמית סגל (טלגרם)": 1
+  "אייס": 1,
+  "חרדים10": 1
  },
  "per_lean": {
-  "שמאל": 138,
-  "אחר": 101,
-  "ימין": 74,
+  "שמאל": 128,
+  "אחר": 119,
+  "ימין": 66,
   "מרכז": 63
  },
  "leads": [
-  {
-   "id": "3e7426aa5d7ec838",
-   "ts": "2026-11-24T00:14:21.469945+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 21,
-   "lean": "left",
-   "title": "הסבלנות האמריקנית פוקעת: בישראל נערכים להסלמה עם איראן החשש שאיראן תפתח במתקפה, הקווים האדומים שהציבה ישראל והאפשרות לפעול גם ללא ארה\"ב. במערכת הביטחון מעריכים: האיום עדיין בהתהוות ניר דבורי, אוהד חמו |",
-   "link": "https://www.mako.co.il/news-military/2026_q4/Article-fe09ed2abc902a1027.htm",
-   "prominence": 10,
-   "rank": 1
-  },
   {
    "id": "05ca0a800643d3f4",
    "ts": "2026-11-24T08:56:06.205039+03:00",
@@ -138,42 +120,6 @@
    "rank": 1
   },
   {
-   "id": "4b1aae28d1f3cf78",
-   "ts": "2026-11-24T00:14:21.469945+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "אנשי מחקר במוסד מסתייגים מדחיפות פעולה באיראן. גופמן מקדם עמדה הפוכה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-23/ty-article/.premium/000001a2-0918-d7ca-abf6-6f5cba7d0000",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
-   "id": "b4dd3486d68843be",
-   "ts": "2026-11-24T00:14:21.469945+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 19,
-   "lean": "left",
-   "title": "האזהרה של קושנר לישראל: \"בדרך למעמד של מדינה מנודה\" חתנו ומקורבו של טראמפ חשף: מה אמר לו רגע לפני שהורה על תקיפה באיראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-b213727fea902a1027.htm",
-   "prominence": 5,
-   "rank": 2
-  },
-  {
    "id": "3609d6d8440afcce",
    "ts": "2026-11-24T08:56:06.205039+03:00",
    "source": "haaretz",
@@ -208,6 +154,42 @@
    "link": "https://www.mako.co.il/news-military/2026_q4/Article-fe09ed2abc902a1027.htm",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "2a77814d4db66c82",
+   "ts": "2026-11-25T05:18:42.681017+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ אמר שייפגש עם הסנאטור האנטי-ישראלי: \"בחור חכם\" הנשיא על הפלת המשטר באיראן: \"כנראה אפשרי, מעולם זה לא הייתה מטרה בעיני\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2c5d833a14012a1027.htm",
+   "prominence": 5,
+   "rank": 3
+  },
+  {
+   "id": "38518fd4a321877a",
+   "ts": "2026-11-25T05:18:42.681017+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "בניסיון לפתח נשק כימי: המפעלים שאיראן מנסה לשקם 20:43 ירון אברהם, ניר דבורי",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-33ac5bc948e02a1026.htm",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
@@ -1128,6 +1110,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "2a77814d4db66c82",
+   "ts": "2026-11-25T05:18:42.681017+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "טראמפ אמר שייפגש עם הסנאטור האנטי-ישראלי: \"בחור חכם\" הנשיא על הפלת המשטר באיראן: \"כנראה אפשרי, מעולם זה לא הייתה מטרה בעיני\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-2c5d833a14012a1027.htm",
+   "prominence": 5,
+   "rank": 3
   },
   {
    "id": "08b352e08aca2b79",
@@ -2838,6 +2838,24 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/000001a1-26e9-d0ca-a7b7-beebf8170000",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "38518fd4a321877a",
+   "ts": "2026-11-25T05:18:42.681017+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 17,
+   "lean": "left",
+   "title": "בניסיון לפתח נשק כימי: המפעלים שאיראן מנסה לשקם 20:43 ירון אברהם, ניר דבורי",
+   "link": "https://www.mako.co.il/news-military/2026_q4/Article-33ac5bc948e02a1026.htm",
+   "prominence": 3,
+   "rank": 10
   },
   {
    "id": "5a34f5ca00338e81",
@@ -5574,42 +5592,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-4a96a9aa5de31a1027.htm",
    "prominence": 1,
    "rank": 17
-  },
-  {
-   "id": "3dc4ad7dc0ea0099",
-   "ts": "2026-10-15T10:20:16.020021+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "דיווח: טראמפ שוקל להשתמש ב\"אם כל הפצצות\" נגד איראן",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-cf8e415c8bd31a1027.htm",
-   "prominence": 1,
-   "rank": 13
-  },
-  {
-   "id": "ca8b5f1dad185251",
-   "ts": "2026-10-14T21:31:41.815867+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 38 דקות הסימנים המעידים להסלמה עם איראן",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-806d2e13a1a31a1026.htm",
-   "prominence": 1,
-   "rank": 19
   }
  ]
 }
