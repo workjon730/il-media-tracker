@@ -1,66 +1,66 @@
 {
- "generated": "2026-11-26T07:57:01.355210+03:00",
- "last_24h_total": 374,
+ "generated": "2026-11-26T18:01:28.389463+03:00",
+ "last_24h_total": 375,
  "per_target": {
-  "איראן": 299,
-  "בינה מלאכותית": 75
+  "איראן": 301,
+  "בינה מלאכותית": 74
  },
  "per_source": {
-  "YNET": 37,
-  "מעריב": 32,
-  "מקור ראשון": 28,
+  "YNET": 40,
+  "מעריב": 33,
+  "מקור ראשון": 31,
+  "גלובס": 20,
   "הארץ": 20,
-  "כאן 11": 20,
-  "גלובס": 18,
-  "تسنیم": 16,
-  "סרוגים": 13,
+  "כאן 11": 19,
+  "تسنیم": 17,
+  "N12": 12,
+  "הידברות": 12,
   "mako": 12,
-  "הידברות": 11,
+  "סרוגים": 12,
+  "אמס": 12,
+  "C14": 12,
   "היום": 11,
-  "C14": 10,
-  "N12": 9,
-  "בחדרי חרדים": 9,
-  "אמס": 9,
-  "TheMarker": 8,
-  "כיכר השבת": 8,
-  "פאנדר": 8,
-  "וואלה": 7,
+  "פאנדר": 9,
+  "בחדרי חרדים": 8,
+  "TheMarker": 7,
   "Vietnam.vn": 7,
-  "ynet": 6,
+  "כיכר השבת": 6,
   "אתר החדשות דבר": 6,
-  "רשת 13": 6,
   "Google News (כל האתרים)": 6,
   "GOV.IL": 6,
-  "ערוץ 7": 4,
-  "INSS": 4,
-  "זמן ישראל": 4,
-  "המחדש": 4,
-  "רדיו צפון 104.5FM": 3,
-  "כיפה": 3,
-  "Hayadan": 3,
+  "ynet": 5,
+  "INSS": 5,
+  "וואלה": 4,
+  "כיפה": 4,
+  "רשת 13": 4,
+  "Hayadan": 4,
+  "כלכליסט": 3,
+  "המחדש": 3,
+  "ערוץ 7": 2,
+  "רדיו צפון 104.5FM": 2,
+  "זמן ישראל": 2,
   "Techtime": 2,
-  "Israel Defense": 2,
-  "ביזפורטל": 2,
-  "חדשות חיפה": 2,
   "המכון הישראלי לדמוקרטיה": 2,
-  "בלינקר": 2,
   "את\"צ": 2,
-  "חדשות באר שבע והנגב": 2,
-  "כלכליסט": 2,
-  "JDN": 1,
-  "جريدة القدس": 1,
-  "OrcaRouter": 1,
-  "Gadgety": 1,
-  "NWS חדשות חיפה והסביבה": 1,
   "מגזין את": 1,
+  "Israel Defense": 1,
+  "ביזפורטל": 1,
+  "חדשות חיפה": 1,
   "TGspot": 1,
-  "Investing.com": 1
+  "בלינקר": 1,
+  "Investing.com": 1,
+  "חדשות באר שבע והנגב": 1,
+  "אפוק": 1,
+  "Reuters": 1,
+  "HWzone": 1,
+  "מרכז העניינים": 1,
+  "NWS חדשות חיפה והסביבה": 1
  },
  "per_lean": {
-  "שמאל": 125,
-  "אחר": 112,
-  "ימין": 76,
-  "מרכז": 61
+  "שמאל": 123,
+  "אחר": 113,
+  "ימין": 75,
+  "מרכז": 64
  },
  "leads": [
   {
@@ -80,6 +80,42 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-11-26/ty-article/000001a2-1452-d809-adef-7ffe5aa70000",
    "prominence": 5,
    "rank": 2
+  },
+  {
+   "id": "94f59d8b02ffdd12",
+   "ts": "2026-11-26T18:01:21.291105+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "רגע לפני החורף: איראן הטילה מגבלות חמורות על האזרחים הרגע ממנו חששו בטהראן? \"זו תפנית, אנשים מפחדים\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4b096f23dc712a1027.htm",
+   "prominence": 5,
+   "rank": 4
+  },
+  {
+   "id": "7d72b50f6be11d20",
+   "ts": "2026-11-26T18:01:21.291105+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "כוויית: איראן תקפה בכטב\"מים אתר אסטרטגי, שני אזרחים איטלקים נהרגו",
+   "link": "https://www.haaretz.co.il/news/2026-11-26/ty-article/000001a2-17f6-ded0-a5b6-d7f677040000",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
@@ -1000,6 +1036,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "94f59d8b02ffdd12",
+   "ts": "2026-11-26T18:01:21.291105+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "רגע לפני החורף: איראן הטילה מגבלות חמורות על האזרחים הרגע ממנו חששו בטהראן? \"זו תפנית, אנשים מפחדים\"",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-4b096f23dc712a1027.htm",
+   "prominence": 5,
+   "rank": 4
   },
   {
    "id": "2a77814d4db66c82",
@@ -3414,6 +3468,42 @@
    "rank": 9
   },
   {
+   "id": "b5d3851ac48db073",
+   "ts": "2026-11-26T18:01:21.291105+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "המתקן המסתורי באיראן נקלט בלוויין",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-52e9b5986e612a1027.htm",
+   "prominence": 1,
+   "rank": 14
+  },
+  {
+   "id": "9e081a0b7ed56a14",
+   "ts": "2026-11-26T18:01:21.291105+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "לפני 13 דקות בצל המתיחות עם איראן, בגוש השינוי מכוונים: הקמת ממשלה כמה שיותר מהר | דפנה ליאל מסבירה",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w04/shorts-27f9b77d15812a1027.htm",
+   "prominence": 1,
+   "rank": 15
+  },
+  {
    "id": "cb43db1179400f77",
    "ts": "2026-11-26T07:56:51.642755+03:00",
    "source": "haaretz",
@@ -5428,60 +5518,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-10a099422b541a1027.htm",
    "prominence": 1,
    "rank": 14
-  },
-  {
-   "id": "20b373daa234535e",
-   "ts": "2026-10-17T02:30:10.749824+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "00:03 הימים המתוחים מול איראן - והחשש מתקיפה מקדימה של משמרות המהפכה",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-10a099422b541a1027.htm",
-   "prominence": 1,
-   "rank": 14
-  },
-  {
-   "id": "124bf219a84465b8",
-   "ts": "2026-10-15T21:13:32.838436+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 38 דקות המתיחות עם איראן: נתניהו שוחח עם רוביו, גורמי ביטחון - \"אם טהראן לא תתעשת, פעולה - תרחיש ריאלי\"",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w03/shorts-8e81fcda19041a1026.htm",
-   "prominence": 1,
-   "rank": 17
-  },
-  {
-   "id": "72beb676bcb0383b",
-   "ts": "2026-10-15T16:21:03.468931+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "הרצוג התחיל לנאום - הנציגים מאיראן וטורקיה נטשו 11:50 קרן בצלאל, שושי חתוקה",
-   "link": "https://www.mako.co.il/news-world/2026_q4/Article-09ec8178dbe31a1026.htm",
-   "prominence": 1,
-   "rank": 13
   }
  ]
 }
