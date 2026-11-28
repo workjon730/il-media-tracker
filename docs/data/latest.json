@@ -1,62 +1,59 @@
 {
- "generated": "2026-11-27T21:51:58.809880+03:00",
- "last_24h_total": 401,
+ "generated": "2026-11-28T04:54:09.728236+03:00",
+ "last_24h_total": 285,
  "per_target": {
-  "איראן": 307,
-  "בינה מלאכותית": 94
+  "איראן": 212,
+  "בינה מלאכותית": 73
  },
  "per_source": {
-  "YNET": 40,
-  "מעריב": 36,
-  "הארץ": 29,
-  "כאן 11": 26,
-  "גלובס": 20,
-  "מקור ראשון": 19,
-  "mako": 17,
-  "וואלה": 14,
-  "N12": 12,
-  "تسنیم": 12,
-  "זמן ישראל": 10,
-  "סרוגים": 10,
-  "Vietnam.vn": 10,
-  "ynet": 9,
-  "JDN": 9,
-  "היום": 8,
-  "C14": 8,
-  "אתר החדשות דבר": 8,
-  "אמס": 8,
-  "جريدة القدس": 8,
-  "ביזפורטל": 8,
+  "YNET": 26,
+  "מעריב": 22,
+  "הארץ": 22,
+  "כאן 11": 18,
+  "גלובס": 13,
+  "N12": 13,
+  "mako": 12,
+  "מקור ראשון": 9,
+  "تسنیم": 9,
+  "ynet": 8,
+  "זמן ישראל": 8,
+  "JDN": 8,
   "TheMarker": 7,
-  "Google News (כל האתרים)": 7,
-  "INSS": 7,
-  "פאנדר": 7,
-  "כיכר השבת": 6,
-  "Hayadan": 6,
+  "סרוגים": 7,
+  "ביזפורטל": 7,
+  "Google News (כל האתרים)": 6,
+  "וואלה": 6,
   "הידברות": 6,
+  "جريدة القدس": 6,
+  "פאנדר": 6,
+  "Vietnam.vn": 6,
+  "כיכר השבת": 5,
+  "אמס": 5,
+  "היום": 5,
+  "INSS": 5,
+  "C14": 5,
+  "אתר החדשות דבר": 5,
   "בחדרי חרדים": 4,
   "רשת 13": 4,
+  "Hayadan": 4,
   "GOV.IL": 4,
-  "כלכליסט": 3,
   "ערוץ 7": 3,
-  "Reuters": 2,
-  "את\"צ": 2,
-  "HWzone": 2,
-  "TGspot": 2,
-  "אפוק": 1,
-  "כיפה": 1,
-  "NWS חדשות חיפה והסביבה": 1,
+  "כלכליסט": 2,
+  "Reuters": 1,
+  "TGspot": 1,
+  "HWzone": 1,
   "Vgames.co.il": 1,
   "Israel Defense": 1,
   "Techtime": 1,
+  "את\"צ": 1,
   "המכון הישראלי לדמוקרטיה": 1,
   "מרכז העניינים": 1
  },
  "per_lean": {
-  "שמאל": 158,
-  "אחר": 112,
-  "ימין": 67,
-  "מרכז": 64
+  "שמאל": 116,
+  "אחר": 83,
+  "ימין": 46,
+  "מרכז": 40
  },
  "leads": [
   {
@@ -92,6 +89,24 @@
    "lean": "left",
    "title": "מה שאיראן מפתחת כרגע בסתר פגיע יותר ממה שנדמה לנו ראש אמ\"ן לשעבר תמיר הימן",
    "link": "https://www.mako.co.il/news-columns/2026_q4/Article-34ef88b298c12a1027.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "f0cea6ced0866085",
+   "ts": "2026-11-28T04:53:49.446064+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "מהו הנשק הכימי שאיראן מפתחת ומה הסבירות שתשתמש בו? \"הארץ\" מסביר",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-26/ty-article-magazine/.premium/000001a2-13f2-d22a-a1bb-17f357580000",
    "prominence": 5,
    "rank": 2
   },
@@ -3482,6 +3497,42 @@
    "rank": 9
   },
   {
+   "id": "f0cea6ced0866085",
+   "ts": "2026-11-28T04:53:49.446064+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "מהו הנשק הכימי שאיראן מפתחת ומה הסבירות שתשתמש בו? \"הארץ\" מסביר",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-26/ty-article-magazine/.premium/000001a2-13f2-d22a-a1bb-17f357580000",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
+   "id": "b1646b5bb7d736c5",
+   "ts": "2026-11-28T04:53:49.446064+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 16,
+   "lean": "left",
+   "title": "00:01 הסלמה עם איראן: זה מה שעלול להצית את המלחמה",
+   "link": "https://www.mako.co.il/news-shorts/2026-m11_w04/shorts-19c78c26dae12a1026.htm",
+   "prominence": 1,
+   "rank": 18
+  },
+  {
    "id": "fec2096be5fc9f0f",
    "ts": "2026-11-27T11:12:06.175096+03:00",
    "source": "haaretz",
@@ -5478,42 +5529,6 @@
    "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-b2661877c9751a1027.htm",
    "prominence": 1,
    "rank": 15
-  },
-  {
-   "id": "52c64b60cf9ecdf1",
-   "ts": "2026-10-19T04:08:00.260535+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "00:00 המשמעות מאחורי תמיכת טראמפ בנתניהו - לקראת תקיפה אפשרית באיראן",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-bcc1896963051a1026.htm",
-   "prominence": 1,
-   "rank": 16
-  },
-  {
-   "id": "52c64b60cf9ecdf1",
-   "ts": "2026-10-19T02:02:31.081745+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "00:00 המשמעות מאחורי תמיכת טראמפ בנתניהו - לקראת תקיפה אפשרית באיראן",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-bcc1896963051a1026.htm",
-   "prominence": 1,
-   "rank": 16
   }
  ]
 }
