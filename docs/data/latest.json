@@ -1,79 +1,59 @@
 {
- "generated": "2026-11-28T04:54:09.728236+03:00",
- "last_24h_total": 285,
+ "generated": "2026-11-28T13:14:43.074176+03:00",
+ "last_24h_total": 292,
  "per_target": {
-  "איראן": 212,
-  "בינה מלאכותית": 73
+  "איראן": 213,
+  "בינה מלאכותית": 79
  },
  "per_source": {
-  "YNET": 26,
-  "מעריב": 22,
-  "הארץ": 22,
-  "כאן 11": 18,
-  "גלובס": 13,
-  "N12": 13,
-  "mako": 12,
-  "מקור ראשון": 9,
+  "YNET": 28,
+  "מעריב": 27,
+  "הארץ": 20,
+  "N12": 14,
+  "כאן 11": 14,
+  "גלובס": 12,
+  "mako": 11,
+  "TheMarker": 10,
+  "JDN": 10,
+  "מקור ראשון": 10,
+  "ביזפורטל": 10,
   "تسنیم": 9,
-  "ynet": 8,
+  "Vietnam.vn": 9,
   "זמן ישראל": 8,
-  "JDN": 8,
-  "TheMarker": 7,
-  "סרוגים": 7,
-  "ביזפורטל": 7,
-  "Google News (כל האתרים)": 6,
-  "וואלה": 6,
-  "הידברות": 6,
-  "جريدة القدس": 6,
-  "פאנדר": 6,
-  "Vietnam.vn": 6,
-  "כיכר השבת": 5,
-  "אמס": 5,
-  "היום": 5,
-  "INSS": 5,
-  "C14": 5,
-  "אתר החדשות דבר": 5,
+  "וואלה": 8,
+  "ynet": 7,
+  "הידברות": 7,
+  "סרוגים": 6,
+  "INSS": 6,
+  "היום": 6,
+  "GOV.IL": 6,
+  "Google News (כל האתרים)": 5,
+  "جريدة القدس": 5,
+  "פאנדר": 5,
   "בחדרי חרדים": 4,
-  "רשת 13": 4,
+  "אתר החדשות דבר": 4,
+  "כיכר השבת": 4,
   "Hayadan": 4,
-  "GOV.IL": 4,
   "ערוץ 7": 3,
-  "כלכליסט": 2,
-  "Reuters": 1,
-  "TGspot": 1,
-  "HWzone": 1,
-  "Vgames.co.il": 1,
+  "C14": 3,
+  "רשת 13": 3,
+  "כלכליסט": 3,
+  "אמס": 2,
+  "Vgames.co.il": 2,
+  "מרכז העניינים": 2,
   "Israel Defense": 1,
   "Techtime": 1,
   "את\"צ": 1,
   "המכון הישראלי לדמוקרטיה": 1,
-  "מרכז העניינים": 1
+  "אפוק": 1
  },
  "per_lean": {
-  "שמאל": 116,
-  "אחר": 83,
-  "ימין": 46,
-  "מרכז": 40
+  "שמאל": 115,
+  "אחר": 87,
+  "מרכז": 45,
+  "ימין": 45
  },
  "leads": [
-  {
-   "id": "fec2096be5fc9f0f",
-   "ts": "2026-11-27T11:12:06.175096+03:00",
-   "source": "haaretz",
-   "source_display": "הארץ",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "בזמן שנתניהו ויריביו מתכתשים על איראן, האזהרות בנוגע לפלסטינים נערמות | עמוס הראל",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-27/ty-article/.highlight/000001a2-1989-d62f-a5ff-dfc9dbaf0000",
-   "prominence": 5,
-   "rank": 2
-  },
   {
    "id": "79232617ed937300",
    "ts": "2026-11-27T21:51:52.973429+03:00",
@@ -111,6 +91,24 @@
    "rank": 2
   },
   {
+   "id": "628a5b16ad88c7ec",
+   "ts": "2026-11-28T13:14:37.706428+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "דיווח: מתקפת הכטב\"מים בבריטניה - שסוכלה הכטב\"מים שנעו לעבר הבסיס האמריקני, וההערכה: איראן מעורבת",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-743e5b1e6b022a1026.htm",
+   "prominence": 5,
+   "rank": 2
+  },
+  {
    "id": "2c31611f5812bfbd",
    "ts": "2026-11-27T21:51:52.973429+03:00",
    "source": "haaretz",
@@ -127,6 +125,24 @@
    "link": "https://www.haaretz.co.il/news/dailynews/2026-11-27/ty-article-live/000001a2-19e9-d62f-a5ff-dfe9d7050000?liveBlogItemId=597493874",
    "prominence": 3,
    "rank": 9
+  },
+  {
+   "id": "62f739dbdc79f95f",
+   "ts": "2026-11-28T13:14:37.706428+03:00",
+   "source": "haaretz",
+   "source_display": "הארץ",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 14,
+   "lean": "left",
+   "title": "דיווח: איראן חשודה במעורבות בחדירת רחפנים לבסיס אמריקאי בבריטניה",
+   "link": "https://www.haaretz.co.il/news/world/europe/2026-11-28/ty-article/000001a2-20b5-d402-a5b3-a3ff7c230000",
+   "prominence": 3,
+   "rank": 10
   }
  ],
  "items": [
@@ -1047,6 +1063,24 @@
    "link": "https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
    "prominence": 10,
    "rank": 1
+  },
+  {
+   "id": "628a5b16ad88c7ec",
+   "ts": "2026-11-28T13:14:37.706428+03:00",
+   "source": "n12",
+   "source_display": "N12",
+   "sub_source": "",
+   "target": "iran",
+   "target_display": "איראן",
+   "groups": [
+    "איראן"
+   ],
+   "score": 19,
+   "lean": "left",
+   "title": "דיווח: מתקפת הכטב\"מים בבריטניה - שסוכלה הכטב\"מים שנעו לעבר הבסיס האמריקני, וההערכה: איראן מעורבת",
+   "link": "https://www.mako.co.il/news-world/2026_q4/Article-743e5b1e6b022a1026.htm",
+   "prominence": 5,
+   "rank": 2
   },
   {
    "id": "79232617ed937300",
@@ -5511,24 +5545,6 @@
    "link": "https://www.haaretz.co.il/news/politics/2026-10-20/ty-article/.premium/000001a1-599e-d9b6-a9b1-79be3e720000",
    "prominence": 5,
    "rank": 2
-  },
-  {
-   "id": "2debf361ef563671",
-   "ts": "2026-10-20T08:56:19.601437+03:00",
-   "source": "n12",
-   "source_display": "N12",
-   "sub_source": "",
-   "target": "iran",
-   "target_display": "איראן",
-   "groups": [
-    "איראן"
-   ],
-   "score": 16,
-   "lean": "left",
-   "title": "לפני 32 דקות דיווח בסוכנות הידיעות איסנ\"א: אחרי שמקרון טען שהמחאות בגלל המלחמה באיראן, משרד החוץ האיראני באזהרת מ",
-   "link": "https://www.mako.co.il/news-shorts/2026-m10_w04/shorts-b2661877c9751a1027.htm",
-   "prominence": 1,
-   "rank": 15
   }
  ]
 }
